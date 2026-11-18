@@ -1,0 +1,69 @@
+[
+    {
+        "source": "https://github.blog/feed/",
+        "title": "The GitHub Blog",
+        "items": [
+            {
+                "title": "Maintainers don’t need more AI bug reports. They need fixes. ",
+                "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+                "description": "<p>In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/\">Maintainers don&#8217;t need more AI bug reports. They need fixes. </a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 17 Nov 2026 18:29:29 +0000"
+            },
+            {
+                "title": "Building the Agent Host Protocol for sessions that continue across devices",
+                "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+                "description": "<p>Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.</p>\n<p>The post <a href=\"https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/\">Building the Agent Host Protocol for sessions that continue across devices</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 17 Nov 2026 18:20:40 +0000"
+            },
+            {
+                "title": "GitHub availability report: October 2026",
+                "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+                "description": "<p>In October, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-october-2026/\">GitHub availability report: October 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Fri, 13 Nov 2026 00:20:16 +0000"
+            },
+            {
+                "title": "Build once, run on any agent: A practical guide to agent skills",
+                "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+                "description": "<p>Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/\">Build once, run on any agent: A practical guide to agent skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 12 Nov 2026 22:54:52 +0000"
+            },
+            {
+                "title": "Git security vulnerabilities announced",
+                "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+                "description": "<p>Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/\">Git security vulnerabilities announced</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000"
+            },
+            {
+                "title": "Beyond code generation: A developer’s guide to agentic engineering",
+                "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+                "description": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Fri, 06 Nov 2026 22:15:59 +0000"
+            },
+            {
+                "title": "Inside GitHub’s new Git storage architecture",
+                "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+                "description": "<p>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">Inside GitHub&#8217;s new Git storage architecture</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 05 Nov 2026 20:23:21 +0000"
+            },
+            {
+                "title": "Accessibility statements now have a home on GitHub",
+                "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+                "description": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000"
+            },
+            {
+                "title": "Arnis turns any place on Earth into a Minecraft world",
+                "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+                "description": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000"
+            },
+            {
+                "title": "Game Off 2026: The theme is SHIFT",
+                "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+                "description": "<p>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/\">Game Off 2026: The theme is SHIFT</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000"
+            }
+        ],
+        "updated": "2026-11-18T13:16:47+07:00"
+    }
+]

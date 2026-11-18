@@ -70,7 +70,7 @@ foreach ($urls as $url) {
     $ctx = stream_context_create([
         'http' => [
             'timeout' => 15,
-            'user_agent' => 'RSSReader/1.0 (+https://github.com/pvKuznecov)',
+            'user_agent' => 'readerrs/1.0 (+https://github.com/pvKuznecov)',
         ],
     ]);
     $xmlText = @file_get_contents($url, false, $ctx);
