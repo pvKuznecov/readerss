@@ -1,0 +1,28 @@
+<main class="app">
+    <div class="rheader">
+        <h1>ReadeRSS</h1>
+    </div>
+    <div class="lent">
+        <p v-if="loading">Загрузка…</p>
+        <p v-else-if="error" class="error">Ошибка: {{ error }}</p>
+        <p v-else-if="allItems.length === 0">Новостей нет</p>
+
+        <ul v-else class="news">
+        <li v-for="item in allItems" :key="item.link" class="news-item">
+            <h2>
+            <a :href="item.link" target="_blank" rel="noopener">
+                {{ item.title }}
+            </a>
+            </h2>
+            <div class="meta">
+            <span class="source">{{ item.sourceTitle }}</span>
+            <span class="date">{{ formatDate(item.pubDate) }}</span>
+            </div>
+            <p class="description">{{ item.description }}</p>
+        </li>
+        </ul>
+    </div>    
+    <div class="rfooter">
+        ss
+    </div>
+</main>
