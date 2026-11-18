@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 $feedsFile = __DIR__ . '/feeds.txt';
-$outFile   = __DIR__ . '/data.json';
+$outFile   = __DIR__ . '/frontend/public/data.json';
 $maxItems  = 50; // сколько новостей хранить на ленту
 
 $urls = [];
@@ -46,6 +46,7 @@ foreach ($urls as $url) {
             'title'       => (string)$item->title,
             'link'        => (string)$item->link,
             'description' => (string)$item->description,
+            // 'description' => trim(strip_tags((string)$item->description)),
             'pubDate'     => (string)$item->pubDate,
         ];
         if (count($items) >= $maxItems) {
