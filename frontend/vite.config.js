@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [vue()],
   base: '/readerss/', // имя твоего репозитория
   build: {
-    outDir: '../docs',
+    // outDir: '../docs',
     emptyOutDir: true, // очищает папку docs перед каждой новой сборкой
   }
 })
