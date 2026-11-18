@@ -1,1 +1,5 @@
 https://github.blog/feed/
+https://elementy.ru/rss/news/space
+https://elementy.ru/rss/news/technology
+https://elementy.ru/rss/news/russia
+https://elementy.ru/rss/news/it

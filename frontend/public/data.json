@@ -1,0 +1,203 @@
+[
+    {
+        "source": "https://github.blog/feed/",
+        "title": "The GitHub Blog",
+        "items": [
+            {
+                "title": "Maintainers don’t need more AI bug reports. They need fixes. ",
+                "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+                "description": "<p>In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/\">Maintainers don&#8217;t need more AI bug reports. They need fixes. </a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 17 Nov 2026 18:29:29 +0000"
+            },
+            {
+                "title": "Building the Agent Host Protocol for sessions that continue across devices",
+                "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+                "description": "<p>Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.</p>\n<p>The post <a href=\"https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/\">Building the Agent Host Protocol for sessions that continue across devices</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 17 Nov 2026 18:20:40 +0000"
+            },
+            {
+                "title": "GitHub availability report: October 2026",
+                "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+                "description": "<p>In October, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-october-2026/\">GitHub availability report: October 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Fri, 13 Nov 2026 00:20:16 +0000"
+            },
+            {
+                "title": "Build once, run on any agent: A practical guide to agent skills",
+                "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+                "description": "<p>Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/\">Build once, run on any agent: A practical guide to agent skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 12 Nov 2026 22:54:52 +0000"
+            },
+            {
+                "title": "Git security vulnerabilities announced",
+                "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+                "description": "<p>Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/\">Git security vulnerabilities announced</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000"
+            },
+            {
+                "title": "Beyond code generation: A developer’s guide to agentic engineering",
+                "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+                "description": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Fri, 06 Nov 2026 22:15:59 +0000"
+            },
+            {
+                "title": "Inside GitHub’s new Git storage architecture",
+                "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+                "description": "<p>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">Inside GitHub&#8217;s new Git storage architecture</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 05 Nov 2026 20:23:21 +0000"
+            },
+            {
+                "title": "Accessibility statements now have a home on GitHub",
+                "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+                "description": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000"
+            },
+            {
+                "title": "Arnis turns any place on Earth into a Minecraft world",
+                "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+                "description": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000"
+            },
+            {
+                "title": "Game Off 2026: The theme is SHIFT",
+                "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+                "description": "<p>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/\">Game Off 2026: The theme is SHIFT</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000"
+            }
+        ],
+        "updated": "2026-11-18T14:04:51+07:00"
+    },
+    {
+        "source": "https://elementy.ru/rss/news/space",
+        "title": "\"Элементы\": новости космических исследований",
+        "items": [
+            {
+                "title": "BepiColombo: третья миссия к Меркурию успешно стартовала",
+                "link": "https://elementy.ru/novosti_nauki/433351/BepiColombo_tretya_missiya_k_Merkuriyu_uspeshno_startovala",
+                "description": "<p>20 октября в 4:45 по московскому времени с космодрома Куру, расположенного во Французской Гвиане, был запущен космический аппарат BepiColombo. Это всего лишь третья миссия к Меркурию — самой близкой к Солнцу и самой малоизученной планете земной группы. По плану аппарат достигнет цели через семь с лишним лет, а его научная программа продлится год.</p>",
+                "pubDate": "21 Oct 2018 23:14:00 +0300"
+            },
+            {
+                "title": "Анализ гравитационного поля Энцелада тоже указывает на наличие на нем жидкой воды",
+                "link": "https://elementy.ru/novosti_nauki/432279/Analiz_gravitatsionnogo_polya_Entselada_tozhe_ukazyvaet_na_nalichie_na_nem_zhidkoy_vody",
+                "description": "<p>Анализ траекторий трех близких пролетов зонда «Кассини» над Энцеладом позволил подтвердить существавание на нем подледного океана жидкой воды. Скорость зонда во время пролетов, отслеживаемая по допплеровскому сдвигу сигнала его передатчика, была измерена с точностью до 90 мкм/с, что позволило вычислить отклонения гравитационного поля Энцелада от идеального и сделать вывод о существовании прослойки жидкой воды толщиной 10 км, существующей между мантией и ядром вблизи южного полюса.</p>",
+                "pubDate": "04 Jul 2014 04:02:00 +0300"
+            },
+            {
+                "title": "Космическая обсерватория «Гершель» завершила свою работу",
+                "link": "https://elementy.ru/novosti_nauki/432019/Kosmicheskaya_observatoriya_Gershel_zavershila_svoyu_rabotu",
+                "description": "<p>29 апреля 2013 года космическая инфракрасная обсерватория «Гершель» истощила запас гелиевого охладителя, и самый полномасштабный проект по исследованию Вселенной в инфракрасном диапазоне был официально завершен. В силу особенностей исследуемых объектов, причина завершения работы обсерватории «Гершель», как и в случае с предшествующими миссиями, — невозможность её дальнейшего охлаждения.</p>",
+                "pubDate": "21 May 2013 23:25:00 +0300"
+            },
+            {
+                "title": "Марсианские глины сформировались в подповерхностных слоях планеты",
+                "link": "https://elementy.ru/novosti_nauki/431707/Marsianskie_gliny_sformirovalis_v_podpoverkhnostnykh_sloyakh_planety",
+                "description": "<p>Анализ огромного массива данных по глинистым минералам Марса позволил заключить, что большая часть пород этого типа образовалась в подземных слоях коры, а не на поверхности планеты. Их формирование связано с древнейшими — 4,1–3,8 млрд лет назад — этапами геологии планеты. Таким образом, гипотеза о древнем теплом, окутанном плотной атмосферой Марсе оказывается менее состоятельной, чем представления о стабильно сухом и безводном Марсе. </p>",
+                "pubDate": "17 Nov 2011 22:42:00 +0300"
+            },
+            {
+                "title": "Миссия «Улисса» завершена, но странствия продолжаются",
+                "link": "https://elementy.ru/novosti_nauki/431112/Missiya_Ulissa_zavershena_no_stranstviya_prodolzhayutsya",
+                "description": "30 июня завершилась одна из самых длительных научных миссий в истории космонавтики. В этот день по команде с Земли было отключено питание бортовой радиоаппаратуры европейско-американской автоматической станции «Улисс», которая без малого два десятилетия работала в дальнем космосе.",
+                "pubDate": "30 Jun 2009 22:14:00 +0300"
+            },
+            {
+                "title": "Представлены доказательства существования озер на Титане",
+                "link": "https://elementy.ru/novosti_nauki/430426/Predstavleny_dokazatelstva_sushchestvovaniya_ozer_na_Titane",
+                "description": "Интернациональный коллектив планетологов, возможно, поставил точку в затянувшемся споре о существовании обширных озер на Титане  самом большом из 56 известных на сегодняшний день спутников Сатурна. Свидетельства в пользу того, что озера все-таки существуют, содержатся в письме 38 исследователей из США, Италии и Франции, которое 4 января появилось в журнале <i>Nature</i>.",
+                "pubDate": "08 Jan 2007 15:17:00 +0300"
+            },
+            {
+                "title": "SMART-1 спрятал концы в лунную пыль",
+                "link": "https://elementy.ru/novosti_nauki/430316/SMART_1_spryatal_kontsy_v_lunnuyu_pyl",
+                "description": "Естественный спутник Земли принял в свои объятия рукотворный аппарат SMART-1, который в течение полутора лет пристально вглядывался в поверхность Луны. З сентября 2006 года, сойдя со своей рабочей орбиты, он врезался в лунный грунт со скоростью 2 км/сек и создал воронку (кратер) размером от 3 до 10 метров.",
+                "pubDate": "08 Sep 2006 05:07:00 +0300"
+            },
+            {
+                "title": "Тайну образования Луны, недораскрытую SMART-1, разгадает Chandrayaan",
+                "link": "https://elementy.ru/novosti_nauki/430303/Taynu_obrazovaniya_Luny_nedoraskrytuyu_SMART_1_razgadaet_Chandrayaan",
+                "description": "Чтобы понять, образовалась ли Луна из-за столкновения Земли с другим космическим телом или же была захвачена ее гравитацией, необходимо знать химический состав лунной поверхности. Подробный анализ некоторых участков Луны удалось сделать при помощи инструмента D-CIXS, установленного на борту SMART-1. Миссию европейского зонда продолжит индийский Chandrayaan.",
+                "pubDate": "30 Aug 2006 15:09:00 +0300"
+            },
+            {
+                "title": "Лунные зонды разобьются во имя науки",
+                "link": "https://elementy.ru/novosti_nauki/430290/Lunnye_zondy_razobyutsya_vo_imya_nauki",
+                "description": "В 2008 году, вместе с запуском космического корабля Lunar Reconnaissance Orbiter, начнет свой отсчет миссия LCROSS. Большой зонд на высокой скорости врежется в Луну, образовав кратер и подняв облако лунной пыли. Его участь разделит его меньший собрат Shepherding, во время падения успев проанализировать состав облака поднятой пыли и предоставив ученым данные для исследований.",
+                "pubDate": "04 Aug 2006 15:10:00 +0300"
+            },
+            {
+                "title": "Марсианские пылевые бури несовместимы с жизнью на планете",
+                "link": "https://elementy.ru/novosti_nauki/430287/Marsianskie_pylevye_buri_nesovmestimy_s_zhiznyu_na_planete",
+                "description": "Новое исследование планетологов позволяет сделать вывод, что пылевые бури на Марсе способствуют уничтожению органики. Атмосферные катаклизмы планеты генерируют мощное статическое электричество, которое содействует распаду молекул CO<sub>2</sub> и водяного пара. В результате на марсианский грунт выпадает перекись водорода, способная уничтожить многие органические соединения.",
+                "pubDate": "03 Aug 2006 02:28:00 +0300"
+            }
+        ],
+        "updated": "2026-11-18T14:04:52+07:00"
+    },
+    {
+        "source": "https://elementy.ru/rss/news/technology",
+        "title": "\"Элементы\": новости технологий",
+        "items": [
+            {
+                "title": "Мицелий вёшенки приспособили для управления движением робота",
+                "link": "https://elementy.ru/novosti_nauki/434293/Mitseliy_vyoshenki_prisposobili_dlya_upravleniya_dvizheniem_robota",
+                "description": "<p>Гриб вёшенка степная способен генерировать электрические импульсы и отвечать ими на ультрафиолетовое излучение. Ученые смогли соединить его мицелий с электронным контроллером, управляющим движениями роботов. Полученные «грибороботы» не только двигались, но и реагировали на вспышки ультрафиолета, ускоряя свое движение и уходя от источника излучения.</p>",
+                "pubDate": "27 Dec 2024 07:05:45 +0300"
+            },
+            {
+                "title": "Поверхность с наноразмерными шипами обладает противовирусной активностью",
+                "link": "https://elementy.ru/novosti_nauki/434221/Poverkhnost_s_nanorazmernymi_shipami_obladaet_protivovirusnoy_aktivnostyu",
+                "description": "<p>Международному коллективу ученых удалось создать материал на основе кремния, покрытый наноразмерными острыми шипами. Такая нанотекстурированная поверхность способна убивать осевшие на нее вирусы парагриппа, механически прокалывая их оболочки. За 6 часов инкубации материал снижает количество жизнеспособных вирусов на 96%, что делает его перспективным для применения в больницах.</p>",
+                "pubDate": "08 May 2024 06:00:00 +0300"
+            },
+            {
+                "title": "Стабилизированные перовскитные солнечные модули сохраняют эффективность после 2000 часов работы",
+                "link": "https://elementy.ru/novosti_nauki/433692/Stabilizirovannye_perovskitnye_solnechnye_moduli_sokhranyayut_effektivnost_posle_2000_chasov_raboty",
+                "description": "<p>Японские и китайские химики предложили комплексный метод стабилизации перовскитных солнечных элементов. Они тщательно подобрали материалы для слоев элемента, а также добавки, которые предотвращают миграцию ионов между слоями. Все это позволило создать крупный образец, который сохранил высокую эффективность (86%) после 2000 часов работы.</p>",
+                "pubDate": "01 Sep 2020 06:24:00 +0300"
+            },
+            {
+                "title": "Амины с длинными «хвостами» повысили стабильность перовскитных солнечных элементов",
+                "link": "https://elementy.ru/novosti_nauki/433621/Aminy_s_dlinnymi_khvostami_povysili_stabilnost_perovskitnykh_solnechnykh_elementov",
+                "description": "<p>Солнечные элементы на основе материалов со структурой перовскита могут стать прорывом в фотовольтаике, но им пока не хватает стабильности. Недавно в решении этой проблемы был сделан впечатляющий шаг: добавление в активный слой батареи специальных аминов помогло упорядочить зерна перовскита и замедлить процесс деградации. Эффективность новых солнечных элементов составила более 22% и сохранялась на таком уровне после 1000 часов работы.</p>",
+                "pubDate": "17 Mar 2020 21:28:00 +0300"
+            },
+            {
+                "title": "Из обожженных морских губок получаются хорошие катализаторы",
+                "link": "https://elementy.ru/novosti_nauki/433553/Iz_obozhzhennykh_morskikh_gubok_poluchayutsya_khoroshie_katalizatory",
+                "description": "<p>Из морских губок со скелетом на основе спонгина удалось создать новый графитоподобный материал. Для этого их отжигали при температуре 1200°C, получив высокопористый материал высокой прочности, сохранивший макро- и микропористую структуру губок. На него можно напылять разные металлы, получая исключительно эффективные катализаторы.</p>",
+                "pubDate": "21 Oct 2019 06:24:00 +0300"
+            },
+            {
+                "title": "Новый адсорбент селективно извлекает уран из морской воды",
+                "link": "https://elementy.ru/novosti_nauki/433436/Novyy_adsorbent_selektivno_izvlekaet_uran_iz_morskoy_vody",
+                "description": "<p>В океанической воде растворено огромное количество солей урана — около четырех миллиардов тонн в пересчете на уран. Однако из-за низкой концентрации для эффективной добычи нужно «процеживать» огромные массы воды и извлекать из нее уран с как можно меньшим количеством примесей. Химики из США разработали подходящий для этого адсорбент, подсмотрев решение у некоторых живых организмов, которые используют специальные молекулы для избавления от избытков железа.</p>",
+                "pubDate": "28 Feb 2019 23:58:00 +0300"
+            },
+            {
+                "title": "Новая полимерная краска эффективно охлаждает здания даже под прямыми солнечными лучами",
+                "link": "https://elementy.ru/novosti_nauki/433358/Novaya_polimernaya_kraska_effektivno_okhlazhdaet_zdaniya_dazhe_pod_pryamymi_solnechnymi_luchami",
+                "description": "<p>Американские ученые разработали простое полимерное покрытие, которое, если им покрасить здание, будет охлаждать его даже под прямыми солнечными лучами без каких-либо затрат энергии. Такой эффект достигается за счет того, что это покрытие хорошо отражает солнечный свет, а накопленное тепло переизлучает в инфракрасном окне прозрачности атмосферы.</p>\n",
+                "pubDate": "05 Nov 2018 17:38:00 +0300"
+            },
+            {
+                "title": "Моральные проблемы беспилотных автомобилей не имеют универсального решения",
+                "link": "https://elementy.ru/novosti_nauki/433355/Moralnye_problemy_bespilotnykh_avtomobiley_ne_imeyut_universalnogo_resheniya",
+                "description": "<p>В ходе эксперимента Moral Machine были собраны мнения 2,3 млн людей из 233 стран о том, какими моральными принципами должны руководствоваться самоуправляемые автомобили в аварийных ситуациях, когда человеческих жертв избежать невозможно и нужно выбрать меньшее из зол. Респонденты из разных стран разошлись во мнениях по многим пунктам, и исследование показало, что разработать универсальный «моральный закон» для самоуправляемых машин будет непросто.</p>",
+                "pubDate": "29 Oct 2018 05:43:29 +0300"
+            },
+            {
+                "title": "Графеноподобные структуры можно получать механохимическим способом",
+                "link": "https://elementy.ru/novosti_nauki/433263/Grafenopodobnye_struktury_mozhno_poluchat_mekhanokhimicheskim_sposobom",
+                "description": "<p>Исследователям из Германии удалось разработать не требующую применения растворителей эффективную методику получения полициклических ароматических углеводородов, основанную на механохимической активации реакции. Эта методика может значительно упростить получение графеновых элементов небольшого размера, необходимых для создания наноразмерной и молекулярной электроники.</p>",
+                "pubDate": "01 Jun 2018 19:19:28 +0300"
+            },
+            {
+                "title": "Получен изотропный теплопроводящий полимер",
+                "link": "https://elementy.ru/novosti_nauki/433247/Poluchen_izotropnyy_teploprovodyashchiy_polimer",
+                "description": "<p>Химики из MIT впервые получили пластичный полимерный материал, который проводит тепло во всех направлениях. Полимер сохраняет обычную легкость и эластичность, а при комнатной температуре его коэффициент теплопроводности составляет 2,2 Вт/(К×м), что примерно соответствует теплопроводности гранита и в десять раз превышает теплопроводность обычных полимеров.</p>",
+                "pubDate": "25 Apr 2018 23:52:00 +0300"
+            }
+        ],
+        "updated": "2026-11-18T14:04:53+07:00"
+    }
+]
