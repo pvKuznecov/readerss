@@ -64,74 +64,314 @@
                 "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000"
             }
         ],
-        "updated": "2026-11-18T16:26:56+07:00"
+        "updated": "2026-11-19T01:09:55+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
             {
-                "title": "Президент Финляндии сделал заявление о завершении украинского конфликта",
-                "link": "https://lenta.ru/news/2026/11/18/prezident-finlyandii-sdelal-zayavlenie-o-zavershenii-ukrainskogo-konflikta/",
+                "title": "Один телефонный разговор помог женщине решиться на развод с мужем-изменником",
+                "link": "https://lenta.ru/news/2026/11/19/odin-telefonnyy-razgovor-pomog-zhenschine-reshitsya-na-razvod-s-muzhem-izmennikom/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:23:13 +0300"
+                "pubDate": "Thu, 19 Nov 2026 04:00:49 +0300"
             },
             {
-                "title": "Кремль подтвердил встречу Путина и Трампа на торжественном приеме",
-                "link": "https://lenta.ru/news/2026/11/18/kreml-podtverdil-vstrechu-putina-i-trampa-na-torzhestvennom-prieme/",
+                "title": "Появились кадры полыхающих домов и школы в Дагестане",
+                "link": "https://lenta.ru/news/2026/11/19/poyavilis-kadry-strashnogo-pozhara-v-dagestane/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:19:20 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:58:00 +0300"
             },
             {
-                "title": "Кремль подтвердил встречу Путина и Трампа на торжественном приеме",
-                "link": "https://lenta.ru/news/2026/11/18/kreml-podtverdil-vstrechu-putina-i-trampa-na-torzhestvennom-prieme/",
+                "title": "Трамп раскрыл преимущество США перед Китаем",
+                "link": "https://lenta.ru/news/2026/11/19/tramp-raskryl-preimuschestvo-ssha-pered-kitaem/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:19:20 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:57:00 +0300"
             },
             {
-                "title": "Госдума приняла в первом чтении поправки об ужесточении наказания за шумные машины",
-                "link": "https://lenta.ru/news/2026/11/18/gosduma-prinyala-v-pervom-chtenii-popravki-ob-uzhestochenii-nakazaniya-za-shumnye-mashiny/",
+                "title": "Трамп отказался обращаться к России и Китаю за помощью в одном вопросе",
+                "link": "https://lenta.ru/news/2026/11/19/tramp-otkazalsya-obraschatsya-k-rossii-i-kitayu-za-pomoschyu-v-odnom-voprose/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:19:10 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:52:04 +0300"
             },
             {
-                "title": "Известный 50-летний актер пришел на презентацию фильма в атласных розовых шортах",
-                "link": "https://lenta.ru/news/2026/11/18/izvestnyy-50-letniy-akter-prishel-na-prezentatsiyu-filma-v-atlasnyh-rozovyh-shortah/",
+                "title": "Маск выступил с дерзким заявлением в адрес Трампа",
+                "link": "https://lenta.ru/news/2026/11/19/mask-vystupil-s-derzkim-zayavleniem-v-adres-trampa/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:18:33 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:46:12 +0300"
             },
             {
-                "title": "Евросоюз захотел ввести запрет на въезд для бывших российских военных",
-                "link": "https://lenta.ru/news/2026/11/18/evrosoyuz-zahotel-vvesti-zapret-na-v-ezd-dlya-byvshih-rossiyskih-voennyh/",
+                "title": "Заключать брачные контракты прямо после росписи в ЗАГСах предложили в России",
+                "link": "https://lenta.ru/news/2026/11/19/zaklyuchat-brachnye-kontrakty-pryamo-posle-rospisi-v-zagsah-predlozhili-v-rossii/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:18:15 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:34:15 +0300"
             },
             {
-                "title": "Раскрыто влияние вейпов на репродуктивное здоровье подростков",
-                "link": "https://lenta.ru/news/2026/11/18/raskryto-vliyanie-veypov-na-reproduktivnoe-zdorovie-podrostkov/",
+                "title": "Глава города оказался порноактером и потерял работу из-за страха перед Россией",
+                "link": "https://lenta.ru/news/2026/11/19/glava-goroda-okazalsya-pornoakterom-i-poteryal-rabotu-iz-za-straha-pered-rossiey/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:17:59 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:31:04 +0300"
             },
             {
-                "title": "На Украине рассказали о коварном плане Зеленского",
-                "link": "https://lenta.ru/news/2026/11/18/na-ukraine-rasskazali-o-kovarnom-plane-zelenskogo/",
+                "title": "Россиянка описала отельных гидов словами «опускаются до оскорблений и угроз»",
+                "link": "https://lenta.ru/news/2026/11/19/rossiyanka-opisala-otelnyh-gidov-slovami-opuskayutsya-do-oskorbleniy-i-ugroz/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:16:25 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:30:51 +0300"
             },
             {
-                "title": "Бывшая российская чиновница обеднела на 21 миллион рублей",
-                "link": "https://lenta.ru/news/2026/11/18/byvshaya-rossiyskaya-chinovnitsa-obednela-na-21-million-rubley/",
+                "title": "Раскрыто число отчисленных студентов мобилизационного возраста на Украине",
+                "link": "https://lenta.ru/news/2026/11/19/raskryto-chislo-otchislennyh-studentov-mobilizatsionnogo-vozrasta-na-ukraine/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:13:14 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:24:00 +0300"
             },
             {
-                "title": "Глава Минобороны Британии заявил о катастрофических последствиях победы России",
-                "link": "https://lenta.ru/news/2026/11/18/glava-minoborony-britanii-zayavil-o-katastroficheskih-posledstviyah-pobedy-rossii/",
+                "title": "Маск обвинил Зеленского во лжи",
+                "link": "https://lenta.ru/news/2026/11/19/mask-obvinil-zelenskogo-vo-lzhi/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:11:06 +0300"
+                "pubDate": "Thu, 19 Nov 2026 03:22:00 +0300"
+            },
+            {
+                "title": "Маск сделал заявление о роли Starlink в украинском конфликте",
+                "link": "https://lenta.ru/news/2026/11/19/mask-sdelal-zayavlenie-o-roli-starlink-v-ukrainskom-konflikte/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 03:11:00 +0300"
+            },
+            {
+                "title": "Врач развеяла главный миф о сексе во время менструации",
+                "link": "https://lenta.ru/news/2026/11/19/mozhno-li-zaberemenet-vo-vremya-menstruatsii/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 03:00:40 +0300"
+            },
+            {
+                "title": "В Британии охарактеризовали встречу Путина, Трампа и Си Цзиньпина",
+                "link": "https://lenta.ru/news/2026/11/19/v-britanii-oharakterizovali-vstrechu-putina-trampa-i-si-tszinpina/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:51:00 +0300"
+            },
+            {
+                "title": "Пять жилых домов загорелись в российском регионе",
+                "link": "https://lenta.ru/news/2026/11/19/pyat-zhilyh-domov-zagorelis-v-rossiyskom-regione/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:47:00 +0300"
+            },
+            {
+                "title": "Марочко заявил о проседании обороны ВСУ",
+                "link": "https://lenta.ru/news/2026/11/19/marochko-zayavil-o-prosedanii-oborony-vsu/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:45:13 +0300"
+            },
+            {
+                "title": "«Это невозможно». Португалия отказала в помощи Украине. Как страна ЕС объяснила свое решение?",
+                "link": "https://lenta.ru/news/2026/11/19/long-eto-nevozmozhno-portugaliya-otkazala-v-pomoschi-ukraine-kak-strana-es-ob-yasnila-svoe-reshenie/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:37:28 +0300"
+            },
+            {
+                "title": "«Водопады рвоты» стали причиной раздора двух семейных пар",
+                "link": "https://lenta.ru/news/2026/11/19/vodopady-rvoty-stali-prichinoy-razdora-dvuh-semeynyh-par/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:36:24 +0300"
+            },
+            {
+                "title": "Муж пытками заставил женщину заниматься секс-шантажом",
+                "link": "https://lenta.ru/news/2026/11/19/muzh-pytkami-zastavil-zhenschinu-zanimatsya-seks-shantazhom/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:36:09 +0300"
+            },
+            {
+                "title": "Названы способные снизить риск развития депрессии продукты",
+                "link": "https://lenta.ru/news/2026/11/19/nazvany-sposobnye-snizit-risk-razvitiya-depressii-produkty/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:35:44 +0300"
+            },
+            {
+                "title": "Политолог сделал заявление о новой площадке переговоров",
+                "link": "https://lenta.ru/news/2026/11/19/politolog-sdelal-zayavlenie-o-novoy-ploschadke-peregovorov/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:27:32 +0300"
+            },
+            {
+                "title": "Школьнице выстрелили в глаз в российском городе",
+                "link": "https://lenta.ru/news/2026/11/19/shkolnitse-vystrelili-v/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:25:10 +0300"
+            },
+            {
+                "title": "Россия планирует запустить авиарейсы в африканскую страну",
+                "link": "https://lenta.ru/news/2026/11/19/rossiya-planiruet-zapustit-aviareysy-v-afrikanskuyu-stranu/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:07:48 +0300"
+            },
+            {
+                "title": "Журналиста удивила реакция Зеленского на встречу Путина, Трампа и Си Цзиньпина",
+                "link": "https://lenta.ru/news/2026/11/19/zhurnalista-udivila-reaktsiya-zelenskogo-na-vstrechu-putina-trampa-i-si-tszinpina/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:42:26 +0300"
+            },
+            {
+                "title": "ВСУ вновь атаковали Крымский мост",
+                "link": "https://lenta.ru/news/2026/11/19/vsu-vnov-atakovali-krymskiy-most/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:38:00 +0300"
+            },
+            {
+                "title": "От Украины потребовали разъяснений после включения депутатов ЕП в базу «Миротворца»",
+                "link": "https://lenta.ru/news/2026/11/19/ot-ukrainy-potrebovali-raz-yasneniy-posle-vklyucheniya-deputatov-ep-v-bazu-mirotvortsa/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:33:00 +0300"
+            },
+            {
+                "title": "Песков ответил на вопрос об общении Путина с Илоном Маском",
+                "link": "https://lenta.ru/news/2026/11/19/peskov-otvetil-na-vopros-ob-obschenii-putina-s-ilonom-maskom/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:32:00 +0300"
+            },
+            {
+                "title": "Дженнифер Лопес без штанов пришла на популярное шоу",
+                "link": "https://lenta.ru/news/2026/11/19/dzhennifer-lopes-bez-shtanov-prishla-na-populyarnoe-shou/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:31:45 +0300"
+            },
+            {
+                "title": "Сливший геймплей GTA VI хакер признал вину",
+                "link": "https://lenta.ru/news/2026/11/19/slivshiy-geympley-gta-vi-haker-priznal-vinu/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:31:09 +0300"
+            },
+            {
+                "title": "В России высказались о сотрудничестве с Германией по «Северным потокам»",
+                "link": "https://lenta.ru/news/2026/11/19/v-rossii-vyskazalis-o-sotrudnichestve-s-germaniey-po-severnym-potokam/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:25:00 +0300"
+            },
+            {
+                "title": "Пользователи PS пожаловались на сбои перед выходом новой GTA",
+                "link": "https://lenta.ru/news/2026/11/19/polzovateli-ps-pozhalovalis-na-sboi-pered-vyhodom-novoy-gta/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:15:32 +0300"
+            },
+            {
+                "title": "Главный стратег Пентагона ушел с встречи по Украине",
+                "link": "https://lenta.ru/news/2026/11/19/glavnyy-strateg-pentagona-ushel-s-vstrechi-po-ukraine/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:06:00 +0300"
+            },
+            {
+                "title": "Найден неочевидный виновник низкого либидо",
+                "link": "https://lenta.ru/news/2026/11/19/nayden-neochevidnyy-vinovnik-nizkogo-libido/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:00:33 +0300"
+            },
+            {
+                "title": "Названо время встречи Путина, Трампа и Си Цзиньпина",
+                "link": "https://lenta.ru/news/2026/11/19/nazvano-vremya-vstrechi-putina-trampa-i-si-tszinpina/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:49:00 +0300"
+            },
+            {
+                "title": "В Госдуме напомнили об увеличении пособий с 2027 года",
+                "link": "https://lenta.ru/news/2026/11/19/v-gosdume-napomnili-ob-uvelichenii-posobiy-s-2027-goda/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:46:45 +0300"
+            },
+            {
+                "title": "Известный российский музыкант захотел создать собственный мюзикл",
+                "link": "https://lenta.ru/news/2026/11/19/izvestnyy-rossiyskiy-muzykant-zahotel-sozdat-sobstvennyy-myuzikl/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:42:20 +0300"
+            },
+            {
+                "title": "Учительница занялась сексом со школьником в машине",
+                "link": "https://lenta.ru/news/2026/11/19/uchitelnitsa-zanyalas-seksom-so-shkolnikom-v-mashine/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:30:40 +0300"
+            },
+            {
+                "title": "В Windows нашли скрытую 25 лет функцию",
+                "link": "https://lenta.ru/news/2026/11/19/hidden-features/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:30:27 +0300"
+            },
+            {
+                "title": "Экс-секретарь Зеленского выступила с мрачным для Украины заявлением",
+                "link": "https://lenta.ru/news/2026/11/19/eks-sekretar-zelenskogo-vystupila-s-mrachnym-dlya-ukrainy-zayavleniem/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:26:52 +0300"
+            },
+            {
+                "title": "Умерла одна из ведущих художников по костюмам российского кино",
+                "link": "https://lenta.ru/news/2026/11/19/umerla-odna-iz-veduschih-hudozhnikov-po-kostyumam-rossiyskogo-kino/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:16:00 +0300"
+            },
+            {
+                "title": "У Навроцкого заподозрили бред величия из-за подаренного Трампу «янтарного трона»",
+                "link": "https://lenta.ru/news/2026/11/18/u-navrotskogo-zapodozrili-bred-velichiya-iz-za-podarennogo-trampu-yantarnogo-trona/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:14:50 +0300"
+            },
+            {
+                "title": "Лерчек сделала заявление о своем завещании",
+                "link": "https://lenta.ru/news/2026/11/19/lerchek-sdelala-zayavlenie-o-svoem-zaveschanii/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:07:00 +0300"
+            },
+            {
+                "title": "Путин назвал число посетивших Таиланд туристов из России",
+                "link": "https://lenta.ru/news/2026/11/19/putin-nazval-chislo-posetivshih-tailand-turistov-iz-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:07:00 +0300"
+            },
+            {
+                "title": "19 ноября: какой праздник отмечают в России и мире",
+                "link": "https://lenta.ru/news/2026/11/19/19-noyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/",
+                "description": "\n    19 ноября в России отмечают День ракетных войск и артиллерии, а в мире — Международный мужской день. Православные чтут память святителя Павла. «Лента.ру» рассказывает, какие еще праздники отмечают 19 ноября 2025 года в России и других странах, а также напоминает, кто из знаменитостей родился в этот день.<br />\n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:05:06 +0300"
+            },
+            {
+                "title": "«Нам всем следует нервничать». Принц Гарри готов вернуться в армию из-за России. Что он сказал об «угрозе» со стороны Москвы?",
+                "link": "https://lenta.ru/news/2026/11/18/long-nam-vsem-sleduet-nervnichat-prints-garri-zayavil-o-gotovnosti-sluzhit-v-korolevskih-vooruzhennyh-silah-i-voevat-protiv-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:59:00 +0300"
+            },
+            {
+                "title": "Польша попросила США обучить своих пилотов применению ядерных бомб",
+                "link": "https://lenta.ru/news/2026/11/18/polsha-poprosila-ssha-obuchit-svoih-pilotov-primeneniyu-yadernyh-bomb/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:54:00 +0300"
+            },
+            {
+                "title": "Власти Чехии запретят въезд российским хоккеистам. Чешский МИД призвал европейские страны не давать россиянам Шенгенские визы",
+                "link": "https://lenta.ru/news/2026/11/18/long-vlasti-chehii-zapretyat-v-ezd-rossiyskim-hokkeistam-cheshskiy-mid-prizval-evropeyskie-strany-ne-davat-rossiyanam-shengenskie-vizy/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:46:57 +0300"
+            },
+            {
+                "title": "На Западе оценили появление Путина на саммите АТЭС",
+                "link": "https://lenta.ru/news/2026/11/18/na-zapade-otsenili-poyavlenie-putina-na-sammite-ates/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:44:00 +0300"
+            },
+            {
+                "title": "МИД Белоруссии назвал причину размещения «Орешника»",
+                "link": "https://lenta.ru/news/2026/11/18/mid-belorussii-nazval-prichinu-razmescheniya-oreshnika/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:38:10 +0300"
+            },
+            {
+                "title": "Европу атаковала устойчивая к новейшим антибиотикам смертоносная супербактерия",
+                "link": "https://lenta.ru/news/2026/11/18/evropu-atakovala-ustoychivaya-k-noveyshim-antibiotikam-smertonosnaya-superbakteriya/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:35:00 +0300"
+            },
+            {
+                "title": "В Индии высказались о встрече Путина, Трампа и Си Цзиньпина",
+                "link": "https://lenta.ru/news/2026/11/18/v-indii-vyskazalis-o-vstreche-putina-trampa-i-si-tszinpina/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 23:25:08 +0300"
             }
         ],
-        "updated": "2026-11-18T16:26:56+07:00"
+        "updated": "2026-11-19T01:09:56+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -196,544 +436,555 @@
                 "link": "https://lenta.ru/news/2026/10/17/hakery-vzlomali-akkaunt-otdeleniya-hds-v-germanii-i-razoslali-fishingovye-pisma-politikam/",
                 "description": "\n    \n  ",
                 "pubDate": ""
+            },
+            {
+                "title": "Песков рассказал о попытках Европы помешать сделке России и США",
+                "link": "https://lenta.ru/news/2026/10/13/peskov-rasskazal-o-popytkah-evropy-pomeshat-sdelke-rossii-i-ssha/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Американский самолет-разведчик заметили вблизи Крыма",
+                "link": "https://lenta.ru/news/2026/10/11/amerikanskiy-samolet-razvedchik-zametili-vblizi-kryma/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В ООН высказались о новых переговорах по Украине",
+                "link": "https://lenta.ru/news/2026/10/09/v-oon-vyskazalis-o-novyh-peregovorah-po-ukraine/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Был классным дедушкой» Объехал десятки тюрем, снимал обнаженных и отказал Ельцину. Как опер стал самым именитым репортером России",
+                "link": "https://lenta.ru/articles/2026/10/08/vasiliev-photo/",
+                "description": "\n    О том, как челябинский участковый милиционер стал всемирно известным фотографом, читайте в материале «Ленты.ру». \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Умер легендарный российский фотограф Борис Кавашкин. Он снимал свою страну так, как никто этого не делал. Его кадры видел каждый",
+                "link": "https://lenta.ru/articles/2026/10/04/boris-kavashkin/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Раздали стиль. Гости Московской недели моды готовы были затмить моделей на подиумах. В ход шли нижнее белье, леопард и перья",
+                "link": "https://lenta.ru/articles/2026/10/02/nizhnee-belie-leopard-i-kozha-v-moskve-zavershaetsya-nedelya-mody/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "От японской оккупации до ядерных бомбардировок. Жизнь американских военных на острове Гуам во Вторую мировую войну. Уникальные фото",
+                "link": "https://lenta.ru/articles/2026/09/27/wolf-jr/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Его снимки главных войн 1990-х знает весь мир. Что он узнал о срочниках в Чечне, американских солдатах в Ираке и генерале Лебеде",
+                "link": "https://lenta.ru/articles/2026/09/24/nemenov/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Макрон пообещал Зеленскому одну вещь после переговоров",
+                "link": "https://lenta.ru/news/2026/09/22/makron-poobeschal-zelenskomu-odnu-vesch-posle-peregovorov/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Я надеялся, что Гитлер еще не решился» Вторжение нацистов глазами военного врача: уникальные снимки начала Великой Отечественной",
+                "link": "https://lenta.ru/articles/2026/09/22/wagner/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Генсек ООН пожаловался на большую проблему в Совете Безопасности",
+                "link": "https://lenta.ru/news/2026/09/21/gensek-oon-pozhalovalsya-na-bolshuyu-problemu-v-sovete-bezopasnosti/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Генсек ООН пожаловался на большую проблему в Совете Безопасности",
+                "link": "https://lenta.ru/news/2026/09/21/gensek-oon-pozhalovalsya-na-bolshuyu-problemu-v-sovete-bezopasnosti/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Вся страна замерла» 50 лет назад прошли похороны Мао Цзэдуна. Как с ним прощались и что о нем говорят в современном Китае?",
+                "link": "https://lenta.ru/articles/2026/09/18/mao/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Премьер Швеции подал в отставку",
+                "link": "https://lenta.ru/news/2026/09/17/premier-shvetsii-podal-v-otstavku/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Исчезнувшая красота. Россиянка открыла уникальный архив фотографий из СССР. Почему эти снимки мотоциклов и авто теперь поражают? ",
+                "link": "https://lenta.ru/articles/2026/09/17/auto-moto/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Деревня доживает последнее десятилетие» Россиянка нашла забытый фотоархив советской деревни. Почему таких кадров больше не будет? ",
+                "link": "https://lenta.ru/articles/2026/09/08/photoarch3/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Магнит» займется выпуском презервативов Iron Bolt",
+                "link": "https://lenta.ru/news/2026/09/03/magnit-zaymetsya-vypuskom-prezervativov-iron-bolt/",
+                "description": "\n    <br />\n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Кремль анонсировал переговоры Путина с иностранными лидерами",
+                "link": "https://lenta.ru/news/2026/08/28/kreml-anonsiroval-peregovory-putina-s-inostrannymi-liderami/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Умер сербский генерал Ратко Младич. Почему человека, которому дали пожизненный срок за геноцид, считают героем?",
+                "link": "https://lenta.ru/articles/2026/08/27/ratko-mladich/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В России оценили изменения отношений с Казахстаном после выборов",
+                "link": "https://lenta.ru/news/2026/08/23/v-rossii-otsenili-izmeneniya-otnosheniy-s-kazahstanom-posle-vyborov/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Не надо хныкать» Снимки российского фотографа Павла Волкова поражают людей по всему миру. В чем его секрет?",
+                "link": "https://lenta.ru/articles/2026/08/18/pavel-volkov/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Он боялся подозрений в шпионаже» Чиновник из ГДР снял жизнь советского Тбилиси. Как эти места выглядят 60 лет спустя?",
+                "link": "https://lenta.ru/articles/2026/08/15/tbilisi-bondar/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В МИД России высказались о предупреждении Путина Европе",
+                "link": "https://lenta.ru/news/2026/08/13/v-mid-rossii-vyskazalis-o-preduprezhdenii-putina-evrope/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В России сделали заявление об ударах ВСУ по гражданским объектам",
+                "link": "https://lenta.ru/news/2026/08/13/v-rossii-sdelali-zayavlenie-ob-udarah-vsu-po-grazhdanskim-ob-ektam/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Это еще один удар по Евросоюзу» Кто виноват в миграционном кризисе в испанской Сеуте и как он повлияет на будущее ЕС?",
+                "link": "https://lenta.ru/articles/2026/08/07/ceuta/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Заходите, если вам что понравится, забирайте. Я все тут буду ломать» Как россиянка спасает уникальные фотографии нашего прошлого",
+                "link": "https://lenta.ru/articles/2026/08/07/photoarch2t/",
+                "description": "\n    Фотограф-документалист Екатерина Соловьева разыскивает и восстанавливает фотоархивы неизвестных и забытых сельских фотографов. О том, какие сокровища можно найти в деревенских заброшках, с ней беседовал специальный корреспондент «Ленты.ру» Петр Каменченко.\n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Они такие настоящие, живые, классные» Россиянка нашла забытый фотоархив советской деревни. Почему эти кадры — сокровище?",
+                "link": "https://lenta.ru/articles/2026/08/04/photoarch1/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Простая, но глубокая красота вещей» Какими оказались лучшие фотографии года, сделанные на iPhone?",
+                "link": "https://lenta.ru/articles/2026/08/02/fotokartochki/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Происходящее в Сеуте поражает воображение» Тысячи мигрантов прорвали границу Испании. Самые яркие кадры миграционного кризиса",
+                "link": "https://lenta.ru/articles/2026/07/31/seuta-migration/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В Швеции назвали неутешительный сценарий военного конфликта с Россией",
+                "link": "https://lenta.ru/news/2026/07/20/v-shvetsii-nazvali-neuteshitelnyy-stsenariy-voennogo-konflikta-s-rossiey/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Тает надежда на скорую победу» Найден неизвестный фотоархив солдата вермахта: какие кадры он успел сделать перед Сталинградом?",
+                "link": "https://lenta.ru/articles/2026/07/12/bondar/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Плотность толпы невероятная» В Иране хоронят аятоллу Али Хаменеи: самые яркие кадры масштабного события в фоторепортаже «Ленты.ру»",
+                "link": "https://lenta.ru/articles/2026/07/09/pokhorony-khamenei/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Бывший футболист сборной России высказался о скандале с отменой красной карточки на ЧМ",
+                "link": "https://lenta.ru/news/2026/07/06/byvshiy-futbolist-sbornoy-rossii-vyskazalsya-o-skandale-s-otmenoy-krasnoy-kartochki-na-chm/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "В России назвали мешающий возобновлению с Украиной переговоров фактор",
+                "link": "https://lenta.ru/news/2026/07/05/v-rossii-nazvali-meshayuschiy-vozobnovleniyu-s-ukrainoy-peregovorov-faktor/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Призраки, заключенные и иранская женская армия. Фотографам разрешили снимать без правил. Вот что из этого получилось",
+                "link": "https://lenta.ru/articles/2026/07/05/fotoslovo/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Сообщения о решении НАТО начать войну с Россией объяснили",
+                "link": "https://lenta.ru/news/2026/06/29/soobscheniya-o-reshenii-nato-nachat-voynu-s-rossiey-ob-yasnili/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Потомок Бисмарка выступил с призывом к россиянам и немцам",
+                "link": "https://lenta.ru/news/2026/06/29/potomok-bismarka/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "Польша получила посылку от Зеленского",
+                "link": "https://lenta.ru/news/2026/06/23/polsha-poluchila-posylku-ot-zelenskogo/",
+                "description": "\n    \n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«22 июня, ровно в четыре часа...» Как Третий рейх напал на СССР: редкие кадры первых дней Великой Отечественной войны",
+                "link": "https://lenta.ru/articles/2026/06/22/bondar/",
+                "description": "\n    «Лента.ру» продолжает публиковать уникальные снимки времен Второй мировой войны. Несколько лет назад фотограф Артур Бондарь приобрел в Германии ранее неизвестный архив солдатских снимков. Он принадлежал военнослужащему 131-й пехотной дивизии вермахта.\n  ",
+                "pubDate": ""
+            },
+            {
+                "title": "«Это срез русской глубинки» Магия и волшебство вятской земли в работах Наташи Лозинской. Чем они поражают?",
+                "link": "https://lenta.ru/articles/2026/06/19/viatka/",
+                "description": "\n    \n  ",
+                "pubDate": ""
             }
         ],
-        "updated": "2026-11-18T16:26:57+07:00"
+        "updated": "2026-11-19T01:09:58+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
             {
+                "title": "Появились кадры полыхающих домов и школы в Дагестане",
+                "link": "https://lenta.ru/news/2026/11/19/poyavilis-kadry-strashnogo-pozhara-v-dagestane/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 03:58:00 +0300"
+            },
+            {
+                "title": "Заключать брачные контракты прямо после росписи в ЗАГСах предложили в России",
+                "link": "https://lenta.ru/news/2026/11/19/zaklyuchat-brachnye-kontrakty-pryamo-posle-rospisi-v-zagsah-predlozhili-v-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 03:34:15 +0300"
+            },
+            {
+                "title": "Пять жилых домов загорелись в российском регионе",
+                "link": "https://lenta.ru/news/2026/11/19/pyat-zhilyh-domov-zagorelis-v-rossiyskom-regione/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:47:00 +0300"
+            },
+            {
+                "title": "Школьнице выстрелили в глаз в российском городе",
+                "link": "https://lenta.ru/news/2026/11/19/shkolnitse-vystrelili-v/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 02:25:10 +0300"
+            },
+            {
+                "title": "ВСУ вновь атаковали Крымский мост",
+                "link": "https://lenta.ru/news/2026/11/19/vsu-vnov-atakovali-krymskiy-most/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:38:00 +0300"
+            },
+            {
+                "title": "Песков ответил на вопрос об общении Путина с Илоном Маском",
+                "link": "https://lenta.ru/news/2026/11/19/peskov-otvetil-na-vopros-ob-obschenii-putina-s-ilonom-maskom/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 19 Nov 2026 01:32:00 +0300"
+            },
+            {
+                "title": "19 ноября: какой праздник отмечают в России и мире",
+                "link": "https://lenta.ru/news/2026/11/19/19-noyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/",
+                "description": "\n    19 ноября в России отмечают День ракетных войск и артиллерии, а в мире — Международный мужской день. Православные чтут память святителя Павла. «Лента.ру» рассказывает, какие еще праздники отмечают 19 ноября 2025 года в России и других странах, а также напоминает, кто из знаменитостей родился в этот день.<br />\n  ",
+                "pubDate": "Thu, 19 Nov 2026 00:05:06 +0300"
+            },
+            {
+                "title": "В российском городе ввели ограничения на продажу топлива из-за искусственного ажиотажа",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossiyskom-gorode-vveli-ogranichenie-na-prodazhu-topliva/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 22:59:00 +0300"
+            },
+            {
+                "title": "Боец «Ахмата» рассказал о спасшей его от дронов ВСУ примете",
+                "link": "https://lenta.ru/news/2026/11/18/boets-ahmata-rasskazal-o-spasshey-ego-ot-dronov-vsu-primete/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 22:27:58 +0300"
+            },
+            {
+                "title": "В России оценили трансформацию дипломатии ЕС",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-otsenili-transformatsiyu-diplomatii-es/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 21:58:00 +0300"
+            },
+            {
+                "title": "Почти семь тысяч абонентов остались без электричества в российском городе",
+                "link": "https://lenta.ru/news/2026/11/18/pochti-sem-tysyach-abonentov-ostayutsya-bez-elektrichestva-v-rossiyskom-gorode/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 21:27:00 +0300"
+            },
+            {
+                "title": "Над югом России произошло боестолкновение с ВСУ",
+                "link": "https://lenta.ru/news/2026/11/18/nad-yugom-rossii-proizoshlo-boestolknovenie-s-vsu/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 20:30:00 +0300"
+            },
+            {
+                "title": "В российском ТЦ ввели карантин из-за африканской чумы свиней",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossiyskom-tts-vveli-karantin-iz-za-afrikanskoy-chumy-sviney/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 20:25:00 +0300"
+            },
+            {
+                "title": "Раскрыто состояние пострадавших при атаке ВСУ на многоквартирный дом в Адыгее",
+                "link": "https://lenta.ru/news/2026/11/18/raskryto-sostoyanie-postradavshih-pri-atake-vsu-na-mnogokvartirnyy-dom-v-adygee/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 19:48:00 +0300"
+            },
+            {
+                "title": "Появились кадры выброшенных на дороге в российском регионе ящиков для тел участников СВО",
+                "link": "https://lenta.ru/news/2026/11/18/poyavilis-kadry-vybroshennyh-na-doroge-v-rossiyskom-regione-yaschikov-dlya-tel-uchastnikov-svo/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 19:26:00 +0300"
+            },
+            {
+                "title": "В России предложили замену комнатам без связи для проведения экзаменов",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-predlozhili-zamenu-komnatam-bez-svyazi-dlya-provedeniya-ekzamenov/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 18:44:00 +0300"
+            },
+            {
+                "title": "Удары ВСУ по Крымскому мосту объяснили",
+                "link": "https://lenta.ru/news/2026/11/18/udary-vsu-po-krymskomu-mostu-ob-yasnili/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 18:36:00 +0300"
+            },
+            {
+                "title": "Минобороны России сделало заявление о военной операции в Черном море",
+                "link": "https://lenta.ru/news/2026/11/18/minoborony-rossii-sdelalo-zayavlenie-o-voennoy-operatsii-v-chernom-more/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 18:22:00 +0300"
+            },
+            {
+                "title": "В российском регионе выбросили на дорогу ящики для тел участников СВО",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossiyskom-regione-vybrosili-na-dorogu-yaschiki-dlya-tel-uchastnikov-svo/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 18:12:25 +0300"
+            },
+            {
+                "title": "Инфекционист рассказал об устойчивых к антибиотикам «супербактериях» в России",
+                "link": "https://lenta.ru/news/2026/11/18/infektsionist-rasskazal-ob-ustoychivyh-k-antibiotikam-superbakteriy-v-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:44:00 +0300"
+            },
+            {
+                "title": "В Крыму объявили ракетную опасность",
+                "link": "https://lenta.ru/news/2026/11/18/v-krymu-ob-yavili-raketnuyu-opasnost/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:37:00 +0300"
+            },
+            {
+                "title": "В России оценили возможность помиловать всех осужденных женщин по примеру Лерчек",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-otsenili-vozmozhnost-pomilovat-vseh-osuzhdennyh-zhenschin-po-primeru-lerchek/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:27:00 +0300"
+            },
+            {
+                "title": "В Совфеде ответили на заявление Минобороны Британии о катастрофической цене победы России",
+                "link": "https://lenta.ru/news/2026/11/18/v-sovfede-otvetili-na-zayavlenie-minoborony-britanii-o-katastroficheskoy-tsene-pobedy-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:27:00 +0300"
+            },
+            {
+                "title": "В России назвали признак высоких потерь в ВСУ",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-nazvali-priznak-vysokih-poteryu-v-vsu/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:05:00 +0300"
+            },
+            {
+                "title": "Стало известно о внезапной смерти российской школьницы",
+                "link": "https://lenta.ru/news/2026/11/18/stalo-izvestno-o-vnezapnoy-smerti-rossiyskoy-shkolnitsy/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 17:03:00 +0300"
+            },
+            {
+                "title": "В России раскрыли ожидания от встречи Путина, Си и Трампа",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-raskryli-ozhidaniya-ot-vstrechi-putina-si-i-trampa/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 16:34:00 +0300"
+            },
+            {
+                "title": "Кадыров выложил фото в форме и наградах с подписью «я воевал»",
+                "link": "https://lenta.ru/news/2026/11/18/kadyrov-vylozhil-foto-v-forme-i-nagradah-s-podpisyu-ya-voeval/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 16:24:00 +0300"
+            },
+            {
+                "title": "В России одобрили законопроект об использовании вакцин от рака без регистрации",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-odobrili-zakonoproekt-ob-ispolzovanii-vaktsin-ot-raka-bez-registratsii/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 16:22:00 +0300"
+            },
+            {
+                "title": "В России ответили на обвинения в применении химоружия против Украины",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-otvetili-na-obvineniya-v-primenenii-himoruzhiya-na-ukraine/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:54:00 +0300"
+            },
+            {
+                "title": "Раскрыты перспективы встречи Путина и Трампа",
+                "link": "https://lenta.ru/news/2026/11/18/raskryty-perspektivy-vstrechi-putina-i-trampa/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:53:03 +0300"
+            },
+            {
+                "title": "Россиянка заявила об избиениях сына с ДЦП в реабилитационном центре",
+                "link": "https://lenta.ru/news/2026/11/18/rossiyanka-zayavila-ob-izbieniyah-syna-s-dtsp-v-reabilitatsionnom-tsentre/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:52:56 +0300"
+            },
+            {
+                "title": "В России впервые провели операцию на мозге еще не родившегося ребенка",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-vpervye-proveli-operatsiyu-na-mozge-esche-ne-rodivshegosya-rebenka/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:43:00 +0300"
+            },
+            {
+                "title": "Стало известно о возможных использованных семьей Усольцевых маршрутах",
+                "link": "https://lenta.ru/news/2026/11/18/stalo-izvestno-o-vozmozhnyh-ispolzovannyh-semiey-usoltsevyh-marshrutah/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:28:00 +0300"
+            },
+            {
+                "title": "В России отреагировали на план ЕК подготовить Украине кредит за счет репараций",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-otreagirovali-na-plan-ek-podgotovit-ukraine-kredit-za-schet-reparatsiy/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 15:00:00 +0300"
+            },
+            {
+                "title": "Обстановка в атакованном ВСУ российском регионе изменилась",
+                "link": "https://lenta.ru/news/2026/11/18/obstanovka-v-atakovannom-vsu-rossiyskom-regione-izmenilas/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:59:00 +0300"
+            },
+            {
+                "title": "Объявлено о масштабных последствиях ужаснувшей россиян атаки ВСУ",
+                "link": "https://lenta.ru/news/2026/11/18/ob-yavleno-o-masshtabnyh-posledstviyah-uzhasnuvshey-rossiyan-ataki-vsu/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:53:00 +0300"
+            },
+            {
+                "title": "В Госдуме отметили примечательную деталь во встрече Путина, Си и Трампа",
+                "link": "https://lenta.ru/news/2026/11/18/v-gosdume-otmetili-primechatelnuyu-detal-vo-vstreche-putina-si-i-trampa/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:38:34 +0300"
+            },
+            {
+                "title": "В России захотели в несколько раз ужесточить наказание для родителей за один поступок",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-zahoteli-v-neskolko-raz-uzhestochit-nakazanie-dlya-roditeley-za-odin-postupok/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:28:00 +0300"
+            },
+            {
+                "title": "В России призвали ответить на обстрел Краснодара ударом «Орешника» по Киеву",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-prizvali-otvetit-na-obstrel-krasnodara-udarom-oreshnika-po-kievu/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:25:00 +0300"
+            },
+            {
+                "title": "В России сделали заявление о ядерном ударе по Украине после атаки на Крымский мост",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-sdelali-zayavlenie-o-yadernom-udare-po-ukraine-posle-ataki-na-krymskiy-most/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 14:08:00 +0300"
+            },
+            {
+                "title": "В России начали применять новую вакцину для лечения одного вида рака",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-nachali-primenyat-novuyu-vaktsinu-dlya-lecheniya-odnogo-vida-raka/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:52:07 +0300"
+            },
+            {
+                "title": "В России указали на важный шаг вперед в переговорах по созданию коллективной безопасности",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-ukazali-na-vazhnyy-shag-vpered-v-peregovorah-po-sozdaniyu-kollektivnoy-bezopasnosti/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:39:00 +0300"
+            },
+            {
+                "title": "В Госдуме рассказали о нюансе пенсии у многодетных",
+                "link": "https://lenta.ru/news/2026/11/18/mnogodetno/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:38:00 +0300"
+            },
+            {
+                "title": "В России захотели амнистировать часть осужденных женщин",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-zahoteli-amnistirovat-chast-osuzhdennyh-zhenschin/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:29:06 +0300"
+            },
+            {
+                "title": "В Ленобласти два подростка попали в больницу из-за вейпов",
+                "link": "https://lenta.ru/news/2026/11/18/v-lenoblasti-dva-podrostka-popali-v-bolnitsu-iz-za-veypov/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:17:00 +0300"
+            },
+            {
+                "title": "В России отреагировали на присутствие французских военных на Украине",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-otreagirovali-na-prisutstvie-frantsuzskih-voennyh-na-ukraine/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:13:00 +0300"
+            },
+            {
+                "title": "Стало известно об ударе России по «столице» Лжедмитрия I",
+                "link": "https://lenta.ru/news/2026/11/18/stalo-izvestno-ob-udare-rossii-po-stolitse-lzhedmitriya-i/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 13:03:00 +0300"
+            },
+            {
+                "title": "В России предложили не позволяющий списывать на экзаменах в вузах способ",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-predlozhili-ne-pozvolyayuschiy-spisyvat-na-ekzamenah-v-vuzah-sposob/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 12:54:00 +0300"
+            },
+            {
+                "title": "В России высказались о двух атаках ВСУ на Крымский мост",
+                "link": "https://lenta.ru/news/2026/11/18/v-rossii-vyskazalis-o-dvuh-atakah-vsu-na-krymskiy-most/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 18 Nov 2026 12:30:26 +0300"
+            },
+            {
                 "title": "Раскрыто влияние вейпов на репродуктивное здоровье подростков",
                 "link": "https://lenta.ru/news/2026/11/18/raskryto-vliyanie-veypov-na-reproduktivnoe-zdorovie-podrostkov/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:17:59 +0300"
-            },
-            {
-                "title": "Раскрыто количество сбитых за сутки беспилотников ВСУ",
-                "link": "https://lenta.ru/news/2026/11/18/raskryto-kolichestvo-sbityh-za-sutki-bespilotnikov-vsu/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:08:00 +0300"
-            },
-            {
-                "title": "Россия ударила по связанным с украинскими БПЛА объектам",
-                "link": "https://lenta.ru/news/2026/11/18/rossiya-udarila-po-svyazannym-s-ukrainskimi-bpla-ob-ektam/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 12:07:00 +0300"
-            },
-            {
-                "title": "Путин назвал один из лучших университетов мира",
-                "link": "https://lenta.ru/news/2026/11/18/putin-nazval-odin-iz-luchshih-universitetov-mira/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:55:00 +0300"
-            },
-            {
-                "title": "Появились подробности удара ВСУ по двум российским предприятиям",
-                "link": "https://lenta.ru/news/2026/11/18/poyavilis-podrobnosti-udara-vsu-po-dvum-rossiyskim-predpriyatiyam/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:50:00 +0300"
-            },
-            {
-                "title": "Слухи о разделе мира на сферы влияния оценили",
-                "link": "https://lenta.ru/news/2026/11/18/sluhi-o-razdele-mira-na-sfery-vliyaniya-otsenili/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:26:00 +0300"
-            },
-            {
-                "title": "Российский полковник предупредил об ударе высокоточным оружием по военным НАТО на Украине",
-                "link": "https://lenta.ru/news/2026/11/18/rossiyskiy-polkovnik-zayavil-ob-udare-vysokotochnym-oruzhiem-po-voennym-nato-na-ukraine/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:26:00 +0300"
-            },
-            {
-                "title": "Очевидцы фразой «у нас тут мясорубка» описали атаку ВСУ на промышленность юга России",
-                "link": "https://lenta.ru/news/2026/11/18/ochevidtsy-frazoy-u-nas-tut-myasorubka-opisali-ataku-vsu-na-promyshlennost-yuga-rossii/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:22:00 +0300"
-            },
-            {
-                "title": "В Совфеде отреагировали на публикацию об обмене Украиной Донбасса на НАТО",
-                "link": "https://lenta.ru/news/2026/11/18/v-sovfede-otreagirovali-na-publikatsiyu-ob-obmene-ukrainoy-donbassa/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 11:00:00 +0300"
-            },
-            {
-                "title": "В Думе ответили на вопрос о возвращении «духа Анкориджа» после встречи Путина, Си и Трампа",
-                "link": "https://lenta.ru/news/2026/11/18/v-dume-otvetili-na-vopros-o-vozvraschenii-duha-ankoridzha-posle-vstrechi-putina-si-i-trampa/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 18 Nov 2026 10:32:00 +0300"
+                "pubDate": "Wed, 18 Nov 2026 12:17:00 +0300"
             }
         ],
-        "updated": "2026-11-18T16:26:57+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/economics/index.xml",
-        "title": "Экономика - Московский Комсомолец",
-        "items": [
-            {
-                "title": "В России увольняется больше сотрудников, чем нанимается: названы причины",
-                "link": "https://www.mk.ru/economics/2026/11/17/v-rossii-uvolnyaetsya-bolshe-sotrudnikov-chem-nanimaetsya-nazvany-prichiny.html",
-                "description": "В России число увольнений снизилось до минимума за 6 лет",
-                "pubDate": "Tue, 17 Nov 2026 15:56:36 +0300"
-            },
-            {
-                "title": "Тайна 13-й зарплаты: каждая третья компания в России ее не выплатит",
-                "link": "https://www.mk.ru/economics/2026/11/17/tayna-13-y-zarplaty-kazhdaya-tretya-kompaniya-v-rossii-ee-ne-vyplatit.html",
-                "description": "Декабрьская премия, которую многие сотрудники традиционно рассчитывают получить перед Новым годом, в этом году становится менее гарантированной даже в тех компаниях, где подобные выплаты практиковались раньше",
-                "pubDate": "Tue, 17 Nov 2026 15:56:25 +0300"
-            },
-            {
-                "title": "Все ближе к миллиону: Средняя цена 1 кв. м в новостройках Москвы впервые превысила 900 тыс. рублей",
-                "link": "https://www.mk.ru/realestate/2026/11/17/vse-blizhe-k-millionu-srednyaya-cena-1-kv-m-v-novostroykakh-moskvy-vpervye-prevysila-900-tys-rubley.html",
-                "description": "Надеяться на то, что цены на московские новостройки скоро пойдут вниз, потому что у многих местных застройщиков сейчас неважно идут продажи, точно не стоит",
-                "pubDate": "Tue, 17 Nov 2026 15:43:27 +0300"
-            },
-            {
-                "title": "Эксперты рассказали, кто выиграет от повышения МРОТ на 1842 рубля",
-                "link": "https://www.mk.ru/economics/2026/11/17/eksperty-rasskazali-kto-vyigraet-ot-povysheniya-mrot-na-1842-rublya.html",
-                "description": "В 2027 году федеральный минимальный размер оплаты труда (МРОТ) в России правительство планирует повысить с текущих 27 093 до 28 935 рублей в месяц",
-                "pubDate": "Tue, 17 Nov 2026 15:30:25 +0300"
-            },
-            {
-                "title": "Осторожно, мисселинг: как распознать манипуляции в банке и вернуть свои деньги",
-                "link": "https://www.mk.ru/economics/2026/11/17/ostorozhno-misseling-kak-raspoznat-manipulyacii-v-banke-i-vernut-svoi-dengi.html",
-                "description": "Понятие мисселинга, означающее подмену одного банковского продукта другим, вошло в нашу жизнь в 2010-х годах",
-                "pubDate": "Tue, 17 Nov 2026 15:04:34 +0300"
-            },
-            {
-                "title": "В новостройках Москвы стало больше «трешек» и меньше  студий",
-                "link": "https://www.mk.ru/realestate/2026/11/17/v-novostroykakh-moskvy-stalo-bolshe-treshek-i-menshe-studiy.html",
-                "description": "На первичном рынке жилья Москвы в структуре предложения произошли заметные изменения:  за последние 12 месяцев доля трехкомнатных квартир  выросла на 16%, а сегмент ранее популярных студий, напротив, сократился до 11%",
-                "pubDate": "Tue, 17 Nov 2026 14:41:05 +0300"
-            },
-            {
-                "title": "Продажа вина на почте снова откладывается: Госдума поставила поправки на паузу",
-                "link": "https://www.mk.ru/economics/2026/11/16/prodazha-vina-na-pochte-snova-otkladyvaetsya-gosduma-postavila-popravki-na-pauzu.html",
-                "description": "Законопроект о проведении эксперимента по дистанционной торговле российскими винами через почту завис между чтениями",
-                "pubDate": "Mon, 16 Nov 2026 17:48:05 +0300"
-            },
-            {
-                "title": "Один миллион рублей за второго ребенка: сколько получат родители в 2027 году",
-                "link": "https://www.mk.ru/economics/2026/11/16/odin-million-rubley-za-vtorogo-rebenka-skolko-poluchat-roditeli-v-2027-godu.html",
-                "description": "В феврале 2027 года материнский капитал на второго ребенка превысит миллион рублей",
-                "pubDate": "Mon, 16 Nov 2026 16:46:25 +0300"
-            },
-            {
-                "title": "Прощай, стейк, здравствуй, экономия: средний класс больше не может позволить себе прежнюю жизнь",
-                "link": "https://www.mk.ru/economics/2026/11/16/proshhay-steyk-zdravstvuy-ekonomiya-sredniy-klass-bolshe-ne-mozhet-pozvolit-sebe-prezhnyuyu-zhizn.html",
-                "description": "Американцы отказываются от мяса, отпусков и образования детей",
-                "pubDate": "Mon, 16 Nov 2026 16:38:19 +0300"
-            },
-            {
-                "title": "Один из самых популярных продуктов подорожал за год на 12%: почему так",
-                "link": "https://www.mk.ru/economics/2026/11/16/odin-iz-samykh-populyarnykh-produktov-podorozhal-za-god-na-12-pochemu-tak.html",
-                "description": "В этом году сахар является одним из самых дорожающих продуктов в нашей потребительской корзине",
-                "pubDate": "Mon, 16 Nov 2026 15:49:31 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:57+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/politics/index.xml",
-        "title": "Вся Политика - Московский Комсомолец",
-        "items": [
-            {
-                "title": "ПВО ВС РФ сбила за сутки сотни украинских дронов самолетного типа",
-                "link": "https://www.mk.ru/politics/2026/11/18/pvo-vs-rf-sbila-za-sutki-sotni-ukrainskikh-dronov-samoletnogo-tipa.html",
-                "description": "Минобороны России сообщило в среду, что в течение суток силы противовоздушной обороны уничтожили 310 украинских беспилотников",
-                "pubDate": "Wed, 18 Nov 2026 12:24:19 +0300"
-            },
-            {
-                "title": "Дональд Трамп прибыл в Китай",
-                "link": "https://www.mk.ru/politics/2026/11/18/donald-tramp-pribyl-v-kitay.html",
-                "description": "Глава американской администрации Дональд Трамп прилетел в китайский город Шэньчжэнь, где примет участие в саммите Азиатско-Тихоокеанского экономического сотрудничества (АТЭС).",
-                "pubDate": "Wed, 18 Nov 2026 12:15:07 +0300"
-            },
-            {
-                "title": "Песков раскрыл детали встречи лидеров России и Китая",
-                "link": "https://www.mk.ru/politics/2026/11/18/peskov-raskryl-detali-vstrechi-liderov-rossii-i-kitaya.html",
-                "description": "Президент России Владимир Путин и председатель КНР Си Цзиньпин обсудили тему украинского урегулирования на встрече в Шэньчжэне",
-                "pubDate": "Wed, 18 Nov 2026 12:14:03 +0300"
-            },
-            {
-                "title": "Запад Украины содрогнулся: удары с неба и из-под земли",
-                "link": "https://www.mk.ru/politics/2026/11/18/zapad-ukrainy-sodrognulsya-udary-s-neba-i-iz-pod-zemli.html",
-                "description": "  Запад Украины содрогнулся",
-                "pubDate": "Wed, 18 Nov 2026 12:10:14 +0300"
-            },
-            {
-                "title": "Экс-аналитик разведки морской пехоты США объяснил смысл ударов Украины по Крымскому мосту",
-                "link": "https://www.mk.ru/politics/2026/11/18/eks-analitik-razvedki-morskoy-pekhoty-ssha-obyasnil-smysl-udarov-ukrainy-po-krymskomu-mostu.html",
-                "description": "Скотт Риттер, бывший аналитик разведки морской пехоты США, сообщил на пресс-конференции в ТАСС, что Россия приступила к переговорам с американской стороной ради установления мира",
-                "pubDate": "Wed, 18 Nov 2026 12:05:50 +0300"
-            },
-            {
-                "title": "Известны потери ВСУ за минувшие сутки в зоне СВО",
-                "link": "https://www.mk.ru/politics/2026/11/18/izvestny-poteri-vsu-za-minuvshie-sutki-v-zone-svo.html",
-                "description": "Кроме того, российские военнослужащие ликвидировали 11 орудий полевой артиллерии и 91 единицу военной автомобильной техники.",
-                "pubDate": "Wed, 18 Nov 2026 12:05:49 +0300"
-            },
-            {
-                "title": "«Это только начало»: НАБУ предупреждает о новых разоблачениях в силовых структурах Украины",
-                "link": "https://www.mk.ru/politics/2026/11/18/eto-tolko-nachalo-nabu-preduprezhdaet-o-novykh-razoblacheniyakh-v-silovykh-strukturakh-ukrainy.html",
-                "description": "Расследование деятельности украинской группировки «Химпром», как и ожидалось,  превратилось в противостояние между украинскими силовыми структурами и антикоррупционными органами",
-                "pubDate": "Wed, 18 Nov 2026 12:04:38 +0300"
-            },
-            {
-                "title": "Си Цзиньпин выступил с заявлением о России и Китае",
-                "link": "https://www.mk.ru/politics/2026/11/18/si-czinpin-vystupil-s-zayavleniem-o-rossii-i-kitae.html",
-                "description": "Председатель КНР Си Цзиньпин призвал усилить обмены между государственными органами и вооружёнными силами Китая и России",
-                "pubDate": "Wed, 18 Nov 2026 11:53:50 +0300"
-            },
-            {
-                "title": "Озвучено, чему будет посвящена встреча Путина, Си Цзиньпина и Трампа в Китае",
-                "link": "https://www.mk.ru/politics/2026/11/18/ozvucheno-chemu-budet-posvyashhena-vstrecha-putina-si-czinpina-i-trampa-v-kitae.html",
-                "description": "Заместитель директора Центра комплексных европейских и международных исследований НИУ ВШЭ Дмитрий Суслов в беседе с URA.RU раскрыл, чему будет посвящена встреча президента РФ Владимира Путина, председателя КНР Си Цзиньпина и американского лидера Дональда Трампа в Китае. ",
-                "pubDate": "Wed, 18 Nov 2026 11:46:20 +0300"
-            },
-            {
-                "title": "В Раде озвучили ежемесячное число мобилизованных в ряды ВСУ",
-                "link": "https://www.mk.ru/politics/2026/11/18/v-rade-ozvuchili-ezhemesyachnoe-chislo-mobilizovannykh-v-ryady-vsu.html",
-                "description": "Каждый месяц на Украине в состав ВСУ зачисляют около 30 тысяч человек",
-                "pubDate": "Wed, 18 Nov 2026 11:39:52 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:58+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/incident/index.xml",
-        "title": "Все Проишествия - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Россиянин из мести утопил машину знакомого, а потом угнал вторую и спрятал",
-                "link": "https://www.mk.ru/incident/2026/11/18/rossiyanin-iz-mesti-utopil-mashinu-znakomogo-a-potom-ugnal-vtoruyu-i-spryatal.html",
-                "description": "В Междуреченске полицейские задержали 41-летнего местного жителя, который, по версии ведомства, из мести угнал у знакомого два автомобиля",
-                "pubDate": "Wed, 18 Nov 2026 12:18:39 +0300"
-            },
-            {
-                "title": "Двое мужчин и женщина до смерти избили 53-летнего россиянина",
-                "link": "https://www.mk.ru/incident/2026/11/18/dvoe-muzhchin-i-zhenshhina-do-smerti-izbili-53-letnego-rossiyanina.html",
-                "description": "В Санкт-Петербурге задержали женщину и двух мужчин, которых подозревают в избиении местного жителя",
-                "pubDate": "Wed, 18 Nov 2026 12:13:55 +0300"
-            },
-            {
-                "title": "Двое рабочих погибли при ремонте крыши в подмосковном поселке",
-                "link": "https://www.mk.ru/incident/2026/11/18/dvoe-rabochikh-pogibli-pri-remonte-kryshi-v-podmoskovnom-poselke.html",
-                "description": "Двое рабочих погибли, упав с крыши четырехэтажного жилого дома в  Дмитровском городском округе Подмосковья",
-                "pubDate": "Wed, 18 Nov 2026 12:08:02 +0300"
-            },
-            {
-                "title": "В российском регионе изучают версию о доведении до самоубийства двух школьниц",
-                "link": "https://www.mk.ru/incident/2026/11/18/v-rossiyskom-regione-izuchayut-versiyu-o-dovedenii-do-samoubiystva-dvukh-shkolnic.html",
-                "description": "Следственные органы Татарстана приступили к проверке обстоятельств гибели двух несовершеннолетних девушек, тела которых были обнаружены на территории Мамадышского района",
-                "pubDate": "Wed, 18 Nov 2026 12:00:14 +0300"
-            },
-            {
-                "title": "Россиянку задержали за оправдание терроризма",
-                "link": "https://www.mk.ru/incident/2026/11/18/rossiyanku-zaderzhali-za-opravdanie-terrorizma.html",
-                "description": "Она публиковала в телеграм-канале комментарии, в которых оправдывала деятельность проукраинских террористических организаций.",
-                "pubDate": "Wed, 18 Nov 2026 11:57:36 +0300"
-            },
-            {
-                "title": "Стало известно, почему сын убил своих родителей в Ростовской области",
-                "link": "https://www.mk.ru/incident/2026/11/18/stalo-izvestno-pochemu-syn-ubil-svoikh-roditeley-v-rostovskoy-oblasti.html",
-                "description": "В Ростовской области в убийстве 60-летнего Геннадия и 59-летней Елены заподозрили их 36-летнего сына Игоря П",
-                "pubDate": "Wed, 18 Nov 2026 11:57:32 +0300"
-            },
-            {
-                "title": "В российском городе нашли убитыми в квартире мужа и жену",
-                "link": "https://www.mk.ru/incident/2026/11/18/v-rossiyskom-gorode-nashli-ubitymi-v-kvartire-muzha-i-zhenu.html",
-                "description": "В Ростовской области погибли супруги 60 и 59 лет",
-                "pubDate": "Wed, 18 Nov 2026 11:48:31 +0300"
-            },
-            {
-                "title": "Военный вертолет потерпел крушение в Иордании",
-                "link": "https://www.mk.ru/incident/2026/11/18/voennyy-vertolet-poterpel-krushenie-v-iordanii.html",
-                "description": "Сейчас на месте работают оперативные службы. Они развернули спасательную операцию.",
-                "pubDate": "Wed, 18 Nov 2026 11:44:43 +0300"
-            },
-            {
-                "title": "В подмосковном городе автобус врезался в здание магазина",
-                "link": "https://www.mk.ru/incident/2026/11/18/v-podmoskovnom-gorode-avtobus-vrezalsya-v-zdanie-magazina.html",
-                "description": "Автобус врезался в магазин в подмосковном Егорьевске во вторник вечером",
-                "pubDate": "Wed, 18 Nov 2026 11:35:32 +0300"
-            },
-            {
-                "title": "У российской чиновницы изъяли имущество на миллионы рублей",
-                "link": "https://www.mk.ru/incident/2026/11/18/u-rossiyskoy-chinovnicy-izyali-imushhestvo-na-milliony-rubley.html",
-                "description": "В Челябинске суд окончательно постановил обратить в доход государства имущество бывшей сотрудницы налоговой службы общей стоимостью более 21 миллиона рублей",
-                "pubDate": "Wed, 18 Nov 2026 11:27:44 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:58+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/social/index.xml",
-        "title": "Все Общество - Московский Комсомолец",
-        "items": [
-            {
-                "title": "МВД раскрыло новую схему обмана с розыгрышами брендов",
-                "link": "https://www.mk.ru/social/2026/11/18/mvd-raskrylo-novuyu-skhemu-obmana-s-rozygryshami-brendov.html",
-                "description": "Поддельные ссылки под видом праздничных акций и опросов от известных марок рассылают россиянам мошенники. Об этом проинформировало управление МВД, отвечающее за борьбу с противоправным использованием информационных технологий. Сообщение появилось в телеграм-канале ведомства.",
-                "pubDate": "Wed, 18 Nov 2026 12:16:39 +0300"
-            },
-            {
-                "title": "Визовые центры Словении в России остановили прием заявок от туристов",
-                "link": "https://www.mk.ru/social/2026/11/18/vizovye-centry-slovenii-v-rossii-ostanovili-priem-zayavok-ot-turistov.html",
-                "description": "Нововведения начали действовать в понедельник, 16 ноября. ",
-                "pubDate": "Wed, 18 Nov 2026 12:11:15 +0300"
-            },
-            {
-                "title": "Тимоти Шаламе отказался раскрывать подробности романа с Кайли Дженнер",
-                "link": "https://www.mk.ru/social/2026/11/18/timoti-shalame-otkazalsya-raskryvat-podrobnosti-romana-s-kayli-dzhenner.html",
-                "description": "Тимоти Шаламе отказался обсуждать отношения с Кайли Дженнер во время большого интервью журналу Vanity Fair",
-                "pubDate": "Wed, 18 Nov 2026 12:03:05 +0300"
-            },
-            {
-                "title": "59-летняя телеведущая объявила о беременности и шокировала коллег",
-                "link": "https://www.mk.ru/social/2026/11/18/59-letnyaya-televedushhaya-obyavila-o-beremennosti-i-shokirovala-kolleg.html",
-                "description": "Британская телеведущая и врач Рени Хундеркамп неожиданно сообщила о третьей беременности прямо во время эфира телеканала GB News",
-                "pubDate": "Wed, 18 Nov 2026 12:02:10 +0300"
-            },
-            {
-                "title": "Истинная совесть нации: от Льва Толстого до Дмитрия Лихачева",
-                "link": "https://www.mk.ru/social/2026/11/18/istinnaya-sovest-nacii-ot-lva-tolstogo-do-dmitriya-likhacheva.html",
-                "description": "Недавно Михаил Швыдкой, предваряя программу о Дмитрии Лихачеве по «Культуре», сказал, что Дмитрий Сергеевич был совестью нации, таких сейчас нет",
-                "pubDate": "Wed, 18 Nov 2026 11:58:18 +0300"
-            },
-            {
-                "title": "«Почти миллион за пять дней»: мошенники обманули российских геймеров на фоне GTA VI",
-                "link": "https://www.mk.ru/social/2026/11/18/pochti-million-za-pyat-dney-moshenniki-obmanuli-rossiyskikh-geymerov-na-fone-gta-vi.html",
-                "description": "Российские геймеры за пять дней потеряли более 914 тысяч рублей из-за действий мошенников, воспользовавшихся ажиотажем вокруг предстоящего релиза видеоигры Grand Theft Auto VI",
-                "pubDate": "Wed, 18 Nov 2026 11:52:28 +0300"
-            },
-            {
-                "title": "Котяков раскрыл детали двойной индексации пенсий",
-                "link": "https://www.mk.ru/social/2026/11/18/kotyakov-raskryl-detali-dvoynoy-indeksacii-pensiy.html",
-                "description": "Антон Котяков, возглавляющий Минтруд, на расширенной встрече с членами комитета Госдумы по труду, социальной политике и делам ветеранов рассказал, что в бюджете на 2027 год предусмотрены средства на двойную индексацию страховых пенсий.",
-                "pubDate": "Wed, 18 Nov 2026 11:48:03 +0300"
-            },
-            {
-                "title": "Овчинский сообщил о расселении четырёх пятиэтажек по КРТ",
-                "link": "https://www.mk.ru/social/2026/11/18/ovchinskiy-soobshhil-o-rasselenii-chetyryokh-pyatietazhek-po-krt.html",
-                "description": "Министр правительства Москвы, руководитель Департамента градостроительной политики, входящего в Комплекс градостроительной политики и строительства, Владислав Овчинский сообщил, что жители пятиэтажек в Фили-Давыдково и Нижегородском смогут получить более просторные квартиры в новых домах по программе КРТ",
-                "pubDate": "Wed, 18 Nov 2026 11:45:45 +0300"
-            },
-            {
-                "title": "«Утрата на двоих»: Елена Максимова и Маруся Лёвкина встретились на капустнике памяти Владимира Лёвкина",
-                "link": "https://www.mk.ru/social/2026/11/18/utrata-na-dvoikh-elena-maksimova-i-marusya-lyovkina-vstretilis-na-kapustnike-pamyati-vladimira-lyovkina.html",
-                "description": "В музыкальном клубе, где на стенах гитары и всё дышит живой музыкой, прошёл капустник памяти Владимира Лёвкина",
-                "pubDate": "Wed, 18 Nov 2026 11:43:42 +0300"
-            },
-            {
-                "title": "Хлопок — худший вариант для зимы: как правильно выбирать термобелье",
-                "link": "https://www.mk.ru/social/2026/11/18/khlopok-khudshiy-variant-dlya-zimy-kak-pravilno-vybirat-termobele.html",
-                "description": "Хлопковое белье кажется очевидным выбором на холод: мягкое, дышащее",
-                "pubDate": "Wed, 18 Nov 2026 11:38:04 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:58+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/culture/index.xml",
-        "title": "Все Культура - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Группа «Мураками» разыграла любовную драму на фоне ковра",
-                "link": "https://www.mk.ru/culture/2026/11/17/gruppa-murakami-razygrala-lyubovnuyu-dramu-na-fone-kovra.html",
-                "description": "Группа «Мураками» выпустила новый сингл «Под Чайковского», в котором оттенки празднования Нового года соединились с морским отдыхом и холодными дождями",
-                "pubDate": "Tue, 17 Nov 2026 20:57:05 +0300"
-            },
-            {
-                "title": "У группы «Сплин» началась рок-н-ролльная депрессия",
-                "link": "https://www.mk.ru/culture/2026/11/17/u-gruppy-splin-nachalas-rok-n-rollnaya-depressiya.html",
-                "description": "Участники рок-группы «Сплин» сообщили, что выбрали для осеннего релиза «самую мрачную песню из полусотни новых записанных»",
-                "pubDate": "Tue, 17 Nov 2026 20:55:15 +0300"
-            },
-            {
-                "title": "Актриса Проклова высказалась о ремейках советских мультфильмов",
-                "link": "https://www.mk.ru/culture/2026/11/17/aktrisa-proklova-vyskazalas-o-remeykakh-sovetskikh-multfilmov.html",
-                "description": "Актриса Елена Проклова положительно оценила тенденцию к переосмыслению старых советских мультфильмов и отметила, что новые версии известных историй могут стать частью творческого развития кинематографа",
-                "pubDate": "Tue, 17 Nov 2026 19:21:12 +0300"
-            },
-            {
-                "title": "В Боярских палатах поставили «Авдотью» о женщине, спасавшей из плена мужчин",
-                "link": "https://www.mk.ru/culture/2026/11/17/v-boyarskikh-palatakh-postavili-avdotyu-o-zhenshhine-spasavshey-iz-plena-muzhchin.html",
-                "description": "В Боярских палатах прошла премьера спектакля «Авдотья» «Мастерской Брусникина», когда-то делавшей свои первые шаги именно там",
-                "pubDate": "Tue, 17 Nov 2026 18:30:12 +0300"
-            },
-            {
-                "title": "Каирский кинофестиваль: не Омаром Шарифом единым",
-                "link": "https://www.mk.ru/culture/2026/11/17/kairskiy-kinofestival-ne-omarom-sharifom-edinym.html",
-                "description": "В Каире проходит 47-й Международный кинофестиваль класса А, входящий в список Международной федерации ассоциаций кинопродюсеров (FIAPF)",
-                "pubDate": "Tue, 17 Nov 2026 18:15:18 +0300"
-            },
-            {
-                "title": "«Остроумная и беспощадная»: какой запомнили телеведущую Светлану Куницыну",
-                "link": "https://www.mk.ru/culture/2026/11/17/ostroumnaya-i-besposhhadnaya-kakoy-zapomnili-televedushhuyu-svetlanu-kunicynu.html",
-                "description": "Во вторник, 17 ноября, стало известно об уходе из жизни телеведущей Светланы Куницыной",
-                "pubDate": "Tue, 17 Nov 2026 17:51:21 +0300"
-            },
-            {
-                "title": "Просто бомба: за что ругают и хвалят сериал «Полураспад»",
-                "link": "https://www.mk.ru/culture/2026/11/17/prosto-bomba-za-chto-rugayut-i-khvalyat-serial-poluraspad.html",
-                "description": "«Полураспад» уже после первых фестивальных показов стали называть чуть ли не главным сериалом года",
-                "pubDate": "Tue, 17 Nov 2026 17:48:05 +0300"
-            },
-            {
-                "title": "Ликбез по истории искусств",
-                "link": "https://www.mk.ru/culture/2026/11/17/likbez-po-istorii-iskusstv.html",
-                "description": "В год 170-летия Третьяковская галерея показывает богатство своих фондов",
-                "pubDate": "Tue, 17 Nov 2026 16:57:25 +0300"
-            },
-            {
-                "title": "Игорь Сандлер: как Кейт Эмерсон перевернул мое музыкальное сознание",
-                "link": "https://www.mk.ru/culture/2026/11/17/igor-sandler-kak-keyt-emerson-perevernul-moe-muzykalnoe-soznanie.html",
-                "description": "Череда дней рождений! Вот и Кейту Эмерсону уже 82! Он не только мой большой друг, великий клавишник, композитор, основатель эпохальных групп The Nice и Emerson, Lake & Palmer, но и человек, которому я во многом обязан своим музыкальным мировоззрением",
-                "pubDate": "Tue, 17 Nov 2026 14:15:33 +0300"
-            },
-            {
-                "title": "Вместо брутального Дэниела Крейга новым Джеймсом Бондом выбран красавчик Паттинсон",
-                "link": "https://www.mk.ru/culture/2026/11/17/vmesto-brutalnogo-deniela-kreyga-novym-dzheymsom-bondom-vybran-krasavchik-pattinson.html",
-                "description": "Объявлен новый исполнитель главной роли в фильмах про Джеймса Бонда – и его зовут Роберт Паттинсон",
-                "pubDate": "Tue, 17 Nov 2026 09:13:24 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:59+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/science/index.xml",
-        "title": "Все Наука - Московский Комсомолец",
-        "items": [
-            {
-                "title": "На Солнце произошла сильная вспышка",
-                "link": "https://www.mk.ru/science/2026/11/18/na-solnce-proizoshla-silnaya-vspyshka.html",
-                "description": "На Солнце после пятидневного затишья произошла сильная вспышка",
-                "pubDate": "Wed, 18 Nov 2026 11:38:59 +0300"
-            },
-            {
-                "title": "В больницах ЕС стремительно распространяется супербактерия с устойчивостью к препаратам",
-                "link": "https://www.mk.ru/politics/2026/11/18/v-bolnicakh-es-stremitelno-rasprostranyaetsya-superbakteriya-s-ustoychivostyu-k-preparatam.html",
-                "description": "В больницах Европы стремительно распространяется опасная супербактерия, которая обладает устойчивостью к медицинским препаратам",
-                "pubDate": "Wed, 18 Nov 2026 11:35:46 +0300"
-            },
-            {
-                "title": "Ученые создали расческу против облысения",
-                "link": "https://www.mk.ru/science/2026/11/18/uchenye-sozdali-raschesku-protiv-oblyseniya.html",
-                "description": "Китайские ученые разработали электронную расческу для борьбы с облысением. Испытания на мышах показали почти полное восстановление волосяного покрова за 28 дней, сообщает South China Morning Post.",
-                "pubDate": "Wed, 18 Nov 2026 05:59:38 +0300"
-            },
-            {
-                "title": "В Apple oбъяснили причины масштабного сбоя",
-                "link": "https://www.mk.ru/social/2026/11/18/v-apple-obyasnili-prichiny-masshtabnogo-sboya.html",
-                "description": "Массовые неполадки в работе сервисов Apple оказались следствием неудачного обновления внутренних систем компании",
-                "pubDate": "Wed, 18 Nov 2026 05:32:20 +0300"
-            },
-            {
-                "title": "Изменения проявляются уже спустя 20 минут: врачи раскрыли, что происходит с телом после последней сигареты",
-                "link": "https://www.mk.ru/social/2026/11/18/izmeneniya-proyavlyayutsya-uzhe-spustya-20-minut-vrachi-raskryli-chto-proiskhodit-s-telom-posle-posledney-sigarety.html",
-                "description": "Организм человека начинает восстанавливаться практически сразу после прекращения курения, причем первые положительные изменения происходят уже через 20 минут",
-                "pubDate": "Wed, 18 Nov 2026 03:25:11 +0300"
-            },
-            {
-                "title": "Китай начал испытания добычи ценных металлов в Тихом океане на глубине 5 км",
-                "link": "https://www.mk.ru/social/2026/11/18/kitay-nachal-ispytaniya-dobychi-cennykh-metallov-v-tikhom-okeane-na-glubine-5-km.html",
-                "description": "Китай впервые провел масштабные испытания глубоководной добычи полезных ископаемых в международных водах Тихого океана",
-                "pubDate": "Wed, 18 Nov 2026 02:00:23 +0300"
-            },
-            {
-                "title": "Хуанг заявил о готовности вновь возглавить Nvidia, если получит такое предложение",
-                "link": "https://www.mk.ru/politics/2026/11/18/khuang-zayavil-o-gotovnosti-vnov-vozglavit-nvidia-esli-poluchit-takoe-predlozhenie.html",
-                "description": "Сооснователь Nvidia Дженсен Хуанг, недавно покинувший должность генерального директора, заявил о готовности вновь возглавить компанию, если получит соответствующее предложение",
-                "pubDate": "Wed, 18 Nov 2026 01:06:27 +0300"
-            },
-            {
-                "title": "Учёные из КНР придумали устройство из стеблей лотоса для выработки электричества",
-                "link": "https://www.mk.ru/science/2026/11/17/uchyonye-iz-knr-pridumali-ustroystvo-iz-stebley-lotosa-dlya-vyrabotki-elektrichestva.html",
-                "description": "Исследователи из Китая создали энергоустановку, работающую на стеблях лотоса, которая обеспечивает бесперебойное производство электричества благодаря испарению влаги",
-                "pubDate": "Tue, 17 Nov 2026 20:23:54 +0300"
-            },
-            {
-                "title": "Кардиолог назвала пять заблуждений, мешающих сохранить здоровье сердца",
-                "link": "https://www.mk.ru/science/2026/11/17/kardiolog-nazvala-pyat-zabluzhdeniy-meshayushhikh-sokhranit-zdorove-serdca.html",
-                "description": "Регулярно проверять давление необходимо даже при хорошем самочувствии, а чрезмерные спортивные нагрузки могут навредить сердцу",
-                "pubDate": "Tue, 17 Nov 2026 17:43:07 +0300"
-            },
-            {
-                "title": "Океанолог назвал возможную причину появления «рыб-зомби» в Меконге",
-                "link": "https://www.mk.ru/science/2026/11/17/okeanolog-nazval-vozmozhnuyu-prichinu-poyavleniya-ryb-zombi-v-mekonge.html",
-                "description": "Загрязнение реки Меконг могло спровоцировать необычные изменения внешнего вида сомов, которых вылавливают в Таиланде",
-                "pubDate": "Tue, 17 Nov 2026 17:34:12 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:59+07:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/sport/index.xml",
-        "title": "Все Спорт - Московский Комсомолец",
-        "items": [
-            {
-                "title": "В Архангельске для пенсионеров проходят бесплатные занятия йогой",
-                "link": "https://arh.mk.ru/sport/2026/11/18/v-arkhangelske-dlya-pensionerov-prokhodyat-besplatnye-zanyatiya-yogoy.html",
-                "description": "В Архангельске проходят бесплатные занятия йогой для пенсионеров",
-                "pubDate": "Wed, 18 Nov 2026 12:24:21 +0300"
-            },
-            {
-                "title": "Дерзкая кибератака на сайт ИИХФ: фото Ковальчука и провокационная надпись встряхнули хоккейное сообщество",
-                "link": "https://www.mk.ru/sport/2026/11/18/derzkaya-kiberataka-na-sayt-iikhf-foto-kovalchuka-i-provokacionnaya-nadpis-vstryakhnuli-khokkeynoe-soobshhestvo.html",
-                "description": "Официальный сайт Международной федерации хоккея стал неожиданной мишенью дерзкой хакерской атаки на фоне острого скандала о недопуске Канады российской сборной на молодежный чемпионат мира",
-                "pubDate": "Wed, 18 Nov 2026 11:49:22 +0300"
-            },
-            {
-                "title": "Сочинские борцы привезли медали с краевого турнира в Армавире",
-                "link": "https://sochi.mk.ru/sport/2026/11/18/sochinskie-borcy-privezli-medali-s-kraevogo-turnira-v-armavire.html",
-                "description": "Юные представители спортивной школы № 10 города Сочи успешно выступили на Краевых соревнованиях по греко‑римской борьбе среди юношей до 18 лет",
-                "pubDate": "Wed, 18 Nov 2026 11:29:59 +0300"
-            },
-            {
-                "title": "Битва на Волге: «Горький» в гостях у «Ярославича»",
-                "link": "https://nn.mk.ru/sport/2026/11/18/bitva-na-volge-gorkiy-v-gostyakh-u-yaroslavicha.html",
-                "description": "В матче 8 тура РОЛЬФ Суперлиги волейболисты «Горького» в гостях попробуют обыграть «Ярославич»",
-                "pubDate": "Wed, 18 Nov 2026 11:26:57 +0300"
-            },
-            {
-                "title": "«Арктика» ответила на натиск «Тверичей-СШОР» победой со счётом 4:1",
-                "link": "https://murmansk.mk.ru/sport/2026/11/18/arktika-otvetila-na-natisk-tverichey-sshor-pobedoy-so-schyotom-4-1.html",
-                "description": "Мурманская «Арктика» одержала победу над командой «Тверичи-СШОР» в хоккейном матче. Встреча завершилась со счётом 4:1. Об этом сообщила пресс-служба хоккейного клуба Мурманской области.",
-                "pubDate": "Wed, 18 Nov 2026 11:10:46 +0300"
-            },
-            {
-                "title": "В Сириусе стартовал Кубок СХЛ по хоккею",
-                "link": "https://sochi.mk.ru/sport/2026/11/18/v-siriuse-startoval-kubok-skhl-po-khokkeyu.html",
-                "description": "В ледовом дворце «Айсберг» в Сириусе разыгрывают Кубок Студенческой хоккейной лиги имени Владимира Юрзинова",
-                "pubDate": "Wed, 18 Nov 2026 11:02:13 +0300"
-            },
-            {
-                "title": "Участники СВО стали гостями спортивных событий Запорожской области",
-                "link": "https://www.mk-zap.ru/sport/2026/11/18/uchastniki-svo-stali-gostyami-sportivnykh-sobytiy-zaporozhskoy-oblasti.html",
-                "description": "Министерство физкультуры и спорта создаёт условия, чтобы военнослужащие и ветераны СВО участвовали в спортивной жизни региона",
-                "pubDate": "Wed, 18 Nov 2026 10:41:37 +0300"
-            },
-            {
-                "title": "Экс-капитан и наставник воронежского «Факела» снова оказался в московском «Торпедо»",
-                "link": "https://vrn.mk.ru/sport/2026/11/18/eks-kapitan-i-nastavnik-voronezhskogo-fakela-snova-okazalsya-v-moskovskom-torpedo.html",
-                "description": "Игорь Лебеденко вновь будет работать в родном ФК «Торпедо», но теперь на другой должности",
-                "pubDate": "Wed, 18 Nov 2026 10:38:21 +0300"
-            },
-            {
-                "title": "Более 150 юных борцов из 15 регионов приедут в Мурманск на турнир «Северное Сияние»",
-                "link": "https://murmansk.mk.ru/sport/2026/11/18/bolee-150-yunykh-borcov-iz-15-regionov-priedut-v-murmansk-na-turnir-severnoe-siyanie.html",
-                "description": "На 52-й турнир «Северное Сияние» приедут около 160 спортсменов из более чем 15 регионов страны. Об этом сообщили в правительстве Мурманской области.",
-                "pubDate": "Wed, 18 Nov 2026 10:35:45 +0300"
-            },
-            {
-                "title": "Волейбольная команда ЛГУ им. А.С. Пушкина выиграла Спартакиаду Союзного государства",
-                "link": "https://www.mk-lenobl.ru/social/2026/11/18/voleybolnaya-komanda-lgu-im-a-s-pushkina-vyigrala-spartakiadu-soyuznogo-gosudarstva.html",
-                "description": "Женская волейбольная команда ЛГУ им. А.С. Пушкина заняла первое место на Спартакиаде Союзного государства среди студентов, которая проходила в Орске с 9 по 14 ноября. Об этом сообщили в пресс-службе Комитета по спорту Ленинградской области.",
-                "pubDate": "Wed, 18 Nov 2026 10:28:46 +0300"
-            }
-        ],
-        "updated": "2026-11-18T16:26:59+07:00"
+        "updated": "2026-11-19T01:10:00+00:00"
     }
 ]
