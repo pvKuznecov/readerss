@@ -1,16 +1,25 @@
-name: Update RSS Data
+name: Update RSS Data and Deploy
 
 on:
   schedule:
-    - cron: '0 */1 * * *'   # каждые 1 час
-  workflow_dispatch:         # ручной запуск кнопкой
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write            # нужно для push
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -24,13 +33,40 @@ jobs:
         run: php parse-feeds.php
 
       - name: Commit and push
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add frontend/public/data.json
           if git diff --staged --quiet; then
             echo "No changes"
+            echo "changed=false" >> $GITHUB_OUTPUT
           else
             git commit -m "chore: update RSS data"
             git push
+            echo "changed=true" >> $GITHUB_OUTPUT
           fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Build
+        working-directory: frontend
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

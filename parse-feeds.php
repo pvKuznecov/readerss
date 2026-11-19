@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 $feedsFile = __DIR__ . '/feeds.txt';
 $outFile   = __DIR__ . '/frontend/public/data.json';
-$maxItems  = 50; // сколько новостей хранить на ленту
+$maxItems  = 10; // сколько новостей хранить на ленту
 
 $urls = [];
 foreach (file($feedsFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) as $line) {
