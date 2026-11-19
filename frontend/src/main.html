@@ -1,16 +1,16 @@
 <main class="app">
     <div class="rheader">
-        <h1>!ReadeRSS! ! !</h1>
+        <b>ReadeRSS</b>
+        <button><i class="bi bi-filter-square-fill"></i></button>
     </div>
     <div class="filter-panel">
-        <label>
+        <!-- {{SourceTitlesArr}} -->
+        <!-- <label>
             SelectedSourceTitle:
             <select name="SelectedSourceTitle" id="">
-                <option value=""></option>
+                <option v-for="sval in Object.keys(SourceTitlesArr).sort()" :value="sval">{{sval}}</option>
             </select>
-        </label>
-        
-        
+        </label>         -->
     </div>    
     <div class="lent">
         <p v-if="loading">Загрузка…</p>
@@ -33,6 +33,6 @@
         </ul>
     </div>    
     <div class="rfooter">
-        ss
+        2026
     </div>
 </main>

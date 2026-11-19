@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap-icons": "^1.13.2",
     "vue": "rc"
   },
   "devDependencies": {
