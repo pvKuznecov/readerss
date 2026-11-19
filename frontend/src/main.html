@@ -2,6 +2,16 @@
     <div class="rheader">
         <h1>!ReadeRSS! ! !</h1>
     </div>
+    <div class="filter-panel">
+        <label>
+            SelectedSourceTitle:
+            <select name="SelectedSourceTitle" id="">
+                <option value=""></option>
+            </select>
+        </label>
+        
+        
+    </div>    
     <div class="lent">
         <p v-if="loading">Загрузка…</p>
         <p v-else-if="error" class="error">Ошибка: {{ error }}</p>

@@ -6,6 +6,7 @@
     const feeds = ref([]);
     const loading = ref(true);
     const error = ref(null);
+    const SourceTitle = ref(null);
 
     // Плоский список всех новостей, отсортированный по дате (новые сверху)
     const allItems = computed(() => {
