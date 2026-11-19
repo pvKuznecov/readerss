@@ -24,6 +24,15 @@
         return items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
     })
 
+    const SourceTitlesArr = computed(() => {
+        const items = {};
+
+        for (const feed of feeds.value) {
+            items[feed.title] = 1;
+        }
+        return items;
+    });
+
     onMounted(async () => {
         try {
             const res = await fetch('./data.json');
