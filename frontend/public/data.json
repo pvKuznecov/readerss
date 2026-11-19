@@ -4,6 +4,12 @@
         "title": "The GitHub Blog",
         "items": [
             {
+                "title": "The best things in open source are built together",
+                "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+                "description": "<p>Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/\">The best things in open source are built together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000"
+            },
+            {
                 "title": "Maintainers don’t need more AI bug reports. They need fixes. ",
                 "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
                 "description": "<p>In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/\">Maintainers don&#8217;t need more AI bug reports. They need fixes. </a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
@@ -56,82 +62,76 @@
                 "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
                 "description": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
                 "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000"
-            },
-            {
-                "title": "Game Off 2026: The theme is SHIFT",
-                "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-                "description": "<p>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/\">Game Off 2026: The theme is SHIFT</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
-                "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000"
             }
         ],
-        "updated": "2026-11-19T07:06:20+00:00"
+        "updated": "2026-11-19T17:15:30+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
             {
-                "title": "«АвтоВАЗ» приготовился к скромным продажам",
-                "link": "https://lenta.ru/news/2026/11/19/skromno/",
+                "title": "Макрон сделал заявление о будущем Украины в НАТО",
+                "link": "https://lenta.ru/news/2026/11/19/makron-sdelal-zayavlenie-o-buduschem-ukrainy-v-nato/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 10:03:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:13:59 +0300"
             },
             {
-                "title": "Боевые возможности Су-57 нарастили",
-                "link": "https://lenta.ru/news/2026/11/19/boevye-vozmozhnosti-su-57-narastili/",
+                "title": "В сети обсудили новые откровенные фото солистки «Тату»",
+                "link": "https://lenta.ru/news/2026/11/19/v-seti-obsudili-novye-otkrovennye-foto-solistki-tatu/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 10:01:57 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:10:29 +0300"
             },
             {
-                "title": "Россияне признались в покупке авиабилетов из страха",
-                "link": "https://lenta.ru/news/2026/11/19/rossiyane-priznalis-v-pokupke-aviabiletov-iz-straha/",
+                "title": "Почетный президент РФС одной фразой оценил недопуск России на Евро-2028",
+                "link": "https://lenta.ru/news/2026/11/19/pochetnyy-prezident-rfs-odnoy-frazoy-otsenil-nedopusk-rossii-na-evro-2028/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 10:00:24 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:10:06 +0300"
             },
             {
-                "title": "Зеленский рассказал о тактике Трампа в отношении Украины",
-                "link": "https://lenta.ru/news/2026/11/19/zelenskiy-rasskazal-o-taktike-trampa-v-otnoshenii-ukrainy/",
+                "title": "Трамп рассказал о реакции Путина на удары по Крымскому мосту",
+                "link": "https://lenta.ru/news/2026/11/19/tramp-rasskazal-o-reaktsii-putina-na-udary-po-krymskomu-mostu/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:59:53 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:06:00 +0300"
             },
             {
-                "title": "Китай запустил экспериментальный аппарат Shijian-24",
-                "link": "https://lenta.ru/news/2026/11/19/kitay-zapustil-eksperimentalnyy-apparat-shijian-24/",
+                "title": "Дочь одной из самых красивых женщин Англии выиграла в национальном конкурсе красоты",
+                "link": "https://lenta.ru/news/2026/11/19/doch-odnoy-iz-samyh-krasivyh-zhenschin-anglii-vyigrala-v-natsionalnom-konkurse-krasoty/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:50:36 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:06:00 +0300"
             },
             {
-                "title": "В Москве исчезли дешевые новостройки",
-                "link": "https://lenta.ru/news/2026/11/19/v-moskve-ischezli-deshevye-novostroyki/",
+                "title": "Трамп признался в шпионаже за Китаем",
+                "link": "https://lenta.ru/news/2026/11/19/tramp-priznalsya-v-shpionazhe-za-kitaem/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:49:06 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:04:55 +0300"
             },
             {
-                "title": "Трамп что-то прошептал Путину на ухо",
-                "link": "https://lenta.ru/news/2026/11/19/tramp-chto-to-prosheptal-putinu-na-uho/",
+                "title": "Более сотни пассажиров круизного лайнера заразились неизвестной болезнью",
+                "link": "https://lenta.ru/news/2026/11/19/bolee-sotni-passazhirov-kruiznogo-laynera-zarazilis-neizvestnoy-boleznyu/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:47:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:03:00 +0300"
             },
             {
-                "title": "Власти рассказали о последствиях ужаснувшей жителей российского региона атаки ВСУ",
-                "link": "https://lenta.ru/news/2026/11/19/vlasti-rasskazali-o-posledstviyah-uzhasnuvshey-zhiteley-rossiyskogo-regiona-atake-vsu/",
+                "title": "Трамп отказался от решений по Украине без учета мнения Зеленского",
+                "link": "https://lenta.ru/news/2026/11/19/tramp-otkazalsya-ot-resheniy-po-ukraine-bez-ucheta-mneniya-zelenskogo/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:47:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:00:00 +0300"
             },
             {
-                "title": "Путин встретился еще с одним иностранным лидером",
-                "link": "https://lenta.ru/news/2026/11/19/putin-vstretilsya-esche-s-odnim-inostrannym-liderom/",
+                "title": "Сын Маслякова раскрыл отношение отца к шуткам над ним со сцены",
+                "link": "https://lenta.ru/news/2026/11/19/syn-maslyakova-raskryl-otnoshenie-ottsa-k-shutkam-nad-nim-so-stseny/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:45:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:00:00 +0300"
             },
             {
-                "title": "«Калгари Рэнглерс» обыграл «Коачеллу Вэлли Файрбердс» в АХЛ",
-                "link": "https://lenta.ru/news/2026/11/19/kalgari-renglers-obygral-koachellu-velli-fayrberds-v-ahl/",
+                "title": "Россиянин запер девушку в своем доме и насиловал ее",
+                "link": "https://lenta.ru/news/2026/11/19/rossiyanin-zaper-devushku-v-svoem-dome-i-iznasiloval-ee/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:43:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 20:00:00 +0300"
             }
         ],
-        "updated": "2026-11-19T07:06:22+00:00"
+        "updated": "2026-11-19T17:15:32+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -198,73 +198,542 @@
                 "pubDate": ""
             }
         ],
-        "updated": "2026-11-19T07:06:24+00:00"
+        "updated": "2026-11-19T17:15:34+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
             {
-                "title": "Власти рассказали о последствиях ужаснувшей жителей российского региона атаки ВСУ",
-                "link": "https://lenta.ru/news/2026/11/19/vlasti-rasskazali-o-posledstviyah-uzhasnuvshey-zhiteley-rossiyskogo-regiona-atake-vsu/",
+                "title": "«Договариваться не будем». Путин пообещал Киеву болезненный ответ на удары по Крымскому мосту. Какие цели может атаковать Россия?",
+                "link": "https://lenta.ru/news/2026/11/19/long-dogovarivatsya-ne-budem-putin-poobeschal-kievu-boleznennyy-otvet-na-udar-po-krymskomu-mostu-kakie-tseli-mozhet-atakovat-rossiya/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:47:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 19:12:00 +0300"
             },
             {
-                "title": "Участники чемпионата «Пилоты будущего» назвали наиболее предпочтительные профессии",
-                "link": "https://lenta.ru/news/2026/11/19/uchastniki-chempionata-piloty-buduschego-nazvali-naibolee-predpochtitelnye-professii/",
+                "title": "Минобороны России заявило о военной операции после слов Путина о Крымском мосте",
+                "link": "https://lenta.ru/news/2026/11/19/minoborony-zayavilo-o-voennoy-operatsii-posle-zayavleniya-putina-o-krymskom-moste/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:35:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 19:09:00 +0300"
             },
             {
-                "title": "Украинские БПЛА ударили по резервуарам с нефтью в Татарстане",
-                "link": "https://lenta.ru/news/2026/11/19/ukrainskie-bpla-udarili-po-rezervuaram-s-neftyu-v-tatarstane/",
+                "title": "Появились новые кадры последствий масштабного удара ВСУ по центру Курска",
+                "link": "https://lenta.ru/news/2026/11/19/poyavilis-novye-kadry-posledstviy-masshtabnogo-udara-vsu-po-tsentru-kurska/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:34:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 18:59:00 +0300"
             },
             {
-                "title": "Россиянин не выжил при детонации взрывного устройства",
-                "link": "https://lenta.ru/news/2026/11/19/rossiyanin-ne-vyzhil-pri-detonatsii-vzryvnogo-ustroystva/",
+                "title": "В России обратились к европейским лидерам после трехстороннего принятия декларации о мире",
+                "link": "https://lenta.ru/news/2026/11/19/v-rossii-obratilis-k-evropeyskim-lideram-posle-trehstoronnego-prinyatiya-deklaratsii-o-mire/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:29:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 18:43:00 +0300"
             },
             {
-                "title": "Минобороны сделало заявление после третьей за три дня атаки ВСУ на Крымский мост",
-                "link": "https://lenta.ru/news/2026/11/19/minoborony-sdelalo-zayavlenie-posle-tretiey-za-tri-dnya-ataki-vsu-na-krymskiy-most/",
+                "title": "Число пострадавших при ударе ВСУ по центру столицы российского региона снова выросло",
+                "link": "https://lenta.ru/news/2026/11/19/chislo-postradavshih-pri-udare-vsu-po-tsentru-stolitsy-rossiyskogo-regiona-snova-vyroslo/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:05:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 18:34:00 +0300"
             },
             {
-                "title": "Украина лишилась военных грузов перед встречей Путина, Си и Трампа",
-                "link": "https://lenta.ru/news/2026/11/19/ukraina-lishilas-voennyh-gruzov-pered-vstrechey-putina-si-i-trampa/",
+                "title": "Названа роль саммита в исходе конфликта на Украине",
+                "link": "https://lenta.ru/news/2026/11/19/raskryta-rol-sammita-v-ishode-konflikta-na-ukraine/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 09:01:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 18:26:00 +0300"
             },
             {
-                "title": "Минобороны объявило о «воздушном нокауте» для ВСУ",
-                "link": "https://lenta.ru/news/2026/11/19/minoborony-ob-yavilo-o-vozdushnom-nokaute-dlya-vsu/",
+                "title": "ВСУ ударили по ехавшим на велосипеде россиянке с ребенком",
+                "link": "https://lenta.ru/news/2026/11/19/vsu-udarili-po-ehavshim-na-velosipede-rossiyanke-s-rebenkom/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 08:41:53 +0300"
+                "pubDate": "Thu, 19 Nov 2026 18:07:00 +0300"
             },
             {
-                "title": "«Движение поездов приостановлено». ВСУ третий раз за неделю атаковали Крымский мост. Что известно?",
-                "link": "https://lenta.ru/news/2026/11/19/long-dvizhenie-poezdov-priostanovleno-vsu-tretiy-raz-za-nedelyu-atakovali-krymskiy-most-chto-izvestno/",
+                "title": "В России указали на сигнал для Европы к пересмотру политики в отношении Украины",
+                "link": "https://lenta.ru/news/2026/11/19/v-rossii-ukazali-na-signal-dlya-evropy-k-peresmotru-politiki-v-otnoshenii-ukrainy/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 08:35:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 17:33:33 +0300"
             },
             {
-                "title": "В МВД рассказали о последствиях появления ненадлежащей подписи в паспорте",
-                "link": "https://lenta.ru/news/2026/11/19/v-mvd-rasskazali-o-posledstviyah-poyavleniya-nenadlezhaschey-podpisi-v-pasporte/",
+                "title": "Минобороны предложило россиянам службу по контракту в ВС РФ в стиле известной игры",
+                "link": "https://lenta.ru/news/2026/11/19/minoborony-predlozhilo-rossiyanam-sluzhbu-po-kontraktu-v-vs-rf-v-stile-izvestnoy-igry/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 07:46:00 +0300"
+                "pubDate": "Thu, 19 Nov 2026 17:21:00 +0300"
             },
             {
-                "title": "Власти высказались о последствиях новой атаки ВСУ на Крымский мост",
-                "link": "https://lenta.ru/news/2026/11/19/vlasti-vyskazalis-o-posledstviyah-novoy-ataki-vsu-na-krymskiy-most/",
+                "title": "Раскрыто отношение россиян к отгулам ради игр и кино",
+                "link": "https://lenta.ru/news/2026/11/19/raskryto-otnoshenie-rossiyan-k-otgulami-radi-igr-i-kino/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 19 Nov 2026 07:40:07 +0300"
+                "pubDate": "Thu, 19 Nov 2026 17:19:00 +0300"
             }
         ],
-        "updated": "2026-11-19T07:06:25+00:00"
+        "updated": "2026-11-19T17:15:36+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/economics/index.xml",
+        "title": "Экономика - Московский Комсомолец",
+        "items": [
+            {
+                "title": "Обвал по всем статьям: в мегаполисах спрос на новостройки РФ упал за месяц на 20%",
+                "link": "https://www.mk.ru/realestate/2026/11/19/obval-po-vsem-statyam-v-megapolisakh-spros-na-novostroyki-rf-upal-za-mesyac-na-20.html",
+                "description": "В середине осени аналитики зафиксировали обвал продаж новых квартир почти во всех российских городах – миллионниках",
+                "pubDate": "Thu, 19 Nov 2026 17:15:42 +0300"
+            },
+            {
+                "title": "Золото резко дешевеет: стоит ли россиянам в него вкладываться",
+                "link": "https://www.mk.ru/economics/2026/11/19/zoloto-rezko-desheveet-stoit-li-rossiyanam-v-nego-vkladyvatsya.html",
+                "description": "Золото вновь подешевело, причем резко: декабрьские фьючерсы на бирже COMEX упали до $3782,3 за унцию",
+                "pubDate": "Thu, 19 Nov 2026 15:58:11 +0300"
+            },
+            {
+                "title": "Спрос на кредиты за год вырос в 2,5 раза: россияне снова влезают в долги",
+                "link": "https://www.mk.ru/economics/2026/11/19/spros-na-kredity-za-god-vyros-v-2-5-raza-rossiyane-snova-vlezayut-v-dolgi.html",
+                "description": "Россияне стали активнее обращаться в банки за кредитами наличными",
+                "pubDate": "Thu, 19 Nov 2026 15:47:32 +0300"
+            },
+            {
+                "title": "В России корректируются правила учета пенсии",
+                "link": "https://www.mk.ru/economics/2026/11/19/v-rossii-korrektiruyutsya-pravila-ucheta-pensii.html",
+                "description": "С 16 ноября в России вступил в силу новый регламент Социального фонда России (СФР) по корректировке сведений индивидуального лицевого счета",
+                "pubDate": "Thu, 19 Nov 2026 13:29:24 +0300"
+            },
+            {
+                "title": "Противоречивый октябрь: в Москве спрос на ипотеку вырос, а на новостройки – упал",
+                "link": "https://www.mk.ru/realestate/2026/11/19/protivorechivyy-oktyabr-v-moskve-spros-na-ipoteku-vyros-a-na-novostroyki-upal.html",
+                "description": "Минувший октябрь, который метеорологи часто называют месяцем диссонансов из-за переменчивой погоды, оправдал свой противоречивый статус и на столичном рынке жилья: в   минувшем месяце резко выросла активность ипотечников,  однако  число сделок с новостройками и «вторичкой», напротив, снизилось, следует из свежего отчета Росреестра",
+                "pubDate": "Thu, 19 Nov 2026 09:23:36 +0300"
+            },
+            {
+                "title": "На Западе заговорили о «бегстве нефти» с Ближнего Востока",
+                "link": "https://www.mk.ru/economics/2026/11/19/na-zapade-zagovorili-o-begstve-nefti-s-blizhnego-vostoka.html",
+                "description": "Западные эксперты констатируют исход так называемого нефтяного капитала с Ближнего Востока",
+                "pubDate": "Thu, 19 Nov 2026 09:15:43 +0300"
+            },
+            {
+                "title": "Россияне стали наглее: «Соседи крепко достали»",
+                "link": "https://www.mk.ru/realestate/2026/11/18/rossiyane-stali-naglee-sosedi-krepko-dostali.html",
+                "description": "Городское жилье давно стало полем битвы за личное пространство",
+                "pubDate": "Wed, 18 Nov 2026 19:28:43 +0300"
+            },
+            {
+                "title": "Нефть и газ между прогнозами и реальностью",
+                "link": "https://www.mk.ru/economics/2026/11/18/neft-i-gaz-mezhdu-prognozami-i-realnostyu.html",
+                "description": "За последние 20 лет мировой рынок газа и электроэнергии очень сильно изменился",
+                "pubDate": "Wed, 18 Nov 2026 17:27:00 +0300"
+            },
+            {
+                "title": "Квартиры не продаются, а цены не сдаются: насколько подорожало жилье в Москве и Подмосковье",
+                "link": "https://www.mk.ru/realestate/2026/11/18/kvartiry-ne-prodayutsya-a-ceny-ne-sdayutsya-naskolko-podorozhalo-zhile-v-moskve-i-podmoskove.html",
+                "description": "Этой осенью на московском рынке вторичного жилья набрал силу новый мощный тренд — количество новых объектов в продаже выросло, а число покупателей, наоборот, сократилось",
+                "pubDate": "Wed, 18 Nov 2026 17:00:33 +0300"
+            },
+            {
+                "title": "Власти планируют ввести новый сбор с авиапассажиров: кто и сколько заплатит",
+                "link": "https://www.mk.ru/economics/2026/11/18/vlasti-planiruyut-vvesti-novyy-sbor-s-aviapassazhirov-kto-i-skolko-zaplatit.html",
+                "description": "Минпромторг придумал, кто заплатит за новые российские лайнеры: каждый купивший авиабилет",
+                "pubDate": "Wed, 18 Nov 2026 16:17:18 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:38+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/politics/index.xml",
+        "title": "Вся Политика - Московский Комсомолец",
+        "items": [
+            {
+                "title": "Politico: Трамп скептически отнесся к очередным просьбам Киева",
+                "link": "https://www.mk.ru/politics/2026/11/19/politico-tramp-skepticheski-otnessya-k-ocherednym-prosbam-kieva.html",
+                "description": "Речь идет о дополнительной помощи на миллиарды долларов.",
+                "pubDate": "Thu, 19 Nov 2026 20:10:13 +0300"
+            },
+            {
+                "title": "СБУ проводит обыски в еще одном украинском ведомстве",
+                "link": "https://www.mk.ru/politics/2026/11/19/sbu-provodit-obyski-v-eshhe-odnom-ukrainskom-vedomstve.html",
+                "description": "Сотрудники Службы безопасности Украины проводят обыски в Государственной авиационной службе страны",
+                "pubDate": "Thu, 19 Nov 2026 20:03:51 +0300"
+            },
+            {
+                "title": "«Решают без нас»: премьер Болгарии предупредил о новой холодной войне",
+                "link": "https://www.mk.ru/politics/2026/11/19/reshayut-bez-nas-premer-bolgarii-predupredil-o-novoy-kholodnoy-voyne.html",
+                "description": "Премьер-министр Болгарии Румен Радев предупредил о серьезных рисках для Европы из-за ее отсутствия на переговорах с Россией по урегулированию конфликта на Украине",
+                "pubDate": "Thu, 19 Nov 2026 20:02:35 +0300"
+            },
+            {
+                "title": "Путин и Лавров перед встречей с Трампом перемолвились о саммите в Анкоридже",
+                "link": "https://www.mk.ru/politics/2026/11/19/putin-i-lavrov-pered-vstrechey-s-trampom-peremolvilis-o-sammite-v-ankoridzhe.html",
+                "description": "Президент России Владимир Путин перед встречей с президентом США Дональдом Трампом в рамках саммита АТЭС обратился к руководителю МИД РФ Сергею Лаврову с вопросом о саммите Россия-США в Анкоридже в 2025 году",
+                "pubDate": "Thu, 19 Nov 2026 19:59:26 +0300"
+            },
+            {
+                "title": "Госдума приняла бюджет на трехлетку во втором чтении: без спектакля и разрушающего популизма",
+                "link": "https://www.mk.ru/politics/2026/11/19/gosduma-prinyala-byudzhet-na-trekhletku-vo-vtorom-chtenii-bez-spektaklya-i-razrushayushhego-populizma.html",
+                "description": "Владимир Путин, в четверг принимавший участие в трехсторонней встрече с Дональдом Трампом и Си Цзиньпином в Шэньчжене, одноврененно с этим незримо присутствовал в зале пленарных заседаний Госдумы",
+                "pubDate": "Thu, 19 Nov 2026 19:52:53 +0300"
+            },
+            {
+                "title": "Посольство РФ в Гааге: Нидерланды перестали быть сторонним наблюдателем конфликта",
+                "link": "https://www.mk.ru/politics/2026/11/19/posolstvo-rf-v-gaage-niderlandy-perestali-byt-storonnim-nablyudatelem-konflikta.html",
+                "description": "Нидерланды перестали быть сторонним наблюдателем и всё глубже втягиваются в украинский конфликт, способствуя его затягиванию и эскалации",
+                "pubDate": "Thu, 19 Nov 2026 19:48:21 +0300"
+            },
+            {
+                "title": "«Обрекли на неактуальность»: саммит трех лидеров потряс Европу",
+                "link": "https://www.mk.ru/politics/2026/11/19/obrekli-na-neaktualnost-sammit-trekh-liderov-potryas-evropu.html",
+                "description": "Первая в истории трехсторонняя встреча президента России Владимира Путина, председателя КНР Си Цзиньпина и президента США Дональда Трампа на полях саммита Азиатско-Тихоокеанского экономического сотрудничества (АТЭС) в китайском Шэньчжэне обрекает Европу на стратегическую неактуальность, пишет испанская газета Razon",
+                "pubDate": "Thu, 19 Nov 2026 19:45:59 +0300"
+            },
+            {
+                "title": "Песков назвал условие победы над неонацизмом",
+                "link": "https://www.mk.ru/politics/2026/11/19/peskov-nazval-uslovie-pobedy-nad-neonacizmom.html",
+                "description": "Добиться перелома в борьбе с неонацизмом сегодня способно лишь продолжение специальной военной операции",
+                "pubDate": "Thu, 19 Nov 2026 19:37:23 +0300"
+            },
+            {
+                "title": "Трамп в интервью прокомментировал атаку, которой подвергся Крымский мост",
+                "link": "https://www.mk.ru/politics/2026/11/19/tramp-v-intervyu-prokommentiroval-ataku-kotoroy-podvergsya-krymskiy-most.html",
+                "description": "Американский президент Дональд Трамп заявил, что президент России Владимир Путин &#34;крайне возмущен&#34; из-за атаки ВСУ, которой подвергся Крымский мост",
+                "pubDate": "Thu, 19 Nov 2026 19:31:49 +0300"
+            },
+            {
+                "title": "«Заставил бы россиян»: Байден честно рассказал, зачем все устроил на Украине",
+                "link": "https://www.mk.ru/politics/2026/11/19/zastavil-by-rossiyan-bayden-chestno-rasskazal-zachem-vse-ustroil-na-ukraine.html",
+                "description": "Бывший президент США Джо Байден признался, что видел одной из своих целей превращение Украины в «передовой рубеж демократии» для дестабилизации обстановки в соседних государствах",
+                "pubDate": "Thu, 19 Nov 2026 19:30:47 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:40+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/incident/index.xml",
+        "title": "Все Проишествия - Московский Комсомолец",
+        "items": [
+            {
+                "title": "В Тбилиси извлекли из-под завалов тело четвертого погибшего после взрыва",
+                "link": "https://www.mk.ru/incident/2026/11/19/v-tbilisi-izvlekli-iz-pod-zavalov-telo-chetvertogo-pogibshego-posle-vzryva.html",
+                "description": "Об этом сообщили в Службе по управлению чрезвычайными ситуациями МВД Грузии.",
+                "pubDate": "Thu, 19 Nov 2026 19:37:56 +0300"
+            },
+            {
+                "title": "Неадекватная пассажирка напала на контролершу и украла терминал оплаты в Москве",
+                "link": "https://www.mk.ru/incident/2026/11/19/neadekvatnaya-passazhirka-napala-na-kontrolershu-i-ukrala-terminal-oplaty-v-moskve.html",
+                "description": "В Москве предъявили обвинение жительнице Хабаровского края, которая напала на контролершу в автобусе и забрала у нее платежный терминал",
+                "pubDate": "Thu, 19 Nov 2026 19:34:23 +0300"
+            },
+            {
+                "title": "Россиянин ранен в результате взрыва украинского беспилотника",
+                "link": "https://www.mk.ru/incident/2026/11/19/rossiyanin-ranen-v-rezultate-vzryva-ukrainskogo-bespilotnika.html",
+                "description": "Об этом сегодня, 19 ноября, сообщил губернатор Егор Ковальчук.",
+                "pubDate": "Thu, 19 Nov 2026 19:24:31 +0300"
+            },
+            {
+                "title": "На Украине вскрылась жуткая схема торговли новорожденными",
+                "link": "https://www.mk.ru/incident/2026/11/19/na-ukraine-vskrylas-zhutkaya-skhema-torgovli-novorozhdennymi.html",
+                "description": "Правоохранители разоблачили трех женщин, которые вместе с гражданином Китая наладили схему покупки новорожденных детей и их вывоза за границу под видом суррогатного материнства, сообщили в Национальной полиции и Офисе генерального прокурора Украины",
+                "pubDate": "Thu, 19 Nov 2026 19:11:00 +0300"
+            },
+            {
+                "title": "Российский подросток умер после курения вейпа",
+                "link": "https://www.mk.ru/incident/2026/11/19/rossiyskiy-podrostok-umer-posle-kureniya-veypa.html",
+                "description": "В городе Белебее Республики Башкортостан скончался 16-летний подросток, которому стало плохо после курения электронного устройства",
+                "pubDate": "Thu, 19 Nov 2026 19:05:28 +0300"
+            },
+            {
+                "title": "Россиянин длительное время преследует бывшую возлюбленную",
+                "link": "https://www.mk.ru/incident/2026/11/19/rossiyanin-dlitelnoe-vremya-presleduet-byvshuyu-vozlyublennuyu.html",
+                "description": "Он угрожает ей и портит имущество женщины.",
+                "pubDate": "Thu, 19 Nov 2026 19:04:14 +0300"
+            },
+            {
+                "title": "Ребенок в одних трусах ушел из российского детсада и выбежал на трассу",
+                "link": "https://www.mk.ru/incident/2026/11/19/rebenok-v-odnikh-trusakh-ushel-iz-rossiyskogo-detsada-i-vybezhal-na-trassu.html",
+                "description": "Двухлетний мальчик самостоятельно покинул частный детский сад в Краснодаре и выбежал на проезжую часть",
+                "pubDate": "Thu, 19 Nov 2026 18:59:05 +0300"
+            },
+            {
+                "title": "Изменилось число пострадавших в ходе атаки ВСУ на Курск",
+                "link": "https://www.mk.ru/incident/2026/11/19/izmenilos-chislo-postradavshikh-v-khode-ataki-vsu-na-kursk.html",
+                "description": "В результате повреждения получили почти 100 зданий и 67 автомобилей.",
+                "pubDate": "Thu, 19 Nov 2026 18:57:16 +0300"
+            },
+            {
+                "title": "В российском городе при атаке ВСУ повреждены почти 100 зданий и 67 автомобилей",
+                "link": "https://www.mk.ru/incident/2026/11/19/v-rossiyskom-gorode-pri-atake-vsu-povrezhdeny-pochti-100-zdaniy-i-67-avtomobiley.html",
+                "description": "Количество пострадавших в результате атаки ВСУ на Курск увеличилось до 11 человек.",
+                "pubDate": "Thu, 19 Nov 2026 18:46:03 +0300"
+            },
+            {
+                "title": "В здании поликлиники МГУ возник пожар",
+                "link": "https://www.mk.ru/incident/2026/11/19/v-zdanii-polikliniki-mgu-voznik-pozhar.html",
+                "description": "Возгорание в здании поликлиники МГУ на Воробьевых горах произошло в четверг вечером",
+                "pubDate": "Thu, 19 Nov 2026 18:45:58 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:41+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/social/index.xml",
+        "title": "Все Общество - Московский Комсомолец",
+        "items": [
+            {
+                "title": "Российская спортсменка подарила свою внешность персонажу из GTA VI",
+                "link": "https://www.mk.ru/social/2026/11/19/rossiyskaya-sportsmenka-podarila-svoyu-vneshnost-personazhu-iz-gta-vi.html",
+                "description": "Бодибилдерша из Калининграда Оксана Гришина подарила свою внешность персонажу из GTA VI",
+                "pubDate": "Thu, 19 Nov 2026 20:14:15 +0300"
+            },
+            {
+                "title": "ЕС обещает Азии 623 млн евро, но денег может не быть",
+                "link": "https://www.mk.ru/social/2026/11/19/es-obeshhaet-azii-623-mln-evro-no-deneg-mozhet-ne-byt.html",
+                "description": "Евросоюз объявил о намерении направить 623 млн евро на развитие цифровой инфраструктуры стран Центральной Азии. Об этом сообщает EADaily со ссылкой на «Восточный экспресс 24». ",
+                "pubDate": "Thu, 19 Nov 2026 19:45:45 +0300"
+            },
+            {
+                "title": "Москвичей предупредили о сильном тумане",
+                "link": "https://www.mk.ru/social/2026/11/19/moskvichey-predupredili-o-silnom-tumane.html",
+                "description": "Жителей и гостей столицы предупредили о тумане, который может осложнить движение на дорогах",
+                "pubDate": "Thu, 19 Nov 2026 19:39:24 +0300"
+            },
+            {
+                "title": "Сестры убитого дочерьми Михаила Хачатуряна против прекращения дела",
+                "link": "https://www.mk.ru/social/2026/11/19/sestry-ubitogo-dochermi-mikhaila-khachaturyana-protiv-prekrashheniya-dela.html",
+                "description": "Потерпевшие по делу об убийстве Михаила Хачатуряна — сестры покойного Марина и Наира - возражают против прекращения уголовного преследования его дочерей",
+                "pubDate": "Thu, 19 Nov 2026 19:20:40 +0300"
+            },
+            {
+                "title": "Казак, «начальник стада»: самые необычные российско-китайские переговоры",
+                "link": "https://www.mk.ru/social/2026/11/19/kazak-nachalnik-stada-samye-neobychnye-rossiysko-kitayskie-peregovory.html",
+                "description": "Конечно в эти дни, когда на форуме АТЭС проходят важнейшие встречи и лидеров великих держав, всеобщее внимание привлекает общение и переговоры первых лиц России и Китая",
+                "pubDate": "Thu, 19 Nov 2026 19:10:05 +0300"
+            },
+            {
+                "title": "Лучших тюремщиков занесут в Книгу почета",
+                "link": "https://www.mk.ru/social/2026/11/19/luchshikh-tyuremshhikov-zanesut-v-knigu-pocheta.html",
+                "description": "Правила занесения фамилий лучших сотрудников в ведомственную Книгу почета разработало Министерство юстиции РФ",
+                "pubDate": "Thu, 19 Nov 2026 18:03:58 +0300"
+            },
+            {
+                "title": "Экономист и психолог предупредили о глобальных опасностях GTA-6",
+                "link": "https://www.mk.ru/social/2026/11/19/ekonomist-i-psikholog-predupredili-o-globalnykh-opasnostyakh-gta-6.html",
+                "description": "Что вы знаете про американские города Либерти-Сити или Вайс-Сити? Ничего? Тогда, по всей видимости, вы не фанат компьютерной игры GTA (Grand Theft Auto), в которую рубятся сотни миллионов любителей по всему земному шару, начиная с 1997 года",
+                "pubDate": "Thu, 19 Nov 2026 17:58:24 +0300"
+            },
+            {
+                "title": "Россиянам рассказали об опасном периоде после инфицирования гриппом",
+                "link": "https://www.mk.ru/social/2026/11/19/rossiyanam-rasskazali-ob-opasnom-periode-posle-inficirovaniya-grippom.html",
+                "description": "Эксперт Елена Мескина в беседе с Life.ru рассказала, какой период считается опасным после того, как ребенок заразился гриппом. ",
+                "pubDate": "Thu, 19 Nov 2026 17:58:02 +0300"
+            },
+            {
+                "title": "Маленькую россиянку экстренно отправили в Польшу из-за нападения обезьяны",
+                "link": "https://www.mk.ru/social/2026/11/19/malenkuyu-rossiyanku-ekstrenno-otpravili-v-polshu-iz-za-napadeniya-obezyany.html",
+                "description": "Семье из Калининграда пришлось искать вакцину от бешенства в Польше после того, как их дочь пострадала от обезьяны во время отдыха на Бали",
+                "pubDate": "Thu, 19 Nov 2026 17:48:35 +0300"
+            },
+            {
+                "title": "С Канье Уэста потребовали миллионы за ИИ-песни",
+                "link": "https://www.mk.ru/social/2026/11/19/s-kane-uesta-potrebovali-milliony-za-ii-pesni.html",
+                "description": "Американский рэпер Канье Уэст оказался ответчиком по иску на 220 тысяч долларов (более 18 млн рублей) из-за использования искусственного интеллекта при записи альбома Vultures 2",
+                "pubDate": "Thu, 19 Nov 2026 17:40:23 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:43+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/culture/index.xml",
+        "title": "Все Культура - Московский Комсомолец",
+        "items": [
+            {
+                "title": "В столичном театре поставят спектакль по стихотворениям Якубовича",
+                "link": "https://www.mk.ru/culture/2026/11/19/v-stolichnom-teatre-postavyat-spektakl-po-stikhotvoreniyam-yakubovicha.html",
+                "description": "На творческой встрече с поклонниками Леонид Якубович рассказал, что в одном из театров Москвы всерьез рассматривается идея спектакля, в основу которого лягут стихотворения артиста",
+                "pubDate": "Thu, 19 Nov 2026 19:43:31 +0300"
+            },
+            {
+                "title": "Ненаступившие 80: в Москве почтили память писателя Юрия Кувалдина",
+                "link": "https://www.mk.ru/culture/2026/11/19/nenastupivshie-80-v-moskve-pochtili-pamyat-pisatelya-yuriya-kuvaldina.html",
+                "description": "В стенах столичного музея-квартиры Алексея Николаевича Толстого в эти минуты вспоминают писателя, публициста, главного редактора журнала &#34;Наша улица&#34; Юрия Кувалдина (имя при рождении - Юрий Трифонов)",
+                "pubDate": "Thu, 19 Nov 2026 19:40:48 +0300"
+            },
+            {
+                "title": "Звезда «Бригады» Екатерина Гусева раскрыла, кем выросли её дети: «Не могу помочь»",
+                "link": "https://www.mk.ru/culture/2026/11/19/zvezda-brigady-ekaterina-guseva-raskryla-kem-vyrosli-eyo-deti-ne-mogu-pomoch.html",
+                "description": "Звезда культового сериала «Бригада» Екатерина Гусева никогда особо не рассказывала о личной жизни",
+                "pubDate": "Thu, 19 Nov 2026 17:00:38 +0300"
+            },
+            {
+                "title": "В Москве открылась исчерпывающая выставка о российском отрезке приключений Винни Пуха",
+                "link": "https://www.mk.ru/culture/2026/11/19/v-moskve-otkrylas-ischerpyvayushhaya-vystavka-o-rossiyskom-otrezke-priklyucheniy-vinni-pukha.html",
+                "description": "Если глубоко копнуть, первоисточник всего, что окружает нас в современной жизни, можно найти в русской классике или фольклоре, а если не там, то в античной литературе",
+                "pubDate": "Thu, 19 Nov 2026 16:19:00 +0300"
+            },
+            {
+                "title": "Какой могла быть песенка Винни-Пуха из культового мультика СССР",
+                "link": "https://www.mk.ru/culture/2026/11/19/kakoy-mogla-byt-pesenka-vinni-pukha-iz-kultovogo-multika-sssr.html",
+                "description": "В 2026-м году отмечается 100-летие героя культовой сказки Алана Милна — к знаковой дате в отделе Гослитмузея в Трубниковском переулке открылся проект «С днем рождения, Винни-Пух»",
+                "pubDate": "Thu, 19 Nov 2026 16:01:56 +0300"
+            },
+            {
+                "title": "От террора к сказке: две музыкальные премьеры представили в Московской филармонии",
+                "link": "https://www.mk.ru/culture/2026/11/19/ot-terrora-k-skazke-dve-muzykalnye-premery-predstavili-v-moskovskoy-filarmonii.html",
+                "description": "18 ноября состоялся концерт, завершивший фестиваль VIVACELLO, кстати, XVIII по счету — совсем взрослый и совершеннолетний",
+                "pubDate": "Thu, 19 Nov 2026 15:27:07 +0300"
+            },
+            {
+                "title": "Умер режиссер монтажа Иван Лебедев: недавно он смонтировал фильм о маме Балабанова",
+                "link": "https://www.mk.ru/culture/2026/11/19/umer-rezhisser-montazha-ivan-lebedev-nedavno-on-smontiroval-film-o-mame-balabanova.html",
+                "description": "19 ноября скончался один из лучших режиссером монтажа Иван Лебедев",
+                "pubDate": "Thu, 19 Nov 2026 15:21:31 +0300"
+            },
+            {
+                "title": "Умер режиссёр монтажа «Бумера» и «Аритмии» Иван Лебедев",
+                "link": "https://www.mk.ru/culture/2026/11/19/umer-rezhissyor-montazha-bumera-i-aritmii-ivan-lebedev.html",
+                "description": "Режиссёр монтажа Иван Лебедев умер в возрасте 62 лет",
+                "pubDate": "Thu, 19 Nov 2026 15:13:11 +0300"
+            },
+            {
+                "title": "В Ленкоме продолжаются следственные действия",
+                "link": "https://www.mk.ru/culture/2026/11/19/v-lenkome-prodolzhayutsya-sledstvennye-deystviya.html",
+                "description": "Театральная Москва взволнована тем, что происходит в одном из успешных театра Москвы - «Ленкоме» Марка Захарова",
+                "pubDate": "Thu, 19 Nov 2026 13:32:08 +0300"
+            },
+            {
+                "title": "Продюсер обратился в полицию из-за поддельных билетов на концерты Димы Билана",
+                "link": "https://www.mk.ru/social/2026/11/19/prodyuser-obratilsya-v-policiyu-iz-za-poddelnykh-biletov-na-koncerty-dimy-bilana.html",
+                "description": "В Казахстане выявили случаи продажи фальшивых билетов на выступления российского певца Димы Билана",
+                "pubDate": "Thu, 19 Nov 2026 00:52:23 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:44+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/science/index.xml",
+        "title": "Все Наука - Московский Комсомолец",
+        "items": [
+            {
+                "title": "Раскрыта тайна определённого гена: сдерживает нарушения мозга",
+                "link": "https://www.mk.ru/science/2026/11/19/raskryta-tayna-opredelyonnogo-gena-sderzhivaet-narusheniya-mozga.html",
+                "description": "Обнаружен ген, связанный с риском болезни Альцгеймера, он способен иммунными клеткам мозга сдерживать токсичные бляшки",
+                "pubDate": "Thu, 19 Nov 2026 14:38:03 +0300"
+            },
+            {
+                "title": "Учёные нашли способ усилить очистку мозга от деменции",
+                "link": "https://www.mk.ru/science/2026/11/19/uchyonye-nashli-sposob-usilit-ochistku-mozga-ot-demencii.html",
+                "description": "Точные всплески шума впервые показали причинную связь между нейронной активностью и системой очистки мозга, а не просто корреляцию",
+                "pubDate": "Thu, 19 Nov 2026 13:18:55 +0300"
+            },
+            {
+                "title": "Выявлена способность остатков пищи между зубами следить за обменом веществ",
+                "link": "https://www.mk.ru/science/2026/11/19/vyyavlena-sposobnost-ostatkov-pishhi-mezhdu-zubami-sledit-za-obmenom-veshhestv.html",
+                "description": "Команда Гонконгского университета науки создала устройство в форме обычной зубной нити с микрожидкостной камерой и биосенсорами, которое собирает десневую щелевую жидкость и за несколько минут измеряет глюкозу, мочевую кислоту, перекись водорода и pH, передавая данные на смартфон",
+                "pubDate": "Thu, 19 Nov 2026 13:13:40 +0300"
+            },
+            {
+                "title": "Voyager 1 удалился от Земли на один световой день",
+                "link": "https://www.mk.ru/science/2026/11/19/voyager-1-udalilsya-ot-zemli-na-odin-svetovoy-den.html",
+                "description": "Межпланетная станция Voyager 1 стала первым искусственным объектом, удалившимся от Земли на расстояние одного светового дня",
+                "pubDate": "Thu, 19 Nov 2026 09:28:29 +0300"
+            },
+            {
+                "title": "Найденное в болоте тело было обезглавлено более 2000 лет назад",
+                "link": "https://www.mk.ru/science/2026/11/19/naydennoe-v-bolote-telo-bylo-obezglavleno-bolee-2000-let-nazad.html",
+                "description": "Тело, найденное в ирландских болотах, было обезглавлено более 2000 лет назад, установил коронер",
+                "pubDate": "Thu, 19 Nov 2026 09:28:05 +0300"
+            },
+            {
+                "title": "Учёные озвучили угрозу слишком узкой талии",
+                "link": "https://www.mk.ru/science/2026/11/18/uchyonye-ozvuchili-ugrozu-slishkom-uzkoy-talii.html",
+                "description": "И крайне малый, и чрезмерно большой обхват талии повышают вероятность гибели, причем это верно вне зависимости от возраста и ИМТ",
+                "pubDate": "Wed, 18 Nov 2026 22:27:13 +0300"
+            },
+            {
+                "title": "Учёные выяснили необычный факт об орлах",
+                "link": "https://www.mk.ru/science/2026/11/18/uchyonye-vyyasnili-neobychnyy-fakt-ob-orlakh.html",
+                "description": "Исследователи обнаружили в пустыне Сахара на территории Чада останки приматов, что позволило им сделать вывод: орлы способны охотиться на весьма массивную добычу, такую как павианы весом около 26 килограммов",
+                "pubDate": "Wed, 18 Nov 2026 20:57:53 +0300"
+            },
+            {
+                "title": "Найден виновник плохого сна пожилых людей",
+                "link": "https://www.mk.ru/science/2026/11/18/nayden-vinovnik-plokhogo-sna-pozhilykh-lyudey.html",
+                "description": "Специалисты Массачусетского технологического института выяснили, почему с возрастом сон становится хуже. У пожилых людей во время сна слабеют волны спинномозговой жидкости, которая выводит продукты распада из мозга. Работа опубликована в Nature Aging.",
+                "pubDate": "Wed, 18 Nov 2026 19:26:58 +0300"
+            },
+            {
+                "title": "Такого российские ученые еще не находили: обнаружены кости съеденных детенышей динозавров",
+                "link": "https://www.mk.ru/science/2026/11/18/takogo-rossiyskie-uchenye-eshhe-ne-nakhodili-obnaruzheny-kosti-sedennykh-detenyshey-dinozavrov.html",
+                "description": "Столь необычной находки у российских палеонтологов еще не было: остатки скелетов пситтакозавра сибирского были обнаружены ими в виде включений в окаменевших копролитах другого древнего существа, по всей видимости, млекопитающего",
+                "pubDate": "Wed, 18 Nov 2026 18:21:29 +0300"
+            },
+            {
+                "title": "В движениях тела нашли признаки болезней печени и проблем со сном",
+                "link": "https://www.mk.ru/science/2026/11/18/v-dvizheniyakh-tela-nashli-priznaki-bolezney-pecheni-i-problem-so-snom.html",
+                "description": "Проанализировав записи движений 3328 взрослых, исследователи обучили ИИ-модель, которая выявила статистически значимые связи показателей здоровья, включая жёсткость печени, апноэ во сне, бессонницу, диабет и депрессию",
+                "pubDate": "Wed, 18 Nov 2026 17:33:19 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:45+00:00"
+    },
+    {
+        "source": "https://www.mk.ru/rss/sport/index.xml",
+        "title": "Все Спорт - Московский Комсомолец",
+        "items": [
+            {
+                "title": "Орловские пауэрлифтеры разыграли медали областных соревнований",
+                "link": "https://www.mk-orel.ru/sport/2026/11/19/orlovskie-pauerliftery-razygrali-medali-oblastnykh-sorevnovaniy.html",
+                "description": "В спорткомплексе «Атлант» состоялись чемпионат и первенство Орловской области по пауэрлифтингу",
+                "pubDate": "Thu, 19 Nov 2026 20:00:03 +0300"
+            },
+            {
+                "title": "Юные футболисты Малоярославца взяли Кубок черноморского турнира",
+                "link": "https://www.mkkaluga.ru/sport/2026/11/19/yunye-futbolisty-maloyaroslavca-vzyali-kubok-chernomorskogo-turnira.html",
+                "description": "Там прошёл международный детско‑юношеский футбольный турнир «Осенний Кубок Чёрного моря — 2026»",
+                "pubDate": "Thu, 19 Nov 2026 19:57:32 +0300"
+            },
+            {
+                "title": "Алименты по-новому: как дело Матвея Сафонова изменит взыскание четверти дохода для всех",
+                "link": "https://www.mk.ru/sport/2026/11/19/alimenty-po-novomu-kak-delo-matveya-safonova-izmenit-vzyskanie-chetverti-dokhoda-dlya-vsekh.html",
+                "description": "На этой неделе, 17 ноября, Конституционный суд вынес решение по запросу российского голкипера «ПСЖ» Матвея Сафонова. Казалось бы, история одного вратаря, но на деле она закладывает новый прецедент для всех высокооплачиваемых отцов в России. Суды больше не смогут просто так назначать четверть дохода в качестве алиментов, не разбираясь, сколько денег ребёнку действительно нужно. Но тут есть важный нюанс: правило работает только для тех, кто много зарабатывает. ",
+                "pubDate": "Thu, 19 Nov 2026 19:36:48 +0300"
+            },
+            {
+                "title": "Олег Яровинский стал новым спортивным директором калининградской «Балтики»",
+                "link": "https://www.mk-kaliningrad.ru/sport/2026/11/19/oleg-yarovinskiy-stal-novym-sportivnym-direktorom-kaliningradskoy-baltiki.html",
+                "description": "Олег Яровинский возглавил спортивное направление калининградской «Балтики». Его назначили новым спортивным директором клуба. Об этом сообщили в пресс-службе команды.",
+                "pubDate": "Thu, 19 Nov 2026 19:11:15 +0300"
+            },
+            {
+                "title": "В НАО открыли сезон соревнований по плаванию",
+                "link": "https://www.mk-nao.ru/sport/2026/11/19/v-nao-otkryli-sezon-sorevnovaniy-po-plavaniyu.html",
+                "description": "Во Дворце спорта «Норд» с 16 по 20 ноября проходят соревнования по плаванию, которые традиционно открывают спортивный сезон в Ненецком автономном округе",
+                "pubDate": "Thu, 19 Nov 2026 19:10:34 +0300"
+            },
+            {
+                "title": "Серпуховская команда «Легион» победила в матче по футзалу",
+                "link": "https://serp.mk.ru/sport/2026/11/19/serpukhovskaya-komanda-legion-pobedila-v-matche-po-futzalu.html",
+                "description": "В рамках Первенства «ДС Импульс» по футзалу на Большой спортивной арене Дворца спорта «Импульс» (СШ «Протвино») состоялась напряжённая встреча между командами «Легион» (Серпухов) и «Боевое братство» (Протвино). Матч завершился со счётом 2:1 в пользу серпуховской команды.",
+                "pubDate": "Thu, 19 Nov 2026 19:00:55 +0300"
+            },
+            {
+                "title": "Юные спортсмены Чувашии выступят на соревнованиях спасателей в Казани",
+                "link": "https://cheb.mk.ru/sport/2026/11/19/yunye-sportsmeny-chuvashii-vystupyat-na-sorevnovaniyakh-spasateley-v-kazani.html",
+                "description": "Команда из Чувашии принимает участие в соревнованиях по пожарно-спасательному спорту памяти Н",
+                "pubDate": "Thu, 19 Nov 2026 18:49:09 +0300"
+            },
+            {
+                "title": "Вологжанка взяла серебро Кубка России по воздушной гимнастике",
+                "link": "https://vologda.mk.ru/sport/2026/11/19/vologzhanka-vzyala-serebro-kubka-rossii-po-vozdushnoy-gimnastike.html",
+                "description": "В Москве прошли всероссийские соревнования по воздушной гимнастике, где вступило порядка 240 спортсменов из 40 регионов страны",
+                "pubDate": "Thu, 19 Nov 2026 18:46:30 +0300"
+            },
+            {
+                "title": "Команда «Кинеф-2» сыграет с москвичками в матче Евразийской Ватерпольной Лиги",
+                "link": "https://www.mk-lenobl.ru/sport/2026/11/19/komanda-kinef-2-sygraet-s-moskvichkami-v-matche-evraziyskoy-vaterpolnoy-ligi.html",
+                "description": "В субботу, 21 ноября, в Москве пройдут матч 6-го тура в рамках Евразийской Ватерпольной Лиги. Соперницами ленинградской команды «Кинеф-2» станет московский клуб «Скиф-Восток».",
+                "pubDate": "Thu, 19 Nov 2026 18:45:07 +0300"
+            },
+            {
+                "title": "Курянки привезли золото и серебро с турнира по художественной гимнастике",
+                "link": "https://chr.mk.ru/sport/2026/11/19/kuryanki-privezli-zoloto-i-serebro-s-turnira-po-khudozhestvennoy-gimnastike.html",
+                "description": "Воспитанницы спортивной школы № 2 Курска успешно выступили на XVII турнире по художественной гимнастике «AMADEUS CUP», завоевав две медали.",
+                "pubDate": "Thu, 19 Nov 2026 18:38:39 +0300"
+            }
+        ],
+        "updated": "2026-11-19T17:15:46+00:00"
     }
 ]
