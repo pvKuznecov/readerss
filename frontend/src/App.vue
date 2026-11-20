@@ -9,7 +9,7 @@
     const loading = ref(true);
     const error = ref(null);
     const SourceTitle = ref(null);
-    const ShowFilters = ref(true);
+    const ShowFilters = ref(false);
     const SoursSelectors = ref(JSON.parse(localStorage.getItem('selectedSources') || '[]'));
     const readLinks = ref(new Set(JSON.parse(localStorage.getItem('readLinks') || '[]')));
 
@@ -105,7 +105,12 @@
 
     function getSourceTitle(sourceUrl) {
         const feed = feeds.value.find((f) => f.source === sourceUrl);
-        return feed ? feed.title : sourceUrl;
+        if (feed) return feed.title;
+        try {
+            return new URL(sourceUrl).hostname.replace('www.', '');
+        } catch {
+            return sourceUrl;
+        }
     }
 
     function formatDate(str) {
