@@ -7,7 +7,13 @@
         </span>
     </div>
     <div v-if="ShowFilters" class="filter-panel">
-        <i>Источники:</i>
+        <div class="tpanel">
+            <i>Источники:</i>
+            <div style="display: flex; gap: 5px;">
+                <button @click="select_null()" title="Очистить"><i class="bi bi-trash3-fill"></i></button>
+                <button @click="select_all()" title="Выбрать всё"><i class="bi bi-check-all"></i></button>
+            </div>            
+        </div>        
         <div v-for="stype in Object.keys(soursesdata)" class="stype-area">
             <b>{{getTypeTitle(stype)}}:</b>
             <label v-for="sEl in soursesdata[stype].sort()">

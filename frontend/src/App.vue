@@ -66,6 +66,20 @@
         })
     }
 
+    function select_all() {
+        const all = [];
+        for (const stype of Object.keys(soursesdata)) {
+            for (const url of soursesdata[stype]) {
+                all.push(getSourceTitle(url));
+            }
+        }
+        SoursSelectors.value = all;
+    }
+
+    function select_null() {
+        SoursSelectors.value = [];
+    }
+
     // при любом изменении — сохраняем в localstorage
     watch(SoursSelectors, (val) => {
         localStorage.setItem('selectedSources', JSON.stringify(val));
