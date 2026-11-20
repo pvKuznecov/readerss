@@ -1,12 +1,12 @@
 body { padding: 0; margin: 0; }
+
 .app {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
     align-items: center;
     gap: 5px;
+    min-height: 100vh;          /* на всю высоту экрана */
     max-height: 100vh;
-    overflow: hidden;
     background: linear-gradient(90deg, rgb(0, 24, 16), rgb(25, 36, 32), rgb(0, 24, 16));
     color: white;
     font-family: system-ui, sans-serif; }
@@ -21,13 +21,17 @@ body { padding: 0; margin: 0; }
     width: 90%;
     max-width: 1600px;
     height: 40px;
+    flex-shrink: 0;             /* не сжимаются */
     text-shadow: 1px 2px black;
     border-left: 2px solid rgba(3, 97, 73, 0.5);
-    border-right: 2px solid rgba(3, 97, 73, 0.5);
+    border-right: 2px solid rgba(79, 97, 92, 0.5);
     background: linear-gradient(90deg, rgb(0, 83, 53), rgb(10, 138, 91), rgb(0, 83, 53));
     box-shadow: 1px 2px 4px black; }
 .rheader { border-radius: 0 0 6px 6px; border-bottom: 1px solid rgba(3, 97, 73, 0.5); }
-.rfooter { border-radius: 6px 6px 0 0; border-top: 1px solid rgba(3, 97, 73, 0.5); }
+.rfooter {
+    justify-content: center;
+    border-radius: 6px 6px 0 0;
+    border-top: 1px solid rgba(3, 97, 73, 0.5); }
 
 .rheader h1 { font-weight: 700; font-size: 22px; }
 
@@ -40,10 +44,46 @@ body { padding: 0; margin: 0; }
     padding: 3px 5px;
     border: 1px solid rgb(4, 163, 105);
     background: linear-gradient(180deg, rgb(8, 241, 156), rgb(4, 163, 105), rgb(8, 124, 82));
-    color: rgb(43, 43, 43);
+    color: white;
     cursor: pointer;
     box-shadow: 1px 2px 4px #292929; }
-.rheader button:hover { box-shadow: 1px 2px 4px black; }
+.rheader button:hover { box-shadow: 1px 2px 4px black; color: rgb(43, 43, 43); }
+
+.filter-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 5px 10px;
+    width: 90%;
+    max-width: 1600px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 2px solid rgba(3, 97, 73, 0.5);
+    background: linear-gradient(90deg, rgb(0, 83, 53), rgb(10, 138, 91), rgb(0, 83, 53)); }
+
+.filter-panel-elem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    height: 20px;
+    border: 2px solid rgba(3, 97, 73, 0.5);
+    border-radius: 6px;
+    padding: 3px 5px;
+    box-shadow: 1px 2px 4px #292929;
+    font-size: small; }
+
+.filter-panel i { width: 100%; text-shadow: 1px 2px black; }
+
+.filter-panel-elem label {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px; }
 
 .lent {
     display: flex;
@@ -51,54 +91,86 @@ body { padding: 0; margin: 0; }
     justify-content: flex-start;
     align-items: center;
     gap: 5px;
-    min-width: calc(100vh - 200px);
-    max-width: calc(100vh - 200px);
-    overflow: hidden;
-    overflow-y: auto; }
+    flex: 1;                    /* забирает всё свободное место */
+    width: 90%;                 /* ширина как у хедера */
+    max-width: 1600px;
+    overflow-y: auto; }           /* скроллится только список */
 
-    
-    
-
-
-
-.news { list-style: none; padding: 0; }
+.news {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+ }
 
 .news-item {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     gap: 5px;
-    border-bottom: 1px solid #eee;
+    width: 100%;
+    max-width: 900px;
     padding: 5px 10px 10px 10px;
-    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 10px;
-    background-color: white;
-    border-radius: 6px; }
+    color: white;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.829), rgb(255, 255, 255));
+    border-radius: 6px;
+    box-shadow: 1px 2px 4px #292929; }
 
 .news-item h2 {
     font-size: 1.1rem;
-    margin: 0 0 10px;
-    background: linear-gradient(180deg, rgb(21, 230, 184), rgb(13, 139, 129) ,rgb(12, 146, 199));
+    margin: 0;
+    background: linear-gradient(90deg, rgb(0, 83, 53), rgb(10, 138, 91), rgb(0, 83, 53));
     padding: 3px 5px;
     border-radius: 3px; }
 
-.news-item a {
-    text-decoration: none;
-    color: white;
-    text-shadow: 1px 2px black; }
+.news-item a { text-decoration: none; color: white; }
 .news-item a:hover { text-decoration: underline; }
 
 .meta {
-    font-size: 0.85rem;
-    color: #666;
     display: flex;
-    gap: 1rem;
-    margin-bottom: 0.5rem; }
+    flex: 1;
+    gap: 5px;
+    font-size: small;
+    color: rgb(56, 56, 56); }
 
 .description {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
     margin: 0;
-    color: #333;
-    font-size: 0.95rem;
+    color: rgb(37, 35, 35);
+    font-size: small;
     white-space: pre-line; }
 
-.error { color: #c00; }
+.description img {
+    min-width: 50px;
+    max-width: 200px;
+    border-radius: 3px;
+    margin: 5px;
+    box-shadow: 1px 2px 4px black;
+}
+
+.description a {
+    font-weight: 700;
+    color: green;
+}
+
+.error {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    max-width: 1200px;
+    border-radius: 6px;
+    border: 2px solid rgb(194, 14, 14);
+    padding: 5px 10px;
+    background-color: white;
+    color: rgb(194, 14, 14); }
