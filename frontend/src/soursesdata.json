@@ -3,10 +3,9 @@
         "https://github.blog/feed/"
     ],
     "auto": [
-        "https://www.drom.ru/export/xml/news.rss"   
+        "https://www.drom.ru/export/xml/news.rss"
     ],
     "ithard": [
-        "https://www.igromania.ru/rss/news-hard.rss",
         "https://www.goha.ru/rss/hardware",
         "https://www.goha.ru/rss/industry"
     ],
