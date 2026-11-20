@@ -1,33 +1,41 @@
 <main class="app">
     <div class="rheader">
         <b>ReadeRSS</b>
-        <button title="Выбрать источники" @click="ShowFilters = !ShowFilters"><i class="bi bi-filter-square-fill"></i></button>
+        <span class="rheader-elem">
+            Настройка:
+            <button title="Выбрать источники" @click="ShowFilters = !ShowFilters"><i class="bi bi-filter-square-fill"></i></button>
+        </span>
     </div>
     <div v-if="ShowFilters" class="filter-panel">
         <i>Источники:</i>
-        <div v-for="sVal in Object.keys(SourceTitlesArr).sort()" class="filter-panel-elem">
-            <label>
-                {{sVal}}: 
-                <input type="checkbox" :value="sVal" v-model="SoursSelectors">
+        <div v-for="stype in Object.keys(soursesdata)" class="stype-area">
+            <b>{{getTypeTitle(stype)}}:</b>
+            <label v-for="sEl in soursesdata[stype].sort()">
+                {{getSourceTitle(sEl)}}:
+                <input type="checkbox" :value="getSourceTitle(sEl)" v-model="SoursSelectors">
             </label>
         </div>
-    </div>    
+    </div>
     <div class="lent">
         <p v-if="loading">Загрузка…</p>
         <p v-else-if="error" class="error">Ошибка: {{ error }}</p>
         <p v-else-if="allItems.length === 0"><b>Новостей нет</b></p>
 
         <ul v-else class="news">
-            <li v-for="item in allItemsFilter" :key="item.link" class="news-item">
+            <li v-for="item in allItemsFilter" :key="item.link" class="news-item" :class="{ read: isRead(item.link) }">
                 <div class="meta">
                     <span class="source">{{ item.sourceTitle }}</span>
                     <span class="date">{{ formatDate(item.pubDate) }}</span>
+                    <button @click="toggleRead(item.link)" class="read-toggle">
+                        {{ isRead(item.link) ? '✓' : '○' }}
+                    </button>
                 </div>
                 <h2>
-                    <a :href="item.link" target="_blank" rel="noopener">{{ item.title }}</a>
+                    <a :href="item.link" target="_blank" rel="noopener" @click="toggleRead(item.link)">
+                        {{ item.title }}
+                    </a>
                 </h2>
-                <p v-if="item.description" class="description" v-html="item.description"></p>
-                <!-- <p v-if="item.description" class="description">{{ item.description }}</p> -->
+                <p v-if="item.description" class="description" v-html="safeHtml(item.description)"></p>
             </li>
         </ul>
     </div>    
