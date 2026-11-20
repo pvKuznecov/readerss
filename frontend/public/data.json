@@ -64,24 +64,12 @@
                 "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:11+07:00"
+        "updated": "2026-11-20T03:34:38+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
-            {
-                "title": "В Госдуме предложили расширить основания для получения кредитных каникул",
-                "link": "https://lenta.ru/news/2026/11/20/v-gosdume-predlozhili-rasshirit-osnovaniya-dlya-polucheniya-kreditnyh-kanikul/",
-                "description": "\n    \n  ",
-                "pubDate": "Fri, 20 Nov 2026 06:39:55 +0300"
-            },
-            {
-                "title": "Россия выразила готовность вместе с Турцией обеспечить безопасность судоходства",
-                "link": "https://lenta.ru/news/2026/11/20/rossiya-vyrazila-gotovnost-vmeste-s-turtsiey-obespechit-bezopasnost-sudohodstva/",
-                "description": "\n    \n  ",
-                "pubDate": "Fri, 20 Nov 2026 06:39:33 +0300"
-            },
             {
                 "title": "В Windows нашли скрытую кнопку для зависшего компьютера",
                 "link": "https://lenta.ru/news/2026/11/20/windows-hidden/",
@@ -129,9 +117,21 @@
                 "link": "https://lenta.ru/news/2026/11/20/ovechkin-ustanovil-novyy-rekord-kluba-po-kolichestvu-rezultativnyh-peredach/",
                 "description": "\n    \n  ",
                 "pubDate": "Fri, 20 Nov 2026 05:59:58 +0300"
+            },
+            {
+                "title": "Стало известно об угрозах ВСУ из-за русского языка",
+                "link": "https://lenta.ru/news/2026/11/20/stalo-izvestno-ob-ugrozah-vsu-iz-za-russkogo-yazyka/",
+                "description": "\n    \n  ",
+                "pubDate": "Fri, 20 Nov 2026 05:58:00 +0300"
+            },
+            {
+                "title": "Работу сверхсекретной сети связи нацбезопасности США не смогли восстановить за три дня",
+                "link": "https://lenta.ru/news/2026/11/20/rabotu-sverhsekretnoy-seti-svyazi-natsbezopasnosti-ssha-ne-smogli-vosstanovit-za-tri-dnya/",
+                "description": "\n    \n  ",
+                "pubDate": "Fri, 20 Nov 2026 05:54:52 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:11+07:00"
+        "updated": "2026-11-20T03:34:40+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -198,18 +198,12 @@
                 "pubDate": ""
             }
         ],
-        "updated": "2026-11-20T10:41:12+07:00"
+        "updated": "2026-11-20T03:34:42+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
-            {
-                "title": "В Госдуме предложили расширить основания для получения кредитных каникул",
-                "link": "https://lenta.ru/news/2026/11/20/v-gosdume-predlozhili-rasshirit-osnovaniya-dlya-polucheniya-kreditnyh-kanikul/",
-                "description": "\n    \n  ",
-                "pubDate": "Fri, 20 Nov 2026 06:39:55 +0300"
-            },
             {
                 "title": "Киев обвинили в попытке сорвать переговоры в Шэньчжэне",
                 "link": "https://lenta.ru/news/2026/11/20/kiev-obvinili-v-popytke-sorvat-peregovory-v-shenchzhene/",
@@ -263,9 +257,15 @@
                 "link": "https://lenta.ru/news/2026/11/20/v-rossii-vyskazalis-o-frantsuzah-v-ryadah-vsu/",
                 "description": "\n    \n  ",
                 "pubDate": "Fri, 20 Nov 2026 04:02:00 +0300"
+            },
+            {
+                "title": "Эксперт объяснил планы властей Украины запретить выезд из страны подросткам",
+                "link": "https://lenta.ru/news/2026/11/20/ekspert-ob-yasnil-plany-vlastey-ukrainy-zapretit-vyezd-iz-strany-podrostkam/",
+                "description": "\n    \n  ",
+                "pubDate": "Fri, 20 Nov 2026 03:25:33 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:13+07:00"
+        "updated": "2026-11-20T03:34:45+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/economics/index.xml",
@@ -332,7 +332,7 @@
                 "pubDate": "Wed, 18 Nov 2026 16:17:18 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:14+07:00"
+        "updated": "2026-11-20T03:34:47+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/politics/index.xml",
@@ -399,7 +399,7 @@
                 "pubDate": "Fri, 20 Nov 2026 03:55:51 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:14+07:00"
+        "updated": "2026-11-20T03:34:49+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/incident/index.xml",
@@ -466,7 +466,7 @@
                 "pubDate": "Fri, 20 Nov 2026 01:59:20 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:14+07:00"
+        "updated": "2026-11-20T03:34:50+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/social/index.xml",
@@ -533,7 +533,7 @@
                 "pubDate": "Fri, 20 Nov 2026 04:18:16 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:15+07:00"
+        "updated": "2026-11-20T03:34:51+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/culture/index.xml",
@@ -600,7 +600,7 @@
                 "pubDate": "Thu, 19 Nov 2026 15:21:31 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:15+07:00"
+        "updated": "2026-11-20T03:34:53+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/science/index.xml",
@@ -667,7 +667,7 @@
                 "pubDate": "Wed, 18 Nov 2026 17:33:19 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:15+07:00"
+        "updated": "2026-11-20T03:34:54+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/sport/index.xml",
@@ -734,7 +734,7 @@
                 "pubDate": "Thu, 19 Nov 2026 22:31:54 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:16+07:00"
+        "updated": "2026-11-20T03:34:56+00:00"
     },
     {
         "source": "https://stopgame.ru/rss/rss_news.xml",
@@ -801,7 +801,7 @@
                 "pubDate": "Thu, 19 Nov 2026 15:27:45 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:17+07:00"
+        "updated": "2026-11-20T03:34:57+00:00"
     },
     {
         "source": "https://www.igromania.ru/rss/news.rss",
@@ -868,74 +868,7 @@
                 "pubDate": "Thu, 19 Nov 2026 17:44:45 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:17+07:00"
-    },
-    {
-        "source": "https://www.igromania.ru/rss/news-hard.rss",
-        "title": "Новости - Железные новости",
-        "items": [
-            {
-                "title": "Sony придумала ошейник для глубокого погружения в VR-игры",
-                "link": "https://www.igromania.ru/news/170002/sony-pridumala-oshejnik-dlya-glubokogo-pogruzheniya-v-vr-igryi/",
-                "description": "Sony подала заявку на патент нового устройства — изогнутого ошейника, который должен подавать воздух на игрока. Судя по схемам, представленным в документе, это дополнительный аксессуар для PSVR 2.",
-                "pubDate": "Tue, 17 Nov 2026 12:49:02 +0300"
-            },
-            {
-                "title": "Project Helix станет «идеальной игровой машиной», заявили в Xbox",
-                "link": "https://www.igromania.ru/news/169959/project-helix-stanet-idealnoj-igrovoj-mashinoj-zayavili-v-xbox/",
-                "description": "В цифровом журнале к 25-летию Xbox рассказали о следующем поколении консолей Microsoft. Дизайн гаджета пока не показали, но некоторыми деталями создатели Project Helix всё-таки поделились.",
-                "pubDate": "Mon, 16 Nov 2026 08:36:08 +0300"
-            },
-            {
-                "title": "Valve теперь показывает данные о средней частоте кадров для игр на Steam Deck — это только начало",
-                "link": "https://www.igromania.ru/news/169826/valve-teper-pokazyivaet-dannyie-o-srednej-chastote-kadrov-dlya-igr-na-steam-deck-eto-tolko-nachalo/",
-                "description": "Valve подогнала обладателям Steam Deck полезное нововведение. Теперь они могут просматривать данные о средней частоте кадров при игре на устройстве.",
-                "pubDate": "Tue, 10 Nov 2026 10:55:25 +0300"
-            },
-            {
-                "title": "Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
-                "link": "https://www.igromania.ru/news/169432/novyie-naushniki-playstation-pulse-vyijdut-odnovremenno-s-gta-6/",
-                "description": "Sony объявила, что новые беспроводные наушники PlayStation Pulse (белые и Midnight Black) станут доступны 19 ноября — в день выхода GTA 6 и консоли PlayStation 5 Digital Edition в расцветке Midnight Black в Японии.",
-                "pubDate": "Wed, 21 Oct 2026 18:17:13 +0300"
-            },
-            {
-                "title": "PlayStation 5 Digital Edition в расцветке Midnight Black будут продавать на одном избранном рынке",
-                "link": "https://www.igromania.ru/news/169299/playstation-5-digital-edition-v-rastsvetke-midnight-black-budut-prodavat-na-odnom-izbrannom-ryinke/",
-                "description": "Sony Interactive Entertainment представила консоль PlayStation 5 Digital Edition в новой расцветке — Midnight Black. Продажи стартуют 19 ноября только в Японии.",
-                "pubDate": "Tue, 13 Oct 2026 10:15:00 +0300"
-            },
-            {
-                "title": "Неанонсированная портативная PlayStation обросла дополнительными возможными характеристиками",
-                "link": "https://www.igromania.ru/news/168776/neanonsirovannaya-portativnaya-playstation-obrosla-dopolnitelnyimi-vozmozhnyimi-harakteristikami/",
-                "description": "GameGPU со ссылкой на технологического инсайдера KeplerL2 опубликовал дополненные возможные характеристики неанонсированной портативной PlayStation. Её называют Project Canis или PSP 3.",
-                "pubDate": "Thu, 17 Sep 2026 08:54:49 +0300"
-            },
-            {
-                "title": "Кризис комплектующих не влияет на планы Valve по выпуску Steam Deck 2",
-                "link": "https://www.igromania.ru/news/168730/krizis-komplektuyuschih-ne-vliyaet-na-planyi-valve-po-vyipusku-steam-deck-2/",
-                "description": "Инженер Valve Пьер-Лу Гриффе заявил, что кризис комплектующих не влияет на планы компании по выпуску Steam Deck 2.",
-                "pubDate": "Tue, 15 Sep 2026 09:57:25 +0300"
-            },
-            {
-                "title": "Valve будет продавать Steam Frame от 1059 долларов — в обзорах рассказали о багах и быстром разряде",
-                "link": "https://www.igromania.ru/news/168725/valve-budet-prodavat-steam-frame-ot-1059-dollarov-v-obzorah-rasskazali-o-bagah-i-byistrom-razryade/",
-                "description": "Компания Valve объявила стоимость новой гарнитуры виртуальной реальности Steam Frame: модель с 256 Гбайт памяти — 1059 долларов; модель с 1 Тбайт памяти — 1299 долларов.",
-                "pubDate": "Tue, 15 Sep 2026 08:53:00 +0300"
-            },
-            {
-                "title": "Глава Xbox Аша Шарма: для Project Helix готовится «великолепное семейство устройств»",
-                "link": "https://www.igromania.ru/news/168380/glava-xbox-asha-sharma-dlya-project-helix-helix-gotovitsya-velikolepnoe-semejstvo-ustrojstv/",
-                "description": "Генеральный директор Xbox Аша Шарма в свежем интервью заявила, что для грядущего Project Helix готовится «великолепное семейство устройств».",
-                "pubDate": "Sat, 29 Aug 2026 12:42:00 +0300"
-            },
-            {
-                "title": "Консоли следующего поколения будут продаваться хуже нынешнего, считают аналитики",
-                "link": "https://www.igromania.ru/news/168146/konsoli-sleduyuschego-pokoleniya-budut-prodavatsya-huzhe-nyineshnego-schitayut-analitiki/",
-                "description": "Эксперты Ampere Analysis считают, что PS6 и следующий Xbox (Project Helix) будут сильно уступать текущему поколению консолей по продажам.",
-                "pubDate": "Thu, 20 Aug 2026 14:10:00 +0300"
-            }
-        ],
-        "updated": "2026-11-20T10:41:18+07:00"
+        "updated": "2026-11-20T03:34:59+00:00"
     },
     {
         "source": "https://www.drom.ru/export/xml/news.rss",
@@ -990,18 +923,12 @@
                 "pubDate": "Thu, 19 Nov 2026 16:50:36 +1100"
             }
         ],
-        "updated": "2026-11-20T10:41:19+07:00"
+        "updated": "2026-11-20T03:35:04+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/se/",
         "title": "Спорт-Экспресс. Все новости",
         "items": [
-            {
-                "title": "«Коламбус» на выезде переиграл «Чикаго», Ничушкин набрал одно очко",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/chikago-kolambus-schet-2-4-rezultat-matcha-regulyarnogo-chempionata-nhl-20-noyabrya-2026-goda-2476808/",
-                "description": "«Коламбус» выиграл у «Чикаго» в матче регулярного чемпионата НХЛ — 4:2.",
-                "pubDate": "Fri, 20 Nov 2026 06:36:00 +0300"
-            },
             {
                 "title": "Брылин начал изучать кандидатов в сборную Белоруссии за пределами «Динамо»",
                 "link": "https://www.sport-express.ru/football/belorussiya/news/brylin-nachal-izuchat-kandidatov-v-sbornuyu-belorussii-za-predelami-dinamo-2476756/",
@@ -1055,9 +982,15 @@
                 "link": "https://www.sport-express.ru/hockey/nhl/news/ottava-filadelfiya-schet-5-6-ot-rezultat-matcha-regulyarnogo-chempionata-nhl-20-noyabrya-2026-goda-2476798/",
                 "description": "«Филадельфия» на выезде обыграла «Оттаву» в матче регулярного чемпионата НХЛ — 6:5 ОТ.",
                 "pubDate": "Fri, 20 Nov 2026 05:53:00 +0300"
+            },
+            {
+                "title": "Безголевая серия Овечкина достигла 15 матчей",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/bezgolevaya-seriya-ovechkina-dostigla-15-matchey-2476801/",
+                "description": "Нападающий «Вашингтона» Александр Овечкин не смог забросить шайбу в матче регулярного чемпионата НХЛ с «Баффало» (3:6).",
+                "pubDate": "Fri, 20 Nov 2026 05:50:00 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:19+07:00"
+        "updated": "2026-11-20T03:35:05+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/football/se/",
@@ -1124,7 +1057,7 @@
                 "pubDate": "Thu, 19 Nov 2026 22:35:00 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:19+07:00"
+        "updated": "2026-11-20T03:35:07+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/press/yandex-zen_zozh/",
@@ -1191,7 +1124,7 @@
                 "pubDate": "Wed, 18 Nov 2026 09:00:01 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:20+07:00"
+        "updated": "2026-11-20T03:35:08+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/formula1/se/",
@@ -1258,18 +1191,12 @@
                 "pubDate": "Wed, 18 Nov 2026 07:25:00 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:20+07:00"
+        "updated": "2026-11-20T03:35:09+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/hockey/se/",
         "title": "Спорт-Экспресс. Хоккей",
         "items": [
-            {
-                "title": "«Коламбус» на выезде переиграл «Чикаго», Ничушкин набрал одно очко",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/chikago-kolambus-schet-2-4-rezultat-matcha-regulyarnogo-chempionata-nhl-20-noyabrya-2026-goda-2476808/",
-                "description": "«Коламбус» выиграл у «Чикаго» в матче регулярного чемпионата НХЛ — 4:2.",
-                "pubDate": "Fri, 20 Nov 2026 06:36:00 +0300"
-            },
             {
                 "title": "НХЛ, расписание и результаты 20 ноября: «Вашингтон» проиграл «Баффало», «Тампа» победила «Эдмонтон». Все матчи",
                 "link": "https://www.sport-express.ru/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-20-noyabrya-2026-vashington-baffalo-tampa-edmonton-kalgari-minnesota-2476551/",
@@ -1323,9 +1250,15 @@
                 "link": "https://www.sport-express.ru/hockey/nhl/news/bezgolevaya-seriya-ovechkina-dostigla-15-matchey-2476801/",
                 "description": "Нападающий «Вашингтона» Александр Овечкин не смог забросить шайбу в матче регулярного чемпионата НХЛ с «Баффало» (3:6).",
                 "pubDate": "Fri, 20 Nov 2026 05:50:00 +0300"
+            },
+            {
+                "title": "«Вашингтон» уступил «Баффало», Овечкин набрал одно очко",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-baffalo-schet-3-6-rezultat-matcha-regulyarnogo-chempionata-nhl-20-noyabrya-2026-goda-2476797/",
+                "description": "«Вашингтон» на своем льду проиграл «Баффало» в матче регулярного чемпионата НХЛ — 3:6.",
+                "pubDate": "Fri, 20 Nov 2026 05:47:00 +0300"
             }
         ],
-        "updated": "2026-11-20T10:41:21+07:00"
+        "updated": "2026-11-20T03:35:11+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/news",
@@ -1392,7 +1325,7 @@
                 "pubDate": "Thu, 19 Nov 26 16:00:00 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:21+07:00"
+        "updated": "2026-11-20T03:35:13+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/articles",
@@ -1459,7 +1392,7 @@
                 "pubDate": "Sat, 14 Nov 26 05:00:00 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:22+07:00"
+        "updated": "2026-11-20T03:35:14+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/media",
@@ -1526,7 +1459,7 @@
                 "pubDate": "Sun, 08 Nov 26 12:55:18 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:22+07:00"
+        "updated": "2026-11-20T03:35:16+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mmorpg",
@@ -1593,7 +1526,7 @@
                 "pubDate": "Thu, 19 Nov 26 08:26:23 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:23+07:00"
+        "updated": "2026-11-20T03:35:17+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/videogames",
@@ -1660,7 +1593,7 @@
                 "pubDate": "Thu, 19 Nov 26 12:31:09 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:23+07:00"
+        "updated": "2026-11-20T03:35:19+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/anime",
@@ -1727,7 +1660,7 @@
                 "pubDate": "Thu, 12 Nov 26 17:42:27 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:24+07:00"
+        "updated": "2026-11-20T03:35:20+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/hardware",
@@ -1794,7 +1727,7 @@
                 "pubDate": "Thu, 19 Nov 26 09:18:18 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:24+07:00"
+        "updated": "2026-11-20T03:35:21+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/industry",
@@ -1861,7 +1794,7 @@
                 "pubDate": "Thu, 19 Nov 26 07:56:22 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:25+07:00"
+        "updated": "2026-11-20T03:35:22+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/movies-tvshows",
@@ -1928,7 +1861,7 @@
                 "pubDate": "Mon, 16 Nov 26 11:34:33 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:25+07:00"
+        "updated": "2026-11-20T03:35:24+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mobile-games",
@@ -1995,7 +1928,7 @@
                 "pubDate": "Fri, 13 Nov 26 13:00:00 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:26+07:00"
+        "updated": "2026-11-20T03:35:25+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/media",
@@ -2062,7 +1995,7 @@
                 "pubDate": "Sun, 08 Nov 26 12:55:18 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:26+07:00"
+        "updated": "2026-11-20T03:35:27+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/all-about",
@@ -2129,7 +2062,7 @@
                 "pubDate": "Wed, 11 Nov 26 12:58:00 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:27+07:00"
+        "updated": "2026-11-20T03:35:28+00:00"
     },
     {
         "source": "https://cubiq.ru/news/feed/",
@@ -2196,7 +2129,7 @@
                 "pubDate": "Thu, 12 Nov 2026 13:16:32 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:27+07:00"
+        "updated": "2026-11-20T03:35:30+00:00"
     },
     {
         "source": "https://cubiq.ru/obzory/feed/",
@@ -2263,7 +2196,7 @@
                 "pubDate": "Sun, 01 Nov 2026 11:24:05 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:28+07:00"
+        "updated": "2026-11-20T03:35:31+00:00"
     },
     {
         "source": "https://cubiq.ru/guides/feed/",
@@ -2330,6 +2263,6 @@
                 "pubDate": "Thu, 11 Dec 2025 13:04:01 +0000"
             }
         ],
-        "updated": "2026-11-20T10:41:28+07:00"
+        "updated": "2026-11-20T03:35:33+00:00"
     }
 ]
