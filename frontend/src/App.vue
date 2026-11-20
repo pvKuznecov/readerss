@@ -7,6 +7,8 @@
     const loading = ref(true);
     const error = ref(null);
     const SourceTitle = ref(null);
+    const ShowFilters = ref(true);
+    const SoursSelectors = ref([]);
 
     // Плоский список всех новостей, отсортированный по дате (новые сверху)
     const allItems = computed(() => {
@@ -23,6 +25,13 @@
         }
         return items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
     })
+
+    const allItemsFilter = computed(() => {
+        const res = allItems.value.filter((val) =>
+            SoursSelectors.value.includes(val.sourceTitle)
+        );
+        return res;
+    });
 
     const SourceTitlesArr = computed(() => {
         const items = {};
