@@ -1,0 +1,54 @@
+{
+    "it": [
+        "https://github.blog/feed/"
+    ],
+    "auto": [
+        "https://www.drom.ru/export/xml/news.rss"   
+    ],
+    "ithard": [
+        "https://www.igromania.ru/rss/news-hard.rss",
+        "https://www.goha.ru/rss/hardware",
+        "https://www.goha.ru/rss/industry"
+    ],
+    "sport": [
+        "https://www.mk.ru/rss/sport/index.xml",
+        "https://www.sport-express.ru/services/materials/news/se/",
+        "https://www.sport-express.ru/services/materials/news/football/se/",
+        "https://www.sport-express.ru/services/materials/press/yandex-zen_zozh/",
+        "https://www.sport-express.ru/services/materials/news/formula1/se/",
+        "https://www.sport-express.ru/services/materials/news/hockey/se/"
+    ],
+    "culture": [
+        "https://www.mk.ru/rss/culture/index.xml"
+    ],
+    "science": [
+        "https://www.mk.ru/rss/science/index.xml"
+    ],
+    "video": [
+        "https://www.goha.ru/rss/anime",
+        "https://www.goha.ru/rss/movies-tvshows"
+    ],
+    "news": [
+        "https://lenta.ru/rss/news",
+        "https://lenta.ru/rss/photo",
+        "https://lenta.ru/rss/news/russia",
+        "https://www.mk.ru/rss/economics/index.xml",
+        "https://www.mk.ru/rss/politics/index.xml",
+        "https://www.mk.ru/rss/incident/index.xml",
+        "https://www.mk.ru/rss/social/index.xml",
+        "https://www.goha.ru/rss/all-about"
+    ],
+    "games": [
+        "https://stopgame.ru/rss/rss_news.xml",
+        "https://www.igromania.ru/rss/news.rss",
+        "https://www.goha.ru/rss/news",
+        "https://www.goha.ru/rss/articles",
+        "https://www.goha.ru/rss/mmorpg",
+        "https://www.goha.ru/rss/videogames",
+        "https://cubiq.ru/obzory/feed/",
+        "https://cubiq.ru/guides/feed/",
+        "https://cubiq.ru/news/feed/",
+        "https://www.goha.ru/rss/media",
+        "https://www.goha.ru/rss/mobile-games"
+    ]
+}
