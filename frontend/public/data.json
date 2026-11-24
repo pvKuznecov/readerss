@@ -64,12 +64,30 @@
                 "pubDate": "Thu, 18 Dec 2025 07:51:33 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:44+00:00"
+        "updated": "2026-11-24T17:27:54+00:00"
     },
     {
         "source": "https://cubiq.ru/news/feed/",
         "title": "Новости игровой индустрии 2026: последние новости компьютерных игр",
         "items": [
+            {
+                "title": "Дебора Энн Волл сыграет Фэй в сериале по God of War",
+                "link": "https://cubiq.ru/debora-enn-voll-sygraet-fey-v-seriale-po-god-of-war/",
+                "description": "Актриса исполняет эту же роль в игре God of War Laufey. ",
+                "pubDate": "Tue, 24 Nov 2026 14:18:23 +0000"
+            },
+            {
+                "title": "Разработчики «Ведьмака 4» поделились новыми подробностями проекта",
+                "link": "https://cubiq.ru/razrabotchiki-vedmaka-4-podelilis-novymi-podrobnostyami-proekta/",
+                "description": "По словам авторов игры, смена протагониста скажется на повествовании. ",
+                "pubDate": "Tue, 24 Nov 2026 14:12:11 +0000"
+            },
+            {
+                "title": "Valve запустила голосование за номинантов на «Премию Steam 2026»",
+                "link": "https://cubiq.ru/valve-zapustila-golosovanie-za-nominantov-na-premiyu-steam-2026/",
+                "description": "Предложить свои любимые игры можно в четырнадцати доступных номинациях. ",
+                "pubDate": "Tue, 24 Nov 2026 13:53:59 +0000"
+            },
             {
                 "title": "Дебютный трейлер японского сурвайвал хоррора Ugly Within",
                 "link": "https://cubiq.ru/debyutnyy-treyler-yaponskogo-survayval-horrora-ugly-within/",
@@ -111,27 +129,9 @@
                 "link": "https://cubiq.ru/novyy-treyler-stilnogo-horrora-black-lake/",
                 "description": "Игра выйдет на РС, но пока не имеет даты релиза. ",
                 "pubDate": "Fri, 20 Nov 2026 10:56:45 +0000"
-            },
-            {
-                "title": "Разработчики 1666: Amsterdam готовят первое крупное обновление для игры",
-                "link": "https://cubiq.ru/razrabotchiki-1666-amsterdam-gotovyat-pervoe-krupnoe-obnovlenie-dlya-igry/",
-                "description": "Декабрьское обновление знаменует собой первое крупное расширение возможностей раннего доступа, в котором игрокам предстоит исследовать новые области и получить новые сверхъестественные способности. ",
-                "pubDate": "Fri, 20 Nov 2026 10:49:45 +0000"
-            },
-            {
-                "title": "Для Crusader Kings III вышло дополнение Silk & Silver, посвященное торговле",
-                "link": "https://cubiq.ru/dlya-crusader-kings-iii-vyshlo-dopolnenie-silk-silver-posvyaschennoe-torgovle/",
-                "description": "В этом дополнении игроки смогут возглавить купеческую династию и вместе с ней пройти путь от самых низов до вершин могущества благодаря торговой смекалке, безжалостной политической борьбе и толике удачи.",
-                "pubDate": "Fri, 20 Nov 2026 10:46:21 +0000"
-            },
-            {
-                "title": "Active Matter покоряет новые высоты в обновлении «В небеса»",
-                "link": "https://cubiq.ru/active-matter-pokoryaet-novye-vysoty-v-obnovlenii-v-nebesa/",
-                "description": "Игроков ждут две новые локации для рейдов, смертоносные монстры и боссы, шесть новых образцов огнестрельного оружия, а также новые способы передвижения по полю боя, включая реактивные ранцы, летающие паратрайки и бронетранспортеры.",
-                "pubDate": "Thu, 19 Nov 2026 09:39:36 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:46+00:00"
+        "updated": "2026-11-24T17:27:55+00:00"
     },
     {
         "source": "https://cubiq.ru/obzory/feed/",
@@ -198,12 +198,18 @@
                 "pubDate": "Thu, 05 Nov 2026 14:08:55 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:47+00:00"
+        "updated": "2026-11-24T17:27:56+00:00"
     },
     {
         "source": "https://github.blog/feed/",
         "title": "The GitHub Blog",
         "items": [
+            {
+                "title": "These are the gifts developers will actually want",
+                "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+                "description": "<p>The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/\">These are the gifts developers will actually want</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+                "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000"
+            },
             {
                 "title": "The best things in open source are built together",
                 "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
@@ -257,149 +263,143 @@
                 "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
                 "description": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
                 "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000"
-            },
-            {
-                "title": "Arnis turns any place on Earth into a Minecraft world",
-                "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-                "description": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
-                "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:47+00:00"
+        "updated": "2026-11-24T17:27:56+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
             {
-                "title": "Потерян след почти тысячи насильников",
-                "link": "https://lenta.ru/news/2026/11/24/poteryan-sled-pochti-tysyachi-nasilnikov/",
+                "title": "Обрушившуюся на Москву «Вилку» сняли из космоса",
+                "link": "https://lenta.ru/news/2026/11/24/obrushivshuyusya-na-moskvu-vilku-snyali-iz-kosmosa/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:06:55 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:22:42 +0300"
             },
             {
-                "title": "Последствия обрушившего часть дома взрыва в российском регионе сняли на видео",
-                "link": "https://lenta.ru/news/2026/11/24/posledstviya-obrushivshego-chast-doma-vzryva-v-rossiyskom-regione-snyali-na-video/",
+                "title": "Дикий слон пронзил бивнем туриста в Африке",
+                "link": "https://lenta.ru/news/2026/11/24/dikiy-slon-pronzil-bivnem-turista-v-afrike/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:05:29 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:22:40 +0300"
             },
             {
-                "title": "Туристка обвинила правителя эмирата в Африке в домогательствах",
-                "link": "https://lenta.ru/news/2026/11/24/turistka-obvinila-pravitelya-emirata-v-afrike-v-domogatelstvah/",
+                "title": "Бывшая жена Павла Мамаева попала на обложку иностранного глянца",
+                "link": "https://lenta.ru/news/2026/11/24/byvshaya-zhena-pavla-mamaeva-popala-na-oblozhku-inostrannogo-glyantsa/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:04:10 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:17:47 +0300"
             },
             {
-                "title": "Заподозренная в анорексии дочь Дмитрия Маликова показала результат ежедневных тренировок",
-                "link": "https://lenta.ru/news/2026/11/24/zapodozrennaya-v-anoreksii-doch-dmitriya-malikova-pokazala-rezultat-ezhednevnyh-trenirovok/",
+                "title": "Названа истинная причина спешного возвращения принца Гарри и Меган Маркл в Великобританию",
+                "link": "https://lenta.ru/news/2026/11/24/nazvana-istinnaya-prichina-speshnogo-vozvrascheniya-printsa-garri-i-megan-markl-v-velikobritaniyu/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:02:03 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:14:43 +0300"
             },
             {
-                "title": "Российский боец сбил каской дрон ВСУ",
-                "link": "https://lenta.ru/news/2026/11/24/rossiyskiy-boets-sbil-kaskoy-dron-vsu/",
+                "title": "Лукашенко высказался о встрече с Зеленским в Москве",
+                "link": "https://lenta.ru/news/2026/11/24/lukashenko-vyskazalsya-o-vstreche-s-zelenskim-v-moskve/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:01:11 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:13:00 +0300"
             },
             {
-                "title": "НАСА показало проделанные Curiosity на Марсе скважины",
-                "link": "https://lenta.ru/news/2026/11/24/nasa-pokazalo-prodelannye-curiosity-na-marse-skvazhiny/",
+                "title": "Атаки на российские НПЗ, цены на бензин и 40-дневный план Киева. Путин выступил с рядом заявлений",
+                "link": "https://lenta.ru/news/2026/11/24/long-putin/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:00:54 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:12:00 +0300"
             },
             {
-                "title": "Рэпер Макан дослужился до младшего сержанта",
-                "link": "https://lenta.ru/news/2026/11/24/reper-makan-dosluzhilsya-do-mladshego-serzhanta/",
+                "title": "В России создали защищенный аккумулятор для боевых роботов",
+                "link": "https://lenta.ru/news/2026/11/24/v-rossii-sozdali-zaschischennyy-akkumulyator-dlya-boevyh-robotov/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:58:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:05:00 +0300"
             },
             {
-                "title": "Европе предложили пять вариантов новой архитектуры безопасности с Россией",
-                "link": "https://lenta.ru/news/2026/11/24/evrope-predlozhili-pyat-variantov-novoy-arhitektury-bezopasnosti-s-rossiey/",
+                "title": "В МИД отреагировали на призыв Зеленского найти еще 25 миллиардов евро",
+                "link": "https://lenta.ru/news/2026/11/24/v-mid-otreagirovali-na-prizyv-zelenskogo-nayti-esche-25-milliardov-evro/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:55:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:03:00 +0300"
             },
             {
-                "title": "Узбекистан подтвердил планы ответного матча с Россией",
-                "link": "https://lenta.ru/news/2026/11/24/uzbekistan-podtverdil-plany-otvetnogo-matcha-s-rossiey/",
+                "title": "Российская туристка выпила вино на Бали и лишилась жизни",
+                "link": "https://lenta.ru/news/2026/11/24/rossiyskaya-turistka-vypila-vino-na-bali-i-lishilas-zhizni/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:52:13 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:01:00 +0300"
             },
             {
-                "title": "Шурочкину перевели из реанимации после пожара",
-                "link": "https://lenta.ru/news/2026/11/24/shurochkinu-pereveli-iz-reanimatsii-posle-pozhara/",
+                "title": "Тысячи россиян лишились света",
+                "link": "https://lenta.ru/news/2026/11/24/tysyachi-rossiyan-lishilis-sveta/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:51:54 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:00:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:15:49+00:00"
+        "updated": "2026-11-24T17:27:58+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
             {
-                "title": "Последствия обрушившего часть дома взрыва в российском регионе сняли на видео",
-                "link": "https://lenta.ru/news/2026/11/24/posledstviya-obrushivshego-chast-doma-vzryva-v-rossiyskom-regione-snyali-na-video/",
+                "title": "Атаки на российские НПЗ, цены на бензин и 40-дневный план Киева. Путин выступил с рядом заявлений",
+                "link": "https://lenta.ru/news/2026/11/24/long-putin/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 09:05:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 20:12:00 +0300"
             },
             {
-                "title": "В Минобороны сделали заявление после атаки сотен беспилотников на Москву и Подмосковье",
-                "link": "https://lenta.ru/news/2026/11/24/v-minoborony-sdelali-zayavlenie-posle-ataki-soten-bespilotnikov-na-moskvu-i-podmoskovie/",
+                "title": "Путин призвал усилить защиту объектов топливно-энергетического комплекса",
+                "link": "https://lenta.ru/news/2026/11/24/putin-prizval-usilit-zaschitu-ob-ektov-toplivno-energeticheskogo-kompleksa/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:40:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 19:14:00 +0300"
             },
             {
-                "title": "Украина лишилась военных грузов после российской операции в Черном море",
-                "link": "https://lenta.ru/news/2026/11/24/ukraina-lishilas-voennyh-gruzov-posle-rossiyskoy-operatsii-v-chernom-more/",
+                "title": "Путин заявил о неизбежности ответа после ударов ВСУ по России",
+                "link": "https://lenta.ru/news/2026/11/24/putin-zayavil-o-neizbezhnosti-otveta-posle-udarov-vsu-po-rossii/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:28:18 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:56:00 +0300"
             },
             {
-                "title": "За ночь Украина выпустила по Москве и Подмосковью сотни беспилотников",
-                "link": "https://lenta.ru/news/2026/11/24/za-noch-ukraina-vypustila-po-moskve-i-podmoskovyu-sotni-bespilotnikov/",
+                "title": "Кадыров сделал заявление о завершении СВО",
+                "link": "https://lenta.ru/news/2026/11/24/kadyrov-sdelal-zayavlenie-o-zavershenii-svo/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:25:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:55:00 +0300"
             },
             {
-                "title": "Армия России провела военную операцию под Черниговом",
-                "link": "https://lenta.ru/news/2026/11/24/armiya-rossii-provela-voennuyu-operatsiyu-pod-chernigovom/",
+                "title": "Путин сделал заявление после атак ВСУ на российские нефтеперерабатывающие заводы",
+                "link": "https://lenta.ru/news/2026/11/24/putin-sdelal-zayavlenie-posle-atak-vsu-na-rossiyskie-neftepererabatyvayuschie-zavody/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:15:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:53:00 +0300"
             },
             {
-                "title": "Над российским регионом сбили более полусотни дронов за ночь",
-                "link": "https://lenta.ru/news/2026/11/24/nad-rossiyskim-regionom-sbili-bolee-polusotni-dronov-za-noch/",
+                "title": "Кинолог назвал связанную с собакой Усольцевых версию их исчезновения",
+                "link": "https://lenta.ru/news/2026/11/24/kinolog-nazval-svyazannuyu-s-sobakoy-usoltsevyh-versiyu-ih-ischeznoveniya/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 08:09:44 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:41:00 +0300"
             },
             {
-                "title": "В российской пятиэтажке произошел взрыв газа. Один человек погиб, СК возбудил уголовное дело",
-                "link": "https://lenta.ru/news/2026/11/24/long-v-rossiyskoy-pyatietazhke-proizoshel-vzryv-gaza-odin-chelovek-pogib-sk-vozbudil-ugolovnoe-delo/",
+                "title": "В Москве заработает единственный в России мультимедийный каток",
+                "link": "https://lenta.ru/news/2026/11/24/katok/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 07:58:00 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:24:41 +0300"
             },
             {
-                "title": "Собянин сообщил о летевших на Москву и сбитых беспилотниках",
-                "link": "https://lenta.ru/news/2026/11/24/sobyanin-soobschil-o-letevshih-na-moskvu-i-sbityh-bespilotnikah/",
+                "title": "Раскрыты подробности о военной операции ВС России в Черном море",
+                "link": "https://lenta.ru/news/2026/11/24/raskryty-podrobnosti-o-voennoy-operatsii-vs-rossii-v-chernom-more/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 07:55:42 +0300"
+                "pubDate": "Tue, 24 Nov 2026 18:05:00 +0300"
             },
             {
-                "title": "При взрыве газа в пятиэтажке на Алтае погиб человек",
-                "link": "https://lenta.ru/news/2026/11/24/pri-vzryve-gaza-v-pyatietazhke-na-altae-pogib-chelovek/",
+                "title": "Российские войска ударили по связанным с военной промышленностью Украины объектам",
+                "link": "https://lenta.ru/news/2026/11/24/rossiyskie-voennye-udarili-po-svyazannym-s-voennoy-promyshlennostyu-ukrainy-ob-ektam/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 07:27:48 +0300"
+                "pubDate": "Tue, 24 Nov 2026 17:54:00 +0300"
             },
             {
-                "title": "В Госдуме предложили изменить правила выхода на работу из-за непогоды",
-                "link": "https://lenta.ru/news/2026/11/24/v-gosdume-predlozhili-izmenit-pravila-vyhoda-na-rabotu-iz-za-nepogody/",
+                "title": "В России ответили на слова Зеленского о плане Трампа заключить мир на Украине до января",
+                "link": "https://lenta.ru/news/2026/11/24/v-rossii-otvetili-na-slova-zelenskogo-o-plane-trampa-zaklyuchit-mir-na-ukraine-do-yanvarya/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 07:15:50 +0300"
+                "pubDate": "Tue, 24 Nov 2026 17:39:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:15:50+00:00"
+        "updated": "2026-11-24T17:27:59+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -466,129 +466,129 @@
                 "pubDate": ""
             }
         ],
-        "updated": "2026-11-24T06:15:52+00:00"
+        "updated": "2026-11-24T17:28:00+00:00"
     },
     {
         "source": "https://stopgame.ru/rss/rss_news.xml",
         "title": "Игровые новости от StopGame",
         "items": [
             {
-                "title": "СМИ: Microsoft хотела отказаться от платного мультиплеера на Xbox Helix",
-                "link": "https://stopgame.ru/newsdata/73609/smi_microsoft_hotela_otkazatsya_ot_platnogo_multipleera_na_xbox_helix",
-                "description": "Издание Windows Central со ссылкой на свои источники сообщило, что изначально Microsoft планировала сделать Xbox Helix полноценным гибридом консоли и игрового ПК. Устройство должно было запускать игры для Windows, поддерживать сторонние магазины вроде Steam и позволять играть по Сети без подписки. Однако смена руководства XBOX, рост цен на комплектующие и пересмотр стратегии компании могут помешать этим планам.… […]",
-                "pubDate": "Tue, 24 Nov 2026 00:57:49 +0300"
+                "title": "«Готика 3» вышла на PlayStation 5 и Xbox Series",
+                "link": "https://stopgame.ru/newsdata/73621/gotika_3_vyshla_na_playstation_5_i_xbox_series",
+                "description": "Компания THQ Nordic продолжает свою работу по портированию классической трилогии Gothic на консоли Sony и Microsoft. Сегодня состоялся релиз заключительной Gothic 3 Classic для PlayStation 5 и Xbox Series.… […]",
+                "pubDate": "Tue, 24 Nov 2026 19:18:06 +0300"
             },
             {
-                "title": "Синдзи Миками хотел бы, чтобы ИИ вообще не существовало",
-                "link": "https://stopgame.ru/newsdata/73608/sindzi_mikami_hotel_by_chtoby_ii_voobsche_ne_suschestvovalo",
-                "description": "Создатель Resident Evil Синдзи Миками (Shinji Mikami) рассказал о своём отношении к искусственному интеллекту. Разработчик признался, что порой хочет, чтобы ИИ вообще не существовало, при этом сам экспериментирует с технологией и видит в ней полезный инструмент для девелоперов.… […]",
-                "pubDate": "Mon, 23 Nov 2026 23:45:50 +0300"
+                "title": "Обстановка в еженедельном чарте Steam: EA Sports FC 27, GTA V, It Takes Two…",
+                "link": "https://stopgame.ru/newsdata/73620/obstanovka_v_ezhenedelnom_charte_steam_ea_sports_fc_27_gta_v_it_takes_two",
+                "description": "На неделе с 17-го по 24 ноября вышла GTA VI, разогнав почти все релизы на несколько недель от себя. На ПК её нет, так что в чарте продаж Steam особо без изменений. Разве что в первую десятку на волне хайпа заехала Grand Theft Auto V.… […]",
+                "pubDate": "Tue, 24 Nov 2026 18:54:46 +0300"
             },
             {
-                "title": "Начался отбор номинантов на юбилейную премию Steam",
-                "link": "https://stopgame.ru/newsdata/73607/nachalsya_otbor_nominantov_na_yubileynuyu_premiyu_steam",
-                "description": "Valve запустила отбор номинантов на десятую премию Steam. Выдвинуть своих претендентов можно до 30 ноября, 21:00 МСК.… […]",
-                "pubDate": "Mon, 23 Nov 2026 23:28:25 +0300"
+                "title": "Релиз Showa American Story переехал на осень 2027-го",
+                "link": "https://stopgame.ru/newsdata/73619/reliz_showa_american_story_pereehal_na_osen_2027_go",
+                "description": "Китайская студия NEKCOM Games объявила точную дату релиза Showa American Story. К сожалению, разработчики не смогли уложиться в ранее намеченный 2026-й. Более того, запуск переехал на целый год вперёд — на 28 октября 2027-го.… […]",
+                "pubDate": "Tue, 24 Nov 2026 18:28:17 +0300"
             },
             {
-                "title": "Activision назвала Banjo-Kazooie одной из своих франшиз",
-                "link": "https://stopgame.ru/newsdata/73606/activision_nazvala_banjo_kazooie_odnoy_iz_svoih_franshiz",
-                "description": "Activision указала Banjo-Kazooie среди игровых серий, которыми теперь владеет компания. На франшизу обратили внимание в новой вакансии на должность продакт-менеджера, отвечающего за развитие перспективных игровых брендов. Это породило новые слухи о возможном возвращении любимых геймерами медведя и птицы.… […]",
-                "pubDate": "Mon, 23 Nov 2026 22:45:27 +0300"
+                "title": "NEOWIZ выпустит 4X-стратегию от выходцев из Paradox Interactive",
+                "link": "https://stopgame.ru/newsdata/73618/neowiz_vypustit_4x_strategiyu_ot_vyhodcev_iz_paradox_interactive",
+                "description": "Корейская компания NEOWIZ, которую вы можете знать по соулслайку Lies of P, заключила соглашение со шведской студией Winterkeep Interactive. Корейцы издадут неанонсированную 4X-стратегию.… […]",
+                "pubDate": "Tue, 24 Nov 2026 18:11:11 +0300"
             },
             {
-                "title": "Serious Sam Fusion наконец-то вышла из «беты»",
-                "link": "https://stopgame.ru/newsdata/73605/serious_sam_fusion_nakonec_to_vyshla_iz_bety",
-                "description": "Студия Croteam выпустила крупное обновление для Serious Sam Fusion, приуроченное к 15-летию Serious Sam 3: BFE. Разработчики исправили множество ошибок, обновили русскую локализацию и наконец убрали из назв… […]",
-                "pubDate": "Mon, 23 Nov 2026 22:08:47 +0300"
+                "title": "Художники Senua поделились концепт-артами локаций из триквела",
+                "link": "https://stopgame.ru/newsdata/73617/hudozhniki_senua_podelilis_koncept_artami_lokaciy_iz_trikvela",
+                "description": "Из-за того, что Ninja Theory находится в подвешенном состоянии, её последний проект, Senua, похоже, тоже застрял на месте. Не исключено, что XBOX всё же закроет студию и похоронит игру вместе с ней, поэтому особенно любопытно взглянуть на концепт-арты Senua.… […]",
+                "pubDate": "Tue, 24 Nov 2026 17:57:44 +0300"
             },
             {
-                "title": "Дебора Энн Уолл вернётся к роли Фэй в сериале по God of War",
-                "link": "https://stopgame.ru/newsdata/73604/debora_enn_uoll_vernetsya_k_roli_fey_v_seriale_po_god_of_war",
-                "description": "Дебора Энн Уолл (Deborah Ann Woll) исполнила роль Фэй в God of War Ragnarök и грядущей Laufey. Как передаёт сайт Deadline, актриса изобразит жену Кратоса и в шоу от  […]",
-                "pubDate": "Mon, 23 Nov 2026 21:45:17 +0300"
+                "title": "Похоже, первое DLC для Dawn of War IV добавит армию Хаоса с высшим демоном Вашторром",
+                "link": "https://stopgame.ru/newsdata/73616/pohozhe_pervoe_dlc_dlya_dawn_of_war_iv_dobavit_armiyu_haosa_s_vysshim_demonom_vashtorrom",
+                "description": "Недавно студия KING Art обнародовала новый трейлер Warhammer 40,000: Dawn of War IV, посвящённый бонусам расширенного издания. Под конец ролика разработчики показали тизер первого дополнения под названием Aftermath и дали вполне явный намёк на то, какая именно фракция появится в D… […]",
+                "pubDate": "Tue, 24 Nov 2026 17:37:18 +0300"
             },
             {
-                "title": "Activision хочет обучать NPC на голосовых чатах игроков",
-                "link": "https://stopgame.ru/newsdata/73603/activision_hochet_obuchat_npc_na_golosovyh_chatah_igrokov",
-                "description": "Activision подала заявку на патент системы искусственного интеллекта, которая позволит обучать внутриигровых персонажей на основе голосовых чатов геймеров. Технология сможет распознавать реакции пользователей на события в матче и создавать похожие реплики для NPC.… […]",
-                "pubDate": "Mon, 23 Nov 2026 20:25:11 +0300"
+                "title": "Продажи Queen&#039;s Domain достигли 300 тысяч копий",
+                "link": "https://stopgame.ru/newsdata/73615/prodazhi_queens_domain_dostigli_300_tysyach_kopiy",
+                "description": "Вышедшая в конце октября Queen’s Domain продолжает привлекать новых игроков. Как сооб… […]",
+                "pubDate": "Tue, 24 Nov 2026 16:53:57 +0300"
             },
             {
-                "title": "«Больше так не делай» — суд освободил хакера, взломавшего Rockstar Games",
-                "link": "https://stopgame.ru/newsdata/73602/bolshe_tak_ne_delay_sud_osvobodil_hakera_vzlomavshego_rockstar_games",
-                "description": "В 2022 году хакерская группировка Lapsus$ атаковала Rockstar Games и украла множество данных компании, включая ролики из ранней версии Grand Theft Auto VI ещё до официального анонса игры. Вскоре полиция Великобритании задержала одного из лидеров группировки, коим оказался 16-летний Арион Куртаж… […]",
-                "pubDate": "Mon, 23 Nov 2026 20:13:27 +0300"
+                "title": "Инсайд — релиз Intergalactic: The Heretic Prophet планируется в конце 2027 года",
+                "link": "https://stopgame.ru/newsdata/73614/insayd_reliz_intergalactic_the_heretic_prophet_planiruetsya_v_konce_2027_goda",
+                "description": "Проверенный инсайдер NateTheHate поделился своими сведениями касательно предполагаемого окна релиза Intergalactic: The Heretic Prophet. Если верить его источникам, Naughty Dog планирует выпустить свою новую игру к концу 2027 года.… […]",
+                "pubDate": "Tue, 24 Nov 2026 16:12:12 +0300"
             },
             {
-                "title": "На декабрьской INDIE Live Expo покажут Holstin, новый контент для Dressmaker и не только",
-                "link": "https://stopgame.ru/newsdata/73601/na_dekabrskoy_indie_live_expo_pokazhut_holstin_novyy_kontent_dlya_dressmaker_i_ne_tolko",
-                "description": "Организаторы шоу INDIE Live Expo сообщили, что зрителей ждёт больше сотни мировых премьер, новостей и анонсов, связанных с независимыми играми. Стали известны и другие подробности об эфире.… […]",
-                "pubDate": "Mon, 23 Nov 2026 19:58:30 +0300"
+                "title": "«Цири может принимать более жестокие решения» — как смена протагониста повлияет на квесты в The Witcher IV",
+                "link": "https://stopgame.ru/newsdata/73613/ciri_mozhet_prinimat_bolee_zhestokie_resheniya_kak_smena_protagonista_povliyaet_na_kvesty_v_the_witcher_iv",
+                "description": "В книгах, играх и прочих медиа легко понять — характеры Геральта и Цири заметно отличаются. И так как в центре The Witcher IV стоит именно дитя Старшей Крови, смена протагониста нашла отражение в повествовании, рассказали вице-президент сюжетного направления в CD Projekt RED Марчин Блаха (Marcin Blacha) и нарративный директор студии Филипп Вебер (Philipp Weber).… […]",
+                "pubDate": "Tue, 24 Nov 2026 15:43:21 +0300"
             },
             {
-                "title": "Релиз Acts of Blood переехал на весну 2027-го",
-                "link": "https://stopgame.ru/newsdata/73600/reliz_acts_of_blood_pereehal_na_vesnu_2027_go",
-                "description": "Издатель Big Fan Games и студия-разработчик Eksil Team объявили о переносе окна релиза Acts of Blood. Ранее игру планировали выпустить на ПК уже 4 декабря, однако теперь её старт намечен на весну 2027-го.… […]",
-                "pubDate": "Mon, 23 Nov 2026 18:56:24 +0300"
+                "title": "Релиз GTA VI стал самым масштабным в истории PlayStation — более 39 млн человек на PS5",
+                "link": "https://stopgame.ru/newsdata/73612/reliz_gta_vi_stal_samym_masshtabnym_v_istorii_playstation_bolee_39_mln_chelovek_na_ps5",
+                "description": "За первый день с учётом предзаказов Grand Theft Auto VI разошлась тиражом в 32,5 миллиона копий. И объём продаж продолжает активно расти — как рассказали в Sony Interactive Entertainment, по состоянию на 22 ноября на одной только PlayStation 5 приключение Джейсона и Лусии привлекло свыше 39 миллионов уникальных пользователей.… […]",
+                "pubDate": "Tue, 24 Nov 2026 12:06:03 +0300"
             }
         ],
-        "updated": "2026-11-24T06:15:54+00:00"
+        "updated": "2026-11-24T17:28:02+00:00"
     },
     {
         "source": "https://www.drom.ru/export/xml/news.rss",
         "title": "Drom.ru: Новости",
         "items": [
             {
-                "title": "JLR победила в европейском суде китайскую BYD",
-                "link": "https://news.drom.ru/JLR-BYD-104255.html",
-                "description": "Постоянная палата третейского суда в Гааге удовлетворила в полном объеме иск Jaguar Land Rover (JLR) к китайской BYD Auto по делу о нарушении авторских прав. Предметом тяжбы автокомпаний было сходство их продуктов между собой — китайского кроссовера BYD Ti7 и британского Land Rover Defender. Сходство JLR определял как злонамеренное вероломное копирование.",
-                "pubDate": "Tue, 24 Nov 2026 05:07:05 +1100"
+                "title": "Таможня продолжает бороться с «серым» ввозом мотоциклов",
+                "link": "https://news.drom.ru/104267.html",
+                "description": "Федеральная таможенная служба продолжает бороться с нарушениями ввоза мототехники в Россию. На складе в Московской области специалисты ведомства обнаружили нелегальную мототехнику на сумму 28 млн рублей.",
+                "pubDate": "Wed, 25 Nov 2026 02:12:45 +1100"
             },
             {
-                "title": "Инсайдеры раскрыли цены на Азимут, но на ВАЗе информацию назвали ложной",
-                "link": "https://news.drom.ru/104254.html",
-                "description": "Лада Азимут будет предлагаться по цене от 2 009 000 рублей, сообщает со ссылкой на свои источники в дилерской сети ВАЗа канал «Автопоток».",
-                "pubDate": "Tue, 24 Nov 2026 01:52:23 +1100"
+                "title": "Объявление дня: редкий заднемоторный Suzuki 1981 года за 2 млн рублей",
+                "link": "https://news.drom.ru/Suzuki-1981-104265.html",
+                "description": "В Москве за 2 млн рублей выставлен на продажу еще более редкий, на сей раз японский автомобиль, выпущенный в 1981 году.",
+                "pubDate": "Tue, 24 Nov 2026 23:57:05 +1100"
             },
             {
-                "title": "Полноприводному Tenet Plus L6 назначили цену",
-                "link": "https://news.drom.ru/Tenet-Plus-L6-104253.html",
-                "description": "АГР раскрыл цену полноприводной версии кроссовера Tenet Plus L6. До сих пор модель предлагали только с передними ведущими колесами.",
-                "pubDate": "Mon, 23 Nov 2026 22:09:21 +1100"
+                "title": "Модернизированный УАЗ Патриот: пошли товарные машины",
+                "link": "https://news.drom.ru/104264.html",
+                "description": "Ульяновский автозавод 24 ноября запустил производство модернизированных внедорожников УАЗ Патриот. Одновременно обновлению подвергнуты построенные на той же базе УАЗ Пикап и легкие грузовики Профи. Все модернизированные машины обозначаются приставкой Х («икс») в названии.",
+                "pubDate": "Tue, 24 Nov 2026 23:41:44 +1100"
             },
             {
-                "title": "Nissan начал продавать кросс-версию кей-кара Roox",
-                "link": "https://news.drom.ru/Nissan-Roox-104252.html",
-                "description": "Nissan Motor запустила в Японии продажи новой версии кей-кара Roox — она имеет в названии приставку Rock Creek, специсполнение разработано подразделением Nissan Motorsports &amp; Customization (NMC).",
-                "pubDate": "Mon, 23 Nov 2026 20:42:23 +1100"
+                "title": "Ввоз иномарок через Уссурийск резко возрос",
+                "link": "https://news.drom.ru/104263.html",
+                "description": "По итогам января — октября 2026-го в Россию через Уссурийскую таможню импортировали 80 398 легковых автомобилей — это на 52% больше, чем в аналогичном периоде 2025-го.",
+                "pubDate": "Wed, 25 Nov 2026 02:51:53 +1100"
             },
             {
-                "title": "Житель Курской области с помощью трактора украл Ниву, потому что давно о ней мечтал",
-                "link": "https://news.drom.ru/104251.html",
-                "description": "Курский районный суд вынес приговор местному жителю, который угнал Ниву, оцененную впоследствии в 218 тысяч рублей. На допросе мужчина объяснил свой поступок тем, что всегда мечтал о российском внедорожнике.",
-                "pubDate": "Mon, 23 Nov 2026 20:02:02 +1100"
+                "title": "Российский пикап Улан получит новую модификацию",
+                "link": "https://news.drom.ru/104261.html",
+                "description": "Семейство упрощенных мелкосерийных пикапов Улан в ближайшее время получит новую модификацию. Патентные изображения перспективной версии Улана попали в свободный доступ.",
+                "pubDate": "Tue, 24 Nov 2026 20:56:49 +1100"
             },
             {
-                "title": "Касающиеся электросамокатов поправки в ПДД вызвали ажиотаж",
-                "link": "https://news.drom.ru/104250.html",
-                "description": "Предлагаемые Минтрансом РФ поправки в Правила дорожного движения вызвали ажиотаж среди россиян, сообщает «Коммерсантъ».",
-                "pubDate": "Mon, 23 Nov 2026 18:49:50 +1100"
+                "title": "В Японии в 2027-м появится новый бренд кей-каров",
+                "link": "https://news.drom.ru/104260.html",
+                "description": "Японский стартап по разработке и производству электромобилей EMTA в ближайшие недели представит свою первую модель — это будет кей-кар.",
+                "pubDate": "Tue, 24 Nov 2026 19:24:45 +1100"
             },
             {
-                "title": "Toyota представила Короллу-пикап",
-                "link": "https://news.drom.ru/Toyota-104247.html",
-                "description": "Toyota Motor провела мировую премьеру новой для нее модели Corolla Deck. Это безрамный пикап на основе вседорожника Corolla Cross.",
-                "pubDate": "Mon, 23 Nov 2026 22:10:14 +1100"
+                "title": "Житель Ярославской области потерял больше 3 млн рублей, несколько раз оплатив один и тот же мотор в интернете",
+                "link": "https://news.drom.ru/104259.html",
+                "description": "В Рыбинске возбуждено уголовное дело о мошенничестве в особо крупном размере после того, как местный житель лишился более 3,3 млн рублей при попытке купить двигатель для своего автомобиля в интернете.",
+                "pubDate": "Tue, 24 Nov 2026 19:10:52 +1100"
             },
             {
-                "title": "В Японии начали продавать новый Subaru WRX с «механикой»",
-                "link": "https://news.drom.ru/Subaru-WRX-104244.html",
-                "description": "В Японии начаты продажи нового 275-сильного суперседана Subaru WRX STI Sport R, начальная цена — 5,48 миллионов иен, что по актуальному курсу валют ЦБ РФ на момент написания заметки эквивалентно 2,83 миллионам рублей.",
-                "pubDate": "Mon, 23 Nov 2026 22:38:51 +1100"
+                "title": "«Ростех» разработал новый герметик для автопрома",
+                "link": "https://news.drom.ru/104257.html",
+                "description": "Госкорпорация «Ростех» сообщила о том, что создала новый герметик для нужд автопрома.",
+                "pubDate": "Tue, 24 Nov 2026 18:32:08 +1100"
             }
         ],
-        "updated": "2026-11-24T06:15:56+00:00"
+        "updated": "2026-11-24T17:28:03+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/all-about",
@@ -655,12 +655,18 @@
                 "pubDate": "Wed, 18 Nov 26 09:09:14 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:58+00:00"
+        "updated": "2026-11-24T17:28:05+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/anime",
         "title": "Аниме - GoHa.Ru",
         "items": [
+            {
+                "title": "Анонс и первый трейлер аниме «При попытке отомстить хулиганам родного города началась другая битва»",
+                "link": "https://www.goha.ru/anons-i-pervyj-trejler-anime-pri-popytke-otomstit-huliganam-rodnogo-goroda-nachalas-drugaya-bitva-4Aw9Mm",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Ks/0gQ57Yk7V6.jpg\" alt=\"Анонс и первый трейлер аниме «При попытке отомстить хулиганам родного города началась другая битва»\"/><br /><br />Манга «При попытке отомстить хулиганам родного города началась другая битва» (Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta) станет аниме в 2027 году, есть первый трейлер.<br /><br /><a href=\"https://www.goha.ru/anons-i-pervyj-trejler-anime-pri-popytke-otomstit-huliganam-rodnogo-goroda-nachalas-drugaya-bitva-4Aw9Mm\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:09:40 +0000"
+            },
             {
                 "title": "Вот это вы вспомнили — короткометражное аниме «Ария по прозвищу Алая Пуля: Corto» стартует в апреле 2027 года",
                 "link": "https://www.goha.ru/vot-eto-vy-vspomnili-korotkometrazhnoe-anime-ariya-po-prozvishhu-alaya-pulya-corto-startuet-v-aprele-2027-goda-doKj7B",
@@ -714,15 +720,9 @@
                 "link": "https://www.goha.ru/rezhisser-prizraka-v-dospehah-podelilsya-myslyami-o-sostoyanii-industrii-anime-xLoqKp",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N4/aF/lNGR7CEWpi.jpg\" alt=\"Режиссер «Призрака в доспехах» поделился мыслями о состоянии индустрии аниме\"/><br /><br />В преддверии Международного фестиваля анимационного кино в Аичи-Нагое (ANIAFF 2026), в рамках которого запланирован показ работ режиссера аниме Кэнджи Камиямы<br /><br /><a href=\"https://www.goha.ru/rezhisser-prizraka-v-dospehah-podelilsya-myslyami-o-sostoyanii-industrii-anime-xLoqKp\">Читать дальше →</a>",
                 "pubDate": "Sat, 14 Nov 26 13:02:33 +0000"
-            },
-            {
-                "title": "Kadokawa планирует удвоить количество выпускаемых в год аниме-сериалов",
-                "link": "https://www.goha.ru/kadokawa-planiruet-udvoit-kolichestvo-vypuskaemyh-v-god-anime-serialov-4Aw3oY",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/4Q/vKER1pdh8x.jpg\" alt=\"Kadokawa планирует удвоить количество выпускаемых в год аниме-сериалов\"/><br /><br />Японское издательство Kadokawa основало новую компанию по производству аниме — Studio One Base. Новая структура, базирующаяся в Токио, объединяет пять существующих анимационных студий<br /><br /><a href=\"https://www.goha.ru/kadokawa-planiruet-udvoit-kolichestvo-vypuskaemyh-v-god-anime-serialov-4Aw3oY\">Читать дальше →</a>",
-                "pubDate": "Sat, 14 Nov 26 10:40:43 +0000"
             }
         ],
-        "updated": "2026-11-24T06:15:59+00:00"
+        "updated": "2026-11-24T17:28:06+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/articles",
@@ -789,12 +789,36 @@
                 "pubDate": "Tue, 17 Nov 26 14:17:00 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:00+00:00"
+        "updated": "2026-11-24T17:28:07+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/hardware",
         "title": "Железная кухня - GoHa.Ru",
         "items": [
+            {
+                "title": "Видеокарты NVIDIA больше не портят ваши SSD",
+                "link": "https://www.goha.ru/videokarty-nvidia-bolshe-ne-portyat-vashi-ssd-xRrM6z",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/Lz/rU9cXNLcPn.jpg\" alt=\"Видеокарты NVIDIA больше не портят ваши SSD\"/><br /><br />Компания NVIDIA выпустила сертифицированный пакет драйверов GeForce Game Ready 621.40 WHQL, главным техническим пунктом которого стало полноценное устранение повышенной фоновой нагрузки на твердотельные накопители. <br /><br /><a href=\"https://www.goha.ru/videokarty-nvidia-bolshe-ne-portyat-vashi-ssd-xRrM6z\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:39:59 +0000"
+            },
+            {
+                "title": "Независимые тесты Apex Frame Generation: открытая альтернатива DLSS удивила Digital Foundry, но не обошлось без артефактов",
+                "link": "https://www.goha.ru/nezavisimye-testy-apex-frame-generation-otkrytaya-alternativa-dlss-udivila-digital-foundry-no-ne-oboshlos-bez-artefaktov-lMoPG2",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N1/zp/OELwatOBez.jpg\" alt=\"Независимые тесты Apex Frame Generation: открытая альтернатива DLSS удивила Digital Foundry, но не обошлось без артефактов\"/><br /><br />Digital Foundry провели независимое тестирование ранней бета-версии Apex Frame Generation — генератора кадров из открытого пакета технологий Apex Neural Rendering (ANR), который создается в одиночку инженером компании Apex Compute как аппаратно независимая альтернатива NVIDIA DLSS. <br /><br /><a href=\"https://www.goha.ru/nezavisimye-testy-apex-frame-generation-otkrytaya-alternativa-dlss-udivila-digital-foundry-no-ne-oboshlos-bez-artefaktov-lMoPG2\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:32:50 +0000"
+            },
+            {
+                "title": "Процессоры Intel Bartlett Lake-S с 12 большими ядрами заработали \"из коробки\" на материнских платах MSI Z690 и Z790",
+                "link": "https://www.goha.ru/processory-intel-bartlett-lake-s-s-12-bolshimi-yadrami-zarabotali-iz-korobki-na-materinskih-platah-msi-z690-i-z790-deoGm1",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Be/Sx/lzTmJXS7Me.jpg\" alt=\"Процессоры Intel Bartlett Lake-S с 12 большими ядрами заработали \"из коробки\" на материнских платах MSI Z690 и Z790\"/><br /><br />Свежие прошивки BIOS для материнских плат MSI на чипсетах Z690 и Z790 неожиданно открыли нативную поддержку редких десктопных процессоров Intel Bartlett Lake-S (сокет LGA 1700), лишенных энергоэффективных E-ядер. <br /><br /><a href=\"https://www.goha.ru/processory-intel-bartlett-lake-s-s-12-bolshimi-yadrami-zarabotali-iz-korobki-na-materinskih-platah-msi-z690-i-z790-deoGm1\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:16:15 +0000"
+            },
+            {
+                "title": "Теперь цены на торговой площадке Steam можно менять на лету",
+                "link": "https://www.goha.ru/teper-ceny-na-torgovoj-ploshhadke-steam-mozhno-menyat-na-letu-lKL3zr",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N2/Dt/bEy36kwyxL.jpg\" alt=\"Теперь цены на торговой площадке Steam можно менять на лету\"/><br /><br />Valve представила масштабное обновление торговой площадки Steam. Интерфейс стал быстрее и удобнее, а пользователи получили инструменты для отслеживания интересующих предметов и управления объявлениями. Изменения уже доступны всем пользователям.<br /><br /><a href=\"https://www.goha.ru/teper-ceny-na-torgovoj-ploshhadke-steam-mozhno-menyat-na-letu-lKL3zr\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 11:43:17 +0000"
+            },
             {
                 "title": "Разработчик уместил нейросеть Tiny 2.1 на дискету для MS-DOS объемом 1,4 МБ",
                 "link": "https://www.goha.ru/razrabotchik-umestil-nejroset-tiny-21-na-disketu-dlya-ms-dos-obemom-14-mb-dvLK73",
@@ -830,105 +854,87 @@
                 "link": "https://www.goha.ru/kontroller-playstation-6-mozhet-poluchit-otdelnuyu-knopku-dlya-pereklyucheniya-grafiki-xzBMaY",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N4/ki/O4pAm4rseL.jpg\" alt=\"Контроллер PlayStation 6 может получить отдельную кнопку для переключения графики\"/><br /><br />Sony запатентовала технологию, которая позволит менять настройки изображения прямо во время игры — без перехода в меню. Более того, система сможет самостоятельно корректировать качество графики после каждого кадра, подстраиваясь под происходящее на экране.<br /><br /><a href=\"https://www.goha.ru/kontroller-playstation-6-mozhet-poluchit-otdelnuyu-knopku-dlya-pereklyucheniya-grafiki-xzBMaY\">Читать дальше →</a>",
                 "pubDate": "Mon, 23 Nov 26 11:37:18 +0000"
-            },
-            {
-                "title": "Qualcomm превратила автомобильные чипы в бизнес на $8 млрд и готовится возглавить мировой рынок",
-                "link": "https://www.goha.ru/qualcomm-prevratila-avtomobilnye-chipy-v-biznes-na-8-mlrd-i-gotovitsya-vozglavit-mirovoj-rynok-dXRPmA",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:MZ/2S/Av9Hsa9sHh.jpg\" alt=\"Qualcomm превратила автомобильные чипы в бизнес на $8 млрд и готовится возглавить мировой рынок\"/><br /><br />Qualcomm всё меньше зависит от смартфонов: её ставка на автомобильную электронику принесла неожиданный результат. По новым оценкам, выручка этого направления достигла $8 млрд в год, а уже в 2027 году компания может стать крупнейшим поставщиком автомобильных полупроводников.<br /><br /><a href=\"https://www.goha.ru/qualcomm-prevratila-avtomobilnye-chipy-v-biznes-na-8-mlrd-i-gotovitsya-vozglavit-mirovoj-rynok-dXRPmA\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:35:56 +0000"
-            },
-            {
-                "title": "«Электронный нос» для заводов Intel: компания Ainos вложит $9 млн в системы обнаружения химических угроз",
-                "link": "https://www.goha.ru/elektronnyj-nos-dlya-zavodov-intel-kompaniya-ainos-vlozhit-9-mln-v-sistemy-obnaruzheniya-himicheskih-ugroz-dJ0PNA",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NU/k2/J7rRnhmiN0.jpg\" alt=\"«Электронный нос» для заводов Intel: компания Ainos вложит $9 млн в системы обнаружения химических угроз\"/><br /><br />Промышленные датчики обычно подают сигнал, когда концентрация опасного газа достигает заданного порога. Компания Ainos предлагает более тонкий подход: научить искусственный интеллект распознавать химические изменения в воздухе ещё до того, как ситуация станет критической.<br /><br /><a href=\"https://www.goha.ru/elektronnyj-nos-dlya-zavodov-intel-kompaniya-ainos-vlozhit-9-mln-v-sistemy-obnaruzheniya-himicheskih-ugroz-dJ0PNA\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:30:58 +0000"
-            },
-            {
-                "title": "Как Китай ответит на новые санкции США и как от этого пострадают обычные люди",
-                "link": "https://www.goha.ru/kak-kitaj-otvetit-na-novye-sankcii-ssha-i-kak-ot-etogo-postradayut-obychnye-lyudi-dZ1nmm",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BQ/BT/Xj5Djz6wG6.jpg\" alt=\"Как Китай ответит на новые санкции США и как от этого пострадают обычные люди\"/><br /><br />США расширили ограничения на поставки ИИ-ускорителей NVIDIA, запретив обходить экспортный контроль через аренду оборудования. Пекин уже пригрозил ответными мерами, а последствия очередного витка противостояния могут выйти далеко за пределы рынка высоких технологий и затронуть покупателей смартфонов, автомобилей и бытовой электроники.<br /><br /><a href=\"https://www.goha.ru/kak-kitaj-otvetit-na-novye-sankcii-ssha-i-kak-ot-etogo-postradayut-obychnye-lyudi-dZ1nmm\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:16:18 +0000"
-            },
-            {
-                "title": "Новые ограничения США заставили TSMC приостановить поставки чипов: под угрозой оказались смартфоны и автомобили",
-                "link": "https://www.goha.ru/novye-ogranicheniya-ssha-zastavili-tsmc-priostanovit-postavki-chipov-pod-ugrozoj-okazalis-smartfony-i-avtomobili-480DGW",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Ca/VW/2ws6GU7hjY.jpg\" alt=\"Новые ограничения США заставили TSMC приостановить поставки чипов: под угрозой оказались смартфоны и автомобили\"/><br /><br />Американские экспортные ограничения добрались до микросхем, которые ещё недавно считались вполне обычными потребительскими компонентами. TSMC приостановила часть поставок китайским и зарубежным разработчикам, пока проверяет их соответствие новым требованиям Вашингтона.<br /><br /><a href=\"https://www.goha.ru/novye-ogranicheniya-ssha-zastavili-tsmc-priostanovit-postavki-chipov-pod-ugrozoj-okazalis-smartfony-i-avtomobili-480DGW\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:10:18 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:03+00:00"
+        "updated": "2026-11-24T17:28:08+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/industry",
         "title": "Индустрия - GoHa.Ru",
         "items": [
             {
-                "title": "Кажется, грядет огромная чистка в Nvidia: Трамп восстановил Хуанга в должности CEO компании",
-                "link": "https://www.goha.ru/kazhetsya-gryadet-ogromnaya-chistka-v-nvidia-tramp-vosstanovil-huanga-v-dolzhnosti-ceo-kompanii-dB0BYO",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BS/tR/gT3Fk1SwPo.jpg\" alt=\"Кажется, грядет огромная чистка в Nvidia: Трамп восстановил Хуанга в должности CEO компании\"/><br /><br />Совет директоров Nvidia единогласно проголосовал за немедленное восстановление сооснователя компании Дженсена Хуанга в должностях президента, генерального директора (CEO) и члена совета директоров. <br /><br /><a href=\"https://www.goha.ru/kazhetsya-gryadet-ogromnaya-chistka-v-nvidia-tramp-vosstanovil-huanga-v-dolzhnosti-ceo-kompanii-dB0BYO\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 14:17:42 +0000"
+                "title": "От £200 до миллионов фунтов: более 10 000 студий из Великобритании могут получить выплаты из-за комиссий Google Play",
+                "link": "https://www.goha.ru/ot-200-do-millionov-funtov-bolee-10-000-studij-iz-velikobritanii-mogut-poluchit-vyplaty-iz-za-komissij-google-play-dDmrZ2",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/Ar/DL2mjP1vmP.jpg\" alt=\"От £200 до миллионов фунтов: более 10 000 студий из Великобритании могут получить выплаты из-за комиссий Google Play\"/><br /><br />Разработчики из Великобритании, выпускавшие игры, приложения, подписки или внутриигровой контент в Google Play Store с 22 августа 2018 года по 31 июля 2026 года, получили возможность подать заявку на компенсацию из фонда в £260 млн (~$338 млн).<br /><br /><a href=\"https://www.goha.ru/ot-200-do-millionov-funtov-bolee-10-000-studij-iz-velikobritanii-mogut-poluchit-vyplaty-iz-za-komissij-google-play-dDmrZ2\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:37:55 +0000"
             },
             {
-                "title": "Анонсирована настольная стратегия Диссонанс в мире тёмного фэнтези",
-                "link": "https://www.goha.ru/anonsirovana-nastolnaya-strategiya-dissonans-v-mire-tyomnogo-fentezi-x1Drvr",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NX/NF/l8ZgWgk6zK.jpg\" alt=\"Анонсирована настольная стратегия Диссонанс в мире тёмного фэнтези\"/><br /><br />У каждого персонажа свои компоненты, действия и условия победы. Наследники соперничают на общем поле, а катаклизмы влияют на них по-разному.<br /><br /><a href=\"https://www.goha.ru/anonsirovana-nastolnaya-strategiya-dissonans-v-mire-tyomnogo-fentezi-x1Drvr\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 12:19:00 +0000"
+                "title": "«Яндекс» и понятие «анонимность» теперь очень далеки друг от друга",
+                "link": "https://www.goha.ru/yandeks-i-ponyatie-anonimnost-teper-ochen-daleki-drug-ot-druga-dZ1n6b",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Co/pt/p09YEOEpQM.jpg\" alt=\"«Яндекс» и понятие «анонимность» теперь очень далеки друг от друга\"/><br /><br />В прошлом месяце вышла обновленная редакция лицензионного соглашения «Яндекс Браузера» (предыдущая действовала с 27 февраля), в которой из пятого раздела исчезли 5 упоминаний анонимности и 2 — обезличенности данных. <br /><br /><a href=\"https://www.goha.ru/yandeks-i-ponyatie-anonimnost-teper-ochen-daleki-drug-ot-druga-dZ1n6b\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:31:19 +0000"
             },
             {
-                "title": "Правительство не собирается оставлять геймеров России в покое: тема с прокатными удостоверениями для игр набирает обороты",
-                "link": "https://www.goha.ru/pravitelstvo-ne-sobiraetsya-ostavlyat-gejmerov-rossii-v-pokoe-tema-s-prokatnymi-udostovereniyami-dlya-igr-nabiraet-oboroty-deoG5Y",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/Ix/zfHpmFbDVN.jpg\" alt=\"Правительство не собирается оставлять геймеров России в покое: тема с прокатными удостоверениями для игр набирает обороты\"/><br /><br />По данным «Коммерсанта», правительство РФ в ходе обсуждения законопроекта «О деятельности по разработке и распространению видеоигр на территории РФ» может поддержать введение прокатных удостоверений для игр по аналогии с кино.<br /><br /><a href=\"https://www.goha.ru/pravitelstvo-ne-sobiraetsya-ostavlyat-gejmerov-rossii-v-pokoe-tema-s-prokatnymi-udostovereniyami-dlya-igr-nabiraet-oboroty-deoG5Y\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 08:26:13 +0000"
+                "title": "Kuro Games активно набирает сотрудников для нового проекта под кодовым названием SUN",
+                "link": "https://www.goha.ru/kuro-games-aktivno-nabiraet-sotrudnikov-dlya-novogo-proekta-pod-kodovym-nazvaniem-sun-lWoPVv",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:C7/Mu/EfavBqat96.jpg\" alt=\"Kuro Games активно набирает сотрудников для нового проекта под кодовым названием SUN\"/><br /><br />Китайская студия Kuro Games, известная по Wuthering Waves и Punishing: Gray Raven, продолжает расширять команду для разработки нового проекта с внутренним названием Project SUN<br /><br /><a href=\"https://www.goha.ru/kuro-games-aktivno-nabiraet-sotrudnikov-dlya-novogo-proekta-pod-kodovym-nazvaniem-sun-lWoPVv\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 13:00:00 +0000"
             },
             {
-                "title": "32 штата США и округ Колумбия официально поддержали Epic Games в Верховном суде против Apple",
-                "link": "https://www.goha.ru/32-shtata-ssha-i-okrug-kolumbiya-oficialno-podderzhali-epic-games-v-verhovnom-sude-protiv-apple-xgo9K0",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CO/gg/tjhf0uUP3H.jpg\" alt=\"32 штата США и округ Колумбия официально поддержали Epic Games в Верховном суде против Apple\"/><br /><br />Многолетняя антимонопольная тяжба между Epic Games и Apple вокруг правил монетизации в iOS App Store получила мощное подкрепление со стороны американских властей на уровне штатов. <br /><br /><a href=\"https://www.goha.ru/32-shtata-ssha-i-okrug-kolumbiya-oficialno-podderzhali-epic-games-v-verhovnom-sude-protiv-apple-xgo9K0\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 17:00:00 +0000"
+                "title": "Еврокомиссия открыла сбор отзывов по Digital Fairness Act — правила затронут лутбоксы, валюту в играх и покупки детей",
+                "link": "https://www.goha.ru/evrokomissiya-otkryla-sbor-otzyvov-po-digital-fairness-act-pravila-zatronut-lutboksy-valyutu-v-igrah-i-pokupki-detej-d2y571",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mb/uF/FKY5KOnvme.jpg\" alt=\"Еврокомиссия открыла сбор отзывов по Digital Fairness Act — правила затронут лутбоксы, валюту в играх и покупки детей\"/><br /><br />Европейская комиссия запустила публичные консультации по проекту Digital Fairness Act (DFA), представленному 11 ноября 2026 года. <br /><br /><a href=\"https://www.goha.ru/evrokomissiya-otkryla-sbor-otzyvov-po-digital-fairness-act-pravila-zatronut-lutboksy-valyutu-v-igrah-i-pokupki-detej-d2y571\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:32:36 +0000"
             },
             {
-                "title": "Джон Ромеро: большинство современных игр — мусор, поэтому разработчикам важнее всего сосредоточиться на дизайне",
-                "link": "https://www.goha.ru/dzhon-romero-bolshinstvo-sovremennyh-igr-musor-poetomu-razrabotchikam-vazhnee-vsego-sosredotochitsya-na-dizajne-lGZNjr",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mc/4k/vZ6p2yFD9M.jpg\" alt=\"Джон Ромеро: большинство современных игр — мусор, поэтому разработчикам важнее всего сосредоточиться на дизайне\"/><br /><br />Сооснователь id Software и один из создателей Doom Джон Ромеро считает, что сегодня выпускать игры стало гораздо проще, чем в начале его карьеры. Но вместе с доступностью инструментов и площадок выросло количество низкокачественных релизов, поэтому выделиться на их фоне теперь можно только действительно хорошей игрой.<br /><br /><a href=\"https://www.goha.ru/dzhon-romero-bolshinstvo-sovremennyh-igr-musor-poetomu-razrabotchikam-vazhnee-vsego-sosredotochitsya-na-dizajne-lGZNjr\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 11:57:48 +0000"
+                "title": "Верх цинизма: глава Anthropic Дарио Амодей считал, что видеоигры помогут успокоить людей, потерявших работу из-за ИИ, — в том числе и разработчиков игр",
+                "link": "https://www.goha.ru/verh-cinizma-glava-anthropic-dario-amodej-schital-chto-videoigry-pomogut-uspokoit-lyudej-poteryavshih-rabotu-iz-za-ii-v-tom-chisle-i-razrabotchikov-igr-l5Z8w5",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BS/pv/zVY0pEphiw.jpg\" alt=\"Верх цинизма: глава Anthropic Дарио Амодей считал, что видеоигры помогут успокоить людей, потерявших работу из-за ИИ, — в том числе и разработчиков игр\"/><br /><br />Амодей, опубликованном The Wall Street Journal, говорится о его прежних рассуждениях о роли видеоигр в эпоху распространения ИИ. <br /><br /><a href=\"https://www.goha.ru/verh-cinizma-glava-anthropic-dario-amodej-schital-chto-videoigry-pomogut-uspokoit-lyudej-poteryavshih-rabotu-iz-za-ii-v-tom-chisle-i-razrabotchikov-igr-l5Z8w5\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:23:55 +0000"
             },
             {
-                "title": "Activision запатентовала ИИ-систему, обучающую NPC манере речи и реакциям игроков по голосовым чатам вроде Discord",
-                "link": "https://www.goha.ru/activision-zapatentovala-ii-sistemu-obuchayushhuyu-npc-manere-rechi-i-reakciyam-igrokov-po-golosovym-chatam-vrode-discord-x1Drwr",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bs/s7/57XoFG9Yu7.jpg\" alt=\"Activision запатентовала ИИ-систему, обучающую NPC манере речи и реакциям игроков по голосовым чатам вроде Discord\"/><br /><br />Компания Activision запатентовала систему машинного обучения под названием Methods and Systems for Applying Machine Learning to Generate Gameplay Audio (публикация от 12 ноября 2026 года, замеченная ресурсом Patentlyze), которая фиксирует голосовые реакции игроков во время матчей, сопоставляет их по времени с внутриигровыми событиями и использует эти данные для обучения нейросети, генерирующей реплики компьютерных персонажей. <br /><br /><a href=\"https://www.goha.ru/activision-zapatentovala-ii-sistemu-obuchayushhuyu-npc-manere-rechi-i-reakciyam-igrokov-po-golosovym-chatam-vrode-discord-x1Drwr\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 11:57:17 +0000"
+                "title": "ИИ-блок SpaceX проигрывает гонку моделей конкурентам: Маск велел зарабатывать на аренде GPU для Anthropic и Google",
+                "link": "https://www.goha.ru/ii-blok-spacex-proigryvaet-gonku-modelej-konkurentam-mask-velel-zarabatyvat-na-arende-gpu-dlya-anthropic-i-google-l9qR0g",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/Os/xqw4N2HZXH.jpg\" alt=\"ИИ-блок SpaceX проигрывает гонку моделей конкурентам: Маск велел зарабатывать на аренде GPU для Anthropic и Google\"/><br /><br />Бизнес SpaceX в сфере искусственного интеллекта уступает конкурентам по части передовых моделей, поэтому Илон Маск сместил приоритеты команды в сторону аренды вычислительных мощностей внешним клиентам. <br /><br /><a href=\"https://www.goha.ru/ii-blok-spacex-proigryvaet-gonku-modelej-konkurentam-mask-velel-zarabatyvat-na-arende-gpu-dlya-anthropic-i-google-l9qR0g\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:12:54 +0000"
             },
             {
-                "title": "Xsolla на G-STAR 2026: как веб-шопы, локальные платежи и коллаборация с Disney до 2027 года меняют монетизацию игр",
-                "link": "https://www.goha.ru/xsolla-na-g-star-2026-kak-veb-shopy-lokalnye-platezhi-i-kollaboraciya-s-disney-do-2027-goda-menyayut-monetizaciyu-igr-xLovBM",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CA/Bw/ZRSF4v9pYC.jpg\" alt=\"Xsolla на G-STAR 2026: как веб-шопы, локальные платежи и коллаборация с Disney до 2027 года меняют монетизацию игр\"/><br /><br />На выставке G-STAR 2026 в Пусане компания Xsolla открыла пространство Xsolla Clubhouse в отеле Grand Josun Busan и 20 ноября провела серию сессий о регулировании, удержании игроков и привлечении аудитории за пределами традиционных витрин. <br /><br /><a href=\"https://www.goha.ru/xsolla-na-g-star-2026-kak-veb-shopy-lokalnye-platezhi-i-kollaboraciya-s-disney-do-2027-goda-menyayut-monetizaciyu-igr-xLovBM\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 09:51:34 +0000"
+                "title": "У CYBERLEEK вышел новый манифест, но в нем нового как-таки ничего и нет",
+                "link": "https://www.goha.ru/u-cyberleek-vyshel-novyj-manifest-no-v-nem-novogo-kak-taki-nichego-i-net-lGZNOe",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:MZ/UJ/gddLtwON0l.jpg\" alt=\"У CYBERLEEK вышел новый манифест, но в нем нового как-таки ничего и нет\"/><br /><br />Автор утечек по GTA 6 под ником CYBERLEEK опубликовал EXE-файл версии игры для Xbox Series и сопроводил релиз манифестом против коммерческих практик крупных издателей.<br /><br /><a href=\"https://www.goha.ru/u-cyberleek-vyshel-novyj-manifest-no-v-nem-novogo-kak-taki-nichego-i-net-lGZNOe\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:07:07 +0000"
             },
             {
-                "title": "Без Хуанга Nvidia профукала 42% цены своих акций",
-                "link": "https://www.goha.ru/bez-huanga-nvidia-profukala-42-ceny-svoih-akcij-lWoPLN",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:C7/XO/NGqV3QC9PK.jpg\" alt=\"Без Хуанга Nvidia профукала 42% цены своих акций\"/><br /><br />Котировки Nvidia за три с небольшим недели потеряли почти 42%, упав с $215,38 (28 октября) до $125,53 по итогам торгов в пятницу, 20 ноября 2026 года. <br /><br /><a href=\"https://www.goha.ru/bez-huanga-nvidia-profukala-42-ceny-svoih-akcij-lWoPLN\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 09:02:41 +0000"
+                "title": "Джеф Кили унизил и KONAMI — у SILENT HILL: Townfall нет номинаций на TGA 2026",
+                "link": "https://www.goha.ru/dzhef-kili-unizil-i-konami-u-silent-hill-townfall-net-nominacij-na-tga-2026-xLovNE",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Co/is/ICKTRyangq.jpg\" alt=\"Джеф Кили унизил и KONAMI — у SILENT HILL: Townfall нет номинаций на TGA 2026\"/><br /><br />Хоррор Silent Hill: Townfall от студии Screen Burn Interactive, вышедший в начале 2026 года, не попал в число номинантов The Game Awards 2026. <br /><br /><a href=\"https://www.goha.ru/dzhef-kili-unizil-i-konami-u-silent-hill-townfall-net-nominacij-na-tga-2026-xLovNE\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 08:56:15 +0000"
             },
             {
-                "title": "Оказывается, совет директоров выгнал Хуанга не потому, что тот спал с китайской шпионкой, а потому, что он обманывал их",
-                "link": "https://www.goha.ru/okazyvaetsya-sovet-direktorov-vygnal-huanga-ne-potomu-chto-tot-spal-s-kitajskoj-shpionkoj-a-potomu-chto-on-obmanyval-ih-lb2XbM",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NV/7m/h8XJTGyRbC.jpg\" alt=\"Оказывается, совет директоров выгнал Хуанга не потому, что тот спал с китайской шпионкой, а потому, что он обманывал их\"/><br /><br />Дженсен Хуанг (Jensen Huang) лишился поста генерального директора Nvidia на фоне публикаций о его внебрачных связях, в том числе с Элис Хуанг (Alice Huang), связанной с сингапурским оператором дата-центров Megaspeed и подозреваемой в работе на китайскую разведку. <br /><br /><a href=\"https://www.goha.ru/okazyvaetsya-sovet-direktorov-vygnal-huanga-ne-potomu-chto-tot-spal-s-kitajskoj-shpionkoj-a-potomu-chto-on-obmanyval-ih-lb2XbM\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 08:56:51 +0000"
+                "title": "«Ноль, умноженный на тысячу, остается нулем»: босс tinyBuild высказался об ИИ-поделках, цене в Китае и успехе Probably Stolen",
+                "link": "https://www.goha.ru/nol-umnozhennyj-na-tysyachu-ostaetsya-nulem-boss-tinybuild-vyskazalsya-ob-ii-podelkah-cene-v-kitae-i-uspehe-probably-stolen-dJ0POr",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D5/bT/dNE1kG6WKS.jpg\" alt=\"«Ноль, умноженный на тысячу, остается нулем»: босс tinyBuild высказался об ИИ-поделках, цене в Китае и успехе Probably Stolen\"/><br /><br />Глава tinyBuild Алекс Ничипорчик заявил на конференции DevGAMM Lisbon, что в ближайшие полгода ключевой темой индустрии станет сокращение срока между анонсом и выходом игр на фоне угрозы ИИ-клонов.<br /><br /><a href=\"https://www.goha.ru/nol-umnozhennyj-na-tysyachu-ostaetsya-nulem-boss-tinybuild-vyskazalsya-ob-ii-podelkah-cene-v-kitae-i-uspehe-probably-stolen-dJ0POr\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 08:52:51 +0000"
             },
             {
-                "title": "Press F to pay respects или в случае пожара — горите? BioWare официально перестала существовать ",
-                "link": "https://www.goha.ru/press-f-to-pay-respects-ili-v-sluchae-pozhara-gorite-bioware-oficialno-perestala-sushhestvovat-430WLQ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Cr/JJ/MJskgKqhxN.jpg\" alt=\"Press F to pay respects или в случае пожара — горите? BioWare официально перестала существовать \"/><br /><br />20 ноября не стало легендарной BioWare. Этот факт в X отметил в том числе бывший директор по развитию и ИТ Девон Гарднер: «День выдался тяжелым, но я рад тому, каким был этот путь. Ты хорошо справился, сынок».<br /><br /><a href=\"https://www.goha.ru/press-f-to-pay-respects-ili-v-sluchae-pozhara-gorite-bioware-oficialno-perestala-sushhestvovat-430WLQ\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 08:18:22 +0000"
+                "title": "Юного хакера, взломавшего Rockstar, отпустили под ответственность государства",
+                "link": "https://www.goha.ru/yunogo-hakera-vzlomavshego-rockstar-otpustili-pod-otvetstvennost-gosudarstva-dDmrM2",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CA/0n/th661hcJ4G.jpg\" alt=\"Юного хакера, взломавшего Rockstar, отпустили под ответственность государства\"/><br /><br />21-летний хакер Арион Куртаж, стоявший за масштабным сливом материалов GTA 6 в сентябре 2022 года, вышел на свободу 23 ноября, в день вынесения приговора в Королевском суде Вулвича. <br /><br /><a href=\"https://www.goha.ru/yunogo-hakera-vzlomavshego-rockstar-otpustili-pod-otvetstvennost-gosudarstva-dDmrM2\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 08:45:54 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:05+00:00"
+        "updated": "2026-11-24T17:28:09+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/media",
         "title": "Видео - GoHa.Ru",
         "items": [
+            {
+                "title": "Очень насыщенный декабрь 2026, почему я не буду играть в WoW Forever, AION 2 повторяет судьбу Throne and Liberty",
+                "link": "https://www.goha.ru/ochen-nasyshhennyj-dekabr-2026-pochemu-ya-ne-budu-igrat-v-wow-forever-aion-2-povtoryaet-sudbu-throne-and-liberty-40LYE0",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BQ/Fb/O1GDtdWYod.jpg\" alt=\"Очень насыщенный декабрь 2026, почему я не буду играть в WoW Forever, AION 2 повторяет судьбу Throne and Liberty\"/><br /><br />Как всегда, во вторник вас ожидает наша прямая трансляция на канале GoHaMedia. Начинаем в 18.00 по МСК, ссылка внутри.<br /><br /><a href=\"https://www.goha.ru/ochen-nasyshhennyj-dekabr-2026-pochemu-ya-ne-budu-igrat-v-wow-forever-aion-2-povtoryaet-sudbu-throne-and-liberty-40LYE0\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 13:06:45 +0000"
+            },
             {
                 "title": "Новая русская MMORPG, которая удивляет",
                 "link": "https://www.goha.ru/novaya-russkaya-mmorpg-kotoraya-udivlyaet-4VePno",
@@ -982,82 +988,76 @@
                 "link": "https://www.goha.ru/chrono-odyssey-vylezla-iz-podpolya-nam-pokazali-svezhij-gejmplej-4803Pk",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/LW/NbABZRiwNq.jpg\" alt=\"Chrono Odyssey вылезла из подполья — нам показали свежий геймплей\"/><br /><br />В нашем видео поговорим о внезапно появившейся в информационном поле MMORPG Chrono Odyssey, о которой уже даже стали забывать.<br /><br /><a href=\"https://www.goha.ru/chrono-odyssey-vylezla-iz-podpolya-nam-pokazali-svezhij-gejmplej-4803Pk\">Читать дальше →</a>",
                 "pubDate": "Wed, 11 Nov 26 10:07:10 +0000"
-            },
-            {
-                "title": "Большой MMORPG провал 2026, Орда унижает Альянс в WoW Forever, дата релиза и контент PoE 2",
-                "link": "https://www.goha.ru/bolshoj-mmorpg-proval-2026-orda-unizhaet-alyans-v-wow-forever-data-reliza-i-kontent-poe-2-40L7e0",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Du/PYQzOEXavW.jpg\" alt=\"Большой MMORPG провал 2026, Орда унижает Альянс в WoW Forever, дата релиза и контент PoE 2\"/><br /><br />Как всегда во вторник вас ожидает наша прямая трансляция на канале GoHaMedia. Начинаем в 18:00 по МСК, ссылка внутри<br /><br /><a href=\"https://www.goha.ru/bolshoj-mmorpg-proval-2026-orda-unizhaet-alyans-v-wow-forever-data-reliza-i-kontent-poe-2-40L7e0\">Читать дальше →</a>",
-                "pubDate": "Tue, 10 Nov 26 13:06:17 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:06+00:00"
+        "updated": "2026-11-24T17:28:10+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mmorpg",
         "title": "MMORPG - GoHa.Ru",
         "items": [
             {
-                "title": "Разработчики AION 2 рассказали об изменениях Бездны и жалобах на ботов",
-                "link": "https://www.goha.ru/razrabotchiki-aion-2-rasskazali-ob-izmeneniyah-bezdny-i-zhalobah-na-botov-4w3ey8",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/BO/XeIXSsUqzj.jpg\" alt=\"Разработчики AION 2 рассказали об изменениях Бездны и жалобах на ботов\"/><br /><br />25 ноября после технических работ в игре откроется торговля между серверами внутри одной фракции и региона.<br /><br /><a href=\"https://www.goha.ru/razrabotchiki-aion-2-rasskazali-ob-izmeneniyah-bezdny-i-zhalobah-na-botov-4w3ey8\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 06:00:00 +0000"
+                "title": "Final Fantasy XIV: 1 декабря откроется перемещение между дата-центрами Европы и Северной Америки",
+                "link": "https://www.goha.ru/final-fantasy-xiv-1-dekabrya-otkroetsya-peremeshhenie-mezhdu-data-centrami-evropy-i-severnoj-ameriki-ln7jR8",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Ca/Z1/idyjF0Ivcm.jpg\" alt=\"Final Fantasy XIV: 1 декабря откроется перемещение между дата-центрами Европы и Северной Америки\"/><br /><br />Нововведение должно помочь справиться с возможными очередями после выхода дополнения Evercold. В тот же день начнётся ивент с наградами.<br /><br /><a href=\"https://www.goha.ru/final-fantasy-xiv-1-dekabrya-otkroetsya-peremeshhenie-mezhdu-data-centrami-evropy-i-severnoj-ameriki-ln7jR8\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:10:43 +0000"
             },
             {
-                "title": "Новая MMORPG ODIN Q: VALKYRIE’S CALL выйдет 26 января 2027 года",
-                "link": "https://www.goha.ru/novaya-mmorpg-odin-q-valkyries-call-vyjdet-26-yanvarya-2027-goda-lMoPOj",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CL/eY/IImRGSronI.jpg\" alt=\"Новая MMORPG ODIN Q: VALKYRIE’S CALL выйдет 26 января 2027 года\"/><br /><br />Разработчики покажут игровой процесс на презентациях для прессы, а до релиза постепенно раскроют подробности о контенте.<br /><br /><a href=\"https://www.goha.ru/novaya-mmorpg-odin-q-valkyries-call-vyjdet-26-yanvarya-2027-goda-lMoPOj\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 05:07:24 +0000"
+                "title": "EVE Online: разработчики объяснили правила военных кампаний Fractured Skies",
+                "link": "https://www.goha.ru/eve-online-razrabotchiki-obyasnili-pravila-voennyh-kampanij-fractured-skies-dJ0PXr",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/EU/I3zLCdBThr.jpg\" alt=\"EVE Online: разработчики объяснили правила военных кампаний Fractured Skies\"/><br /><br />После запуска дополнения разработчики изменили баланс кампаний и запланировали новую систему для фракционных войн.<br /><br /><a href=\"https://www.goha.ru/eve-online-razrabotchiki-obyasnili-pravila-voennyh-kampanij-fractured-skies-dJ0PXr\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:09:10 +0000"
             },
             {
-                "title": "Постапокалиптическая MMORPG Persist Online от создателей Tibia набрала 150 000 «вишлистов» в Steam и 50 000 заявок на тесты",
-                "link": "https://www.goha.ru/postapokalipticheskaya-mmorpg-persist-online-ot-sozdatelej-tibia-nabrala-150-000-vishlistov-v-steam-i-50-000-zayavok-na-testy-doKjXB",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Rw/59MUNGUB0M.jpg\" alt=\"Постапокалиптическая MMORPG Persist Online от создателей Tibia набрала 150 000 «вишлистов» в Steam и 50 000 заявок на тесты\"/><br /><br />Постапокалиптическая олдскульная MMORPG Persist Online от CipSoft — студии, стоявшей у истоков Tibia (1997 год), — перешагнула отметку в 150 000 добавлений в список желаемого в Steam, а число зарегистрировавшихся на плейтесты через официальный сайт достигло 50 000 человек. <br /><br /><a href=\"https://www.goha.ru/postapokalipticheskaya-mmorpg-persist-online-ot-sozdatelej-tibia-nabrala-150-000-vishlistov-v-steam-i-50-000-zayavok-na-testy-doKjXB\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:31:21 +0000"
+                "title": "Star Citizen: возможные преимущества подписки вызвали споры среди игроков",
+                "link": "https://www.goha.ru/star-citizen-vozmozhnye-preimushhestva-podpiski-vyzvali-spory-sredi-igrokov-dm7eJj",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Be/oX/4JBShXZxYB.jpg\" alt=\"Star Citizen: возможные преимущества подписки вызвали споры среди игроков\"/><br /><br />В найденных данных указаны бонусы к репутации и льготы при восстановлении кораблей. Часть сообщества считает, что такие преимущества навредят игре.<br /><br /><a href=\"https://www.goha.ru/star-citizen-vozmozhnye-preimushhestva-podpiski-vyzvali-spory-sredi-igrokov-dm7eJj\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:00:00 +0000"
             },
             {
-                "title": "Throne and Liberty: в декабре появятся поля сражений 24 на 24",
-                "link": "https://www.goha.ru/throne-and-liberty-v-dekabre-poyavyatsya-polya-srazhenij-24-na-24-lOmP3e",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/7w/4v8TBs8aFj.jpg\" alt=\"Throne and Liberty: в декабре появятся поля сражений 24 на 24\"/><br /><br />На карте «Город гигантов» участники смогут использовать големов и зарабатывать очки как для команды, так и для себя.<br /><br /><a href=\"https://www.goha.ru/throne-and-liberty-v-dekabre-poyavyatsya-polya-srazhenij-24-na-24-lOmP3e\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:26:27 +0000"
+                "title": "Odin: Valhalla Rising получит крупное декабрьское обновление",
+                "link": "https://www.goha.ru/odin-valhalla-rising-poluchit-krupnoe-dekabrskoe-obnovlenie-480DaW",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NJ/5n/DzKPwV9ie5.jpg\" alt=\"Odin: Valhalla Rising получит крупное декабрьское обновление\"/><br /><br />Разработчики также готовят предмет для защиты реликвий при заточке и расскажут о планах на первую половину 2027 года.<br /><br /><a href=\"https://www.goha.ru/odin-valhalla-rising-poluchit-krupnoe-dekabrskoe-obnovlenie-480DaW\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 13:42:09 +0000"
             },
             {
-                "title": "Blizzard урезает доступ аддонов к определению слоев в World of Warcraft: Forever — целевые переходы станут невозможны",
-                "link": "https://www.goha.ru/blizzard-urezaet-dostup-addonov-k-opredeleniyu-sloev-v-world-of-warcraft-forever-celevye-perehody-stanut-nevozmozhny-la5LbK",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NU/uW/J8s10XicR6.jpg\" alt=\"Blizzard урезает доступ аддонов к определению слоев в World of Warcraft: Forever — целевые переходы станут невозможны\"/><br /><br />В World of Warcraft: Forever система слоев (layering) остается основой работы переполненных мегасерверов, где без разделения потоков тысячи игроков мешали бы друг другу при выполнении заданий и сборе ресурсов, однако Blizzard меняет логику работы программного интерфейса (API) для модификаций, чтобы аддоны больше не могли определять и выбирать конкретный слой. <br /><br /><a href=\"https://www.goha.ru/blizzard-urezaet-dostup-addonov-k-opredeleniyu-sloev-v-world-of-warcraft-forever-celevye-perehody-stanut-nevozmozhny-la5LbK\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:45:57 +0000"
+                "title": "Похоже, что Scars of Honor всё: MMORPG не смогла найти денег на дальнейшую разработку",
+                "link": "https://www.goha.ru/pohozhe-chto-scars-of-honor-vsyo-mmorpg-ne-smogla-najti-deneg-na-dalnejshuyu-razrabotku-d72V5B",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/7S/7bFKE0EXn2.jpg\" alt=\"Похоже, что Scars of Honor всё: MMORPG не смогла найти денег на дальнейшую разработку\"/><br /><br />Студия BeastBurst Entertainment объявила о приостановке разработки своей MMORPG Scars of Honor. Причиной стали тяжелая обстановка в игровой индустрии и общее сокращение инвестиций в секторе, из-за чего руководству пришлось распустить команду разработчиков.<br /><br /><a href=\"https://www.goha.ru/pohozhe-chto-scars-of-honor-vsyo-mmorpg-ne-smogla-najti-deneg-na-dalnejshuyu-razrabotku-d72V5B\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 12:06:15 +0000"
             },
             {
-                "title": "NC выпустила альбом саундтреков Beyond the Frontier из 49 треков к первой годовщине AION 2",
-                "link": "https://www.goha.ru/nc-vypustila-albom-saundtrekov-beyond-the-frontier-iz-49-trekov-k-pervoj-godovshhine-aion-2-dQYPmE",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bv/qJ/ezEKbZraYB.jpg\" alt=\"NC выпустила альбом саундтреков Beyond the Frontier из 49 треков к первой годовщине AION 2\"/><br /><br />Корейская NCSOFT представила второй официальный саундтрек-альбом Beyond the Frontier (вслед за дебютным сборником The Echoes of Eternity), приуроченный к первой годовщине AION 2.<br /><br /><a href=\"https://www.goha.ru/nc-vypustila-albom-saundtrekov-beyond-the-frontier-iz-49-trekov-k-pervoj-godovshhine-aion-2-dQYPmE\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:41:48 +0000"
+                "title": "Lineage Classic: второй сезон выйдет за рамки сюжета оригинальной игры",
+                "link": "https://www.goha.ru/lineage-classic-vtoroj-sezon-vyjdet-za-ramki-syuzheta-originalnoj-igry-deoGOY",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Yo/cl0eECaYht.jpg\" alt=\"Lineage Classic: второй сезон выйдет за рамки сюжета оригинальной игры\"/><br /><br />Разработчики намерены сохранить подписку и привычный игровой процесс, добавив новые территории по мотивам оригинальной манхвы.<br /><br /><a href=\"https://www.goha.ru/lineage-classic-vtoroj-sezon-vyjdet-za-ramki-syuzheta-originalnoj-igry-deoGOY\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 11:00:00 +0000"
             },
             {
-                "title": "Эпизод 2 «Бесконечность» для MMORPG SOL: enchant выйдет 25 ноября, а 2 декабря откроется новый сервер Infinity с призовым фондом в 3 млн алмазов",
-                "link": "https://www.goha.ru/epizod-2-beskonechnost-dlya-mmorpg-sol-enchant-vyjdet-25-noyabrya-a-2-dekabrya-otkroetsya-novyj-server-infinity-s-prizovym-fondom-v-3-mln-almazov-d2y5GQ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/ZW/WvLxKepnnH.jpg\" alt=\"Эпизод 2 «Бесконечность» для MMORPG SOL: enchant выйдет 25 ноября, а 2 декабря откроется новый сервер Infinity с призовым фондом в 3 млн алмазов\"/><br /><br />25 ноября 2026 года в MMORPG SOL: enchant выйдет крупное обновление Эпизод 2 «Бесконечность», а спустя неделю, 2 декабря 2026 года, откроется первый новый сервер Infinity. <br /><br /><a href=\"https://www.goha.ru/epizod-2-beskonechnost-dlya-mmorpg-sol-enchant-vyjdet-25-noyabrya-a-2-dekabrya-otkroetsya-novyj-server-infinity-s-prizovym-fondom-v-3-mln-almazov-d2y5GQ\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:37:40 +0000"
+                "title": "Corepunk: обновление исправило ошибки в интерфейсе и наградах за задания",
+                "link": "https://www.goha.ru/corepunk-obnovlenie-ispravilo-oshibki-v-interfejse-i-nagradah-za-zadaniya-430WAY",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CL/vy/DKASxmN3jA.jpg\" alt=\"Corepunk: обновление исправило ошибки в интерфейсе и наградах за задания\"/><br /><br />Задания боевого пропуска на Prison Island теперь засчитываются всем участникам группы. Также разработчики поправили русскоязычные подсказки.<br /><br /><a href=\"https://www.goha.ru/corepunk-obnovlenie-ispravilo-oshibki-v-interfejse-i-nagradah-za-zadaniya-430WAY\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 10:00:00 +0000"
             },
             {
-                "title": "В World of Warcraft: Forever мало кто хочет играть за хилеров",
-                "link": "https://www.goha.ru/v-world-of-warcraft-forever-malo-kto-hochet-igrat-za-hilerov-lMoP6j",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:C7/R5/Ru7h298zlD.jpg\" alt=\"В World of Warcraft: Forever мало кто хочет играть за хилеров\"/><br /><br />В World of Warcraft: Forever сложилась нетипичная для большинства версий игры ситуация с балансом ролей в подземельях.<br /><br /><a href=\"https://www.goha.ru/v-world-of-warcraft-forever-malo-kto-hochet-igrat-za-hilerov-lMoP6j\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:00:00 +0000"
+                "title": "Разработчики World of Warcraft Forever обсудили нехватку хилов, отказ от BiS-экипировки и баланс к 60-му уровню",
+                "link": "https://www.goha.ru/razrabotchiki-world-of-warcraft-forever-obsudili-nehvatku-hilov-otkaz-ot-bis-ekipirovki-i-balans-k-60-mu-urovnyu-dYzWv7",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Ca/HY/ZuSSeJxWEU.jpg\" alt=\"Разработчики World of Warcraft Forever обсудили нехватку хилов, отказ от BiS-экипировки и баланс к 60-му уровню\"/><br /><br />Старший геймдизайнер Эйдан Мун и ведущий дизайнер Крис Зирхут в подкасте Countdown to Classic разобрали первые итоги старта World of Warcraft: Forever и планы по развитию игры по мере того, как все больше игроков добираются до 60-го уровня. <br /><br /><a href=\"https://www.goha.ru/razrabotchiki-world-of-warcraft-forever-obsudili-nehvatku-hilov-otkaz-ot-bis-ekipirovki-i-balans-k-60-mu-urovnyu-dYzWv7\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:18:46 +0000"
             },
             {
-                "title": "BitCraft Online: в MMORPG-песочнице открылся новый мир",
-                "link": "https://www.goha.ru/bitcraft-online-v-mmorpg-pesochnice-otkrylsya-novyj-mir-4Aw9pg",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BT/0O/RD6MxEERdU.jpg\" alt=\"BitCraft Online: в MMORPG-песочнице открылся новый мир\"/><br /><br />Игроки могут менять рельеф, развивать поселения и осваивать профессии. Прежние персонажи остались доступны в мире Legacy.<br /><br /><a href=\"https://www.goha.ru/bitcraft-online-v-mmorpg-pesochnice-otkrylsya-novyj-mir-4Aw9pg\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 13:14:28 +0000"
+                "title": "AION 2: второй сезон с классом бойца начнётся 16 декабря",
+                "link": "https://www.goha.ru/aion-2-vtoroj-sezon-s-klassom-bojca-nachnyotsya-16-dekabrya-40LYaL",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NJ/6K/zLM9GRiVLc.jpg\" alt=\"AION 2: второй сезон с классом бойца начнётся 16 декабря\"/><br /><br />Игрокам в Европе пообещали компенсацию за проблемы с соединением, а количество камней синхронизации за еженедельные задания увеличат с трёх до двенадцати.<br /><br /><a href=\"https://www.goha.ru/aion-2-vtoroj-sezon-s-klassom-bojca-nachnyotsya-16-dekabrya-40LYaL\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:15:00 +0000"
             },
             {
-                "title": "Tower of Fantasy получит обновление 6.5 «Загадка, скрытая за временем» в ноябре",
-                "link": "https://www.goha.ru/tower-of-fantasy-poluchit-obnovlenie-65-zagadka-skrytaya-za-vremenem-v-noyabre-dDmr5Z",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DK/Gn/KlEpD4BjH4.jpg\" alt=\"Tower of Fantasy получит обновление 6.5 «Загадка, скрытая за временем» в ноябре\"/><br /><br />В Tower of Fantasy готовится очередное крупное обновление. Версия 6.5 под названием «Загадка, скрытая за временем» выйдет 24 ноября и добавит нового симулякра, продолжение основного сюжета, новые сезоны испытаний и дополнительные активности для игроков.<br /><br /><a href=\"https://www.goha.ru/tower-of-fantasy-poluchit-obnovlenie-65-zagadka-skrytaya-za-vremenem-v-noyabre-dDmr5Z\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:26:03 +0000"
+                "title": "В MMORPG EOS Black добавили подземелье Temple of Chaos, древнюю броню и ивенты к 900 дням сервиса",
+                "link": "https://www.goha.ru/v-mmorpg-eos-black-dobavili-podzemele-temple-of-chaos-drevnyuyu-bronyu-i-iventy-k-900-dnyam-servisa-480Dak",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Dt/iPJLNTQRoA.jpg\" alt=\"В MMORPG EOS Black добавили подземелье Temple of Chaos, древнюю броню и ивенты к 900 дням сервиса\"/><br /><br />Компании Blomics и Blue Potion Games объявили о выпуске обновления для MMORPG EOS Black, приуроченного к 900 дням работы сервиса. <br /><br /><a href=\"https://www.goha.ru/v-mmorpg-eos-black-dobavili-podzemele-temple-of-chaos-drevnyuyu-bronyu-i-iventy-k-900-dnyam-servisa-480Dak\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 08:29:42 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:07+00:00"
+        "updated": "2026-11-24T17:28:11+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mobile-games",
@@ -1124,12 +1124,36 @@
                 "pubDate": "Tue, 17 Nov 26 09:29:24 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:08+00:00"
+        "updated": "2026-11-24T17:28:12+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/movies-tvshows",
         "title": "Кино и сериалы - GoHa.Ru",
         "items": [
+            {
+                "title": "Кристофера Джаджа прокатили, но Дебора Энн Уолл сыграет Фэй в экранизации God of War",
+                "link": "https://www.goha.ru/kristofera-dzhadzha-prokatili-no-debora-enn-uoll-sygraet-fej-v-ekranizacii-god-of-war-xRrMOD",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/HT/lSmy99fScs.jpg\" alt=\"Кристофера Джаджа прокатили, но Дебора Энн Уолл сыграет Фэй в экранизации God of War\"/><br /><br />Фэй не только получит собственную игру God of War Laufey, но и появится в сериале «Бог войны», причем Sony с Amazon решили ничего не выдумывать и просто взяли на роль Дебору Энн Уолл.<br /><br /><a href=\"https://www.goha.ru/kristofera-dzhadzha-prokatili-no-debora-enn-uoll-sygraet-fej-v-ekranizacii-god-of-war-xRrMOD\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:48:46 +0000"
+            },
+            {
+                "title": "Экс-режиссер Blade Бассам Тарик: «Жизнь слишком коротка, чтобы снимать дерьмовые фильмы Marvel»",
+                "link": "https://www.goha.ru/eks-rezhisser-blade-bassam-tarik-zhizn-slishkom-korotka-chtoby-snimat-dermovye-filmy-marvel-lPvqOw",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D2/xc/UAPyrIXpeK.jpg\" alt=\"Экс-режиссер Blade Бассам Тарик: «Жизнь слишком коротка, чтобы снимать дерьмовые фильмы Marvel»\"/><br /><br />Режиссер Бассам Тарик в интервью изданию The New Arab признался, что главным уроком его недолгой работы над отмененным перезапуском Blade от Marvel стала фраза: «Жизнь слишком коротка, чтобы снимать дерьмовые фильмы Marvel».<br /><br /><a href=\"https://www.goha.ru/eks-rezhisser-blade-bassam-tarik-zhizn-slishkom-korotka-chtoby-snimat-dermovye-filmy-marvel-lPvqOw\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:42:33 +0000"
+            },
+            {
+                "title": "Жрите Колобка! Госдума выкатила законопроект о жесточайших ограничениях иностранных фильмов",
+                "link": "https://www.goha.ru/zhrite-kolobka-gosduma-vykatila-zakonoproekt-o-zhestochajshih-ogranicheniyah-inostrannyh-filmov-dB0BM9",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NX/YK/34rPpOAWan.jpg\" alt=\"Жрите Колобка! Госдума выкатила законопроект о жесточайших ограничениях иностранных фильмов\"/><br /><br />В Государственной думе подготовили проект поправок к закону о государственной поддержке кинематографии, вводящий квоты на показ российского кино в кинотеатрах. По данным ТАСС, норма может заработать с 1 марта 2027 года.<br /><br /><a href=\"https://www.goha.ru/zhrite-kolobka-gosduma-vykatila-zakonoproekt-o-zhestochajshih-ogranicheniyah-inostrannyh-filmov-dB0BM9\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:16:55 +0000"
+            },
+            {
+                "title": "Был сегуном, станет хокаге: Санада Хироюки сыграет в «Наруто»",
+                "link": "https://www.goha.ru/byl-segunom-stanet-hokage-sanada-hiroyuki-sygraet-v-naruto-dZ1nJm",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/gU/p9qUdDIoUq.jpg\" alt=\"Был сегуном, станет хокаге: Санада Хироюки сыграет в «Наруто»\"/><br /><br />Весна 2027 года не за горами, и актерский состав игрового фильма «Наруто» потихоньку расширяется: возглавит Коноху хорошо известный зрителям Санада Хироюки, о чем сообщило издание Deadline.<br /><br /><a href=\"https://www.goha.ru/byl-segunom-stanet-hokage-sanada-hiroyuki-sygraet-v-naruto-dZ1nJm\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 09:11:05 +0000"
+            },
             {
                 "title": "Готовы к самому мощному общему сбору? Финальный трейлер «Мстителей: Доктор Дум»",
                 "link": "https://www.goha.ru/gotovy-k-samomu-moshhnomu-obshhemu-sboru-finalnyj-trejler-mstitelej-doktor-dum-dYzWm5",
@@ -1165,167 +1189,143 @@
                 "link": "https://www.goha.ru/zak-snajder-vybyl-iz-perezapuska-pobega-iz-nyu-jorka-na-zamenu-gotov-robert-rodriges-a-dzhon-karpenter-napishet-muzyku-4VePvo",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NU/jR/pJD3WZPbMT.jpg\" alt=\"Зак Снайдер выбыл из перезапуска «Побега из Нью-Йорка» — на замену готов Роберт Родригес, а Джон Карпентер напишет музыку\"/><br /><br />Джон Карпентер (John Carpenter) в подкасте Dropping Names with Brent and Jonny сообщил, что Зак Снайдер (Zack Snyder) больше не значится постановщиком перезапуска культового боевика 1981 года «Побег из Нью-Йорка» (Escape from New York) — после июньского анонса и сентябрьского подтверждения режиссер, по словам Карпентера, выбыл из проекта, но пытается вернуться обратно. <br /><br /><a href=\"https://www.goha.ru/zak-snajder-vybyl-iz-perezapuska-pobega-iz-nyu-jorka-na-zamenu-gotov-robert-rodriges-a-dzhon-karpenter-napishet-muzyku-4VePvo\">Читать дальше →</a>",
                 "pubDate": "Sun, 22 Nov 26 09:20:58 +0000"
-            },
-            {
-                "title": "Детишки-бунтари снова в моде: фильм «Голодные игры: Рассвет жатвы» собрал $120 млн за уик-энд в США и вернул франшизу в клуб $100-миллионных стартов",
-                "link": "https://www.goha.ru/detishki-buntari-snova-v-mode-film-golodnye-igry-rassvet-zhatvy-sobral-120-mln-za-uik-end-v-ssha-i-vernul-franshizu-v-klub-100-millionnyh-startov-dZ1noL",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Cr/QH/e6n1clHkvy.jpg\" alt=\"Детишки-бунтари снова в моде: фильм «Голодные игры: Рассвет жатвы» собрал $120 млн за уик-энд в США и вернул франшизу в клуб $100-миллионных стартов\"/><br /><br />Шестой фильм франшизы «Голодные игры: Рассвет жатвы» (The Hunger Games: Sunrise on the Reaping) от Lionsgate стартовал в североамериканском прокате примерно со $120 млн за уик-энд (после $56 млн в пятницу с учетом превью в 4 018 кинотеатрах), вернув серию к привычным для нее стартам выше $100 млн. <br /><br /><a href=\"https://www.goha.ru/detishki-buntari-snova-v-mode-film-golodnye-igry-rassvet-zhatvy-sobral-120-mln-za-uik-end-v-ssha-i-vernul-franshizu-v-klub-100-millionnyh-startov-dZ1noL\">Читать дальше →</a>",
-                "pubDate": "Sun, 22 Nov 26 09:15:15 +0000"
-            },
-            {
-                "title": "Вин Дизель сыграет главную роль в экшене Burial Hill — Amazon MGM Studios покупает международные права за $35–40 млн",
-                "link": "https://www.goha.ru/vin-dizel-sygraet-glavnuyu-rol-v-ekshene-burial-hill-amazon-mgm-studios-pokupaet-mezhdunarodnye-prava-za-3540-mln-lGZN51",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BE/RV/9IxKKRodvR.jpg\" alt=\"Вин Дизель сыграет главную роль в экшене Burial Hill — Amazon MGM Studios покупает международные права за $35–40 млн\"/><br /><br />Вин Дизель исполнит главную роль в новом оригинальном боевике Burial Hill, который задумывается как старт новой франшизы и станет для актера первой картиной вне «Форсажа» и проектов Marvel за шесть лет (и лишь второй за последнее десятилетие). <br /><br /><a href=\"https://www.goha.ru/vin-dizel-sygraet-glavnuyu-rol-v-ekshene-burial-hill-amazon-mgm-studios-pokupaet-mezhdunarodnye-prava-za-3540-mln-lGZN51\">Читать дальше →</a>",
-                "pubDate": "Sat, 21 Nov 26 13:06:37 +0000"
-            },
-            {
-                "title": "На Disney+ и Hulu вышли первые две серии 3-го сезона «Перси Джексона и Олимпийцев» по мотивам «Проклятия титана»",
-                "link": "https://www.goha.ru/na-disney-i-hulu-vyshli-pervye-dve-serii-3-go-sezona-persi-dzheksona-i-olimpijcev-po-motivam-proklyatiya-titana-ln7j3e",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DK/AO/UD7LO9arek.jpg\" alt=\"На Disney+ и Hulu вышли первые две серии 3-го сезона «Перси Джексона и Олимпийцев» по мотивам «Проклятия титана»\"/><br /><br />На стриминговых платформах Disney+ и Hulu вышли первые два эпизода третьего сезона сериала «Перси Джексон и Олимпийцев» — экранизации третьей книги цикла Рика Риордана «Проклятие титана».<br /><br /><a href=\"https://www.goha.ru/na-disney-i-hulu-vyshli-pervye-dve-serii-3-go-sezona-persi-dzheksona-i-olimpijcev-po-motivam-proklyatiya-titana-ln7j3e\">Читать дальше →</a>",
-                "pubDate": "Sat, 21 Nov 26 12:00:57 +0000"
-            },
-            {
-                "title": "Позорище на всю планету: трейлер фильма «Новые похождения Клиффа Бута» пестрит низкокачественной ИИ-обработкой, а Финчер это еще и защищает",
-                "link": "https://www.goha.ru/pozorishhe-na-vsyu-planetu-trejler-filma-novye-pohozhdeniya-kliffa-buta-pestrit-nizkokachestvennoj-ii-obrabotkoj-a-fincher-eto-eshhe-i-zashhishhaet-lb2XPM",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/I2/GkvQqFZtaK.jpg\" alt=\"Позорище на всю планету: трейлер фильма «Новые похождения Клиффа Бута» пестрит низкокачественной ИИ-обработкой, а Финчер это еще и защищает\"/><br /><br />Режиссер Дэвид Финчер в беседе с Los Angeles Times прокомментировал волну зрительской критики по поводу использования генеративного ИИ в фильме «Дальнейшие злоключения Клиффа Бута» — продолжении «Однажды в... Голливуде» по сценарию Квентина Тарантино с Брэдом Питтом в главной роли.<br /><br /><a href=\"https://www.goha.ru/pozorishhe-na-vsyu-planetu-trejler-filma-novye-pohozhdeniya-kliffa-buta-pestrit-nizkokachestvennoj-ii-obrabotkoj-a-fincher-eto-eshhe-i-zashhishhaet-lb2XPM\">Читать дальше →</a>",
-                "pubDate": "Sat, 21 Nov 26 11:32:25 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:09+00:00"
+        "updated": "2026-11-24T17:28:13+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/news",
         "title": "Новости - GoHa.Ru",
         "items": [
             {
-                "title": "Разработчики AION 2 рассказали об изменениях Бездны и жалобах на ботов",
-                "link": "https://www.goha.ru/razrabotchiki-aion-2-rasskazali-ob-izmeneniyah-bezdny-i-zhalobah-na-botov-4w3ey8",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/BO/XeIXSsUqzj.jpg\" alt=\"Разработчики AION 2 рассказали об изменениях Бездны и жалобах на ботов\"/><br /><br />25 ноября после технических работ в игре откроется торговля между серверами внутри одной фракции и региона.<br /><br /><a href=\"https://www.goha.ru/razrabotchiki-aion-2-rasskazali-ob-izmeneniyah-bezdny-i-zhalobah-na-botov-4w3ey8\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 06:00:00 +0000"
+                "title": "В Steam с играми так грустно, что первой в чарте продаж стала EA Sports FC 27",
+                "link": "https://www.goha.ru/v-steam-s-igrami-tak-grustno-chto-pervoj-v-charte-prodazh-stala-ea-sports-fc-27-480D5k",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mq/FC/T07ngOjPYZ.jpg\" alt=\"В Steam с играми так грустно, что первой в чарте продаж стала EA Sports FC 27\"/><br /><br />С новинками у бояр нынче глухо, так что самой продаваемой игрой в Steam за неделю стала EA Sports FC 27, благо без футбола чарт продаж и так никогда не обходится. Ну и спрос на Steam Deck резко подскочил.<br /><br /><a href=\"https://www.goha.ru/v-steam-s-igrami-tak-grustno-chto-pervoj-v-charte-prodazh-stala-ea-sports-fc-27-480D5k\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 17:07:00 +0000"
             },
             {
-                "title": "Новая MMORPG ODIN Q: VALKYRIE’S CALL выйдет 26 января 2027 года",
-                "link": "https://www.goha.ru/novaya-mmorpg-odin-q-valkyries-call-vyjdet-26-yanvarya-2027-goda-lMoPOj",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CL/eY/IImRGSronI.jpg\" alt=\"Новая MMORPG ODIN Q: VALKYRIE’S CALL выйдет 26 января 2027 года\"/><br /><br />Разработчики покажут игровой процесс на презентациях для прессы, а до релиза постепенно раскроют подробности о контенте.<br /><br /><a href=\"https://www.goha.ru/novaya-mmorpg-odin-q-valkyries-call-vyjdet-26-yanvarya-2027-goda-lMoPOj\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 05:07:24 +0000"
+                "title": "Авторы MMO-шутера Atomic Heart: The CUBE начали публиковать «архивные файлы» с тизерами игры",
+                "link": "https://www.goha.ru/avtory-mmo-shutera-the-cube-po-vselennoj-atomic-heart-nachali-publikovat-arhivnye-fajly-s-tizerami-igry-xzBMNk",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Yu/NpjmF6GQGh.jpg\" alt=\"Авторы MMO-шутера Atomic Heart: The CUBE начали публиковать «архивные файлы» с тизерами игры\"/><br /><br />Студия Mundfish прервала затянувшееся молчание вокруг своего многопользовательского ролевого шутера The CUBE, действие которого разворачивается в альтернативной ретрофутуристической вселенной Atomic Heart.<br /><br /><a href=\"https://www.goha.ru/avtory-mmo-shutera-the-cube-po-vselennoj-atomic-heart-nachali-publikovat-arhivnye-fajly-s-tizerami-igry-xzBMNk\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:28:27 +0000"
             },
             {
-                "title": "Final Fantasy 7 Revelation будет содержать сцены крови, нецензурную лексику, откровенные темы и насилие",
-                "link": "https://www.goha.ru/final-fantasy-7-revelation-budet-soderzhat-sceny-krovi-necenzurnuyu-leksiku-otkrovennye-temy-i-nasilie-xgo9nN",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Cc/um/2rtC4HjkK2.jpg\" alt=\"Final Fantasy 7 Revelation будет содержать сцены крови, нецензурную лексику, откровенные темы и насилие\"/><br /><br />Опубликовано официальное описание рейтинга ESRB для игры Final Fantasy VII Revelation: проекту присвоена категория T (для подростков)<br /><br /><a href=\"https://www.goha.ru/final-fantasy-7-revelation-budet-soderzhat-sceny-krovi-necenzurnuyu-leksiku-otkrovennye-temy-i-nasilie-xgo9nN\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 05:00:00 +0000"
+                "title": "EVILBANE: вышел официальный трейлер экшен-RPG о борьбе с демонами",
+                "link": "https://www.goha.ru/evilbane-vyshel-oficialnyj-trejler-ekshen-rpg-o-borbe-s-demonami-xLov1E",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/Vx/t6p4glIBoj.jpg\" alt=\"EVILBANE: вышел официальный трейлер экшен-RPG о борьбе с демонами\"/><br /><br />Игроки смогут переключаться между оружием ближнего и дальнего боя, настраивать навыки и вместе сражаться с боссами.<br /><br /><a href=\"https://www.goha.ru/evilbane-vyshel-oficialnyj-trejler-ekshen-rpg-o-borbe-s-demonami-xLov1E\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:25:00 +0000"
             },
             {
-                "title": "Nioh 3 получит дополнение Bloody Insurrection в декабре, а Complete Edition выйдет в январе 2027 года",
-                "link": "https://www.goha.ru/nioh-3-poluchit-dopolnenie-bloody-insurrection-v-dekabre-a-complete-edition-vyjdet-v-yanvare-2027-goda-lKL3aQ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/OD/ozXFFZDqtp.jpg\" alt=\"Nioh 3 получит дополнение Bloody Insurrection в декабре, а Complete Edition выйдет в январе 2027 года\"/><br /><br />Компании Koei Tecmo и Team Ninja анонсировали выход второго дополнения для Nioh 3 под названием Bloody Insurrection, который состоится совсем скоро. А в январе 2027 года выйдет Nioh 3: Complete Edition — полное издание, включающее основную игру и оба дополнения<br /><br /><a href=\"https://www.goha.ru/nioh-3-poluchit-dopolnenie-bloody-insurrection-v-dekabre-a-complete-edition-vyjdet-v-yanvare-2027-goda-lKL3aQ\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 04:00:00 +0000"
+                "title": "Final Fantasy XIV: 1 декабря откроется перемещение между дата-центрами Европы и Северной Америки",
+                "link": "https://www.goha.ru/final-fantasy-xiv-1-dekabrya-otkroetsya-peremeshhenie-mezhdu-data-centrami-evropy-i-severnoj-ameriki-ln7jR8",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Ca/Z1/idyjF0Ivcm.jpg\" alt=\"Final Fantasy XIV: 1 декабря откроется перемещение между дата-центрами Европы и Северной Америки\"/><br /><br />Нововведение должно помочь справиться с возможными очередями после выхода дополнения Evercold. В тот же день начнётся ивент с наградами.<br /><br /><a href=\"https://www.goha.ru/final-fantasy-xiv-1-dekabrya-otkroetsya-peremeshhenie-mezhdu-data-centrami-evropy-i-severnoj-ameriki-ln7jR8\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:10:43 +0000"
             },
             {
-                "title": "Этот локомотив уже не остановить даже угрозами от Зельника: опропубликовали системные требования для ПК-версии GTA 6",
-                "link": "https://www.goha.ru/etot-lokomotiv-uzhe-ne-ostanovit-dazhe-ugrozami-ot-zelnika-opropublikovali-sistemnye-trebovaniya-dlya-pk-versii-gta-6-xqZjyo",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nl/mQ/tWZ31PKtDE.jpg\" alt=\"Этот локомотив уже не остановить даже угрозами от Зельника: опропубликовали системные требования для ПК-версии GTA 6\"/><br /><br />В сети появились ориентировочные системные требования для ПК, составленные энтузиастами открытого проекта Leonida, который развивает статическую рекомпиляцию сборки Grand Theft Auto 6. <br /><br /><a href=\"https://www.goha.ru/etot-lokomotiv-uzhe-ne-ostanovit-dazhe-ugrozami-ot-zelnika-opropublikovali-sistemnye-trebovaniya-dlya-pk-versii-gta-6-xqZjyo\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 19:33:58 +0000"
+                "title": "EVE Online: разработчики объяснили правила военных кампаний Fractured Skies",
+                "link": "https://www.goha.ru/eve-online-razrabotchiki-obyasnili-pravila-voennyh-kampanij-fractured-skies-dJ0PXr",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/EU/I3zLCdBThr.jpg\" alt=\"EVE Online: разработчики объяснили правила военных кампаний Fractured Skies\"/><br /><br />После запуска дополнения разработчики изменили баланс кампаний и запланировали новую систему для фракционных войн.<br /><br /><a href=\"https://www.goha.ru/eve-online-razrabotchiki-obyasnili-pravila-voennyh-kampanij-fractured-skies-dJ0PXr\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:09:10 +0000"
             },
             {
-                "title": "Разработчик уместил нейросеть Tiny 2.1 на дискету для MS-DOS объемом 1,4 МБ",
-                "link": "https://www.goha.ru/razrabotchik-umestil-nejroset-tiny-21-na-disketu-dlya-ms-dos-obemom-14-mb-dvLK73",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Be/dS/b7sOvhP3H9.jpg\" alt=\"Разработчик уместил нейросеть Tiny 2.1 на дискету для MS-DOS объемом 1,4 МБ\"/><br /><br />Пока современные нейросети требуют десятков гигабайт видеопамяти и многоядерных ускорителей, разработчик под ником WollyMonjac решил пойти в противоположном направлении и уместил полноценный вопросно-ответный трансформер Tiny 2.1 на стандартную 3,5-дюймовую дискету объемом 1,44 МБ. <br /><br /><a href=\"https://www.goha.ru/razrabotchik-umestil-nejroset-tiny-21-na-disketu-dlya-ms-dos-obemom-14-mb-dvLK73\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 19:00:00 +0000"
+                "title": "Чем заняться внутри стен в Attack on Titan 3? Ответ на видео",
+                "link": "https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NX/bq/tbbCrpallZ.jpg\" alt=\"Чем заняться внутри стен в Attack on Titan 3? Ответ на видео\"/><br /><br />Второй ознакомительный ролик от Omega Force и Koei Tecmo посвящен тому, чем можно заняться внутри стен в экшене Attack on Titan 3, готовясь к очередной стычке с титанами.<br /><br /><a href=\"https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:07:00 +0000"
             },
             {
-                "title": "Ноябрьский дневник разработчиков GODDESS OF VICTORY: NIKKE: второй сезон сюжета после 50-й главы и режим Raid Rush с 31 декабря",
-                "link": "https://www.goha.ru/noyabrskij-dnevnik-razrabotchikov-goddess-of-victory-nikke-vtoroj-sezon-syuzheta-posle-50-j-glavy-i-rezhim-raid-rush-s-31-dekabrya-dN0ya3",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mn/wu/mXd6EXspmg.jpg\" alt=\"Ноябрьский дневник разработчиков GODDESS OF VICTORY: NIKKE: второй сезон сюжета после 50-й главы и режим Raid Rush с 31 декабря\"/><br /><br />В ноябрьском дневнике разработчиков GODDESS OF VICTORY: NIKKE руководитель проекта Хён Сок Ю (Hyungsuk Yoo) объявил о запуске второго сезона основного сюжета в 2027 году.<br /><br /><a href=\"https://www.goha.ru/noyabrskij-dnevnik-razrabotchikov-goddess-of-victory-nikke-vtoroj-sezon-syuzheta-posle-50-j-glavy-i-rezhim-raid-rush-s-31-dekabrya-dN0ya3\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 18:00:00 +0000"
+                "title": "Видеокарты NVIDIA больше не портят ваши SSD",
+                "link": "https://www.goha.ru/videokarty-nvidia-bolshe-ne-portyat-vashi-ssd-xRrM6z",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/Lz/rU9cXNLcPn.jpg\" alt=\"Видеокарты NVIDIA больше не портят ваши SSD\"/><br /><br />Компания NVIDIA выпустила сертифицированный пакет драйверов GeForce Game Ready 621.40 WHQL, главным техническим пунктом которого стало полноценное устранение повышенной фоновой нагрузки на твердотельные накопители. <br /><br /><a href=\"https://www.goha.ru/videokarty-nvidia-bolshe-ne-portyat-vashi-ssd-xRrM6z\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:39:59 +0000"
             },
             {
-                "title": "Хакер voices38 разобрался с Denuvo в Phantom Blade Zero",
-                "link": "https://www.goha.ru/haker-voices38-razobralsya-s-denuvo-v-phantom-blade-zero-l6VZY9",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CO/WM/3DHq5LKd8H.jpg\" alt=\"Хакер voices38 разобрался с Denuvo в Phantom Blade Zero\"/><br /><br />Хакер под ником voices38 обошел и полностью вырезал защиту Denuvo в уся-экшене Phantom Blade Zero от китайской студии S-GAME, выпустив в сеть релиз объемом около 138 ГБ спустя чуть более трех недель после выхода игры. <br /><br /><a href=\"https://www.goha.ru/haker-voices38-razobralsya-s-denuvo-v-phantom-blade-zero-l6VZY9\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 17:00:00 +0000"
+                "title": "От £200 до миллионов фунтов: более 10 000 студий из Великобритании могут получить выплаты из-за комиссий Google Play",
+                "link": "https://www.goha.ru/ot-200-do-millionov-funtov-bolee-10-000-studij-iz-velikobritanii-mogut-poluchit-vyplaty-iz-za-komissij-google-play-dDmrZ2",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/Ar/DL2mjP1vmP.jpg\" alt=\"От £200 до миллионов фунтов: более 10 000 студий из Великобритании могут получить выплаты из-за комиссий Google Play\"/><br /><br />Разработчики из Великобритании, выпускавшие игры, приложения, подписки или внутриигровой контент в Google Play Store с 22 августа 2018 года по 31 июля 2026 года, получили возможность подать заявку на компенсацию из фонда в £260 млн (~$338 млн).<br /><br /><a href=\"https://www.goha.ru/ot-200-do-millionov-funtov-bolee-10-000-studij-iz-velikobritanii-mogut-poluchit-vyplaty-iz-za-komissij-google-play-dDmrZ2\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:37:55 +0000"
             },
             {
-                "title": "Постапокалиптическая MMORPG Persist Online от создателей Tibia набрала 150 000 «вишлистов» в Steam и 50 000 заявок на тесты",
-                "link": "https://www.goha.ru/postapokalipticheskaya-mmorpg-persist-online-ot-sozdatelej-tibia-nabrala-150-000-vishlistov-v-steam-i-50-000-zayavok-na-testy-doKjXB",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Rw/59MUNGUB0M.jpg\" alt=\"Постапокалиптическая MMORPG Persist Online от создателей Tibia набрала 150 000 «вишлистов» в Steam и 50 000 заявок на тесты\"/><br /><br />Постапокалиптическая олдскульная MMORPG Persist Online от CipSoft — студии, стоявшей у истоков Tibia (1997 год), — перешагнула отметку в 150 000 добавлений в список желаемого в Steam, а число зарегистрировавшихся на плейтесты через официальный сайт достигло 50 000 человек. <br /><br /><a href=\"https://www.goha.ru/postapokalipticheskaya-mmorpg-persist-online-ot-sozdatelej-tibia-nabrala-150-000-vishlistov-v-steam-i-50-000-zayavok-na-testy-doKjXB\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:31:21 +0000"
+                "title": "Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом",
+                "link": "https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/ER/Bu8pU32AYn.jpg\" alt=\"Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом\"/><br /><br />Студия Battlestate Games выпустила для Escape from Tarkov крупное техническое обновление 1.3.5.0, главным нововведением которого стал переход проекта на движок Unity 6. <br /><br /><a href=\"https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:36:27 +0000"
             },
             {
-                "title": "Трейлер Warhammer 40,000: Dawn Of War 4 в Commander Edition с ранним доступом и контентом",
-                "link": "https://www.goha.ru/trejler-warhammer-40000-dawn-of-war-4-v-commander-edition-s-rannim-dostupom-i-kontentom-dpPazA",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/3t/k3grBZUx2d.jpg\" alt=\"Трейлер Warhammer 40,000: Dawn Of War 4 в Commander Edition с ранним доступом и контентом\"/><br /><br />Перед релизом RTS Warhammer 40,000: Dawn Of War IV 3 декабря 2026 года King Art Games и Deep Silver выпустили трейлер в попытке соблазнить фанатов более дорогим командирским изданием.<br /><br /><a href=\"https://www.goha.ru/trejler-warhammer-40000-dawn-of-war-4-v-commander-edition-s-rannim-dostupom-i-kontentom-dpPazA\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:30:52 +0000"
+                "title": "«Яндекс» и понятие «анонимность» теперь очень далеки друг от друга",
+                "link": "https://www.goha.ru/yandeks-i-ponyatie-anonimnost-teper-ochen-daleki-drug-ot-druga-dZ1n6b",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Co/pt/p09YEOEpQM.jpg\" alt=\"«Яндекс» и понятие «анонимность» теперь очень далеки друг от друга\"/><br /><br />В прошлом месяце вышла обновленная редакция лицензионного соглашения «Яндекс Браузера» (предыдущая действовала с 27 февраля), в которой из пятого раздела исчезли 5 упоминаний анонимности и 2 — обезличенности данных. <br /><br /><a href=\"https://www.goha.ru/yandeks-i-ponyatie-anonimnost-teper-ochen-daleki-drug-ot-druga-dZ1n6b\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:31:19 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:10+00:00"
+        "updated": "2026-11-24T17:28:14+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/videogames",
         "title": "Видеоигры - GoHa.Ru",
         "items": [
             {
-                "title": "Final Fantasy 7 Revelation будет содержать сцены крови, нецензурную лексику, откровенные темы и насилие",
-                "link": "https://www.goha.ru/final-fantasy-7-revelation-budet-soderzhat-sceny-krovi-necenzurnuyu-leksiku-otkrovennye-temy-i-nasilie-xgo9nN",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Cc/um/2rtC4HjkK2.jpg\" alt=\"Final Fantasy 7 Revelation будет содержать сцены крови, нецензурную лексику, откровенные темы и насилие\"/><br /><br />Опубликовано официальное описание рейтинга ESRB для игры Final Fantasy VII Revelation: проекту присвоена категория T (для подростков)<br /><br /><a href=\"https://www.goha.ru/final-fantasy-7-revelation-budet-soderzhat-sceny-krovi-necenzurnuyu-leksiku-otkrovennye-temy-i-nasilie-xgo9nN\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 05:00:00 +0000"
+                "title": "В Steam с играми так грустно, что первой в чарте продаж стала EA Sports FC 27",
+                "link": "https://www.goha.ru/v-steam-s-igrami-tak-grustno-chto-pervoj-v-charte-prodazh-stala-ea-sports-fc-27-480D5k",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mq/FC/T07ngOjPYZ.jpg\" alt=\"В Steam с играми так грустно, что первой в чарте продаж стала EA Sports FC 27\"/><br /><br />С новинками у бояр нынче глухо, так что самой продаваемой игрой в Steam за неделю стала EA Sports FC 27, благо без футбола чарт продаж и так никогда не обходится. Ну и спрос на Steam Deck резко подскочил.<br /><br /><a href=\"https://www.goha.ru/v-steam-s-igrami-tak-grustno-chto-pervoj-v-charte-prodazh-stala-ea-sports-fc-27-480D5k\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 17:07:00 +0000"
             },
             {
-                "title": "Nioh 3 получит дополнение Bloody Insurrection в декабре, а Complete Edition выйдет в январе 2027 года",
-                "link": "https://www.goha.ru/nioh-3-poluchit-dopolnenie-bloody-insurrection-v-dekabre-a-complete-edition-vyjdet-v-yanvare-2027-goda-lKL3aQ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/OD/ozXFFZDqtp.jpg\" alt=\"Nioh 3 получит дополнение Bloody Insurrection в декабре, а Complete Edition выйдет в январе 2027 года\"/><br /><br />Компании Koei Tecmo и Team Ninja анонсировали выход второго дополнения для Nioh 3 под названием Bloody Insurrection, который состоится совсем скоро. А в январе 2027 года выйдет Nioh 3: Complete Edition — полное издание, включающее основную игру и оба дополнения<br /><br /><a href=\"https://www.goha.ru/nioh-3-poluchit-dopolnenie-bloody-insurrection-v-dekabre-a-complete-edition-vyjdet-v-yanvare-2027-goda-lKL3aQ\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 04:00:00 +0000"
+                "title": "Авторы MMO-шутера Atomic Heart: The CUBE начали публиковать «архивные файлы» с тизерами игры",
+                "link": "https://www.goha.ru/avtory-mmo-shutera-the-cube-po-vselennoj-atomic-heart-nachali-publikovat-arhivnye-fajly-s-tizerami-igry-xzBMNk",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/Yu/NpjmF6GQGh.jpg\" alt=\"Авторы MMO-шутера Atomic Heart: The CUBE начали публиковать «архивные файлы» с тизерами игры\"/><br /><br />Студия Mundfish прервала затянувшееся молчание вокруг своего многопользовательского ролевого шутера The CUBE, действие которого разворачивается в альтернативной ретрофутуристической вселенной Atomic Heart.<br /><br /><a href=\"https://www.goha.ru/avtory-mmo-shutera-the-cube-po-vselennoj-atomic-heart-nachali-publikovat-arhivnye-fajly-s-tizerami-igry-xzBMNk\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:28:27 +0000"
             },
             {
-                "title": "Этот локомотив уже не остановить даже угрозами от Зельника: опропубликовали системные требования для ПК-версии GTA 6",
-                "link": "https://www.goha.ru/etot-lokomotiv-uzhe-ne-ostanovit-dazhe-ugrozami-ot-zelnika-opropublikovali-sistemnye-trebovaniya-dlya-pk-versii-gta-6-xqZjyo",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nl/mQ/tWZ31PKtDE.jpg\" alt=\"Этот локомотив уже не остановить даже угрозами от Зельника: опропубликовали системные требования для ПК-версии GTA 6\"/><br /><br />В сети появились ориентировочные системные требования для ПК, составленные энтузиастами открытого проекта Leonida, который развивает статическую рекомпиляцию сборки Grand Theft Auto 6. <br /><br /><a href=\"https://www.goha.ru/etot-lokomotiv-uzhe-ne-ostanovit-dazhe-ugrozami-ot-zelnika-opropublikovali-sistemnye-trebovaniya-dlya-pk-versii-gta-6-xqZjyo\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 19:33:58 +0000"
+                "title": "EVILBANE: вышел официальный трейлер экшен-RPG о борьбе с демонами",
+                "link": "https://www.goha.ru/evilbane-vyshel-oficialnyj-trejler-ekshen-rpg-o-borbe-s-demonami-xLov1E",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/Vx/t6p4glIBoj.jpg\" alt=\"EVILBANE: вышел официальный трейлер экшен-RPG о борьбе с демонами\"/><br /><br />Игроки смогут переключаться между оружием ближнего и дальнего боя, настраивать навыки и вместе сражаться с боссами.<br /><br /><a href=\"https://www.goha.ru/evilbane-vyshel-oficialnyj-trejler-ekshen-rpg-o-borbe-s-demonami-xLov1E\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:25:00 +0000"
             },
             {
-                "title": "Хакер voices38 разобрался с Denuvo в Phantom Blade Zero",
-                "link": "https://www.goha.ru/haker-voices38-razobralsya-s-denuvo-v-phantom-blade-zero-l6VZY9",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CO/WM/3DHq5LKd8H.jpg\" alt=\"Хакер voices38 разобрался с Denuvo в Phantom Blade Zero\"/><br /><br />Хакер под ником voices38 обошел и полностью вырезал защиту Denuvo в уся-экшене Phantom Blade Zero от китайской студии S-GAME, выпустив в сеть релиз объемом около 138 ГБ спустя чуть более трех недель после выхода игры. <br /><br /><a href=\"https://www.goha.ru/haker-voices38-razobralsya-s-denuvo-v-phantom-blade-zero-l6VZY9\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 17:00:00 +0000"
+                "title": "Чем заняться внутри стен в Attack on Titan 3? Ответ на видео",
+                "link": "https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NX/bq/tbbCrpallZ.jpg\" alt=\"Чем заняться внутри стен в Attack on Titan 3? Ответ на видео\"/><br /><br />Второй ознакомительный ролик от Omega Force и Koei Tecmo посвящен тому, чем можно заняться внутри стен в экшене Attack on Titan 3, готовясь к очередной стычке с титанами.<br /><br /><a href=\"https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 16:07:00 +0000"
             },
             {
-                "title": "Трейлер Warhammer 40,000: Dawn Of War 4 в Commander Edition с ранним доступом и контентом",
-                "link": "https://www.goha.ru/trejler-warhammer-40000-dawn-of-war-4-v-commander-edition-s-rannim-dostupom-i-kontentom-dpPazA",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/3t/k3grBZUx2d.jpg\" alt=\"Трейлер Warhammer 40,000: Dawn Of War 4 в Commander Edition с ранним доступом и контентом\"/><br /><br />Перед релизом RTS Warhammer 40,000: Dawn Of War IV 3 декабря 2026 года King Art Games и Deep Silver выпустили трейлер в попытке соблазнить фанатов более дорогим командирским изданием.<br /><br /><a href=\"https://www.goha.ru/trejler-warhammer-40000-dawn-of-war-4-v-commander-edition-s-rannim-dostupom-i-kontentom-dpPazA\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:30:52 +0000"
+                "title": "Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом",
+                "link": "https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/ER/Bu8pU32AYn.jpg\" alt=\"Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом\"/><br /><br />Студия Battlestate Games выпустила для Escape from Tarkov крупное техническое обновление 1.3.5.0, главным нововведением которого стал переход проекта на движок Unity 6. <br /><br /><a href=\"https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:36:27 +0000"
             },
             {
-                "title": "В Леониде секса нет, только любовь: Rockstar объяснила работу над сценами близости Джейсона и Лусии в GTA 6",
-                "link": "https://www.goha.ru/v-leoonide-seksa-net-tolko-lyubov-rockstar-obyasnila-rabotu-nad-scenami-blizosti-dzhejsona-i-lusii-v-gta-6-430WBY",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BQ/4T/YDPUtHVmJs.jpg\" alt=\"В Леониде секса нет, только любовь: Rockstar объяснила работу над сценами близости Джейсона и Лусии в GTA 6\"/><br /><br />Вице-президент по анимации Rockstar Games Марк Теннант (Mark Tennant) в интервью GamesRadar+ рассказал, что сцены физической близости между Джейсоном и Лусией в Grand Theft Auto 6 потребовали продолжительной проработки и множества итераций, чтобы отражать развитие отношений между главными героями. <br /><br /><a href=\"https://www.goha.ru/v-leoonide-seksa-net-tolko-lyubov-rockstar-obyasnila-rabotu-nad-scenami-blizosti-dzhejsona-i-lusii-v-gta-6-430WBY\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 16:00:00 +0000"
+                "title": "Foxhole: представлен трейлер обновления Engines of War для военной стратегии",
+                "link": "https://www.goha.ru/foxhole-predstavlen-trejler-obnovleniya-engines-of-war-dlya-voennoj-strategii-d72VG0",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/OQ/Ep1uON4OO5.jpg\" alt=\"Foxhole: представлен трейлер обновления Engines of War для военной стратегии\"/><br /><br />Трейлер показал технику и снаряжение для боёв на суше, на море и в воздухе, а также новое укрепление для инженеров.<br /><br /><a href=\"https://www.goha.ru/foxhole-predstavlen-trejler-obnovleniya-engines-of-war-dlya-voennoj-strategii-d72VG0\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 15:00:00 +0000"
             },
             {
-                "title": "Дожди в Леониде, звонки по сюжету и баг с розыском: что изменил первый патч GTA 6 после релиза",
-                "link": "https://www.goha.ru/dozhdi-v-leonide-zvonki-po-syuzhetu-i-bag-s-rozyskom-chto-izmenil-pervyj-patch-gta-6-posle-reliza-ljjrVZ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CL/lU/3jnjhZLLfz.jpg\" alt=\"Дожди в Леониде, звонки по сюжету и баг с розыском: что изменил первый патч GTA 6 после релиза\"/><br /><br />Rockstar Games выпустила первое пострелизное обновление для Grand Theft Auto 6 под номером 01.002.002 на PlayStation 5 (603,8 МБ, с поэтапной раскладкой на 33 %, 66 % и 100 % пользователей консоли Sony) и 1.0.2.2 на Xbox Series X|S (1,6 ГБ), устранив ряд проблем со стабильностью и прохождением после релиза. <br /><br /><a href=\"https://www.goha.ru/dozhdi-v-leonide-zvonki-po-syuzhetu-i-bag-s-rozyskom-chto-izmenil-pervyj-patch-gta-6-posle-reliza-ljjrVZ\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:44:02 +0000"
+                "title": "Хит российского геймдева MiSide выйдет на iOS и Android — предрегистрация уже открыта",
+                "link": "https://www.goha.ru/hit-rossijskogo-gejmdeva-miside-vyjdet-na-ios-i-android-predregistraciya-uzhe-otkryta-lWoP6w",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:MZ/5z/1095wwC6Cz.jpg\" alt=\"Хит российского геймдева MiSide выйдет на iOS и Android — предрегистрация уже открыта\"/><br /><br />Создатели нашумевшего российского инди-хоррора MiSide из студии AIHASTO официально анонсировали мобильные версии игры для смартфонов и планшетов под управлением iOS и Android. <br /><br /><a href=\"https://www.goha.ru/hit-rossijskogo-gejmdeva-miside-vyjdet-na-ios-i-android-predregistraciya-uzhe-otkryta-lWoP6w\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:40:33 +0000"
             },
             {
-                "title": "Хейтеры GTA 6 уже не знают, куда лицо спрятать: игра продалась тиражом в 45 миллионов копий за выходные",
-                "link": "https://www.goha.ru/hejtery-gta-6-uzhe-ne-znayut-kuda-lico-spryatat-igra-prodalas-tirazhom-v-45-millionov-kopij-za-vyhodnye-l5Z8rJ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Be/s1/DZT7tnSSKz.jpg\" alt=\"Хейтеры GTA 6 уже не знают, куда лицо спрятать: игра продалась тиражом в 45 миллионов копий за выходные\"/><br /><br />По оценке аналитической компании Alinea Analytics, тираж Grand Theft Auto 6 за стартовые выходные после релиза 19 ноября 2026 года достиг 44,9 млн проданных копий, а совокупная выручка превысила $4 млрд.<br /><br /><a href=\"https://www.goha.ru/hejtery-gta-6-uzhe-ne-znayut-kuda-lico-spryatat-igra-prodalas-tirazhom-v-45-millionov-kopij-za-vyhodnye-l5Z8rJ\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:34:08 +0000"
+                "title": "Жестокий рукопашный битемап Acts of Blood перенесли на весну 2027 года",
+                "link": "https://www.goha.ru/zhestokij-rukopashnyj-bitemap-acts-of-blood-perenesli-na-vesnu-2027-goda-dvLKNK",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nj/Ep/zaihyQarBr.jpg\" alt=\"Жестокий рукопашный битемап Acts of Blood перенесли на весну 2027 года\"/><br /><br />Индонезийская студия Eksil Team и издательство Big Fan Games объявили о переносе релиза ПК-версии брутального трехмерного битемапа Acts of Blood. <br /><br /><a href=\"https://www.goha.ru/zhestokij-rukopashnyj-bitemap-acts-of-blood-perenesli-na-vesnu-2027-goda-dvLKNK\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:36:20 +0000"
             },
             {
-                "title": "До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть",
-                "link": "https://www.goha.ru/do-poyavleniya-gta-6-na-pk-ostalos-cyberleek-slila-exe-fajl-v-set-lrV6aE",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Co/by/tBOzNrd87A.jpg\" alt=\"До появления GTA 6 на ПК осталось... Cyberleek слила exe-файл в Сеть\"/><br /><br />Спустя четыре дня после появления в открытом доступе архива размером порядка 209 ГБ группировка Cyberleek разместила в сети главный исполняемый файл (EXE) от заявленной сборки Xbox Build 1.0.2.1.<br /><br /><a href=\"https://www.goha.ru/do-poyavleniya-gta-6-na-pk-ostalos-cyberleek-slila-exe-fajl-v-set-lrV6aE\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 15:30:30 +0000"
+                "title": "Комедийный зомби-экшен Showa American Story отложили на 2027 год",
+                "link": "https://www.goha.ru/komedijnyj-zombi-ekshen-showa-american-story-otlozhili-na-2027-god-lb2XqR",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D2/q0/fMVFM3yxoz.jpg\" alt=\"Комедийный зомби-экшен Showa American Story отложили на 2027 год\"/><br /><br />Релиз колоритной постапокалиптической экшен-RPG Showa American Story от китайской студии NEKCOM Entertainment, похоже, снова сдвигается. <br /><br /><a href=\"https://www.goha.ru/komedijnyj-zombi-ekshen-showa-american-story-otlozhili-na-2027-god-lb2XqR\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:21:39 +0000"
             },
             {
-                "title": "Обзор дополнения Stellaris: Willpower — да будет воля моя!",
-                "link": "https://www.goha.ru/obzor-dopolneniya-stellaris-willpower-da-budet-volya-moya-d2y50Q",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BC/7s/qciqjuqYW1.jpg\" alt=\"Обзор дополнения Stellaris: Willpower — да будет воля моя!\"/><br /><br />В Stellaris можно построить практически любую империю. Милитаристическую державу, которая решает все проблемы при помощи флота.<br /><br /><a href=\"https://www.goha.ru/obzor-dopolneniya-stellaris-willpower-da-budet-volya-moya-d2y50Q\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 14:00:00 +0000"
+                "title": "Глобальная Aether Gazer прекратит получать контентные обновления после патча 5.2, но серверы продолжат работу",
+                "link": "https://www.goha.ru/globalnaya-aether-gazer-prekratit-poluchat-kontentnye-obnovleniya-posle-patcha-52-no-servery-prodolzhat-rabotu-dN0y68",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Mq/MF/q9Enge3qcs.jpg\" alt=\"Глобальная Aether Gazer прекратит получать контентные обновления после патча 5.2, но серверы продолжат работу\"/><br /><br />Разработчики популярного аниме-экшена Aether Gazer официально объявили о прекращении выпуска нового контента для глобальной версии игры. <br /><br /><a href=\"https://www.goha.ru/globalnaya-aether-gazer-prekratit-poluchat-kontentnye-obnovleniya-posle-patcha-52-no-servery-prodolzhat-rabotu-dN0y68\">Читать дальше →</a>",
+                "pubDate": "Tue, 24 Nov 26 14:03:27 +0000"
             }
         ],
-        "updated": "2026-11-24T06:16:12+00:00"
+        "updated": "2026-11-24T17:28:15+00:00"
     },
     {
         "source": "https://www.igromania.ru/rss/news-hard.rss",
@@ -1392,79 +1392,24 @@
                 "pubDate": "Sat, 29 Aug 2026 12:42:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:16:14+00:00"
-    },
-    {
-        "source": "https://www.sport-express.ru/services/materials/news/football/se/",
-        "title": "Спорт-Экспресс. Футбол",
-        "items": [
-            {
-                "title": "FONBET Кубок России, 24-26 ноября: «Акрон» — ЦСКА, «Зенит» — «Крылья Советов». Все матчи",
-                "link": "https://www.sport-express.ru/football/rus_cup/news/kubok-rossii-raspisanie-i-rezultaty-matchey-24-26-noyabrya-2026-akron-cska-zenit-krylya-sovetov-orenburg-spartak-video-golov-2478241/",
-                "description": "Матчи Пути РПЛ FONBET Кубка России.",
-                "pubDate": "Tue, 24 Nov 2026 09:15:00 +0300"
-            },
-            {
-                "title": "Кубок России: расписание матчей и трансляций на 24 ноября",
-                "link": "https://www.sport-express.ru/football/news/raspisanie-matchey-i-translyaciy-kubka-rossii-po-futbolu-na-24-noyabrya-2026-2477896/",
-                "description": "24 ноября стартует заключительный, 6-й тур группового этапа пути РПЛ FONBET Кубка России сезона-2026/27.",
-                "pubDate": "Tue, 24 Nov 2026 09:00:00 +0300"
-            },
-            {
-                "title": "Лига чемпионов, расписание и результаты 24-25 ноября: «Галатасарай» — «Астон Вилла», «ПСЖ» — «Рома». Все матчи",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mliga-chempionov-raspisanie-i-rezultaty-5-go-tura-video-golov-galatasaray-aston-villa-arsenal-borussiya-d-real-psv-pszh-roma-vse-matchi-24-25-noyabrya-2478237/",
-                "description": "Матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Tue, 24 Nov 2026 08:30:00 +0300"
-            },
-            {
-                "title": "Нападающий «Ливерпуля» Барколя остался недоволен своей игрой в матче с «Манчестер Юнайтед»",
-                "link": "https://www.sport-express.ru/football/england/news/napadayuschiy-liverpulya-barkolya-ostalsya-nedovolen-svoey-igroy-v-matche-s-manchester-yunayted-2478235/",
-                "description": "Нападающий «Ливерпуля» Брэдли Барколя остался недоволен своим выступлением в матче 11-го тура АПЛ против «Манчестер Юнайтед» (4:0).",
-                "pubDate": "Tue, 24 Nov 2026 08:09:00 +0300"
-            },
-            {
-                "title": "Кубок России-2026/27: расписание и трансляции заключительного тура пути РПЛ",
-                "link": "https://www.sport-express.ru/football/news/kubok-rossii-po-futbolu-sezona-2026-27-raspisanie-matchey-i-translyaciy-6-go-tura-puti-rpl-2477895/",
-                "description": "Матчи 6-го тура группового этапа пути РПЛ Кубка России сезона-2026/27 пройдут с 24 по 26 ноября.",
-                "pubDate": "Tue, 24 Nov 2026 08:00:00 +0300"
-            },
-            {
-                "title": "«Манчестер Юнайтед» выделит менее 50 миллионов фунтов на зимние трансферы",
-                "link": "https://www.sport-express.ru/football/england/news/manchester-yunayted-vydelit-menee-50-millionov-funtov-na-zimnie-transfery-2478231/",
-                "description": "«Манчестер Юнайтед» планирует потратить менее 50 миллионов фунтов стерлингов на приобретение футболистов в зимнее трансферное окно, сообщает Daily Mail.",
-                "pubDate": "Tue, 24 Nov 2026 07:34:00 +0300"
-            },
-            {
-                "title": "Football Insider: Франку дали право принять решение по Вильфриду Заа в «Кристал Пэлас»",
-                "link": "https://www.sport-express.ru/football/england/news/football-insider-franku-dali-pravo-prinyat-reshenie-po-vilfridu-zaa-v-kristal-pelas-2478216/",
-                "description": "«Кристал Пэлас» предоставит новому главному тренеру Томасу Франку право решить, предлагать ли контракт свободному агенту нападающему Вильфриду Заа, сообщает Football Insider.",
-                "pubDate": "Tue, 24 Nov 2026 05:55:00 +0300"
-            },
-            {
-                "title": "Тренер АЕК Николич: «Для меня «Комо» — одна из лучших команд Европы. У нее четкие идеи»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/trener-aek-marko-nikolich-pered-matchem-lch-dlya-menya-komo-odna-iz-luchshih-komand-evropy-u-nee-chetkie-idei-2478215/",
-                "description": "Главный тренер АЕК Марко Николич поделился ожиданиями от гостевого матча с «Комо» в 5-м туре общего этапа Лиги чемпионов. Игра пройдет 24 ноября.",
-                "pubDate": "Tue, 24 Nov 2026 05:19:00 +0300"
-            },
-            {
-                "title": "«Сантос» с Неймаром проиграл «Гремио»",
-                "link": "https://www.sport-express.ru/football/braziliya/news/santos-gremio-schet-0-2-rezultat-matcha-chempionata-brazilii-24-noyabrya-2026-2478214/",
-                "description": "«Сантос» проиграл «Гремио» в домашнем матче 36-го тура чемпионата Бразилии — 0:2.",
-                "pubDate": "Tue, 24 Nov 2026 05:11:00 +0300"
-            },
-            {
-                "title": "Источник: «Челси» не планирует увольнять Хаби Алонсо",
-                "link": "https://www.sport-express.ru/football/england/news/istochnik-chelsi-ne-planiruet-uvolnyat-habi-alonso-2478212/",
-                "description": "Владельцы «Челси» и руководство футбольного департамента сохраняют доверие к главному тренеру команды Хаби Алонсо, несмотря на пятое поражение в Премьер-лиге и критику со стороны болельщиков, сообщает The Telegraph.",
-                "pubDate": "Tue, 24 Nov 2026 04:55:00 +0300"
-            }
-        ],
-        "updated": "2026-11-24T06:18:07+00:00"
+        "updated": "2026-11-24T17:28:17+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/formula1/se/",
         "title": "Спорт-Экспресс. Формула-1",
         "items": [
+            {
+                "title": "Слэйтер заменит лидера «Формулы-2» Камару на двух заключительных этапах сезона",
+                "link": "https://www.sport-express.ru/autosport/formula1/news/britanskiy-pilot-freddi-sleyter-zamenit-lidera-formuly-2-rafaelya-kamaru-na-dvuh-zaklyuchitelnyh-etapah-sezona-2026-2478446/",
+                "description": "Британский пилот Фредди Слэйтер дебютирует в «Формуле-2» на этапе в Катаре.",
+                "pubDate": "Tue, 24 Nov 2026 17:06:00 +0300"
+            },
+            {
+                "title": "Гонщик Формулы-1 признался, что не любит кардио, но продолжает тренироваться",
+                "link": "https://www.sport-express.ru/autosport/formula1/news/gonschik-formuly-1-priznalsya-chto-ne-lyubit-kardio-no-prodolzhaet-trenirovatsya-2478146/",
+                "description": "Исак Хаджар раскрыл особенности тренировок и необычное правило, которого придерживается перед стартом.",
+                "pubDate": "Tue, 24 Nov 2026 14:00:00 +0300"
+            },
             {
                 "title": "Экс-руководитель «Ауди» Уитли может возглавить «Астон Мартин» в январе 2027 года",
                 "link": "https://www.sport-express.ru/autosport/formula1/news/eks-rukovoditel-audi-uitli-mozhet-vozglavit-aston-martin-v-yanvare-2027-goda-2477994/",
@@ -1500,172 +1445,172 @@
                 "link": "https://www.sport-express.ru/autosport/formula1/news/pilot-kadillaka-serhio-peres-poluchil-shtraf-v-vide-poteri-pyati-mest-na-startovoy-reshetke-gran-pri-katara-2026-2477984/",
                 "description": "Стюарды признали пилота «Кадиллака» виновным в аварии на этапе в Лас-Вегасе.",
                 "pubDate": "Mon, 23 Nov 2026 11:14:00 +0300"
-            },
-            {
-                "title": "Леклер взял на себя ответственность за столкновение с Хэмилтоном на Гран-при Лас-Вегаса: «Не виню Льюиса»",
-                "link": "https://www.sport-express.ru/autosport/formula1/news/lekler-vzyal-na-sebya-otvetstvennost-za-stolknovenie-s-hemiltonom-na-gran-pri-las-vegasa-2477699/",
-                "description": "Пилот «Феррари» Шарль Леклер прокомментировал столкновение с напарником по команде Льюисом Хэмилтоном в гонке Гран-при Лас-Вегаса.",
-                "pubDate": "Sun, 22 Nov 2026 18:17:00 +0300"
-            },
-            {
-                "title": "Ферстаппен — об аварии Расселла на Гран-при Лас-Вегаса: «Карма — та еще стерва. Сезон для него — полное посмешище»",
-                "link": "https://www.sport-express.ru/autosport/formula1/news/ferstappen-ob-avarii-rassella-na-gran-pri-las-vegasa-karma-ta-esche-sterva-sezon-dlya-nego-polnoe-posmeshische-2477588/",
-                "description": "Пилот «Ред Булл» Макс Ферстаппен раскритиковал гонщика «Мерседеса» Джорджа Расселла после победы на Гран-при Лас-Вегаса «Формулы-1».",
-                "pubDate": "Sun, 22 Nov 2026 12:00:03 +0300"
-            },
-            {
-                "title": "Леклер и Хэмилтон получили по 10 секунд штрафа на Гран-при Лас-Вегаса",
-                "link": "https://www.sport-express.ru/autosport/formula1/news/piloty-ferrari-sharl-lekler-i-lyuis-hemilton-poluchili-po-10-sekund-shtrafa-na-gran-pri-las-vegasa-22-noyabrya-2026-2477605/",
-                "description": "Гонщики «Феррари» нарушили правила в разных эпизодах гонки.",
-                "pubDate": "Sun, 22 Nov 2026 11:21:01 +0300"
-            },
-            {
-                "title": "Хэмилтон — о Леклере во время Гран-при Лас-Вегаса: «Можете сказать ему, чтобы он отвалил?»",
-                "link": "https://www.sport-express.ru/autosport/formula1/news/hemilton-o-leklere-vo-vremya-gran-pri-las-vegasa-mozhete-skazat-emu-chtoby-on-otvalil-2477569/",
-                "description": "Пилот «Феррари» Льюис Хэмилтон выразил недовольство действиями напарника Шарля Леклера по ходу Гран-при Лас-Вегаса «Формулы-1».",
-                "pubDate": "Sun, 22 Nov 2026 11:10:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:18:08+00:00"
+        "updated": "2026-11-24T17:30:26+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/hockey/se/",
         "title": "Спорт-Экспресс. Хоккей",
         "items": [
             {
-                "title": "Капризов признан первой звездой матча «Сан-Хосе» — «Миннесота»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/kaprizov-priznan-pervoy-zvezdoy-matcha-san-hose-minnesota-2478242/",
-                "description": "Российский нападающий «Миннесоты» Кирилл Капризов признан первой звездой матча регулярного чемпионата НХЛ против «Сан-Хосе» (5:2).",
-                "pubDate": "Tue, 24 Nov 2026 09:15:01 +0300"
+                "title": "Макдэвид объяснил, как перестройка «Эдмонтона» помогла его результативности: «Моя игра отошла на второй план»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/kapitan-edmontona-konnor-makdevid-obyasnil-perestroyka-edmontona-pomogla-ego-rezultativnosti-v-sezone-nhl-2026-27-2478477/",
+                "description": "Капитан «Ойлерз» считает, что освоение новой системы игры положительно сказалось на его индивидуальных показателях.",
+                "pubDate": "Tue, 24 Nov 2026 19:57:00 +0300"
             },
             {
-                "title": "«Миннесота» на выезде обыграла «Сан-Хосе», Капризов отметился голом и тремя передачами",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/san-hose-minnesota-rezultat-matcha-nhl-24-noyabrya-2026-2478238/",
-                "description": "«Миннесота» на выезде обыграла «Сан-Хосе» в матче регулярного чемпионата НХЛ — 5:2.",
-                "pubDate": "Tue, 24 Nov 2026 08:38:00 +0300"
+                "title": "Дебур о Макдэвиде: «Вижу игрока, который выходит на лед с отчаянным желанием показать людям, что он победитель»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/trener-aylenders-piter-debur-nazval-konnora-makdevida-oderzhimym-pobedoy-chelovekom-posle-starta-sezona-nhl-2026-27-2478476/",
+                "description": "Тренер «Айлендерс» впечатлен настроем капитана «Эдмонтона» после двух проигранных финалов Кубка Стэнли.",
+                "pubDate": "Tue, 24 Nov 2026 19:44:00 +0300"
             },
             {
-                "title": "НХЛ, расписание 24 ноября: «Миннесота» обыграла «Сан-Хосе», «Оттава» победила «Калгари». Все матчи",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-24-noyabrya-2026-aylenders-toronto-monreal-los-andzheles-ottava-kalgari-san-hose-minnesota-2477989/",
-                "description": "Матчи регулярного чемпионата НХЛ.",
-                "pubDate": "Tue, 24 Nov 2026 08:35:00 +0300"
+                "title": "Купер о Макдэвиде, Кросби и Маккинноне: «Они знают статистику других хоккеистов, следят за тем, что делают остальные»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/trener-tampy-kuper-o-makdevide-krosbi-i-makkinnone-oni-znayut-statistiku-drugih-hokkeistov-i-sledyat-za-ostalnymi-2478475/",
+                "description": "Главный тренер «Тампы» выделил отношение трех звезд НХЛ к игре и их профессиональную самоотдачу.",
+                "pubDate": "Tue, 24 Nov 2026 19:38:00 +0300"
             },
             {
-                "title": "«Сиэтл» на своем льду обыграл «Анахайм»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/sietl-anahaym-rezultat-matcha-nhl-24-noyabrya-2026-2478236/",
-                "description": "«Сиэтл» на своем льду обыграл «Анахайм» в матче регулярного чемпионата НХЛ — 3:2.",
-                "pubDate": "Tue, 24 Nov 2026 08:22:00 +0300"
+                "title": "Кросби считает: только Макдэвид способен приблизиться к отметке 200 очков за сезон НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/sidni-krosbi-schitaet-tolko-konnor-makdevid-sposoben-priblizitsya-k-otmetke-200-ochkov-za-regulyarnyy-chempionat-nhl-2478474/",
+                "description": "Капитан «Питтсбурга» назвал результативность форварда «Эдмонтона» впечатляющей.",
+                "pubDate": "Tue, 24 Nov 2026 19:27:01 +0300"
             },
             {
-                "title": "Мэттьюс повторил рекорд Кейна среди американцев по выездным результативным сериям в НХЛ",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/mettyus-povtoril-rekord-keyna-sredi-amerikancev-po-vyezdnym-rezultativnym-seriyam-v-nhl-2478234/",
-                "description": "Нападающий «Торонто» Остон Мэттьюс повторил рекорд НХЛ среди американских хоккеистов по количеству результативных серий из десяти и более выездных матчей.",
-                "pubDate": "Tue, 24 Nov 2026 07:44:00 +0300"
+                "title": "КХЛ, расписание и результаты 24 ноября: «Динамо» М — «Автомобилист», «Металлург» победил «Динамо» Мн. Все матчи",
+                "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-24-noyabrya-2026-admiral-ak-bars-metallurg-dinamo-mn-dinamo-m-avtomobilist-2478301/",
+                "description": "Матчи ФОНБЕТ чемпионата КХЛ.",
+                "pubDate": "Tue, 24 Nov 2026 19:27:00 +0300"
             },
             {
-                "title": "Капризов вышел на 2-е место в «Миннесоте» по матчам с 2+ передачами",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-vyshel-na-2-e-mesto-v-minnesote-po-matcham-s-2-peredachami-2478233/",
-                "description": "Российский нападающий «Миннесоты» Кирилл Капризов сделал 2 результативные передачи в гостевом матче регулярного чемпионата НХЛ с «Сан-Хосе». Также на его счету заброшенная шайба.",
-                "pubDate": "Tue, 24 Nov 2026 07:42:00 +0300"
+                "title": "«Салават Юлаев» обыграл «Нефтехимик» в овертайме",
+                "link": "https://www.sport-express.ru/hockey/khl/news/salavat-yulaev-neftehimik-4-4-schet-matcha-fonbet-chempionata-khl-24-noyabrya-2026-2478465/",
+                "description": "«Салават Юлаев» дома обыграл «Нефтехимик» в матче FONBET Чемпионата КХЛ — 5:4 ОТ.",
+                "pubDate": "Tue, 24 Nov 2026 19:20:00 +0300"
             },
             {
-                "title": "Капризов побил свой же новый рекорд в «Миннесоте» по длине результативной серии",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-ustanovil-novyy-rekord-minnesoty-po-dline-rezultativnoy-serii-2478232/",
-                "description": "Российский нападающий «Миннесоты» Кирилл Капризов забил гол и сделал 2 результативные передачи в гостевом матче регулярного чемпионата НХЛ с «Сан-Хосе».",
-                "pubDate": "Tue, 24 Nov 2026 07:37:00 +0300"
+                "title": "Умер чемпион мира по хоккею среди молодежи Андрей Матыцин",
+                "link": "https://www.sport-express.ru/hockey/russia/news/umer-chempion-mira-po-hokkeyu-sredi-molodezhi-andrey-matycin-2478463/",
+                "description": "Бывший хоккеист сборной СССР, чемпион мира среди молодежи 1983 года Андрей Матыцин скончался в возрасте 63 лет.",
+                "pubDate": "Tue, 24 Nov 2026 19:17:00 +0300"
             },
             {
-                "title": "Панарин продлил свою результативную серию против «Монреаля» до 16 матчей",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-los-andzhelesa-artemiy-panarin-prodlil-svoyu-rezultativnuyu-seriyu-protiv-monrealya-do-16-matchey-2478230/",
-                "description": "Российский нападающий «Лос-Анджелеса» Артемий Панарин сделал результативную передачу в гостевом матче регулярного чемпионата НХЛ с «Монреалем» (2:1).",
-                "pubDate": "Tue, 24 Nov 2026 07:25:00 +0300"
+                "title": "«Металлург» победил минское «Динамо» в матче с девятью голами",
+                "link": "https://www.sport-express.ru/hockey/khl/news/metallurg-dinamo-mn-schet-i-rezultat-matcha-khl-24-noyabrya-2026-2478462/",
+                "description": "«Металлург» на своем льду победил минское «Динамо» в матче FONBET Чемпионата КХЛ — 5:4.",
+                "pubDate": "Tue, 24 Nov 2026 19:16:00 +0300"
             },
             {
-                "title": "Нападающий «Чикаго» Бедард выбыл на четыре месяца после операции на плече",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-chikago-konnor-bedard-vybyl-na-chetyre-mesyaca-posle-operacii-na-pleche-2478228/",
-                "description": "«Чикаго» объявил, что нападающий Коннор Бедард пропустит примерно четыре месяца после успешной операции на плече на этой неделе.",
-                "pubDate": "Tue, 24 Nov 2026 07:17:00 +0300"
+                "title": "«Трактор» дома обыграл «Ладу»",
+                "link": "https://www.sport-express.ru/hockey/khl/news/traktor-lada-schet-i-rezultat-matcha-khl-24-noyabrya-2026-2478461/",
+                "description": "«Трактор» на своем льду обыграл «Ладу» в матче FONBET Чемпионата КХЛ — 5:2.",
+                "pubDate": "Tue, 24 Nov 2026 19:12:00 +0300"
             },
             {
-                "title": "Капризов забил 19-й гол в сезоне НХЛ",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/san-hose-minnesota-kirill-kaprizov-zabil-19-y-gol-v-sezone-nhl-video-shayby-24-noyabrya-2026-2478226/",
-                "description": "Российский нападающий «Миннесоты» Кирилл Капризов забросил шайбу в ворота «Сан-Хосе» в гостевом матче регулярного чемпионата НХЛ.",
-                "pubDate": "Tue, 24 Nov 2026 07:00:00 +0300"
+                "title": "Гретцки назвал невероятным темп Макдэвида и сравнил его влияние с собственной эпохой в НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/ueyn-gretcki-nazval-neveroyatnym-temp-konnora-makdevida-i-sravnil-ego-vliyanie-s-sobstvennoy-epohoy-v-nhl-2478473/",
+                "description": "Легенда НХЛ восхищен игрой капитана «Эдмонтона», который проводит один из самых результативных стартов сезона в истории лиги.",
+                "pubDate": "Tue, 24 Nov 2026 19:11:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:18:10+00:00"
+        "updated": "2026-11-24T17:30:27+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/se/",
         "title": "Спорт-Экспресс. Все новости",
         "items": [
             {
-                "title": "Капризов признан первой звездой матча «Сан-Хосе» — «Миннесота»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/kaprizov-priznan-pervoy-zvezdoy-matcha-san-hose-minnesota-2478242/",
-                "description": "Российский нападающий «Миннесоты» Кирилл Капризов признан первой звездой матча регулярного чемпионата НХЛ против «Сан-Хосе» (5:2).",
-                "pubDate": "Tue, 24 Nov 2026 09:15:01 +0300"
+                "title": "«Зенит» — «Крылья Советов»: петербуржцы ведут после первого тайма",
+                "link": "https://www.sport-express.ru/football/rus_cup/news/zenit-krylya-sovetov-peterburzhcy-vedut-1-0-posle-pervogo-tayma-matcha-kubka-rossii-2478494/",
+                "description": "«Зенит» дома обыгрывает «Крылья Советов» после первого тайма матча 6-го тура группового этапа Пути РПЛ FONBET Кубка России — 1:0.",
+                "pubDate": "Tue, 24 Nov 2026 20:23:00 +0300"
             },
             {
-                "title": "FONBET Кубок России, 24-26 ноября: «Акрон» — ЦСКА, «Зенит» — «Крылья Советов». Все матчи",
-                "link": "https://www.sport-express.ru/football/rus_cup/news/kubok-rossii-raspisanie-i-rezultaty-matchey-24-26-noyabrya-2026-akron-cska-zenit-krylya-sovetov-orenburg-spartak-video-golov-2478241/",
-                "description": "Матчи Пути РПЛ FONBET Кубка России.",
-                "pubDate": "Tue, 24 Nov 2026 09:15:00 +0300"
+                "title": "Гандболистка Бобровникова: «Наша федерация делает все, чтобы мы были на Олимпийских играх в Лос-Анджелесе»",
+                "link": "https://www.sport-express.ru/olympics/summer/handball/news/gandbolistka-bobrovnikova-nasha-federaciya-delaet-vse-chtoby-my-byli-na-olimpiyskih-igrah-v-los-andzhelese-2478493/",
+                "description": "Олимпийская чемпионка по гандболу Владлена Бобровникова в комментарии для «СЭ» ответила на вопрос о возвращении сборной России на международную арену.",
+                "pubDate": "Tue, 24 Nov 2026 20:21:00 +0300"
             },
             {
-                "title": "Кубок России: расписание матчей и трансляций на 24 ноября",
-                "link": "https://www.sport-express.ru/football/news/raspisanie-matchey-i-translyaciy-kubka-rossii-po-futbolu-na-24-noyabrya-2026-2477896/",
-                "description": "24 ноября стартует заключительный, 6-й тур группового этапа пути РПЛ FONBET Кубка России сезона-2026/27.",
-                "pubDate": "Tue, 24 Nov 2026 09:00:00 +0300"
+                "title": "Александр Кержаков провел «Легендарный урок» для воспитанников академии «Зенита»",
+                "link": "https://www.sport-express.ru/football/rfpl/news/aleksandr-kerzhakov-provel-legendarnyy-urok-dlya-vospitannikov-akademii-zenita-2478492/",
+                "description": "В академии сине-бело-голубых состоялся второй «Легендарный урок».",
+                "pubDate": "Tue, 24 Nov 2026 20:19:00 +0300"
             },
             {
-                "title": "«Лейкерс» дома победили «Юту»",
-                "link": "https://www.sport-express.ru/basketball/nba/news/leykers-yuta-sakramento-san-antonio-rezultaty-matchey-nba-24-noyabrya-2026-2478240/",
-                "description": "«Лейкерс» дома победили «Юту» в матче регулярного чемпионата НБА — 109:94.",
-                "pubDate": "Tue, 24 Nov 2026 08:59:00 +0300"
+                "title": "Ilta-Sanomat: Терентьева, Непряева и Коростелев смогут выступить на Кубке мира в Руке",
+                "link": "https://www.sport-express.ru/skiing/kubok-mira/news/ilta-sanomat-terenteva-nepryaeva-i-korostelev-smogut-vystupit-na-kubke-mira-v-ruke-2478490/",
+                "description": "Российские лыжники Наталья Терентьева, Дарья Непряева и Савелий Коростелев смогут принять участие в первом этапе Кубка мира сезона-2026/27 в финской Руке.",
+                "pubDate": "Tue, 24 Nov 2026 20:18:00 +0300"
             },
             {
-                "title": "«Миннесота» на выезде обыграла «Сан-Хосе», Капризов отметился голом и тремя передачами",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/san-hose-minnesota-rezultat-matcha-nhl-24-noyabrya-2026-2478238/",
-                "description": "«Миннесота» на выезде обыграла «Сан-Хосе» в матче регулярного чемпионата НХЛ — 5:2.",
-                "pubDate": "Tue, 24 Nov 2026 08:38:00 +0300"
+                "title": "У защитника «Балтики» Муйоколо диагностировано повреждение связочного аппарата голеностопа",
+                "link": "https://www.sport-express.ru/football/rfpl/news/u-zaschitnika-baltiki-muyokolo-diagnostirovano-povrezhdenie-svyazochnogo-apparata-golenostopa-2478491/",
+                "description": "Защитник «Балтики» Лорис Муйоколо получил повреждение связочного аппарата голеностопного сустава в матче 15-го тура РПЛ против «Оренбурга».",
+                "pubDate": "Tue, 24 Nov 2026 20:17:00 +0300"
             },
             {
-                "title": "НХЛ, расписание 24 ноября: «Миннесота» обыграла «Сан-Хосе», «Оттава» победила «Калгари». Все матчи",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-24-noyabrya-2026-aylenders-toronto-monreal-los-andzheles-ottava-kalgari-san-hose-minnesota-2477989/",
-                "description": "Матчи регулярного чемпионата НХЛ.",
-                "pubDate": "Tue, 24 Nov 2026 08:35:00 +0300"
+                "title": "«Зенит» — «Крылья Советов»: Вендел открыл счет",
+                "link": "https://www.sport-express.ru/football/rus_cup/news/zenit-krylya-sovetov-vendel-otkryl-schet-na-38-y-minute-matcha-kubka-rossii-2478489/",
+                "description": "«Зенит» открыл счет в домашнем матче 6-го тура группового этапа Пути РПЛ FONBET Кубка России против «Крыльев Советов» — 1:0.",
+                "pubDate": "Tue, 24 Nov 2026 20:12:00 +0300"
             },
             {
-                "title": "Лига чемпионов, расписание и результаты 24-25 ноября: «Галатасарай» — «Астон Вилла», «ПСЖ» — «Рома». Все матчи",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mliga-chempionov-raspisanie-i-rezultaty-5-go-tura-video-golov-galatasaray-aston-villa-arsenal-borussiya-d-real-psv-pszh-roma-vse-matchi-24-25-noyabrya-2478237/",
-                "description": "Матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Tue, 24 Nov 2026 08:30:00 +0300"
+                "title": "Гастроэнтеролог Вялов рассказал, почему недостаток жиров в рационе спортсмена может навредить здоровью",
+                "link": "https://www.sport-express.ru/zozh/movies/gibky_zozh/news/gastroenterolog-vyalov-rasskazal-pochemu-nedostatok-zhirov-v-racione-sportsmena-mozhet-navredit-zdorovyu-2478436/",
+                "description": "Эксперт объяснил, почему для организма важны не только белки, но и достаточное количество жиров.",
+                "pubDate": "Tue, 24 Nov 2026 20:10:01 +0300"
             },
             {
-                "title": "«Сиэтл» на своем льду обыграл «Анахайм»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/sietl-anahaym-rezultat-matcha-nhl-24-noyabrya-2026-2478236/",
-                "description": "«Сиэтл» на своем льду обыграл «Анахайм» в матче регулярного чемпионата НХЛ — 3:2.",
-                "pubDate": "Tue, 24 Nov 2026 08:22:00 +0300"
+                "title": "«РБ Лейпциг» — «Ланс»: во сколько начало матча Лиги чемпионов, где смотреть трансляцию",
+                "link": "https://www.sport-express.ru/football/champions-league/news/rb-leypcig-lans-vo-skolko-nachalo-matcha-ligi-chempionov-gde-smotret-translyaciyu-24-noyabrya-2026-2478264/",
+                "description": "Встреча пройдет в Лейпциге (Германия) и начнется в 23.00 по московскому времени.",
+                "pubDate": "Tue, 24 Nov 2026 20:10:00 +0300"
             },
             {
-                "title": "Нападающий «Ливерпуля» Барколя остался недоволен своей игрой в матче с «Манчестер Юнайтед»",
-                "link": "https://www.sport-express.ru/football/england/news/napadayuschiy-liverpulya-barkolya-ostalsya-nedovolen-svoey-igroy-v-matche-s-manchester-yunayted-2478235/",
-                "description": "Нападающий «Ливерпуля» Брэдли Барколя остался недоволен своим выступлением в матче 11-го тура АПЛ против «Манчестер Юнайтед» (4:0).",
-                "pubDate": "Tue, 24 Nov 2026 08:09:00 +0300"
+                "title": "Мане обратился к марокканцам после возвращения Сенегалу титула чемпиона Кубка Африки",
+                "link": "https://www.sport-express.ru/football/africa-cup/news/mane-obratilsya-k-marokkancam-posle-vozvrascheniya-senegalu-titula-chempiona-kubka-afriki-2478488/",
+                "description": "Капитан и нападающий сборной Сенегала Садио Мане отреагировал на решение Спортивного арбитражного суда (CAS) восстановить результат финала Кубка Африки-2025.",
+                "pubDate": "Tue, 24 Nov 2026 20:06:00 +0300"
             },
             {
-                "title": "Кубок России-2026/27: расписание и трансляции заключительного тура пути РПЛ",
-                "link": "https://www.sport-express.ru/football/news/kubok-rossii-po-futbolu-sezona-2026-27-raspisanie-matchey-i-translyaciy-6-go-tura-puti-rpl-2477895/",
-                "description": "Матчи 6-го тура группового этапа пути РПЛ Кубка России сезона-2026/27 пройдут с 24 по 26 ноября.",
-                "pubDate": "Tue, 24 Nov 2026 08:00:00 +0300"
+                "title": "FIS исключила лыжников Горбунова и Шибекину из списка нейтральных спортсменов",
+                "link": "https://www.sport-express.ru/skiing/kubok-mira/news/fis-isklyuchila-lyzhnikov-gorbunova-i-shibekinu-iz-spiska-neytralnyh-sportsmenov-2478487/",
+                "description": "FIS исключила российских лыжников Ивана Горбунова и Екатерину Шибекину из списка спортсменов, получивших индивидуальный нейтральный статус.",
+                "pubDate": "Tue, 24 Nov 2026 20:03:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:18:11+00:00"
+        "updated": "2026-11-24T17:30:41+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/press/yandex-zen_zozh/",
         "title": "Спорт-Экспресс - ПУБЛИКАЦИИ",
         "items": [
+            {
+                "title": "Убийства, тайны и гениальные сыщики: 8 лучших аниме-детективов",
+                "link": "https://www.sport-express.ru/zozh/movies/cartoons/reviews/luchshie-anime-detektivy-8-serialov-pro-rassledovaniya-ubiystva-i-zagadki-2478451/",
+                "description": "Собрали восемь аниме, в которых за каждой загадкой скрывается неожиданная разгадка.",
+                "pubDate": "Tue, 24 Nov 2026 20:00:02 +0300"
+            },
+            {
+                "title": "Палки для трейлраннинга: какой инвентарь выбрать для горных забегов и как не ошибиться",
+                "link": "https://www.sport-express.ru/trops/equip/reviews/kak-vybrat-palki-dlya-treylranninga-dlina-material-karbon-ili-alyuminiy-2478087/",
+                "description": "Складные или фиксированные, легкие или прочные? Разбираемся, как подобрать палки под свой рост.",
+                "pubDate": "Tue, 24 Nov 2026 19:00:00 +0300"
+            },
+            {
+                "title": "Инструктор пилатеса назвала упражнение для мышц корпуса без скручиваний",
+                "link": "https://www.sport-express.ru/trops/training/news/instruktor-pilatesa-nazvala-uprazhnenie-dlya-myshc-korpusa-bez-skruchivaniy-2478149/",
+                "description": "Движение выполняют лежа на спине, поочередно опуская стопы к полу.",
+                "pubDate": "Tue, 24 Nov 2026 17:00:00 +0300"
+            },
+            {
+                "title": "Преступления — дело семейное: каким получился 2-й сезон «Гангстерленда», криминального сериала с Томом Харди",
+                "link": "https://www.sport-express.ru/zozh/movies/serials/reviews/gangsterlend-2-sezon-obzor-i-recenziya-na-serial-s-tomom-hardi-aktery-2478324/",
+                "description": "Продолжение криминального шоу расширило масштаб противостояния семейства Харриганов и добавило в историю новых колоритных персонажей.",
+                "pubDate": "Tue, 24 Nov 2026 13:00:03 +0300"
+            },
             {
                 "title": "Падел вышел за пределы столицы. Как Екатеринбург стал новым центром притяжения спортсменов",
                 "link": "https://www.sport-express.ru/trops/calendar/reviews/chempionat-rossii-po-padelu-2026-pochemu-ekaterinburg-stal-odnim-iz-centrov-razvitiya-sporta-2478026/",
@@ -1701,32 +1646,8 @@
                 "link": "https://www.sport-express.ru/trops/calendar/news/na-shpicbergene-provedut-triatlon-na-78-km-ironstar-arktika-2477931/",
                 "description": "На необычную гонку за Полярным кругом допустят всего 50 подготовленных спортсменов.",
                 "pubDate": "Mon, 23 Nov 2026 18:15:00 +0300"
-            },
-            {
-                "title": "Психолог назвала пять главных принципов, как стать лидером и не сломать команду",
-                "link": "https://www.sport-express.ru/trops/training/news/psiholog-nazvala-pyat-glavnyh-principov-kak-stat-liderom-i-ne-slomat-komandu-2477763/",
-                "description": "Жесткий контроль и публичная критика могут подрывать мотивацию даже самых подготовленных спортсменов.",
-                "pubDate": "Mon, 23 Nov 2026 17:30:00 +0300"
-            },
-            {
-                "title": "От «Схватки» до «Воинов»: какие фильмы и сериалы вдохновили Grand Theft Auto",
-                "link": "https://www.sport-express.ru/zozh/movies/filmi/reviews/kakie-filmy-vdohnovili-gta-ot-policii-mayami-do-shvatki-filmy-s-atmosferoy-gta-2477285/",
-                "description": "Вспоминаем, как кино повлияло на атмосферу, персонажей и отдельные миссии разных частей игровой серии.",
-                "pubDate": "Mon, 23 Nov 2026 10:00:01 +0300"
-            },
-            {
-                "title": "Венсану Касселю — 60 лет: лучшие роли от «Ненависти» до «Черного лебедя»",
-                "link": "https://www.sport-express.ru/zozh/movies/stars/reviews/vensanu-kasselyu-60-let-luchshie-filmy-i-roli-aktera-filmografiya-i-den-rozhdeniya-2477784/",
-                "description": "23 ноября Венсану Касселю исполняется 60 лет.",
-                "pubDate": "Mon, 23 Nov 2026 09:00:00 +0300"
-            },
-            {
-                "title": "Как не стать худшим соседом по дорожке: 7 правил этикета в бассейне",
-                "link": "https://www.sport-express.ru/trops/training/reviews/pravila-povedeniya-v-basseyne-kak-plavat-na-dorozhke-obgonyat-i-otdyhat-2476375/",
-                "description": "Где остановиться, как пропустить быстрого пловца и когда можно обгонять?",
-                "pubDate": "Mon, 23 Nov 2026 06:00:00 +0300"
             }
         ],
-        "updated": "2026-11-24T06:18:14+00:00"
+        "updated": "2026-11-24T17:30:42+00:00"
     }
 ]
