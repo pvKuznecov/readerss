@@ -64,7 +64,7 @@
                 "pubDate": "Thu, 18 Dec 2025 07:51:33 +0000"
             }
         ],
-        "updated": "2026-11-25T02:12:53+00:00"
+        "updated": "2026-11-25T06:05:05+00:00"
     },
     {
         "source": "https://cubiq.ru/news/feed/",
@@ -131,7 +131,7 @@
                 "pubDate": "Fri, 20 Nov 2026 10:56:45 +0000"
             }
         ],
-        "updated": "2026-11-25T02:12:55+00:00"
+        "updated": "2026-11-25T06:05:06+00:00"
     },
     {
         "source": "https://cubiq.ru/obzory/feed/",
@@ -198,7 +198,7 @@
                 "pubDate": "Thu, 05 Nov 2026 14:08:55 +0000"
             }
         ],
-        "updated": "2026-11-25T02:12:56+00:00"
+        "updated": "2026-11-25T06:05:08+00:00"
     },
     {
         "source": "https://github.blog/feed/",
@@ -265,141 +265,141 @@
                 "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000"
             }
         ],
-        "updated": "2026-11-25T02:12:56+00:00"
+        "updated": "2026-11-25T06:05:08+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
             {
-                "title": "В Германии сделали заявление о войне с Россией",
-                "link": "https://lenta.ru/news/2026/11/25/v-germanii-sdelali-zayavlenie-o-voyne-s-rossiey/",
+                "title": "Трамп восхитился работой узбекских строителей",
+                "link": "https://lenta.ru/news/2026/11/25/tramp-voshitilsya-rabotoy-uzbekskih-stroiteley/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:11:32 +0300"
+                "pubDate": "Wed, 25 Nov 2026 09:02:11 +0300"
             },
             {
-                "title": "Владельцам электрокаров и гибридов дали важный совет к наступлению холодов",
-                "link": "https://lenta.ru/news/2026/11/25/vladeltsam-elektrokarov-i-gibridov-dali-vazhnyy-sovet-k-nastupleniyu-holodov/",
+                "title": "Названа главная причина нехватки памяти на смартфонах",
+                "link": "https://lenta.ru/news/2026/11/25/memory-less/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:01:44 +0300"
+                "pubDate": "Wed, 25 Nov 2026 09:01:51 +0300"
             },
             {
-                "title": "Судью боев без правил уволили за съемки в порно",
-                "link": "https://lenta.ru/news/2026/11/25/sudyu-boev-bez-pravil-uvolili-za-s-emki-v-porno/",
+                "title": "Раскрыты стоящие за Маском фигуры в момент ограничения Starshield на Украине",
+                "link": "https://lenta.ru/news/2026/11/25/raskryty-stoyaschie-za-maskom-figury-v-moment-ogranicheniya-starshield-na-ukraine/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:01:21 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:59:40 +0300"
             },
             {
-                "title": "Женщинам назвали главную ошибку в сексе",
-                "link": "https://lenta.ru/news/2026/11/25/zhenschinam-nazvali-glavnuyu-oshibku-v-sekse/",
+                "title": "Болгарию оштрафуют",
+                "link": "https://lenta.ru/news/2026/11/25/bolgariyu-oshtrafuyut/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:01:09 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:59:28 +0300"
             },
             {
-                "title": "Названа главная черта стратегии Украины против России в Африке",
-                "link": "https://lenta.ru/news/2026/11/25/cherta/",
+                "title": "Сожитель регулярно обчищал россиянку из-за своих кредитов",
+                "link": "https://lenta.ru/news/2026/11/25/sozhitel-regulyarno-obchischal-rossiyanku-iz-za-svoih-kreditov/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:00:56 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:58:40 +0300"
             },
             {
-                "title": "Названа неожиданная причина атаки дронов на российский сухогруз на Балтике",
-                "link": "https://lenta.ru/news/2026/11/25/baltic2/",
+                "title": "Раскрыты мотивы стоящих за эскалацией вокруг Калининграда сил",
+                "link": "https://lenta.ru/news/2026/11/25/raskryty-motivy-stoyaschih-za-eskalatsiey-vokrug-kaliningrada-sil/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 05:00:45 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:55:10 +0300"
             },
             {
-                "title": "Ракетную опасность объявляли сразу в пяти российских регионах",
-                "link": "https://lenta.ru/news/2026/11/25/raketnuyu-opasnost-ob-yavlyali-srazu-v-pyati-rossiyskih-regionah/",
+                "title": "Мощное землетрясение произошло рядом с Антарктидой",
+                "link": "https://lenta.ru/news/2026/11/25/moschnoe-zemletryasenie-proizoshlo-ryadom-s-antarktidoy/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 04:46:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:53:31 +0300"
             },
             {
-                "title": "Раскрыта скрытая опасность одной из форм диабета",
-                "link": "https://lenta.ru/news/2026/11/25/raskryta-skrytaya-opasnost-odnoy-iz-form-diabeta/",
+                "title": "Valve выпустила крупное обновление торговой площадки Steam",
+                "link": "https://lenta.ru/news/2026/11/25/steam-update/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 04:31:59 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:51:00 +0300"
             },
             {
-                "title": "Названы три самых проблемных для ВСУ участка в Харьковской области",
-                "link": "https://lenta.ru/news/2026/11/25/nazvany-tri-samyh-problemnyh-dlya-vsu-uchastka-v-harkovskoy-oblasti/",
+                "title": "Рецидивист придумал схему обмана российских пенсионеров и обогатился",
+                "link": "https://lenta.ru/news/2026/11/25/retsidivist-pridumal-shemu-obmana-rossiyskih-pensionerov-i-obogatilsya/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 04:21:29 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:50:02 +0300"
             },
             {
-                "title": "В Финляндии раскритиковали ограничения против российских спортсменов",
-                "link": "https://lenta.ru/news/2026/11/25/v-finlyandii-raskritikovali-ogranicheniya-protiv-rossiyskih-sportsmenov/",
+                "title": "Командование ВСУ отключило связь потерявшим полвзвода десантникам после просьбы отойти",
+                "link": "https://lenta.ru/news/2026/11/25/komandovanie-vsu-otklyuchilo-svyaz-poteryavshim-polvzvoda-desantnikam-posle-prosby-otoyti/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 04:18:10 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:49:53 +0300"
             }
         ],
-        "updated": "2026-11-25T02:12:58+00:00"
+        "updated": "2026-11-25T06:05:09+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
             {
-                "title": "Ракетную опасность объявляли сразу в пяти российских регионах",
-                "link": "https://lenta.ru/news/2026/11/25/raketnuyu-opasnost-ob-yavlyali-srazu-v-pyati-rossiyskih-regionah/",
+                "title": "Раскрыты мотивы стоящих за эскалацией вокруг Калининграда сил",
+                "link": "https://lenta.ru/news/2026/11/25/raskryty-motivy-stoyaschih-za-eskalatsiey-vokrug-kaliningrada-sil/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 04:46:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:55:00 +0300"
             },
             {
-                "title": "Российские штурмовики уничтожили группу переодетых диверсантов",
-                "link": "https://lenta.ru/news/2026/11/25/rossiyskie-shturmoviki-unichtozhili-gruppu-pereodetyh-diversantov/",
+                "title": "Россия нарушила работу военной промышленности Украины",
+                "link": "https://lenta.ru/news/2026/11/25/rossiya-narushila-rabotu-voennoy-promyshlennosti-ukrainy/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 02:32:32 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:39:51 +0300"
             },
             {
-                "title": "Фадеев рассказал о встрече Путина с новым составом СПЧ",
-                "link": "https://lenta.ru/news/2026/11/25/fadeev-rasskazal-o-vstreche-putina-s-novym-sostavom-spch/",
+                "title": "Россиянин нашел растерзанного охотника рядом с тушей медведя",
+                "link": "https://lenta.ru/news/2026/11/25/rossiyanin-nashel-razodrannogo-ohotnika-ryadom-s-tushey-medvedya/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 02:17:33 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:34:00 +0300"
             },
             {
-                "title": "В ЖК в 500 метрах от Кремля произошел пожар",
-                "link": "https://lenta.ru/news/2026/11/25/v-zhk-v-500-metrah-ot-kremlya-proizoshel-pozhar/",
+                "title": "Юрист объяснила законность подработки",
+                "link": "https://lenta.ru/news/2026/11/25/yurist-ob-yasnil-zakonnost-podrabotki/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 00:09:48 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:29:00 +0300"
             },
             {
-                "title": "25 ноября: какой праздник отмечают в России и мире",
-                "link": "https://lenta.ru/news/2026/11/25/25-noyabrya-kakoy-prazdnik-otmechayut-v-rossii-i-mire/",
-                "description": "\n    25 ноября в России отмечают День военного миротворца и День якутского эпоса Олонхо. В мире празднуют Международный день борьбы за ликвидацию насилия в отношении женщин. Православные вспоминают святого Иоанна Милостивого. Подробнее о торжествах, приметах и знаменитых именинниках 25 ноября — в материале «Ленты.ру».\n  ",
-                "pubDate": "Wed, 25 Nov 2026 00:05:07 +0300"
+                "title": "Остатки ракет Patriot на вооружении у Украины подсчитали",
+                "link": "https://lenta.ru/news/2026/11/25/otstatki-raket-patriot-na-vooruzhenii-u-ukrainy-podschitali/",
+                "description": "\n    \n  ",
+                "pubDate": "Wed, 25 Nov 2026 08:15:00 +0300"
             },
             {
-                "title": "«Папа, вернись, мы хотим домой». Участник СВО просит ампутировать ногу, чтобы забрать сына и дочь из детдома",
-                "link": "https://lenta.ru/news/2026/11/25/long-long-detisvo/",
+                "title": "Объявлено о последствиях ставшей «настоящим испытанием» атаки ВСУ на регион Поволжья",
+                "link": "https://lenta.ru/news/2026/11/25/ob-yavleno-o-posledstviyah-stavshey-nastoyaschim-ispytaniem-ataki-vsu-na-region-povolzhya/",
                 "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 00:01:52 +0300"
+                "pubDate": "Wed, 25 Nov 2026 08:07:00 +0300"
             },
             {
-                "title": "Москвич захотел заняться сексом с открывашкой и застрял",
-                "link": "https://lenta.ru/news/2026/11/24/moskvich-zahotel-zanyatsya-seksom-s-otkryvashkoy-i-zastryal/",
+                "title": "Россиянин погиб в результате атаки БПЛА",
+                "link": "https://lenta.ru/news/2026/11/25/rossiyanin-pogib-v-rezultate-ataki-bpla/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 22:09:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 07:50:00 +0300"
             },
             {
-                "title": "Путин дал одно поручение насчет ИИ",
-                "link": "https://lenta.ru/news/2026/11/24/putin-sdelal-odno-poruchenie-naschet-ii/",
+                "title": "Объявлено об атаке ВСУ на регион России в сотнях километрах от границы",
+                "link": "https://lenta.ru/news/2026/11/25/ob-yavleno-ob-atake-vsu-na-region-rossii-v-sotnyah-kilometrah-ot-granitsy/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 21:33:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 07:49:05 +0300"
             },
             {
-                "title": "Над югом России произошло боестолкновение с ВСУ",
-                "link": "https://lenta.ru/news/2026/11/24/nad-yugom-rossii-proizoshlo-boestolknovenie-s-vsu/",
+                "title": "Россиянам раскрыли правила хранения купленной к Новому году заранее икры",
+                "link": "https://lenta.ru/news/2026/11/25/rossiyanam-raskryli-pravila-hraneniya-kuplennoy-k-novomu-godu-zaranee-ikry/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 20:28:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 07:01:32 +0300"
             },
             {
-                "title": "Атаки на российские НПЗ, цены на бензин и 40-дневный план Киева. Путин выступил с рядом заявлений",
-                "link": "https://lenta.ru/news/2026/11/24/long-putin/",
+                "title": "Россиянам напомнили о длительности предстоящих новогодних праздников",
+                "link": "https://lenta.ru/news/2026/11/25/rossiyanam-napomnili-o-dlitelnosti-predstoyaschih-novogodnih-prazdnikov/",
                 "description": "\n    \n  ",
-                "pubDate": "Tue, 24 Nov 2026 20:12:00 +0300"
+                "pubDate": "Wed, 25 Nov 2026 06:30:37 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:00+00:00"
+        "updated": "2026-11-25T06:05:12+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -466,7 +466,7 @@
                 "pubDate": ""
             }
         ],
-        "updated": "2026-11-25T02:13:02+00:00"
+        "updated": "2026-11-25T06:05:14+00:00"
     },
     {
         "source": "https://stopgame.ru/rss/rss_news.xml",
@@ -533,7 +533,7 @@
                 "pubDate": "Tue, 24 Nov 2026 16:53:57 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:04+00:00"
+        "updated": "2026-11-25T06:05:16+00:00"
     },
     {
         "source": "https://www.drom.ru/export/xml/news.rss",
@@ -588,7 +588,7 @@
                 "pubDate": "Tue, 24 Nov 2026 18:32:08 +1100"
             }
         ],
-        "updated": "2026-11-25T02:13:06+00:00"
+        "updated": "2026-11-25T06:05:18+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/all-about",
@@ -655,7 +655,7 @@
                 "pubDate": "Wed, 18 Nov 26 12:00:18 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:08+00:00"
+        "updated": "2026-11-25T06:05:20+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/anime",
@@ -722,7 +722,7 @@
                 "pubDate": "Sat, 14 Nov 26 13:02:33 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:10+00:00"
+        "updated": "2026-11-25T06:05:21+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/articles",
@@ -789,12 +789,18 @@
                 "pubDate": "Tue, 17 Nov 26 14:17:00 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:11+00:00"
+        "updated": "2026-11-25T06:05:23+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/hardware",
         "title": "Железная кухня - GoHa.Ru",
         "items": [
+            {
+                "title": "Трассировка лучей в любой игре на DirectX 12? С новым модом для ReShade это возможно",
+                "link": "https://www.goha.ru/trassirovka-luchej-v-lyuboj-igre-na-directx-12-s-novym-modom-dlya-reshade-eto-vozmozhno-ljjr8y",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BS/wG/SKNOBKa3j0.jpg\" alt=\"Трассировка лучей в любой игре на DirectX 12? С новым модом для ReShade это возможно\"/><br /><br />Разработчик-одиночка под ником Skynizz представил открытый аддон для ReShade под названием Universal Ray Tracing Injector (URTI), который внедряет настоящие аппаратные отражения на базе трассировки лучей в игры на DirectX 12 без нативной поддержки RTX.<br /><br /><a href=\"https://www.goha.ru/trassirovka-luchej-v-lyuboj-igre-na-directx-12-s-novym-modom-dlya-reshade-eto-vozmozhno-ljjr8y\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 04:00:00 +0000"
+            },
             {
                 "title": "Видеокарты NVIDIA больше не портят ваши SSD",
                 "link": "https://www.goha.ru/videokarty-nvidia-bolshe-ne-portyat-vashi-ssd-xRrM6z",
@@ -848,20 +854,20 @@
                 "link": "https://www.goha.ru/unreal-engine-59-preview-2-nauchilsya-sobirat-brauzernye-igry-bez-koda-na-c-vklyuchil-ii-instrumenty-po-umolchaniyu-i-uskoril-rendering-4w3e78",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/a1/UnrrVih1cb.jpg\" alt=\"Unreal Engine 5.9 Preview 2 научился собирать браузерные игры без кода на C++, включил ИИ-инструменты по умолчанию и ускорил рендеринг\"/><br /><br />Компания Epic Games выпустила второе предварительное обновление движка Unreal Engine 5.9 Preview 2, сделав серьезный шаг в сторону доступности веб-игр, автоматизации разработки с помощью нейросетей и оптимизации рендеринга. <br /><br /><a href=\"https://www.goha.ru/unreal-engine-59-preview-2-nauchilsya-sobirat-brauzernye-igry-bez-koda-na-c-vklyuchil-ii-instrumenty-po-umolchaniyu-i-uskoril-rendering-4w3e78\">Читать дальше →</a>",
                 "pubDate": "Mon, 23 Nov 26 12:00:00 +0000"
-            },
-            {
-                "title": "Контроллер PlayStation 6 может получить отдельную кнопку для переключения графики",
-                "link": "https://www.goha.ru/kontroller-playstation-6-mozhet-poluchit-otdelnuyu-knopku-dlya-pereklyucheniya-grafiki-xzBMaY",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N4/ki/O4pAm4rseL.jpg\" alt=\"Контроллер PlayStation 6 может получить отдельную кнопку для переключения графики\"/><br /><br />Sony запатентовала технологию, которая позволит менять настройки изображения прямо во время игры — без перехода в меню. Более того, система сможет самостоятельно корректировать качество графики после каждого кадра, подстраиваясь под происходящее на экране.<br /><br /><a href=\"https://www.goha.ru/kontroller-playstation-6-mozhet-poluchit-otdelnuyu-knopku-dlya-pereklyucheniya-grafiki-xzBMaY\">Читать дальше →</a>",
-                "pubDate": "Mon, 23 Nov 26 11:37:18 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:13+00:00"
+        "updated": "2026-11-25T06:05:24+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/industry",
         "title": "Индустрия - GoHa.Ru",
         "items": [
+            {
+                "title": "Правительство Японии борется с пиратством с помощью нейросети",
+                "link": "https://www.goha.ru/pravitelstvo-yaponii-boretsya-s-piratstvom-s-pomoshhyu-nejroseti-la5L90",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DK/2o/B1qYN5l3Fi.jpg\" alt=\"Правительство Японии борется с пиратством с помощью нейросети\"/><br /><br />Агентство по делам культуры Японии объявило об успешном тестировании ИИ-агента, предназначенного для борьбы с пиратством<br /><br /><a href=\"https://www.goha.ru/pravitelstvo-yaponii-boretsya-s-piratstvom-s-pomoshhyu-nejroseti-la5L90\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 06:00:00 +0000"
+            },
             {
                 "title": "От £200 до миллионов фунтов: более 10 000 студий из Великобритании могут получить выплаты из-за комиссий Google Play",
                 "link": "https://www.goha.ru/ot-200-do-millionov-funtov-bolee-10-000-studij-iz-velikobritanii-mogut-poluchit-vyplaty-iz-za-komissij-google-play-dDmrZ2",
@@ -915,15 +921,9 @@
                 "link": "https://www.goha.ru/nol-umnozhennyj-na-tysyachu-ostaetsya-nulem-boss-tinybuild-vyskazalsya-ob-ii-podelkah-cene-v-kitae-i-uspehe-probably-stolen-dJ0POr",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D5/bT/dNE1kG6WKS.jpg\" alt=\"«Ноль, умноженный на тысячу, остается нулем»: босс tinyBuild высказался об ИИ-поделках, цене в Китае и успехе Probably Stolen\"/><br /><br />Глава tinyBuild Алекс Ничипорчик заявил на конференции DevGAMM Lisbon, что в ближайшие полгода ключевой темой индустрии станет сокращение срока между анонсом и выходом игр на фоне угрозы ИИ-клонов.<br /><br /><a href=\"https://www.goha.ru/nol-umnozhennyj-na-tysyachu-ostaetsya-nulem-boss-tinybuild-vyskazalsya-ob-ii-podelkah-cene-v-kitae-i-uspehe-probably-stolen-dJ0POr\">Читать дальше →</a>",
                 "pubDate": "Tue, 24 Nov 26 08:52:51 +0000"
-            },
-            {
-                "title": "Юного хакера, взломавшего Rockstar, отпустили под ответственность государства",
-                "link": "https://www.goha.ru/yunogo-hakera-vzlomavshego-rockstar-otpustili-pod-otvetstvennost-gosudarstva-dDmrM2",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CA/0n/th661hcJ4G.jpg\" alt=\"Юного хакера, взломавшего Rockstar, отпустили под ответственность государства\"/><br /><br />21-летний хакер Арион Куртаж, стоявший за масштабным сливом материалов GTA 6 в сентябре 2022 года, вышел на свободу 23 ноября, в день вынесения приговора в Королевском суде Вулвича. <br /><br /><a href=\"https://www.goha.ru/yunogo-hakera-vzlomavshego-rockstar-otpustili-pod-otvetstvennost-gosudarstva-dDmrM2\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 08:45:54 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:14+00:00"
+        "updated": "2026-11-25T06:05:25+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/media",
@@ -990,12 +990,18 @@
                 "pubDate": "Wed, 11 Nov 26 10:07:10 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:15+00:00"
+        "updated": "2026-11-25T06:05:26+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mmorpg",
         "title": "MMORPG - GoHa.Ru",
         "items": [
+            {
+                "title": "Temppal: Overgeared готовится к выходу — стали доступны предварительная загрузка и регистрация",
+                "link": "https://www.goha.ru/temppal-overgeared-gotovitsya-k-vyhodu-stali-dostupny-predvaritelnaya-zagruzka-i-registraciya-xqZjLM",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N2/3K/YoAjhd8T1T.jpg\" alt=\"Temppal: Overgeared готовится к выходу — стали доступны предварительная загрузка и регистрация\"/><br /><br />В основе развития персонажа лежит улучшение слотов экипировки. Оружие можно модифицировать, а созданное снаряжение будет носить имя мастера.<br /><br /><a href=\"https://www.goha.ru/temppal-overgeared-gotovitsya-k-vyhodu-stali-dostupny-predvaritelnaya-zagruzka-i-registraciya-xqZjLM\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:45:58 +0000"
+            },
             {
                 "title": "Shroud of the Avatar получила новый сайт с информацией о развитии игры",
                 "link": "https://www.goha.ru/shroud-of-the-avatar-poluchila-novyj-sajt-s-informaciej-o-razvitii-igry-lrV6zN",
@@ -1049,15 +1055,9 @@
                 "link": "https://www.goha.ru/odin-valhalla-rising-poluchit-krupnoe-dekabrskoe-obnovlenie-480DaW",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NJ/5n/DzKPwV9ie5.jpg\" alt=\"Odin: Valhalla Rising получит крупное декабрьское обновление\"/><br /><br />Разработчики также готовят предмет для защиты реликвий при заточке и расскажут о планах на первую половину 2027 года.<br /><br /><a href=\"https://www.goha.ru/odin-valhalla-rising-poluchit-krupnoe-dekabrskoe-obnovlenie-480DaW\">Читать дальше →</a>",
                 "pubDate": "Tue, 24 Nov 26 13:42:09 +0000"
-            },
-            {
-                "title": "Похоже, что Scars of Honor всё: MMORPG не смогла найти денег на дальнейшую разработку",
-                "link": "https://www.goha.ru/pohozhe-chto-scars-of-honor-vsyo-mmorpg-ne-smogla-najti-deneg-na-dalnejshuyu-razrabotku-d72V5B",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/7S/7bFKE0EXn2.jpg\" alt=\"Похоже, что Scars of Honor всё: MMORPG не смогла найти денег на дальнейшую разработку\"/><br /><br />Студия BeastBurst Entertainment объявила о приостановке разработки своей MMORPG Scars of Honor. Причиной стали тяжелая обстановка в игровой индустрии и общее сокращение инвестиций в секторе, из-за чего руководству пришлось распустить команду разработчиков.<br /><br /><a href=\"https://www.goha.ru/pohozhe-chto-scars-of-honor-vsyo-mmorpg-ne-smogla-najti-deneg-na-dalnejshuyu-razrabotku-d72V5B\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 12:06:15 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:16+00:00"
+        "updated": "2026-11-25T06:05:28+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mobile-games",
@@ -1124,7 +1124,7 @@
                 "pubDate": "Tue, 17 Nov 26 12:25:27 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:18+00:00"
+        "updated": "2026-11-25T06:05:29+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/movies-tvshows",
@@ -1191,12 +1191,42 @@
                 "pubDate": "Sun, 22 Nov 26 09:22:13 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:19+00:00"
+        "updated": "2026-11-25T06:05:30+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/news",
         "title": "Новости - GoHa.Ru",
         "items": [
+            {
+                "title": "Правительство Японии борется с пиратством с помощью нейросети",
+                "link": "https://www.goha.ru/pravitelstvo-yaponii-boretsya-s-piratstvom-s-pomoshhyu-nejroseti-la5L90",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DK/2o/B1qYN5l3Fi.jpg\" alt=\"Правительство Японии борется с пиратством с помощью нейросети\"/><br /><br />Агентство по делам культуры Японии объявило об успешном тестировании ИИ-агента, предназначенного для борьбы с пиратством<br /><br /><a href=\"https://www.goha.ru/pravitelstvo-yaponii-boretsya-s-piratstvom-s-pomoshhyu-nejroseti-la5L90\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 06:00:00 +0000"
+            },
+            {
+                "title": "Temppal: Overgeared готовится к выходу — стали доступны предварительная загрузка и регистрация",
+                "link": "https://www.goha.ru/temppal-overgeared-gotovitsya-k-vyhodu-stali-dostupny-predvaritelnaya-zagruzka-i-registraciya-xqZjLM",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:N2/3K/YoAjhd8T1T.jpg\" alt=\"Temppal: Overgeared готовится к выходу — стали доступны предварительная загрузка и регистрация\"/><br /><br />В основе развития персонажа лежит улучшение слотов экипировки. Оружие можно модифицировать, а созданное снаряжение будет носить имя мастера.<br /><br /><a href=\"https://www.goha.ru/temppal-overgeared-gotovitsya-k-vyhodu-stali-dostupny-predvaritelnaya-zagruzka-i-registraciya-xqZjLM\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:45:58 +0000"
+            },
+            {
+                "title": "Arknights: Endfield получила обновление с восстановлением территории и новыми операторами",
+                "link": "https://www.goha.ru/arknights-endfield-poluchila-obnovlenie-s-vosstanovleniem-territorii-i-novymi-operatorami-dpPaJm",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/VC/yBox6JcNqD.jpg\" alt=\"Arknights: Endfield получила обновление с восстановлением территории и новыми операторами\"/><br /><br />Разработчики также подготовили компенсацию в размере 1800 Oroberyl и несколько ивентов с наградами. Для установки версии потребуется заново скачать игру.<br /><br /><a href=\"https://www.goha.ru/arknights-endfield-poluchila-obnovlenie-s-vosstanovleniem-territorii-i-novymi-operatorami-dpPaJm\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:38:42 +0000"
+            },
+            {
+                "title": "Прогрев начался — команда Zenless Zone Zero выпустила трейлер, посвященный госпоже Рассвет",
+                "link": "https://www.goha.ru/progrev-nachalsya-komanda-zenless-zone-zero-vypustila-trejler-posvyashhennyj-gospozhe-rassvet-lPvq6w",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:C7/aw/koePA7yWbl.jpg\" alt=\"Прогрев начался — команда Zenless Zone Zero выпустила трейлер, посвященный госпоже Рассвет\"/><br /><br />Разработчики Zenless Zone Zero опубликовали пятиминутный трейлер под названием «До падения солнца», который посвящен госпоже Рассвет<br /><br /><a href=\"https://www.goha.ru/progrev-nachalsya-komanda-zenless-zone-zero-vypustila-trejler-posvyashhennyj-gospozhe-rassvet-lPvq6w\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:00:00 +0000"
+            },
+            {
+                "title": "Трассировка лучей в любой игре на DirectX 12? С новым модом для ReShade это возможно",
+                "link": "https://www.goha.ru/trassirovka-luchej-v-lyuboj-igre-na-directx-12-s-novym-modom-dlya-reshade-eto-vozmozhno-ljjr8y",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:BS/wG/SKNOBKa3j0.jpg\" alt=\"Трассировка лучей в любой игре на DirectX 12? С новым модом для ReShade это возможно\"/><br /><br />Разработчик-одиночка под ником Skynizz представил открытый аддон для ReShade под названием Universal Ray Tracing Injector (URTI), который внедряет настоящие аппаратные отражения на базе трассировки лучей в игры на DirectX 12 без нативной поддержки RTX.<br /><br /><a href=\"https://www.goha.ru/trassirovka-luchej-v-lyuboj-igre-na-directx-12-s-novym-modom-dlya-reshade-eto-vozmozhno-ljjr8y\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 04:00:00 +0000"
+            },
             {
                 "title": "Оно боится: Зельник с косой жнеца пробежался по GitHub и почистил все следы ПК-порта GTA 6 Project Leonida",
                 "link": "https://www.goha.ru/ono-boitsya-zelnik-s-kosoj-zhneca-probezhalsya-po-github-i-pochistil-vse-sledy-pk-porta-gta-6-project-leonida-dQYP6v",
@@ -1226,44 +1256,26 @@
                 "link": "https://www.goha.ru/lords-of-the-fallen-ii-vyjdet-v-aprele-2027-goda-l5Z805",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:CL/eR/WghrapC2Ju.jpg\" alt=\"Lords of the Fallen II выйдет в апреле 2027 года\"/><br /><br />Продолжение отправит игроков в разорённое войной королевство, где миры живых и мёртвых начинают сливаться.<br /><br /><a href=\"https://www.goha.ru/lords-of-the-fallen-ii-vyjdet-v-aprele-2027-goda-l5Z805\">Читать дальше →</a>",
                 "pubDate": "Tue, 24 Nov 26 19:15:38 +0000"
-            },
-            {
-                "title": "The Elder Scrolls Online: следующий этап открытого тестирования начнётся 30 ноября",
-                "link": "https://www.goha.ru/the-elder-scrolls-online-sleduyushhij-etap-otkrytogo-testirovaniya-nachnyotsya-30-noyabrya-dB0Bn9",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Nl/lo/uPkAzcYMzI.jpg\" alt=\"The Elder Scrolls Online: следующий этап открытого тестирования начнётся 30 ноября\"/><br /><br />За прохождение ивентов Rimegales можно будет получить сундуки с предметами ледяного атронаха. Также разработчики изменят некоторые комплекты экипировки.<br /><br /><a href=\"https://www.goha.ru/the-elder-scrolls-online-sleduyushhij-etap-otkrytogo-testirovaniya-nachnyotsya-30-noyabrya-dB0Bn9\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 19:10:00 +0000"
-            },
-            {
-                "title": "В MU Online вышло третье обновление 22-го сезона: легендарная экипировка Dominion of Execution и элитная зона Arcana Archives",
-                "link": "https://www.goha.ru/v-mu-online-vyshlo-trete-obnovlenie-22-go-sezona-legendarnaya-ekipirovka-dominion-of-execution-i-elitnaya-zona-arcana-archives-xLovNQ",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:D3/Aw/Pp6F4Q6w7x.jpg\" alt=\"В MU Online вышло третье обновление 22-го сезона: легендарная экипировка Dominion of Execution и элитная зона Arcana Archives\"/><br /><br />Студия Webzen выпустила третье контентное обновление 22-го сезона для классической ПК-MMORPG MU Online. Главным нововведением стала легендарная экипировка Dominion of Execution, доступная для девяти классов (включая Dark Knight и Fairy) и улучшаемая до имперского оружия и брони. <br /><br /><a href=\"https://www.goha.ru/v-mu-online-vyshlo-trete-obnovlenie-22-go-sezona-legendarnaya-ekipirovka-dominion-of-execution-i-elitnaya-zona-arcana-archives-xLovNQ\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 19:00:00 +0000"
-            },
-            {
-                "title": "Gothic 3 Classic вышла на PlayStation 5 и Xbox Series X|S",
-                "link": "https://www.goha.ru/gothic-3-classic-vyshla-na-playstation-5-i-xbox-series-xs-l9qREg",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:MZ/RT/ODwziPKGEO.jpg\" alt=\"Gothic 3 Classic вышла на PlayStation 5 и Xbox Series X|S\"/><br /><br />Релизный трейлер посвящён выбору союзников и судьбе охваченной войной Миртаны.<br /><br /><a href=\"https://www.goha.ru/gothic-3-classic-vyshla-na-playstation-5-i-xbox-series-xs-l9qREg\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 18:55:08 +0000"
-            },
-            {
-                "title": "Shinovi NEXUS — Senran Kagura: RPG о девушках-синоби выйдет 29 ноября",
-                "link": "https://www.goha.ru/shinovi-nexus-senran-kagura-rpg-o-devushkah-sinobi-vyjdet-29-noyabrya-4Aw9Wm",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DK/9l/dHcalMyYT8.jpg\" alt=\"Shinovi NEXUS — Senran Kagura: RPG о девушках-синоби выйдет 29 ноября\"/><br /><br />Действие игры развернётся через три года после Shinobi Master Senran Kagura NEW LINK. В записи официальной передачи впервые показали игровой процесс.<br /><br /><a href=\"https://www.goha.ru/shinovi-nexus-senran-kagura-rpg-o-devushkah-sinobi-vyjdet-29-noyabrya-4Aw9Wm\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 18:51:08 +0000"
-            },
-            {
-                "title": "Вышел озвученный комикс Al’Aketh Rising по World of Warcraft: Forever",
-                "link": "https://www.goha.ru/vyshel-ozvuchennyj-komiks-alaketh-rising-po-world-of-warcraft-forever-lGZNRe",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NI/yh/TYwJtCv4ez.jpg\" alt=\"Вышел озвученный комикс Al’Aketh Rising по World of Warcraft: Forever\"/><br /><br />История посвящена скрытой угрозе и фанатичной преданности жителей. Комикс также доступен в формате PDF.<br /><br /><a href=\"https://www.goha.ru/vyshel-ozvuchennyj-komiks-alaketh-rising-po-world-of-warcraft-forever-lGZNRe\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 18:45:09 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:20+00:00"
+        "updated": "2026-11-25T06:05:32+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/videogames",
         "title": "Видеоигры - GoHa.Ru",
         "items": [
+            {
+                "title": "Arknights: Endfield получила обновление с восстановлением территории и новыми операторами",
+                "link": "https://www.goha.ru/arknights-endfield-poluchila-obnovlenie-s-vosstanovleniem-territorii-i-novymi-operatorami-dpPaJm",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:Bh/VC/yBox6JcNqD.jpg\" alt=\"Arknights: Endfield получила обновление с восстановлением территории и новыми операторами\"/><br /><br />Разработчики также подготовили компенсацию в размере 1800 Oroberyl и несколько ивентов с наградами. Для установки версии потребуется заново скачать игру.<br /><br /><a href=\"https://www.goha.ru/arknights-endfield-poluchila-obnovlenie-s-vosstanovleniem-territorii-i-novymi-operatorami-dpPaJm\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:38:42 +0000"
+            },
+            {
+                "title": "Прогрев начался — команда Zenless Zone Zero выпустила трейлер, посвященный госпоже Рассвет",
+                "link": "https://www.goha.ru/progrev-nachalsya-komanda-zenless-zone-zero-vypustila-trejler-posvyashhennyj-gospozhe-rassvet-lPvq6w",
+                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:C7/aw/koePA7yWbl.jpg\" alt=\"Прогрев начался — команда Zenless Zone Zero выпустила трейлер, посвященный госпоже Рассвет\"/><br /><br />Разработчики Zenless Zone Zero опубликовали пятиминутный трейлер под названием «До падения солнца», который посвящен госпоже Рассвет<br /><br /><a href=\"https://www.goha.ru/progrev-nachalsya-komanda-zenless-zone-zero-vypustila-trejler-posvyashhennyj-gospozhe-rassvet-lPvq6w\">Читать дальше →</a>",
+                "pubDate": "Wed, 25 Nov 26 05:00:00 +0000"
+            },
             {
                 "title": "Оно боится: Зельник с косой жнеца пробежался по GitHub и почистил все следы ПК-порта GTA 6 Project Leonida",
                 "link": "https://www.goha.ru/ono-boitsya-zelnik-s-kosoj-zhneca-probezhalsya-po-github-i-pochistil-vse-sledy-pk-porta-gta-6-project-leonida-dQYP6v",
@@ -1311,21 +1323,9 @@
                 "link": "https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA",
                 "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NX/bq/tbbCrpallZ.jpg\" alt=\"Чем заняться внутри стен в Attack on Titan 3? Ответ на видео\"/><br /><br />Второй ознакомительный ролик от Omega Force и Koei Tecmo посвящен тому, чем можно заняться внутри стен в экшене Attack on Titan 3, готовясь к очередной стычке с титанами.<br /><br /><a href=\"https://www.goha.ru/chem-zanyatsya-vnutri-sten-v-attack-on-titan-3-otvet-na-video-dXRPDA\">Читать дальше →</a>",
                 "pubDate": "Tue, 24 Nov 26 16:07:00 +0000"
-            },
-            {
-                "title": "Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом",
-                "link": "https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:DH/ER/Bu8pU32AYn.jpg\" alt=\"Для Escape from Tarkov вышел патч 1.3.5.0 с переходом на Unity 6, платформой RenderStack и быстрым реконнектом\"/><br /><br />Студия Battlestate Games выпустила для Escape from Tarkov крупное техническое обновление 1.3.5.0, главным нововведением которого стал переход проекта на движок Unity 6. <br /><br /><a href=\"https://www.goha.ru/dlya-escape-from-tarkov-vyshel-patch-1350-s-perehodom-na-unity-6-platformoj-renderstack-i-bystrym-rekonnektom-4VeP6B\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 15:36:27 +0000"
-            },
-            {
-                "title": "Foxhole: представлен трейлер обновления Engines of War для военной стратегии",
-                "link": "https://www.goha.ru/foxhole-predstavlen-trejler-obnovleniya-engines-of-war-dlya-voennoj-strategii-d72VG0",
-                "description": "<img align=\"left\" src=\"https://images.goha.ru/E:NG/OQ/Ep1uON4OO5.jpg\" alt=\"Foxhole: представлен трейлер обновления Engines of War для военной стратегии\"/><br /><br />Трейлер показал технику и снаряжение для боёв на суше, на море и в воздухе, а также новое укрепление для инженеров.<br /><br /><a href=\"https://www.goha.ru/foxhole-predstavlen-trejler-obnovleniya-engines-of-war-dlya-voennoj-strategii-d72VG0\">Читать дальше →</a>",
-                "pubDate": "Tue, 24 Nov 26 15:00:00 +0000"
             }
         ],
-        "updated": "2026-11-25T02:13:21+00:00"
+        "updated": "2026-11-25T06:05:33+00:00"
     },
     {
         "source": "https://www.igromania.ru/rss/news-hard.rss",
@@ -1392,7 +1392,7 @@
                 "pubDate": "Sat, 29 Aug 2026 12:42:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:24+00:00"
+        "updated": "2026-11-25T06:05:35+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/culture/index.xml",
@@ -1459,7 +1459,7 @@
                 "pubDate": "Tue, 24 Nov 2026 01:12:33 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:28+00:00"
+        "updated": "2026-11-25T06:05:39+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/economics/index.xml",
@@ -1526,141 +1526,141 @@
                 "pubDate": "Mon, 23 Nov 2026 20:31:29 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:29+00:00"
+        "updated": "2026-11-25T06:05:41+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/incident/index.xml",
         "title": "Все Проишествия - Московский Комсомолец",
         "items": [
             {
-                "title": "Не позвали на свадьбу: зятя заподозрили в убийстве тестя на празднике",
-                "link": "https://www.mk.ru/incident/2026/11/25/ne-pozvali-na-svadbu-zyatya-zapodozrili-v-ubiystve-testya-na-prazdnike.html",
-                "description": "В индийском штате Уттар-Прадеш свадебное торжество обернулось трагедией",
-                "pubDate": "Wed, 25 Nov 2026 05:07:53 +0300"
+                "title": "На месте взрыва газа в Кулунде спасатели нашли погибшего мужчину",
+                "link": "https://www.mk.ru/incident/2026/11/25/na-meste-vzryva-gaza-v-kulunde-spasateli-nashli-pogibshego-muzhchinu.html",
+                "description": "Спасатели обнаружили тело мужчины на месте взрыва газа в доме в райцентре Кулунда Алтайского края",
+                "pubDate": "Wed, 25 Nov 2026 09:01:01 +0300"
             },
             {
-                "title": "Уберег от падения: в Африке ревнивец убил мужчину за прикосновение к девушке",
-                "link": "https://www.mk.ru/incident/2026/11/25/ubereg-ot-padeniya-v-afrike-revnivec-ubil-muzhchinu-za-prikosnovenie-k-devushke.html",
-                "description": "В Гане полиция задержала 36-летнего Аскию Тиджани по подозрению в причастности к гибели местного водителя Сайласа Акоманинга",
-                "pubDate": "Wed, 25 Nov 2026 04:33:19 +0300"
+                "title": "В Белгородской области зафиксировали 93 атаки БПЛА за сутки",
+                "link": "https://www.mk.ru/incident/2026/11/25/v-belgorodskoy-oblasti-zafiksirovali-93-ataki-bpla-za-sutki.html",
+                "description": "Один мирный житель получил ранения в результате атаки ВСУ на Белгородскую область за минувшие сутки. Кроме того, в больнице скончался мужчина, пострадавший при ударе беспилотника 21 ноября, сообщил губернатор Александр Шуваев.",
+                "pubDate": "Wed, 25 Nov 2026 08:54:21 +0300"
             },
             {
-                "title": "Молодой полицейский загадочно погиб во врeмя дежурства на рабочем месте",
-                "link": "https://www.mk.ru/incident/2026/11/25/molodoy-policeyskiy-zagadochno-pogib-vo-vremya-dezhurstva-na-rabochem-meste.html",
-                "description": "В японском городе Арао префектуры Кумамото расследуют гибель молодого сотрудника полиции, получившего огнестрельное ранение на рабочем месте",
-                "pubDate": "Wed, 25 Nov 2026 04:16:27 +0300"
+                "title": "Самару атаковали беспилотники: в школах отменили занятия",
+                "link": "https://www.mk.ru/incident/2026/11/25/samaru-atakovali-bespilotniki-v-shkolakh-otmenili-zanyatiya.html",
+                "description": "Силы противовоздушной обороны и мобильные огневые группы отражали массированную атаку беспилотников на Самару ночью и утром 25 ноября. Об этом сообщил глава города Иван Носков, призвав жителей соблюдать меры безопасности и не приближаться к подозрительным предметам.",
+                "pubDate": "Wed, 25 Nov 2026 08:49:23 +0300"
             },
             {
-                "title": "В Самарской области сообщили об атаке ВСУ",
-                "link": "https://www.mk.ru/incident/2026/11/25/v-samarskoy-oblasti-soobshhili-ob-atake-vsu.html",
-                "description": "В Самарской области ведется отражение атаки Вооруженных сил Украины. Для защиты территории задействованы силы противовоздушной обороны и мобильные огневые группы, сообщил губернатор Вячеслав Федорищев.",
-                "pubDate": "Wed, 25 Nov 2026 04:06:51 +0300"
+                "title": "В США шесть человек погибли при крушении легкомоторного самолёта",
+                "link": "https://www.mk.ru/incident/2026/11/25/v-ssha-shest-chelovek-pogibli-pri-krushenii-legkomotornogo-samolyota.html",
+                "description": "Легкомоторный самолёт потерпел крушение у побережья штата Миссисипи, погибли шесть человек",
+                "pubDate": "Wed, 25 Nov 2026 08:47:58 +0300"
             },
             {
-                "title": "Муж известной блогерши погиб, спасая детей из воды",
-                "link": "https://www.mk.ru/incident/2026/11/25/muzh-izvestnoy-blogershi-pogib-spasaya-detey-iz-vody.html",
-                "description": "Долгожданное семейное путешествие в Австралию обернулось трагедией для американской блогерши Таис Роде, известной среди буктьюберов",
-                "pubDate": "Wed, 25 Nov 2026 03:56:01 +0300"
+                "title": "Машина сбила подростка на востоке Москвы",
+                "link": "https://www.mk.ru/incident/2026/11/25/mashina-sbila-podrostka-na-vostoke-moskvy.html",
+                "description": "13-летняя девочка получила травмы, попав под автомобиль на востоке столицы",
+                "pubDate": "Wed, 25 Nov 2026 08:46:56 +0300"
             },
             {
-                "title": "Росавиация сообщила об изменениях в работе аэропорта Геленджика",
-                "link": "https://www.mk.ru/incident/2026/11/25/rosaviaciya-soobshhila-ob-izmeneniyakh-v-rabote-aeroporta-gelendzhika.html",
-                "description": "В аэропорту Геленджика ввели дополнительные временные ограничения на прием и отправку воздушных судов. Об этом сообщили в Росавиации.",
-                "pubDate": "Wed, 25 Nov 2026 03:30:05 +0300"
+                "title": "Два несчастных случая произошли на московских стройках",
+                "link": "https://www.mk.ru/incident/2026/11/25/dva-neschastnykh-sluchaya-proizoshli-na-moskovskikh-stroykakh.html",
+                "description": "Мужчине раздавило ногу упавшей плитой на стройке на востоке столицы",
+                "pubDate": "Wed, 25 Nov 2026 08:43:53 +0300"
             },
             {
-                "title": "В Техасе водитель автоцистерны погиб при мощном пожаре на трассе",
-                "link": "https://www.mk.ru/incident/2026/11/25/v-tekhase-voditel-avtocisterny-pogib-pri-moshhnom-pozhare-na-trasse.html",
-                "description": "В американском Хьюстоне водитель автоцистерны погиб после опрокидывания грузовика и последовавшего за этим пожара",
-                "pubDate": "Wed, 25 Nov 2026 03:21:07 +0300"
+                "title": "В туристическом городе в супермаркете боевики захватили десятки заложников",
+                "link": "https://www.mk.ru/incident/2026/11/25/v-turisticheskom-gorode-v-supermarkete-boeviki-zakhvatili-desyatki-zalozhnikov.html",
+                "description": "Президент Колумбии Абелардо де ла Эсприэлла прибыл на место захвата заложников в туристическом городе, чтобы взять под свой контроль операцию, в которой участвуют десятки сотрудников службы безопасности, пытающихся освободить по меньшей мере 20 пленников",
+                "pubDate": "Wed, 25 Nov 2026 08:33:02 +0300"
             },
             {
-                "title": "Синдром отмены GTA VI: подросток устроил погоню с электропилой за матерью, отобравшей у него Xbox",
-                "link": "https://www.mk.ru/incident/2026/11/25/sindrom-otmeny-gta-vi-podrostok-ustroil-pogonyu-s-elektropiloy-za-materyu-otobravshey-u-nego-xbox.html",
-                "description": "В штате Флорида, США, семейный спор из-за игровой приставки обернулся уголовным делом",
-                "pubDate": "Wed, 25 Nov 2026 03:19:10 +0300"
+                "title": "Мещанский суд Москвы рассмотрит меру пресечения губернатору Чибису",
+                "link": "https://www.mk.ru/incident/2026/11/25/meshhanskiy-sud-moskvy-rassmotrit-meru-presecheniya-gubernatoru-chibisu.html",
+                "description": "Мещанский районный суд Москвы 25 ноября рассмотрит ходатайство Следственного департамента МВД об избрании меры пресечения губернатору Мурманской области Андрею Чибису",
+                "pubDate": "Wed, 25 Nov 2026 08:33:00 +0300"
             },
             {
-                "title": "Удивила врачей: женщина случайно проглотила вилку",
-                "link": "https://www.mk.ru/incident/2026/11/25/udivila-vrachey-zhenshhina-sluchayno-proglotila-vilku.html",
-                "description": "В Новой Зеландии врачи больницы столкнулись с необычным случаем проглатывания столового прибора",
-                "pubDate": "Wed, 25 Nov 2026 02:23:37 +0300"
+                "title": "Суд Москвы арестовал адвокатов Максима и Ивана Гранкиных по делу о взятке",
+                "link": "https://www.mk.ru/incident/2026/11/25/sud-moskvy-arestoval-advokatov-maksima-i-ivana-grankinykh-po-delu-o-vzyatke.html",
+                "description": "Замоскворецкий районный суд Москвы заключил под стражу адвокатов Максима Гранкина и его сына Ивана",
+                "pubDate": "Wed, 25 Nov 2026 08:22:22 +0300"
             },
             {
-                "title": "В Подмосковье опрокинулся автобус с 13 детьми",
-                "link": "https://www.mk.ru/incident/2026/11/25/v-podmoskove-oprokinulsya-avtobus-s-13-detmi.html",
-                "description": "В городском округе Домодедово произошло дорожно-транспортное происшествие с участием автобуса, перевозившего несовершеннолетних",
-                "pubDate": "Wed, 25 Nov 2026 02:11:27 +0300"
+                "title": "Россиянин погиб в результате атаки БПЛА",
+                "link": "https://www.mk.ru/incident/2026/11/25/rossiyanin-pogib-v-rezultate-ataki-bpla.html",
+                "description": "Житель Самарской области погиб в результате атаки беспилотников Вооруженных сил Украины (ВСУ)",
+                "pubDate": "Wed, 25 Nov 2026 08:17:02 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:31+00:00"
+        "updated": "2026-11-25T06:05:42+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/politics/index.xml",
         "title": "Вся Политика - Московский Комсомолец",
         "items": [
             {
-                "title": "Не позвали на свадьбу: зятя заподозрили в убийстве тестя на празднике",
-                "link": "https://www.mk.ru/incident/2026/11/25/ne-pozvali-na-svadbu-zyatya-zapodozrili-v-ubiystve-testya-na-prazdnike.html",
-                "description": "В индийском штате Уттар-Прадеш свадебное торжество обернулось трагедией",
-                "pubDate": "Wed, 25 Nov 2026 05:07:53 +0300"
+                "title": "На месте взрыва газа в Кулунде спасатели нашли погибшего мужчину",
+                "link": "https://www.mk.ru/incident/2026/11/25/na-meste-vzryva-gaza-v-kulunde-spasateli-nashli-pogibshego-muzhchinu.html",
+                "description": "Спасатели обнаружили тело мужчины на месте взрыва газа в доме в райцентре Кулунда Алтайского края",
+                "pubDate": "Wed, 25 Nov 2026 09:01:01 +0300"
             },
             {
-                "title": "«Ядерный удар спасет Европу»: почему генсек НАТО призвал готовиться к третьей мировой",
-                "link": "https://www.mk.ru/politics/2026/11/25/yadernyy-udar-spaset-evropu-pochemu-gensek-nato-prizval-gotovitsya-k-tretey-mirovoy.html",
-                "description": "Только шок в виде ядерного удара может остановить Европу от скатывания к третьей Мировой войне, которая приближается семимильным шагами",
-                "pubDate": "Wed, 25 Nov 2026 05:00:00 +0300"
+                "title": "Островному государству навязали нацеленный против Китая пакт",
+                "link": "https://www.mk.ru/politics/2026/11/25/ostrovnomu-gosudarstvu-navyazali-nacelennyy-protiv-kitaya-pakt.html",
+                "description": "Пакт о безопасности Австралии с Соломоновыми островами наносит удар по влиянию Китая в Тихоокеанском регионе",
+                "pubDate": "Wed, 25 Nov 2026 08:50:34 +0300"
             },
             {
-                "title": "Десятки штатов США оспорили новое правило администрации Трампа",
-                "link": "https://www.mk.ru/politics/2026/11/25/desyatki-shtatov-ssha-osporili-novoe-pravilo-administracii-trampa.html",
-                "description": "21 штат США и губернатор Пенсильвании обратились в суд против Министерства жилищного строительства и городского развития (HUD)",
-                "pubDate": "Wed, 25 Nov 2026 04:49:52 +0300"
+                "title": "Экс-пресс-секретарь Зеленского раскрыла, кем его считают украинцы",
+                "link": "https://www.mk.ru/politics/2026/11/25/eks-press-sekretar-zelenskogo-raskryla-kem-ego-schitayut-ukraincy.html",
+                "description": "Для украинцев глава киевского режима Владимир Зеленский является предателем",
+                "pubDate": "Wed, 25 Nov 2026 08:48:16 +0300"
             },
             {
-                "title": "Трамп заявил о финансировании войны с Ираном до конца января",
-                "link": "https://www.mk.ru/politics/2026/11/25/tramp-zayavil-o-finansirovanii-voyny-s-iranom-do-konca-yanvarya.html",
-                "description": "Трамп заявил, что финансирование военных действий США против Ирана предусмотрено до конца января. При этом американский лидер опасается, что после перехода контроля над Конгрессом к демократам его возможности продолжать конфликт могут сократиться, сообщает New York Post.",
-                "pubDate": "Wed, 25 Nov 2026 04:45:52 +0300"
+                "title": "В США шесть человек погибли при крушении легкомоторного самолёта",
+                "link": "https://www.mk.ru/incident/2026/11/25/v-ssha-shest-chelovek-pogibli-pri-krushenii-legkomotornogo-samolyota.html",
+                "description": "Легкомоторный самолёт потерпел крушение у побережья штата Миссисипи, погибли шесть человек",
+                "pubDate": "Wed, 25 Nov 2026 08:47:58 +0300"
             },
             {
-                "title": "Трамп не спешит искать замену пресс-секретарю Белого дома после ухода Захарии",
-                "link": "https://www.mk.ru/politics/2026/11/25/tramp-ne-speshit-iskat-zamenu-press-sekretaryu-belogo-doma-posle-ukhoda-zakharii.html",
-                "description": "Президент США Дональд Трамп пока не намерен назначать нового пресс-секретаря Белого дома, поскольку считает, что может самостоятельно выполнять эту работу",
-                "pubDate": "Wed, 25 Nov 2026 04:35:51 +0300"
+                "title": "Сообщено о расследовании в отношении одного из членов Политбюро в Китае",
+                "link": "https://www.mk.ru/politics/2026/11/25/soobshheno-o-rassledovanii-v-otnoshenii-odnogo-iz-chlenov-politbyuro-v-kitae.html",
+                "description": "Китай начал расследование в отношении секретаря Шанхаского горкома КПК Чэнь Цзинина, члена Политбюро, неожиданно объявило во вторник государственное информационное агентство Синьхуа",
+                "pubDate": "Wed, 25 Nov 2026 08:45:10 +0300"
             },
             {
-                "title": "Уберег от падения: в Африке ревнивец убил мужчину за прикосновение к девушке",
-                "link": "https://www.mk.ru/incident/2026/11/25/ubereg-ot-padeniya-v-afrike-revnivec-ubil-muzhchinu-za-prikosnovenie-k-devushke.html",
-                "description": "В Гане полиция задержала 36-летнего Аскию Тиджани по подозрению в причастности к гибели местного водителя Сайласа Акоманинга",
-                "pubDate": "Wed, 25 Nov 2026 04:33:19 +0300"
+                "title": "Теракт на энергосетях оставил без света несколько департаментов Колумбии",
+                "link": "https://www.mk.ru/politics/2026/11/25/terakt-na-energosetyakh-ostavil-bez-sveta-neskolko-departamentov-kolumbii.html",
+                "description": "В результате атаки на две линии электропередачи, подключённые к подстанции на юго-западе Колумбии, без электричества остались жители нескольких департаментов",
+                "pubDate": "Wed, 25 Nov 2026 08:39:52 +0300"
             },
             {
-                "title": "Бразилия готовит масштабную инаугурацию Лулы да Силвы",
-                "link": "https://www.mk.ru/politics/2026/11/25/braziliya-gotovit-masshtabnuyu-inauguraciyu-luly-da-silvy.html",
-                "description": "Бразилия готовит масштабную инаугурацию Луиса Инасиу Лулы да Силвы на четвертый президентский срок. Власти страны рассчитывают на участие большого числа зарубежных лидеров, однако президента Аргентины Хавьера Милея, вероятно, не пригласят. Об этом сообщает портал UOL.",
-                "pubDate": "Wed, 25 Nov 2026 04:28:54 +0300"
+                "title": "Мещанский суд Москвы рассмотрит меру пресечения губернатору Чибису",
+                "link": "https://www.mk.ru/incident/2026/11/25/meshhanskiy-sud-moskvy-rassmotrit-meru-presecheniya-gubernatoru-chibisu.html",
+                "description": "Мещанский районный суд Москвы 25 ноября рассмотрит ходатайство Следственного департамента МВД об избрании меры пресечения губернатору Мурманской области Андрею Чибису",
+                "pubDate": "Wed, 25 Nov 2026 08:33:00 +0300"
             },
             {
-                "title": "Молодой полицейский загадочно погиб во врeмя дежурства на рабочем месте",
-                "link": "https://www.mk.ru/incident/2026/11/25/molodoy-policeyskiy-zagadochno-pogib-vo-vremya-dezhurstva-na-rabochem-meste.html",
-                "description": "В японском городе Арао префектуры Кумамото расследуют гибель молодого сотрудника полиции, получившего огнестрельное ранение на рабочем месте",
-                "pubDate": "Wed, 25 Nov 2026 04:16:27 +0300"
+                "title": "После критики Пентагона Канада отказалась отчитываться перед США",
+                "link": "https://www.mk.ru/politics/2026/11/25/posle-kritiki-pentagona-kanada-otkazalas-otchityvatsya-pered-ssha.html",
+                "description": "Канада заявляет, что &#34;не отчитывается перед США&#34; после меморандума Пентагона, в котором критикуются военные расходы Страны кленового листа",
+                "pubDate": "Wed, 25 Nov 2026 08:28:07 +0300"
             },
             {
-                "title": "Трафик Pornhub резко рухнул после выхода GTA VI",
-                "link": "https://www.mk.ru/social/2026/11/25/trafik-pornhub-rezko-rukhnul-posle-vykhoda-gta-vi.html",
-                "description": "Долгожданный релиз Grand Theft Auto VI (GTA VI), судя по статистике, мог изменить привычки американских интернет-пользователей",
-                "pubDate": "Wed, 25 Nov 2026 04:04:37 +0300"
+                "title": "В Ормузском проливе загорелись два нефтяных танкера",
+                "link": "https://www.mk.ru/politics/2026/11/25/v-ormuzskom-prolive-zagorelis-dva-neftyanykh-tankera.html",
+                "description": "Два нефтяных танкера загорелись после подрыва на морских минах в южной и восточной частях Ормузского пролива. Об этом заявил представитель военно-морских сил Корпуса стражей исламской революции (КСИР), сообщает агентство Tasnim.",
+                "pubDate": "Wed, 25 Nov 2026 08:27:19 +0300"
             },
             {
-                "title": "Муж известной блогерши погиб, спасая детей из воды",
-                "link": "https://www.mk.ru/incident/2026/11/25/muzh-izvestnoy-blogershi-pogib-spasaya-detey-iz-vody.html",
-                "description": "Долгожданное семейное путешествие в Австралию обернулось трагедией для американской блогерши Таис Роде, известной среди буктьюберов",
-                "pubDate": "Wed, 25 Nov 2026 03:56:01 +0300"
+                "title": "Суд Москвы арестовал адвокатов Максима и Ивана Гранкиных по делу о взятке",
+                "link": "https://www.mk.ru/incident/2026/11/25/sud-moskvy-arestoval-advokatov-maksima-i-ivana-grankinykh-po-delu-o-vzyatke.html",
+                "description": "Замоскворецкий районный суд Москвы заключил под стражу адвокатов Максима Гранкина и его сына Ивана",
+                "pubDate": "Wed, 25 Nov 2026 08:22:22 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:33+00:00"
+        "updated": "2026-11-25T06:05:43+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/science/index.xml",
@@ -1727,208 +1727,208 @@
                 "pubDate": "Tue, 24 Nov 2026 06:03:57 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:34+00:00"
+        "updated": "2026-11-25T06:05:45+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/social/index.xml",
         "title": "Все Общество - Московский Комсомолец",
         "items": [
             {
-                "title": "Не позвали на свадьбу: зятя заподозрили в убийстве тестя на празднике",
-                "link": "https://www.mk.ru/incident/2026/11/25/ne-pozvali-na-svadbu-zyatya-zapodozrili-v-ubiystve-testya-na-prazdnike.html",
-                "description": "В индийском штате Уттар-Прадеш свадебное торжество обернулось трагедией",
-                "pubDate": "Wed, 25 Nov 2026 05:07:53 +0300"
+                "title": "Губернатор Руслан Кухарук посетил премьеру спектакля Надежды Михалковой",
+                "link": "https://www.mk.ru/social/2026/11/25/gubernator-ruslan-kukharuk-posetil-premeru-spektaklya-nadezhdy-mikhalkovoy.html",
+                "description": "Губернатор Ханты-Мансийского автономного округа Руслан Кухарук посетил закрытый показ дебютного спектакля своей супруги Надежды Михалковой",
+                "pubDate": "Wed, 25 Nov 2026 09:01:02 +0300"
             },
             {
-                "title": "Слежка за окружением президента обернулась громким скандалом в Индонезии",
-                "link": "https://www.mk.ru/social/2026/11/25/slezhka-za-okruzheniem-prezidenta-obernulas-gromkim-skandalom-v-indonezii.html",
-                "description": "В Индонезии двух высокопоставленных офицеров элитного антитеррористического подразделения Densus 88 уволили после расследования предполагаемого заговора против президента Прабово Субианто",
-                "pubDate": "Wed, 25 Nov 2026 05:04:51 +0300"
+                "title": "Москвичам рассказали о погоде в среду, 25 ноября",
+                "link": "https://www.mk.ru/social/2026/11/25/moskvicham-rasskazali-o-pogode-v-sredu-25-noyabrya.html",
+                "description": "В среду, 25 ноября, в Московском регионе сохранится пасмурная погода",
+                "pubDate": "Wed, 25 Nov 2026 08:35:13 +0300"
             },
             {
-                "title": "Раскрыта долгосрочная опасность диабета у женщин во врeмя беременности",
-                "link": "https://www.mk.ru/social/2026/11/25/raskryta-dolgosrochnaya-opasnost-diabeta-u-zhenshhin-vo-vremya-beremennosti.html",
-                "description": "Повышение уровня сахара в крови во врeмя беременности может иметь серьезные последствия для здоровья матери и ребенка даже спустя годы после родов",
-                "pubDate": "Wed, 25 Nov 2026 04:50:27 +0300"
+                "title": "Восстановленного главу компании обвинили в нарушении законов при поставках чипов в Китай",
+                "link": "https://www.mk.ru/social/2026/11/25/vosstanovlennogo-glavu-kompanii-obvinili-v-narushenii-zakonov-pri-postavkakh-chipov-v-kitay.html",
+                "description": "Лидер демократического меньшинства в Сенате США присоединился к законодателям от обеих партий, возмущенным восстановлением в должности генерального директора Nvidia",
+                "pubDate": "Wed, 25 Nov 2026 08:25:36 +0300"
             },
             {
-                "title": "Уберег от падения: в Африке ревнивец убил мужчину за прикосновение к девушке",
-                "link": "https://www.mk.ru/incident/2026/11/25/ubereg-ot-padeniya-v-afrike-revnivec-ubil-muzhchinu-za-prikosnovenie-k-devushke.html",
-                "description": "В Гане полиция задержала 36-летнего Аскию Тиджани по подозрению в причастности к гибели местного водителя Сайласа Акоманинга",
-                "pubDate": "Wed, 25 Nov 2026 04:33:19 +0300"
+                "title": "Женщинам пора реабилитировать маменькиных сынков и воскресных пап, иначе рожать не от кого",
+                "link": "https://www.mk.ru/social/2026/11/25/zhenshhinam-pora-reabilitirovat-mamenkinykh-synkov-i-voskresnykh-pap-inache-rozhat-ne-ot-kogo.html",
+                "description": "Мнение редактора отдела семьи и социальных проблем Дарьи ТЮКОВОЙ о завышенных ожиданиях и стереотипах, которые мешают обрести счастье",
+                "pubDate": "Wed, 25 Nov 2026 08:24:18 +0300"
             },
             {
-                "title": "Трафик Pornhub резко рухнул после выхода GTA VI",
-                "link": "https://www.mk.ru/social/2026/11/25/trafik-pornhub-rezko-rukhnul-posle-vykhoda-gta-vi.html",
-                "description": "Долгожданный релиз Grand Theft Auto VI (GTA VI), судя по статистике, мог изменить привычки американских интернет-пользователей",
-                "pubDate": "Wed, 25 Nov 2026 04:04:37 +0300"
+                "title": "Представитель Никиты Джигурды рассказал о состоянии артиста после инфаркта",
+                "link": "https://www.mk.ru/social/2026/11/25/predstavitel-nikity-dzhigurdy-rasskazal-o-sostoyanii-artista-posle-infarkta.html",
+                "description": "Состояние российского актера и певца Никиты Джигурды, госпитализированного после обширного инфаркта, удалось стабилизировать",
+                "pubDate": "Wed, 25 Nov 2026 08:12:15 +0300"
             },
             {
-                "title": "Актриса из «Великолепного века» попала под арест по делу о наркотиках",
-                "link": "https://www.mk.ru/social/2026/11/25/aktrisa-iz-velikolepnogo-veka-popala-pod-arest-po-delu-o-narkotikakh.html",
-                "description": "Актрису Дениз Чакыр задержали в Турции по делу о наркотиках и проституции",
-                "pubDate": "Wed, 25 Nov 2026 03:56:31 +0300"
+                "title": "Москвичам назвали период, когда ожидаются восьмибалльные пробки",
+                "link": "https://www.mk.ru/social/2026/11/25/moskvicham-nazvali-period-kogda-ozhidayutsya-vosmiballnye-probki.html",
+                "description": "В Москве вечером в среду из-за непогоды ожидаются пробки до 8 баллов",
+                "pubDate": "Wed, 25 Nov 2026 08:11:09 +0300"
             },
             {
-                "title": "Муж известной блогерши погиб, спасая детей из воды",
-                "link": "https://www.mk.ru/incident/2026/11/25/muzh-izvestnoy-blogershi-pogib-spasaya-detey-iz-vody.html",
-                "description": "Долгожданное семейное путешествие в Австралию обернулось трагедией для американской блогерши Таис Роде, известной среди буктьюберов",
-                "pubDate": "Wed, 25 Nov 2026 03:56:01 +0300"
+                "title": "Юлия Барановская объяснила свое отношение к совместным фотографиям с поклонниками",
+                "link": "https://www.mk.ru/social/2026/11/25/yuliya-baranovskaya-obyasnila-svoe-otnoshenie-k-sovmestnym-fotografiyam-s-poklonnikami.html",
+                "description": "Российская телеведущая Юлия Барановская рассказала, как относится к повышенному вниманию поклонников за пределами съемочной площадки",
+                "pubDate": "Wed, 25 Nov 2026 08:10:07 +0300"
             },
             {
-                "title": "Создан препарат, замедляющий развитие болезни Альцгеймера",
-                "link": "https://www.mk.ru/social/2026/11/25/sozdan-preparat-zamedlyayushhiy-razvitie-bolezni-alcgeymera.html",
-                "description": "Экспериментальное лекарственное средство диранерсен продемонстрировало обнадеживающие результаты при лечении пациентов с ранней стадией болезни Альцгеймера",
-                "pubDate": "Wed, 25 Nov 2026 03:37:59 +0300"
+                "title": "Зака Снайдера в ремейке «Побега из Нью-Йорка» может заменить Роберт Родригес",
+                "link": "https://www.mk.ru/social/2026/11/25/zaka-snaydera-v-remeyke-pobega-iz-nyu-yorka-mozhet-zamenit-robert-rodriges.html",
+                "description": "Американский режиссер Зак Снайдер больше не работает над новой версией фантастического боевика «Побег из Нью-Йорка»",
+                "pubDate": "Wed, 25 Nov 2026 08:01:19 +0300"
             },
             {
-                "title": "Синдром отмены GTA VI: подросток устроил погоню с электропилой за матерью, отобравшей у него Xbox",
-                "link": "https://www.mk.ru/incident/2026/11/25/sindrom-otmeny-gta-vi-podrostok-ustroil-pogonyu-s-elektropiloy-za-materyu-otobravshey-u-nego-xbox.html",
-                "description": "В штате Флорида, США, семейный спор из-за игровой приставки обернулся уголовным делом",
-                "pubDate": "Wed, 25 Nov 2026 03:19:10 +0300"
+                "title": "В аэропортах двух городов сняли временные ограничения",
+                "link": "https://www.mk.ru/social/2026/11/25/v-aeroportakh-dvukh-gorodov-snyali-vremennye-ogranicheniya.html",
+                "description": "Росавиация проинформировала о снятии временных ограничений на прием и выпуск воздушных судов в аэропортах Пензы и Ульяновска",
+                "pubDate": "Wed, 25 Nov 2026 07:53:26 +0300"
             },
             {
-                "title": "Названы лучшие продукты для здоровья волос",
-                "link": "https://www.mk.ru/social/2026/11/25/nazvany-luchshie-produkty-dlya-zdorovya-volos.html",
-                "description": "Правильно подобранный рацион способен улучшить состояние волос и снизить риск их выпадения, связанного с дефицитом питательных веществ",
-                "pubDate": "Wed, 25 Nov 2026 02:59:59 +0300"
+                "title": "Режиссер фильма «Один дома» выступил против перезапуска с Маколеем Калкиным",
+                "link": "https://www.mk.ru/social/2026/11/25/rezhisser-filma-odin-doma-vystupil-protiv-perezapuska-s-makoleem-kalkinym.html",
+                "description": "Американский режиссер Крис Коламбус, снявший первые две части рождественской комедии «Один дома», усомнился в возможности полноценного продолжения кинофраншизы после смерти актрисы Кэтрин О’Хары",
+                "pubDate": "Wed, 25 Nov 2026 07:38:44 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:35+00:00"
+        "updated": "2026-11-25T06:05:46+00:00"
     },
     {
         "source": "https://www.mk.ru/rss/sport/index.xml",
         "title": "Все Спорт - Московский Комсомолец",
         "items": [
             {
-                "title": "Шафранову обидно, что «Металлург» пропустил шайбу от минского «Динамо» в меньшинстве",
-                "link": "https://chel.mk.ru/sport/2026/11/25/shafranovu-obidno-chto-metallurg-propustil-shaybu-ot-minskogo-dinamo-v-menshinstve.html",
-                "description": "Главный тренер магнитогорского «Метллурга» прокомментировал мачт с минским «Динамо», в котором «сталевары» одолели соперника со счетом 5:4.",
-                "pubDate": "Wed, 25 Nov 2026 04:28:01 +0500"
+                "title": "В Югре для владимирцев завершились международные соревнования",
+                "link": "https://vladimir.mk.ru/sport/2026/11/25/v-yugre-dlya-vladimircev-zavershilis-mezhdunarodnye-sorevnovaniya.html",
+                "description": "На старты состязаний «Зимние игры паралимпийцев «Мы вместе. Спорт» вышли свыше 240 сильнейших атлетов из девяти стран, включая ветеранов специальной военной операции, получивших тяжёлые ранения в бою.",
+                "pubDate": "Wed, 25 Nov 2026 08:57:31 +0300"
             },
             {
-                "title": "Главный тренер «Лады» рассказал, как челябинцы надломили его команду",
-                "link": "https://chel.mk.ru/sport/2026/11/25/glavnyy-trener-lady-rasskazal-kak-chelyabincy-nadlomili-ego-komandu.html",
-                "description": "Главный тренер тольяттинской «Лады» Игорь Горбенко прокомментировал матч с челябинским «Трактором», в котором они уступили со счетом 2:5.",
-                "pubDate": "Wed, 25 Nov 2026 04:05:46 +0500"
+                "title": "Роналду приблизился к рекорду Пеле в скандальном матче Лиги чемпионов",
+                "link": "https://www.mk.ru/sport/2026/11/25/ronaldu-priblizilsya-k-rekordu-pele-v-skandalnom-matche-ligi-chempionov.html",
+                "description": "«Аль-Наср» обыграл «Аль-Садд» 2:1 в Эр-Рияде в матче азиатской Лиги чемпионов. Голы забили 41-летний Роналду с пенальти и Феликс ударом через себя. У гостей отличился и был удален за плевок Ваад. Для Роналду это 987-й гол в карьере. «Аль-Наср» набрал 9 очков и поднялся на пятое место в таблице Западной зоны. Также «Аль-Кадсия» разгромила «Шабаб Аль-Ахли» 5:1 и вышла на вторую строчку.",
+                "pubDate": "Wed, 25 Nov 2026 08:34:54 +0300"
             },
             {
-                "title": "Гордон прокомментировал разгром «Трактором» «Лады»",
-                "link": "https://chel.mk.ru/sport/2026/11/25/gordon-prokommentiroval-razgrom-traktorom-lady.html",
-                "description": "Главный тренер челябинского «Трактора» Скотт Гордон дал свою оценку матчу с «Ладой», который завершился со счетом 5:2 в пользу «черно-белых».",
-                "pubDate": "Wed, 25 Nov 2026 03:49:46 +0500"
+                "title": "Борец из Запорожской области завоевал золото на турнире в Якутске",
+                "link": "https://www.mk-zap.ru/sport/2026/11/25/borec-iz-zaporozhskoy-oblasti-zavoeval-zoloto-na-turnire-v-yakutske.html",
+                "description": "На соревнования приехали 229 спортсменов из 15 стран и 15 регионов России",
+                "pubDate": "Wed, 25 Nov 2026 08:16:41 +0300"
             },
             {
-                "title": "В Екатеринбурге завершился Чемпионат России по паделу",
-                "link": "https://eburg.mk.ru/sport/2026/11/25/v-ekaterinburge-zavershilsya-chempionat-rossii-po-padelu.html",
-                "description": "Впервые Чемпионат России по паделу прошел не в Москве",
-                "pubDate": "Wed, 25 Nov 2026 03:12:19 +0500"
+                "title": "Вендел назвал победный гол важным этапом возвращения после травмы",
+                "link": "https://spb.mk.ru/sport/2026/11/25/vendel-nazval-pobednyy-gol-vazhnym-etapom-vozvrashheniya-posle-travmy.html",
+                "description": "Полузащитник петербургского «Зенита» Вендел признался, что его единственный результативный удар, принесший команде победу над «Крыльями Советов» (1:0), стал важным этапом в возвращении к оптимальной форме. Об этом рассказали в пресс-службе ФК «Зенит».",
+                "pubDate": "Wed, 25 Nov 2026 08:14:27 +0300"
             },
             {
-                "title": "Первый этап Кубка России по лыжным гонкам пройдет в Хакасии с 26 по 29 ноября",
-                "link": "https://www.mk-hakasia.ru/sport/2026/11/25/pervyy-etap-kubka-rossii-po-lyzhnym-gonkam-proydet-v-khakasii-s-26-po-29-noyabrya.html",
-                "description": "С 26 по 29 ноября в поселке Вершина Теи состоится первый этап Кубка России по лыжным гонкам",
-                "pubDate": "Wed, 25 Nov 2026 04:10:53 +0700"
+                "title": "Самбист из Карачаево-Черкесии победил на молодежном чемпионате Европы",
+                "link": "https://kavkaz.mk.ru/sport/2026/11/25/sambist-iz-karachaevo-cherkesii-pobedil-na-iolodezhnom-chempionate-evropy.html",
+                "description": "Спортсмен из Карачаево-Черкесии Азнаур Папшуов стал победителем чемпионата Европы по самбо среди спортсменов до 24 лет, который прошёл на Кипре",
+                "pubDate": "Wed, 25 Nov 2026 08:11:40 +0300"
             },
             {
-                "title": "ФК «Ростов» проведет зимние сборы в Турции ради экономии бюджета",
-                "link": "https://rostov.mk.ru/sport/2026/11/24/fk-rostov-provedet-zimnie-sbory-v-turcii-radi-ekonomii-byudzheta.html",
-                "description": "Футбольный клуб «Ростов» сменит место проведения зимних тренировочных сборов",
-                "pubDate": "Tue, 24 Nov 2026 23:12:27 +0300"
+                "title": "Наставник экс-чемпионов UFC Джонсона и Сехудо умер на 54-м году жизни",
+                "link": "https://www.mk.ru/sport/2026/11/25/nastavnik-eks-chempionov-ufc-dzhonsona-i-sekhudo-umer-na-54-m-godu-zhizni.html",
+                "description": "Тренер по смешанным единоборствам Эдди Ча умер на 54-м году жизни",
+                "pubDate": "Wed, 25 Nov 2026 08:11:10 +0300"
             },
             {
-                "title": "В Бурятии прошел открытый детский хоккейный турнир",
-                "link": "https://ulan.mk.ru/sport/2026/11/25/v-buryatii-proshel-otkrytyy-detskiy-khokkeynyy-turnir.html",
-                "description": "В посёлке Таксимо Муйского района Бурятии завершился открытый детский хоккейный турнир на Кубок Главы Муйского округа",
-                "pubDate": "Wed, 25 Nov 2026 03:55:45 +0800"
+                "title": "Тренер «Крыльев Советов» Булатов прокомментировал поражение от «Зенита» в Кубке",
+                "link": "https://samara.mk.ru/sport/2026/11/25/trener-krylev-sovetov-bulatov-prokommentiroval-porazhenie-ot-zenita-v-kubke.html",
+                "description": "Главный тренер самарских «Крыльев Советов» Сергей Булатов после матча с петербургским «Зенитом» заявил, что ему больше понравились действия подопечных во втором тайме",
+                "pubDate": "Wed, 25 Nov 2026 08:47:11 +0400"
             },
             {
-                "title": "Забайкалки завоевали золото и бронзу первенства мира по грэпплингу",
-                "link": "https://www.mkchita.ru/sport/2026/11/25/zabaykalki-zavoevali-zoloto-i-bronzu-pervenstva-mira-po-grepplingu.html",
-                "description": "Две спортсменки из Забайкалья завоевали золотую и бронзовую медали на первенстве мира по грэпплингу в Баку",
-                "pubDate": "Wed, 25 Nov 2026 04:38:17 +0900"
+                "title": "«Крылья Советов» проиграли «Зениту» со счетом 0:1 в Кубке в Санкт-Петербурге",
+                "link": "https://samara.mk.ru/sport/2026/11/25/krylya-sovetov-proigrali-zenitu-so-schetom-0-1-v-kubke-v-sankt-peterburge.html",
+                "description": "Самарские «Крылья Советов» проиграли «Зениту» в Санкт-Петербурге вечером 24 ноября со счетом 0:1 в последнем матче группового этапа Кубка России. При этом у волжан отменили гол в концовке встречи",
+                "pubDate": "Wed, 25 Nov 2026 08:31:11 +0400"
             },
             {
-                "title": "В Орле прошли соревнования по танцевальному спорту",
-                "link": "https://www.mk-orel.ru/sport/2026/11/24/v-orle-proshli-sorevnovaniya-po-tancevalnomu-sportu.html",
-                "description": "В Орле состоялись Кубок Орловской области и региональные соревнования по танцевальному спорту",
-                "pubDate": "Tue, 24 Nov 2026 22:30:44 +0300"
+                "title": "Футзальный сезон в Орле начнётся в эти выходные",
+                "link": "https://www.mk-orel.ru/sport/2026/11/25/futzalnyy-sezon-v-orle-nachnyotsya-v-eti-vykhodnye.html",
+                "description": "Футзальный сезон в Орле начнётся в эти выходные",
+                "pubDate": "Wed, 25 Nov 2026 07:30:16 +0300"
             },
             {
-                "title": "Воронежский «Буран» дома разгромил столичную «Звезду» в матче ВХЛ",
-                "link": "https://vrn.mk.ru/sport/2026/11/24/voronezhskiy-buran-doma-razgromil-stolichnuyu-zvezdu-v-matche-vkhl.html",
-                "description": "Счёт открыл Кирилл Максимов на 5-й минуте",
-                "pubDate": "Tue, 24 Nov 2026 22:17:23 +0300"
+                "title": "Илья Гладкий из Череповца взял две бронзы на чемпионате Европы по танцам на колясках",
+                "link": "https://vologda.mk.ru/sport/2026/11/25/ilya-gladkiy-iz-cherepovca-vzyal-dve-bronzy-na-chempionate-evropy-po-tancam-na-kolyaskakh.html",
+                "description": "В Италии состоялся чемпионат Европы по танцам на колясках",
+                "pubDate": "Wed, 25 Nov 2026 07:23:16 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:36+00:00"
+        "updated": "2026-11-25T06:05:47+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/football/se/",
         "title": "Спорт-Экспресс. Футбол",
         "items": [
             {
-                "title": "Моуринью: «Для меня Беллингем, без сомнения, лучший полузащитник мира»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/zhoze-mourinyu-kommentariy-po-igre-dzhuda-bellingema-za-real-2478615/",
-                "description": "Главный тренер «Реала» Жозе Моуринью после победы над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов похвалил полузащитника Джуда Беллингема.",
-                "pubDate": "Wed, 25 Nov 2026 04:55:00 +0300"
+                "title": "Тренер «Галатасарая» назвал Батракова топ-футболистом: «Его игра — не сюрприз»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/okan-buruk-kommentariy-po-igre-poluzaschitnika-alekseya-batrakova-v-matche-s-aston-villoy-2478611/",
+                "description": "Главный тренер «Галатасарая» Окан Бурук ответил на вопрос «СЭ» об игре российского полузащитника Алексея Батракова в матче 5-го тура общего этапа Лиги чемпионов против «Астон Виллы» (1:0).",
+                "pubDate": "Wed, 25 Nov 2026 09:00:02 +0300"
             },
             {
-                "title": "Джоб Беллингем: «В Лиге чемпионов «Боруссия» стремится пройти как можно дальше — у клуба богатая история»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/dzhob-bellingem-kommentariy-po-nichey-arsenala-i-borussii-v-lige-chempionov-2478614/",
-                "description": "Полузащитник «Боруссии» Джоб Беллингем считает ничью в матче 5-го тура общего этапа Лиги чемпионов против «Арсенала» (1:1) справедливым результатом.",
-                "pubDate": "Wed, 25 Nov 2026 04:28:00 +0300"
+                "title": "Энрике назвал Гасперини тренером высокого класса перед матчем «ПСЖ» с «Ромой»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/enrike-nazval-gasperini-trenerom-vysokogo-klassa-pered-matchem-pszh-s-romoy-2478638/",
+                "description": "Главный тренер «ПСЖ» Луис Энрике поделился мнением о работе главного тренера «Ромы» Джан Пьеро Гасперини перед матчем 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 08:35:00 +0300"
             },
             {
-                "title": "Мареска: «Сити» мало что позволил «Наполи», но мы пропустил два мяча»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/enco-mareska-kommentariy-po-nichey-manchester-siti-i-napoli-v-lige-chempionov-2478613/",
-                "description": "Главный тренер «Манчестер Сити» Энцо Мареска прокомментировал ничью с «Наполи» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 04:16:00 +0300"
+                "title": "«Атлетико» — «Викинг»: прогноз на матч Лиги чемпионов",
+                "link": "https://www.sport-express.ru/stavki-na-sport/prognozy/news/atletiko-viking-prognoz-na-match-ligi-chempionov-25-noyabrya-2026-goda-2478550/",
+                "description": "25 ноября мадридский «Атлетико» примет норвежский «Викинг» в пятом туре общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 08:30:00 +0300"
             },
             {
-                "title": "Моуринью: «В первом тайме ПСВ доминировал над «Реалом»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/zhoze-mourinyu-kommentariy-po-pobede-reala-nad-psv-v-lige-chempionov-2478609/",
-                "description": "Главный тренер «Реала» Жозе Моуринью прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:51:00 +0300"
+                "title": "Де Йонг: «Каждый раз у меня есть ощущение, что «Барселона» должна выиграть ЛЧ»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/frenki-de-yong-kommentariy-po-matchu-barselony-protiv-sabaha-v-lige-chempionov-2478635/",
+                "description": "Полузащитник «Барселоны» Френки де Йонг перед матчем 5-го тура общего этапа Лиги чемпионов против «Сабаха» отметил, что каталонцы должны стремиться к победе в турнире.",
+                "pubDate": "Wed, 25 Nov 2026 07:58:00 +0300"
             },
             {
-                "title": "Бос: «ПСВ мог добиться лучшего результата в матче с «Реалом» с учетом того, как мы сыграли в первом тайме»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/peter-bos-kommentariy-po-porazheniyu-psv-ot-reala-v-lige-chempionov-2478608/",
-                "description": "Главный тренер ПСВ Петер Бос прокомментировал поражение от «Реала» (1:5) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:42:00 +0300"
+                "title": "Флик: «У «Сабаха» философия испанской команды»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/hans-diter-flik-kommentariy-po-matchu-barselony-protiv-sabaha-v-lige-chempionov-2478632/",
+                "description": "Главный тренер «Барселоны» Ханс-Дитер Флик перед матчем 5-го тура общего этапа Лиги чемпионов против «Сабаха» отметил, что азербайджанская команда показывает смелый футбол.",
+                "pubDate": "Wed, 25 Nov 2026 07:52:00 +0300"
             },
             {
-                "title": "Дест: «Реал» — это команда, которая может очень быстро изменить ход матча»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/serzhino-dest-kommentariy-po-pobede-reala-nad-psv-v-matche-ligi-chempionov-2478607/",
-                "description": "Защитник ПСВ Сержиньо Дест прокомментировал поражение от «Реала» (1:5) в матче Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:27:00 +0300"
+                "title": "Беллингем: «Зидан был намного лучше меня. Он — легенда»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/dzhud-bellingem-kommentariy-sravneniyam-s-zinedinom-zidanom-v-reale-2478630/",
+                "description": "Полузащитник «Реала» Джуд Беллингем после победы над ПСВ (5:1) в 5-м туре Лиги чемпионов рассказал, как он относится к сравнениям с Зинедином Зиданом.",
+                "pubDate": "Wed, 25 Nov 2026 07:38:00 +0300"
             },
             {
-                "title": "Мбаппе отдал приз лучшему игроку матча Винисиусу",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mbappe-otdal-priz-luchshemu-igroku-matcha-vinisiusu-2478606/",
-                "description": "Нападающий «Реала» Килиан Мбаппе в игре 5-го тура общего этапа Лиги чемпионов с ПСВ (5:1) оформил дубль и отдал одну голевую передачу, за что был признан лучшим игроком матча.",
-                "pubDate": "Wed, 25 Nov 2026 03:21:00 +0300"
+                "title": "Николич — о поражении от «Комо»: «АЕК играл против одной из лучших команд Европы»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/marko-nikolich-kommentariy-po-porazheniyu-aek-ot-komo-v-lige-chempionov-2478628/",
+                "description": "Главный тренер АЕКа Марко Николич прокомментировал поражение от «Комо» (0:1) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 07:27:00 +0300"
             },
             {
-                "title": "Куртуа объяснил, за счет чего «Реал» обыграл ПСВ",
-                "link": "https://www.sport-express.ru/football/champions-league/news/kurtua-obyasnil-za-schet-chego-real-obygral-psv-2478605/",
-                "description": "Вратарь «Реала» Тибо Куртуа прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:06:00 +0300"
+                "title": "Фабрегас: «АЕК устроил «Комо» хорошую проверку»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/sesk-fabregas-kommentariy-po-pobede-komo-nad-aek-v-lige-chempionov-2478627/",
+                "description": "Главный тренер «Комо» Сеск Фабрегас прокомментировал победу над АЕКом (1:0) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 06:31:00 +0300"
             },
             {
-                "title": "Беллингем: «У «Реала» много классных футболистов, которые умеют делать чудеса на поле»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/dzhud-bellingem-kommentariy-po-pobede-reala-nad-psv-v-lige-chempionov-2478604/",
-                "description": "Полузащитник «Реала» Джуд Беллингем прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 02:59:00 +0300"
+                "title": "Холанн: «Сити» пытался дожать «Наполи», но не получилось»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/erling-holann-kommentariy-po-nichey-manchester-siti-s-napoli-v-lige-chempionov-2478622/",
+                "description": "Нападающий «Манчестер Сити» Эрлинг Холанн прокомментировал ничью с «Наполи» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 06:09:00 +0300"
             },
             {
-                "title": "Дьекереш: «Арсенал» создал много моментов и должен был побеждать»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/viktor-dekeresh-kommentariy-po-nichey-arsenala-i-borussii-v-matche-ligi-chempionov-2478603/",
-                "description": "Нападающий «Арсенала» Виктор Дьекереш прокомментировал ничью с дортмундской «Боруссией» (1:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 02:54:00 +0300"
+                "title": "Хейлунн: «Приятно было забить в Манчестере»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/rasmus-heylunn-kommentariy-po-nichey-manchester-siti-i-napoli-v-lige-chempionov-2478621/",
+                "description": "Нападающий «Наполи» Расмус Хейлунн прокомментировал ничью с «Манчестер Сити» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 05:57:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:38+00:00"
+        "updated": "2026-11-25T06:05:49+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/formula1/se/",
@@ -1983,12 +1983,48 @@
                 "pubDate": "Mon, 23 Nov 2026 11:14:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:40+00:00"
+        "updated": "2026-11-25T06:05:50+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/hockey/se/",
         "title": "Спорт-Экспресс. Хоккей",
         "items": [
+            {
+                "title": "Нападающий «Сент-Луиса» Бучневич получил травму верхней части тела",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-sent-luisa-buchnevich-poluchil-travmu-verhney-chasti-tela-2478636/",
+                "description": "Российский нападающий «Сент-Луиса» Павел Бучневич получил повреждение верхней части тела, сообщает пресс-служба клуба НХЛ.",
+                "pubDate": "Wed, 25 Nov 2026 08:13:00 +0300"
+            },
+            {
+                "title": "Лучшие снайперы НХЛ на 25 ноября: Капризов идет третьим, Подколзин поднялся в топ-10",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/luchshie-snaypery-nhl-25-noyabrya-2026-top-10-regulyarnogo-chempionata-lidery-po-golam-drayzaytl-gote-kaprizov-podkolzin-2478631/",
+                "description": "Нападающий «Эдмонтона» Леон Драйзайтль продолжает лидировать в гонке лучших снайперов регулярного чемпионата НХЛ сезона-2026/27.",
+                "pubDate": "Wed, 25 Nov 2026 07:49:00 +0300"
+            },
+            {
+                "title": "Лучшие бомбардиры НХЛ на 25 ноября: Макдэвид укрепил лидерство, Капризов — второй",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/luchshie-bombardiry-nhl-25-noyabrya-2026-top-10-regulyarnogo-chempionata-lidery-po-ochkam-makdevid-kaprizov-drayzaytl-2478629/",
+                "description": "Нападающий «Эдмонтона» Коннор Макдэвид продолжает лидировать в гонке бомбардиров регулярного чемпионата НХЛ сезона-2026/27.",
+                "pubDate": "Wed, 25 Nov 2026 07:39:00 +0300"
+            },
+            {
+                "title": "«Эдмонтон» — «Вегас»: видеообзор матча НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/edmonton-vegas-videoobzor-matcha-nhl-i-luchshie-momenty-igry-25-noyabrya-2026-goda-2478626/",
+                "description": "«Вегас» на выезде обыграл «Эдмонтон» в матче регулярного чемпионата НХЛ — 5:4.",
+                "pubDate": "Wed, 25 Nov 2026 07:19:00 +0300"
+            },
+            {
+                "title": "«Эдмонтон» проиграл «Вегасу», Подколзин забросил одну шайбу",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/edmonton-vegas-schet-3-5-rezultat-matcha-regulyarnogo-chempionata-nhl-25-noyabrya-2026-goda-2478624/",
+                "description": "«Эдмонтон» потерпел поражение от «Вегаса» в матче регулярного чемпионата НХЛ — 3:5.",
+                "pubDate": "Wed, 25 Nov 2026 06:42:00 +0300"
+            },
+            {
+                "title": "Подколзин забросил 14-ю шайбу в сезоне НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/edmonton-vegas-vasiliy-podkolzin-zabrosil-14-yu-shaybu-v-sezone-nhl-2478623/",
+                "description": "«Эдмонтон» сократил отставание в матче регулярного чемпионата НХЛ против «Вегаса».",
+                "pubDate": "Wed, 25 Nov 2026 06:19:00 +0300"
+            },
             {
                 "title": "Форвард «Монреаля» Демидов близок к возвращению после травмы",
                 "link": "https://www.sport-express.ru/hockey/nhl/news/forvard-monrealya-demidov-blizok-k-vozvrascheniyu-posle-travmy-2478554/",
@@ -2012,117 +2048,93 @@
                 "link": "https://www.sport-express.ru/hockey/khl/news/kudashov-o-povedenii-fanatov-dinamo-chuvstvuyu-podderzhku-i-blagodaryu-2478535/",
                 "description": "Алексей Кудашов после против московского «Динамо» (2:4) поделился эмоциями от аплодисментов фанатов столичной команды в его адрес.",
                 "pubDate": "Tue, 24 Nov 2026 22:56:00 +0300"
-            },
-            {
-                "title": "Малкин вернулся к тренировкам «Питтсбурга» после пропуска двух матчей",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/malkin-vernulsya-k-trenirovkam-pittsburga-posle-propuska-dvuh-matchey-2478525/",
-                "description": "Российский нападающий «Питтсбурга» Евгений Малкин возобновил тренировки с командой после повреждения верхней части тела.",
-                "pubDate": "Tue, 24 Nov 2026 22:26:00 +0300"
-            },
-            {
-                "title": "Белозеров первым в истории «Нефтехимика» набрал 200 очков в КХЛ",
-                "link": "https://www.sport-express.ru/hockey/khl/news/napadayuschiy-andrey-belozerov-pervym-v-istorii-neftehimika-nabral-200-ochkov-v-khl-i-provel-300-match-v-lige-2478556/",
-                "description": "Капитан нижнекамцев преодолел эту отметку в своем 300-м матче в лиге. Евгений Митякин в той же игре сделал 100-ю результативную передачу.",
-                "pubDate": "Tue, 24 Nov 2026 22:24:00 +0300"
-            },
-            {
-                "title": "Морозов сделал четыре результативные передачи в дебютном матче за «Металлург»",
-                "link": "https://www.sport-express.ru/hockey/khl/news/napadayuschiy-ivan-morozov-sdelal-chetyre-rezultativnye-peredachi-v-debyutnom-matche-za-metallurg-v-khl-24-noyabrya-2026-2478566/",
-                "description": "Нападающий «Металлурга» Иван Морозов набрал 4 (0+4) очка в дебютном матче за магнитогорскую команду.",
-                "pubDate": "Tue, 24 Nov 2026 22:21:00 +0300"
-            },
-            {
-                "title": "КХЛ, расписание и результаты 24 ноября: «Динамо» М обыграло «Автомобилист», «Металлург» победил «Динамо» Мн. Все матчи",
-                "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-24-noyabrya-2026-admiral-ak-bars-metallurg-dinamo-mn-dinamo-m-avtomobilist-2478301/",
-                "description": "Матчи ФОНБЕТ чемпионата КХЛ.",
-                "pubDate": "Tue, 24 Nov 2026 21:52:00 +0300"
-            },
-            {
-                "title": "Московское «Динамо» обыграло «Автомобилист» и одержало пятую победу подряд",
-                "link": "https://www.sport-express.ru/hockey/khl/news/dinamo-m-avtomobilist-schet-i-rezultat-matcha-khl-24-noyabrya-2026-2478516/",
-                "description": "Московское «Динамо» победило «Автомобилист» в домашнем матче FONBET Чемпионата КХЛ — 4:2.",
-                "pubDate": "Tue, 24 Nov 2026 21:47:00 +0300"
-            },
-            {
-                "title": "Токкет сравнил Макдэвида с Гретцки: «Он просто доминирует в лиге»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/trener-rik-tokket-sravnil-konnora-makdevida-s-ueynom-gretcki-i-vliyanie-na-igru-v-nhl-on-prosto-dominiruet-v-lige-2478483/",
-                "description": "Главный тренер «Филадельфии» считает, что капитан «Эдмонтона» уже стал одним из главных послов современного хоккея.",
-                "pubDate": "Tue, 24 Nov 2026 20:59:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:41+00:00"
+        "updated": "2026-11-25T06:05:52+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/se/",
         "title": "Спорт-Экспресс. Все новости",
         "items": [
             {
-                "title": "Моуринью: «Для меня Беллингем, без сомнения, лучший полузащитник мира»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/zhoze-mourinyu-kommentariy-po-igre-dzhuda-bellingema-za-real-2478615/",
-                "description": "Главный тренер «Реала» Жозе Моуринью после победы над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов похвалил полузащитника Джуда Беллингема.",
-                "pubDate": "Wed, 25 Nov 2026 04:55:00 +0300"
+                "title": "Тренер «Галатасарая» назвал Батракова топ-футболистом: «Его игра — не сюрприз»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/okan-buruk-kommentariy-po-igre-poluzaschitnika-alekseya-batrakova-v-matche-s-aston-villoy-2478611/",
+                "description": "Главный тренер «Галатасарая» Окан Бурук ответил на вопрос «СЭ» об игре российского полузащитника Алексея Батракова в матче 5-го тура общего этапа Лиги чемпионов против «Астон Виллы» (1:0).",
+                "pubDate": "Wed, 25 Nov 2026 09:00:02 +0300"
             },
             {
-                "title": "Джоб Беллингем: «В Лиге чемпионов «Боруссия» стремится пройти как можно дальше — у клуба богатая история»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/dzhob-bellingem-kommentariy-po-nichey-arsenala-i-borussii-v-lige-chempionov-2478614/",
-                "description": "Полузащитник «Боруссии» Джоб Беллингем считает ничью в матче 5-го тура общего этапа Лиги чемпионов против «Арсенала» (1:1) справедливым результатом.",
-                "pubDate": "Wed, 25 Nov 2026 04:28:00 +0300"
+                "title": "Российские конькобежцы планируют выступить на этапе Кубка мира в США",
+                "link": "https://www.sport-express.ru/speed-skating/news/rossiyskie-konkobezhcy-planiruyut-vystupit-na-etape-kubka-mira-v-ssha-2478641/",
+                "description": "Российские конькобежцы планируют принять участие в этапе Кубка мира в американском Солт-Лейк-Сити, сообщает президент Союза конькобежцев России Николай Гуляев.",
+                "pubDate": "Wed, 25 Nov 2026 08:52:00 +0300"
             },
             {
-                "title": "Мареска: «Сити» мало что позволил «Наполи», но мы пропустил два мяча»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/enco-mareska-kommentariy-po-nichey-manchester-siti-i-napoli-v-lige-chempionov-2478613/",
-                "description": "Главный тренер «Манчестер Сити» Энцо Мареска прокомментировал ничью с «Наполи» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 04:16:00 +0300"
+                "title": "«Даллас» в гостях обыграл «Денвер», Флэгг и Йокич оформили дабл-дабл",
+                "link": "https://www.sport-express.ru/basketball/nba/news/denver-dallas-101-120-schet-i-rezultat-matcha-nba-25-noyabrya-2026-2478640/",
+                "description": "«Даллас» на выезде обыграл «Денвер» в матче регулярного чемпионата НБА — 120:101.",
+                "pubDate": "Wed, 25 Nov 2026 08:45:00 +0300"
             },
             {
-                "title": "Риндеркнеху грозит четырехлетняя дисквалификация",
-                "link": "https://www.sport-express.ru/tennis/atp/news/rinderknehu-grozit-chetyrehletnyaya-diskvalifikaciya-2478610/",
-                "description": "Французскому теннисисту Артуру Риндеркнеху грозит четырехлетняя дисквалификация за отказ пройти допинг-контроль в начале июня в Бретани, сообщает L'Equipe.",
-                "pubDate": "Wed, 25 Nov 2026 04:03:00 +0300"
+                "title": "Энрике назвал Гасперини тренером высокого класса перед матчем «ПСЖ» с «Ромой»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/enrike-nazval-gasperini-trenerom-vysokogo-klassa-pered-matchem-pszh-s-romoy-2478638/",
+                "description": "Главный тренер «ПСЖ» Луис Энрике поделился мнением о работе главного тренера «Ромы» Джан Пьеро Гасперини перед матчем 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 08:35:00 +0300"
             },
             {
-                "title": "Моуринью: «В первом тайме ПСВ доминировал над «Реалом»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/zhoze-mourinyu-kommentariy-po-pobede-reala-nad-psv-v-lige-chempionov-2478609/",
-                "description": "Главный тренер «Реала» Жозе Моуринью прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:51:00 +0300"
+                "title": "«Атлетико» — «Викинг»: прогноз на матч Лиги чемпионов",
+                "link": "https://www.sport-express.ru/stavki-na-sport/prognozy/news/atletiko-viking-prognoz-na-match-ligi-chempionov-25-noyabrya-2026-goda-2478550/",
+                "description": "25 ноября мадридский «Атлетико» примет норвежский «Викинг» в пятом туре общего этапа Лиги чемпионов.",
+                "pubDate": "Wed, 25 Nov 2026 08:30:00 +0300"
             },
             {
-                "title": "Бос: «ПСВ мог добиться лучшего результата в матче с «Реалом» с учетом того, как мы сыграли в первом тайме»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/peter-bos-kommentariy-po-porazheniyu-psv-ot-reala-v-lige-chempionov-2478608/",
-                "description": "Главный тренер ПСВ Петер Бос прокомментировал поражение от «Реала» (1:5) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:42:00 +0300"
+                "title": "Алькарас может пропустить четвертьфинал Кубка Дэвиса из-за проблем с бедром",
+                "link": "https://www.sport-express.ru/tennis/davis-cup/news/alkaras-mozhet-propustit-chetvertfinal-kubka-devisa-iz-za-problem-s-bedrom-2478637/",
+                "description": "Испанский теннисист Карлос Алькарас может пропустить четвертьфинальный матч Кубка Дэвиса против сборной Австрии, сообщает Punto de Break.",
+                "pubDate": "Wed, 25 Nov 2026 08:22:00 +0300"
             },
             {
-                "title": "Дест: «Реал» — это команда, которая может очень быстро изменить ход матча»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/serzhino-dest-kommentariy-po-pobede-reala-nad-psv-v-matche-ligi-chempionov-2478607/",
-                "description": "Защитник ПСВ Сержиньо Дест прокомментировал поражение от «Реала» (1:5) в матче Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:27:00 +0300"
+                "title": "Нападающий «Сент-Луиса» Бучневич получил травму верхней части тела",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-sent-luisa-buchnevich-poluchil-travmu-verhney-chasti-tela-2478636/",
+                "description": "Российский нападающий «Сент-Луиса» Павел Бучневич получил повреждение верхней части тела, сообщает пресс-служба клуба НХЛ.",
+                "pubDate": "Wed, 25 Nov 2026 08:13:00 +0300"
             },
             {
-                "title": "Мбаппе отдал приз лучшему игроку матча Винисиусу",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mbappe-otdal-priz-luchshemu-igroku-matcha-vinisiusu-2478606/",
-                "description": "Нападающий «Реала» Килиан Мбаппе в игре 5-го тура общего этапа Лиги чемпионов с ПСВ (5:1) оформил дубль и отдал одну голевую передачу, за что был признан лучшим игроком матча.",
-                "pubDate": "Wed, 25 Nov 2026 03:21:00 +0300"
+                "title": "Российские гимнасты будут готовиться к участию в Европейских играх 2027 года",
+                "link": "https://www.sport-express.ru/artistic-gymnastics/news/rossiyskie-gimnasty-budut-gotovitsya-k-uchastiyu-v-evropeyskih-igrah-2027-goda-2478634/",
+                "description": "Сборная России по спортивной гимнастике будет готовиться к участию в Европейских играх 2027 года в Стамбул, сообщает главный тренер национальной команды Дмитрий Андреев.",
+                "pubDate": "Wed, 25 Nov 2026 07:59:00 +0300"
             },
             {
-                "title": "Куртуа объяснил, за счет чего «Реал» обыграл ПСВ",
-                "link": "https://www.sport-express.ru/football/champions-league/news/kurtua-obyasnil-za-schet-chego-real-obygral-psv-2478605/",
-                "description": "Вратарь «Реала» Тибо Куртуа прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 03:06:00 +0300"
+                "title": "Де Йонг: «Каждый раз у меня есть ощущение, что «Барселона» должна выиграть ЛЧ»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/frenki-de-yong-kommentariy-po-matchu-barselony-protiv-sabaha-v-lige-chempionov-2478635/",
+                "description": "Полузащитник «Барселоны» Френки де Йонг перед матчем 5-го тура общего этапа Лиги чемпионов против «Сабаха» отметил, что каталонцы должны стремиться к победе в турнире.",
+                "pubDate": "Wed, 25 Nov 2026 07:58:00 +0300"
             },
             {
-                "title": "Беллингем: «У «Реала» много классных футболистов, которые умеют делать чудеса на поле»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/dzhud-bellingem-kommentariy-po-pobede-reala-nad-psv-v-lige-chempionov-2478604/",
-                "description": "Полузащитник «Реала» Джуд Беллингем прокомментировал победу над ПСВ (5:1) в матче 5-го тура общего этапа Лиги чемпионов.",
-                "pubDate": "Wed, 25 Nov 2026 02:59:00 +0300"
+                "title": "Умер бывший тренер чемпионов UFC Джонса и Сехудо Эдди Ча",
+                "link": "https://www.sport-express.ru/martial/mma/ufc/news/umer-byvshiy-trener-chempionov-ufc-dzhonsa-i-sehudo-eddi-cha-2478633/",
+                "description": "Тренер по смешанным единоборствам Эдди Ча скончался в возрасте 53 лет, сообщает пресс-служба спортивного агентства Iridium.",
+                "pubDate": "Wed, 25 Nov 2026 07:55:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:42+00:00"
+        "updated": "2026-11-25T06:05:53+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/press/yandex-zen_zozh/",
         "title": "Спорт-Экспресс - ПУБЛИКАЦИИ",
         "items": [
+            {
+                "title": "«Задача трех тел» возвращается: чего ждать от 2-го сезона хита Netflix",
+                "link": "https://www.sport-express.ru/zozh/movies/serials/reviews/zadacha-treh-tel-2-sezon-syuzhet-i-aktery-treyler-i-data-vyhoda-seriy-gde-smotret-2478457/",
+                "description": "Научно-фантастический блокбастер от создателей «Игры престолов» возвращается на экраны после почти трехлетнего перерыва.",
+                "pubDate": "Wed, 25 Nov 2026 09:00:01 +0300"
+            },
+            {
+                "title": "10 самых необычных триатлонов мира: от ледяной Антарктиды до горных вершин Гималаев",
+                "link": "https://www.sport-express.ru/trops/calendar/reviews/10-neobychnyh-triatlonov-mira-gonki-v-antarktide-arktike-gimalayah-norvegii-i-drugih-mestah-2478089/",
+                "description": "Плавание среди льдов, горные марафоны и 515 километров за три дня. Где проходят самые необычные гонки?",
+                "pubDate": "Wed, 25 Nov 2026 06:00:00 +0300"
+            },
             {
                 "title": "Убийства, тайны и гениальные сыщики: 8 лучших аниме-детективов",
                 "link": "https://www.sport-express.ru/zozh/movies/cartoons/reviews/luchshie-anime-detektivy-8-serialov-pro-rassledovaniya-ubiystva-i-zagadki-2478451/",
@@ -2170,20 +2182,8 @@
                 "link": "https://www.sport-express.ru/trops/training/news/sportivnyy-psiholog-obyasnila-pochemu-na-trenirovke-vse-poluchaetsya-a-na-sorevnovaniyah-net-2477764/",
                 "description": "Попытка идеально выполнить каждое движение может неожиданно привести к ошибкам.",
                 "pubDate": "Mon, 23 Nov 2026 20:00:00 +0300"
-            },
-            {
-                "title": "Зачем бегунам силовые тренировки: как стать сильнее и не потерять скорость",
-                "link": "https://www.sport-express.ru/trops/training/reviews/silovye-trenirovki-dlya-begunov-zachem-nuzhny-kak-sovmeschat-s-begom-i-kakie-uprazhneniya-delat-2476268/",
-                "description": "Бегаете десятки километров, а в зал не заходите? Разбираемся, как силовые тренировки помогают улучшать результаты.",
-                "pubDate": "Mon, 23 Nov 2026 19:00:00 +0300"
-            },
-            {
-                "title": "На Шпицбергене проведут триатлон на 78 км — IRONSTAR Арктика",
-                "link": "https://www.sport-express.ru/trops/calendar/news/na-shpicbergene-provedut-triatlon-na-78-km-ironstar-arktika-2477931/",
-                "description": "На необычную гонку за Полярным кругом допустят всего 50 подготовленных спортсменов.",
-                "pubDate": "Mon, 23 Nov 2026 18:15:00 +0300"
             }
         ],
-        "updated": "2026-11-25T02:13:44+00:00"
+        "updated": "2026-11-25T06:05:55+00:00"
     }
 ]
