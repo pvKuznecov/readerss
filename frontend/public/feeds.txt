@@ -18,7 +18,6 @@ https://www.goha.ru/rss/mobile-games
 https://www.goha.ru/rss/movies-tvshows
 https://www.goha.ru/rss/news
 https://www.goha.ru/rss/videogames
-https://www.igromania.ru/rss/news-hard.rss
 https://www.igromania.ru/rss/news.rss
 https://www.mk.ru/rss/culture/index.xml
 https://www.mk.ru/rss/economics/index.xml

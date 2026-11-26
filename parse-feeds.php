@@ -9,8 +9,8 @@ $urls = [];
 foreach (file($feedsFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) as $line) {
     $line = trim($line);
     if ($line === '' || $line[0] === '#') {
-    continue;
-}
+        continue;
+    }
     $urls[] = $line;
 }
 
@@ -62,9 +62,13 @@ foreach ($urls as $url) {
     ];
 }
 
+if ($result === []) {
+    fwrite(STDERR, "FAIL: no feeds\n");
+    exit(1);
+}
+
 file_put_contents(
     $outFile,
     json_encode($result, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
 );
-
 echo "Done: " . count($result) . " feeds\n";
