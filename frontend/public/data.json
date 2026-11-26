@@ -64,7 +64,7 @@
                 "pubDate": "Thu, 18 Dec 2025 07:51:33 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:10+00:00"
+        "updated": "2026-11-26T03:37:37+00:00"
     },
     {
         "source": "https://cubiq.ru/news/feed/",
@@ -131,7 +131,7 @@
                 "pubDate": "Fri, 20 Nov 2026 10:56:45 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:11+00:00"
+        "updated": "2026-11-26T03:37:38+00:00"
     },
     {
         "source": "https://cubiq.ru/obzory/feed/",
@@ -198,7 +198,7 @@
                 "pubDate": "Thu, 05 Nov 2026 14:08:55 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:13+00:00"
+        "updated": "2026-11-26T03:37:39+00:00"
     },
     {
         "source": "https://github.blog/feed/",
@@ -265,79 +265,109 @@
                 "pubDate": "Fri, 06 Nov 2026 22:15:59 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:13+00:00"
+        "updated": "2026-11-26T03:37:39+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news",
         "title": "Lenta.ru : Новости",
         "items": [
             {
-                "title": "Генсек НАТО сделал заявление о России",
-                "link": "https://lenta.ru/news/2026/11/26/gensek-nato-sdelal-zayavlenie-o-rossii/",
+                "title": "Способность ЕС финансировать Украину оценили",
+                "link": "https://lenta.ru/news/2026/11/26/sposobnost-es-finansirovat-ukrainu-otsenili/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:17:59 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:29:19 +0300"
             },
             {
-                "title": "«Рубин» выбил «Родину» из Кубка России по пенальти",
-                "link": "https://lenta.ru/news/2026/11/26/rubin-vybil-rodinu-iz-kubka-rossii-po-penalti/",
+                "title": "Овечкин обновил антирекорд по количеству матчей без голов подряд",
+                "link": "https://lenta.ru/news/2026/11/26/ovechkin-obnovil-antirekord-po-kolichestvu-matchey-bez-golov-podryad/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:17:00 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:21:55 +0300"
             },
             {
-                "title": "Умер гитарист культовой британской рок-группы",
-                "link": "https://lenta.ru/news/2026/11/26/umer-gitarist-kultovoy-britanskoy-rok-gruppy/",
+                "title": "Захарова высказалась о приоритетах Евросоюза",
+                "link": "https://lenta.ru/news/2026/11/26/zaharova-vyskazalas-o-prioritetah-evrosoyuza/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:14:45 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:18:00 +0300"
             },
             {
-                "title": "«Барселона» разгромила «Сабах» в Лиге чемпионов",
-                "link": "https://lenta.ru/news/2026/11/26/barselona-razgromila-sabah-v-lige-chempionov/",
+                "title": "Эксперт заявил о непригодности французской бронетехники для боев на Украине",
+                "link": "https://lenta.ru/news/2026/11/26/ekspert-zayavil-o-neprigodnosti-frantsuzskoy-bronetehniki-dlya-boev-na-ukraine/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:14:11 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:09:12 +0300"
             },
             {
-                "title": "В МИД призвали западные страны уделять больше внимания истории\u2028",
-                "link": "https://lenta.ru/news/2026/11/26/ulyanov-prizval-zapadnyh-kolleg-udelyat-bolshe-vnimaniya-istorii/",
+                "title": "Неизвестные бандиты расправились с 26-летним футболистом-чемпионом",
+                "link": "https://lenta.ru/news/2026/11/26/neizvestnye-bandity-raspravilis-s-26-letnim-futbolistom-chempionom/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:07:00 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:00:55 +0300"
             },
             {
-                "title": "В МИД предупредили Запад о последствиях создания дипфейков с Лавровым и Захаровой",
-                "link": "https://lenta.ru/news/2026/11/26/v-mid-predupredili-zapad-o-posledstviyah-sozdaniya-dipfeykov-s-lavrovym-i-zaharovoy/",
+                "title": "Участника реалити-шоу стошнило от смузи с измельченными свиными тестикулами",
+                "link": "https://lenta.ru/news/2026/11/26/fuuu/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:04:31 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:00:53 +0300"
             },
             {
-                "title": "В Германии высмеяли Мерца за его попытки казаться императором Европы",
-                "link": "https://lenta.ru/news/2026/11/26/v-germanii-vysmeyali-mertsa-za-ego-popytki-kazatsya-imperatorom-evropy/",
+                "title": "В Совфеде рассказали об увеличении выплат для части пенсионеров",
+                "link": "https://lenta.ru/news/2026/11/26/v-sovfede-rasskazali-ob-uvelichenii-vyplat-dlya-chasti-pensionerov/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:03:41 +0300"
+                "pubDate": "Thu, 26 Nov 2026 06:00:50 +0300"
             },
             {
-                "title": "Часть россиян призвали сократить потребление кофе",
-                "link": "https://lenta.ru/news/2026/11/26/chast-rossiyan-prizvali-sokratit-potreblenie-kofe/",
+                "title": "Армия США развернула первую батарею гиперзвукового оружия большой дальности",
+                "link": "https://lenta.ru/news/2026/11/26/armiya-ssha-razvernula-pervuyu-batareyu-giperzvukovogo-oruzhiya-bolshoy-dalnosti/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 01:02:02 +0300"
+                "pubDate": "Thu, 26 Nov 2026 05:57:00 +0300"
             },
             {
-                "title": "Кушнер связал начало конфликта на Украине с действиями Байдена",
-                "link": "https://lenta.ru/news/2026/11/26/kushner-svyazal-nachalo-konflikta-na-ukraine-s-deystviyami-baydena/",
+                "title": "Украинский солдат сдался в плен после нескольких сообщений на телефон",
+                "link": "https://lenta.ru/news/2026/11/26/ukrainskiy-soldat-sdalsya-v-plen-posle-neskolkih-soobscheniy-na-telefon/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 00:58:06 +0300"
+                "pubDate": "Thu, 26 Nov 2026 05:53:09 +0300"
             },
             {
-                "title": "В Эстонии предупредили о последствиях закрытия границы с Россией",
-                "link": "https://lenta.ru/news/2026/11/26/v-estonii-predupredili-o-posledstviyah-zakrytiya-granitsy-s-rossiey/",
+                "title": "В МИД оценили отношение ВСУ к российским пленным",
+                "link": "https://lenta.ru/news/2026/11/26/v-mid-otsenili-otnoshenie-vsu-k-rossiyskim-plennym/",
                 "description": "\n    \n  ",
-                "pubDate": "Thu, 26 Nov 2026 00:51:00 +0300"
+                "pubDate": "Thu, 26 Nov 2026 05:47:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:15+00:00"
+        "updated": "2026-11-26T03:37:41+00:00"
     },
     {
         "source": "https://lenta.ru/rss/news/russia",
         "title": "Lenta.ru : Новости : Россия",
         "items": [
+            {
+                "title": "Россиян предупредили об особенностях работы в новогодние праздники",
+                "link": "https://lenta.ru/news/2026/11/26/rossiyan-predupredili-ob-osobennostyah-raboty-v-novogodnie-prazdniki/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 26 Nov 2026 05:01:48 +0300"
+            },
+            {
+                "title": "В Госдуме предложили повысить пенсионные баллы за уход за детьми до полутора лет",
+                "link": "https://lenta.ru/news/2026/11/26/v-gosdume-predlozhili-povysit-pensionnye-bally-za-uhod-za-detmi-do-polutora-let/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 26 Nov 2026 05:00:02 +0300"
+            },
+            {
+                "title": "Раскрыта причина взрывного спроса россиян на аналоги «Оземпика» в 2026 году",
+                "link": "https://lenta.ru/news/2026/11/26/raskryta-prichina-vzryvnogo-sprosa-rossiyan-na-analogi-ozempika-v-2026-godu/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 26 Nov 2026 03:57:36 +0300"
+            },
+            {
+                "title": "ВСУ попытались атаковать город на юге России",
+                "link": "https://lenta.ru/news/2026/11/26/vsu-popytalis-atakovat-gorod-na-yuge-rossii/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 26 Nov 2026 03:02:32 +0300"
+            },
+            {
+                "title": "Россиянам раскрыли условия досрочного получения зарплаты за декабрь",
+                "link": "https://lenta.ru/news/2026/11/26/rossiyanam-raskryli-usloviya-dosrochnogo-polucheniya-zarplaty-za-dekabr/",
+                "description": "\n    \n  ",
+                "pubDate": "Thu, 26 Nov 2026 02:32:11 +0300"
+            },
             {
                 "title": "В российском регионе при атаках беспилотников пострадали два человека",
                 "link": "https://lenta.ru/news/2026/11/26/v-rossiyskom-regione-pri-atakah-bespilotnikov-postradali-dva-cheloveka/",
@@ -367,39 +397,9 @@
                 "link": "https://lenta.ru/news/2026/11/25/yadrov-raskryl-podrobnosti-vosstanovleniya-chasti-krymskogo-mosta/",
                 "description": "\n    \n  ",
                 "pubDate": "Wed, 25 Nov 2026 21:51:00 +0300"
-            },
-            {
-                "title": "Медведев обратился к главе Еврокомиссии после ее призыва к России",
-                "link": "https://lenta.ru/news/2026/11/25/medvedev-obratilsya-k-glave-evrokomissii-posle-ee-prizyva-k-rossii/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 21:43:00 +0300"
-            },
-            {
-                "title": "Раскрыты итоги переговоров Путина с султаном Брунея",
-                "link": "https://lenta.ru/news/2026/11/25/raskryty-itogi-peregovorov-putina-s-sultanom-bruneya/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 21:22:00 +0300"
-            },
-            {
-                "title": "Губернатор российского региона рассказал о последствиях атаки беспилотников ВСУ",
-                "link": "https://lenta.ru/news/2026/11/25/gubernator-rossiyskogo-regiona-rasskazal-o-posledstviyah-ataki-bespilotnikov-vsu/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 21:18:00 +0300"
-            },
-            {
-                "title": "Путин досрочно прекратил полномочия арестованного по обвинению в растрате губернатора",
-                "link": "https://lenta.ru/news/2026/11/25/putin-dosrochno-prekratil-polnomochiya-arestovannogo-po-obvineniyu-v-rastrate-gubernatora/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 20:35:00 +0300"
-            },
-            {
-                "title": "Россиянка пошла к психологу и в суд из-за фото ее дочери в школьном альбоме",
-                "link": "https://lenta.ru/news/2026/11/25/rossiyanka-poshla-k-psihologu-i-v-sud-iz-za-foto-ee-docheri-v-shkolnom-albome/",
-                "description": "\n    \n  ",
-                "pubDate": "Wed, 25 Nov 2026 20:00:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:16+00:00"
+        "updated": "2026-11-26T03:37:44+00:00"
     },
     {
         "source": "https://lenta.ru/rss/photo",
@@ -466,12 +466,30 @@
                 "pubDate": ""
             }
         ],
-        "updated": "2026-11-25T22:22:18+00:00"
+        "updated": "2026-11-26T03:37:46+00:00"
     },
     {
         "source": "https://stopgame.ru/rss/rss_news.xml",
         "title": "Игровые новости от StopGame",
         "items": [
+            {
+                "title": "Новый компаньон и не только в обзорном трейлере Switch 2-версии Xenoblade Chronicles 3",
+                "link": "https://stopgame.ru/newsdata/73641/novyy_kompanon_i_ne_tolko_v_reviewnom_trailere_switch_2_versii_xenoblade_chronicles_3",
+                "description": "Уже через неделю Xenoblade Chronicles 3 получит отдельную версию для консоли Switch 2. В связи с этим компания Nintendo опубликовала обзорный трейлер, посвящённый грядущим нововведениям.… […]",
+                "pubDate": "Thu, 26 Nov 2026 04:57:12 +0300"
+            },
+            {
+                "title": "Of Ash and Steel обновилась до версии 2.0 и получила множество улучшений",
+                "link": "https://stopgame.ru/newsdata/73640/of_ash_and_steel_obnovilas_do_versii_20_i_poluchila_mnozhestvo_uluchsheniy",
+                "description": "Команда Fire &amp; Frost отметила первую годовщину Of Ash and Steel релизом глобального обновления 2.0, которое вводит целый ряд улучшений и ворох дополнительного контента.… […]",
+                "pubDate": "Thu, 26 Nov 2026 04:10:25 +0300"
+            },
+            {
+                "title": "Terraria получила поддержку локального кросс-плея",
+                "link": "https://stopgame.ru/newsdata/73639/terraria_poluchila_podderzhku_lokalnogo_kross_pleya",
+                "description": "Независимая студия Re-Logic выпустила обновление 1.4.6 для Terraria, которое вводит в игру давно обещанную поддержку кроссплатформенного мультиплеера.… […]",
+                "pubDate": "Thu, 26 Nov 2026 02:41:54 +0300"
+            },
             {
                 "title": "Yooka-Laylee and the Impossible Lair получит переиздание с улучшенной графикой 15 декабря",
                 "link": "https://stopgame.ru/newsdata/73638/yooka_laylee_and_the_impossible_lair_poluchit_pereizdanie_s_uluchshennoy_grafikoy_15_dekabrya",
@@ -513,27 +531,9 @@
                 "link": "https://stopgame.ru/newsdata/73632/v_pyatnicu_team_cherry_rasskazhet_o_dlc_sea_of_sorrow_dlya_hollow_knight_silksong",
                 "description": "Студия Team Cherry анонсировала презентацию Cherry Time! Разработчики поделятся новостями, в том числе о дополнении Sea of Sorrow для Hollow Knight: Silksong. Трансляция стартует 27 ноября в 18:00 МСК на&amp;nbsp… […]",
                 "pubDate": "Wed, 25 Nov 2026 18:29:12 +0300"
-            },
-            {
-                "title": "В 16-м сезоне Diablo IV улучшат «Адский натиск» и оставят часть контента из прошлой главы",
-                "link": "https://stopgame.ru/newsdata/73631/v_16_m_sezone_diablo_iv_uluchshat_adskiy_natisk_i_ostavyat_chast_kontenta_iz_proshloy_glavy",
-                "description": "Blizzard провела прямую трансляцию, в которой подробнее рассказала о шестнадцатом сезоне в Diablo IV. Он получил название «Сезон ставки Тираэля» — война с сектантами Улло-Сар продолжается. Новый контент прибудет в Санктуарий 1 декабря.… […]",
-                "pubDate": "Wed, 25 Nov 2026 17:08:18 +0300"
-            },
-            {
-                "title": "Tiny Bookshop разошлась тиражом в 1 млн копий и скоро получит DLC с новыми локациями",
-                "link": "https://stopgame.ru/newsdata/73630/tiny_bookshop_razoshlas_tirazhom_v_1_mln_kopiy_i_skoro_poluchit_dlc_s_novymi_lokaciyami",
-                "description": "[…]",
-                "pubDate": "Wed, 25 Nov 2026 16:18:21 +0300"
-            },
-            {
-                "title": "Авторы Marathon выпустили ролик, посвящённый оболочке «Бишоп»",
-                "link": "https://stopgame.ru/newsdata/73629/avtory_marathon_vypustili_rolik_posvyaschennyy_obolochke_bishop",
-                "description": "В Marathon уже скоро стартует большое обновление «Симбиоз», которое помимо первого постоянного PvE-режима и прочего контента введёт в игру новую оболочку — «Бишопа». Именно она оказалась в центре свежего ролика от Bungie.… […]",
-                "pubDate": "Wed, 25 Nov 2026 15:35:15 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:20+00:00"
+        "updated": "2026-11-26T03:37:49+00:00"
     },
     {
         "source": "https://www.drom.ru/export/xml/news.rss",
@@ -588,7 +588,7 @@
                 "pubDate": "Wed, 25 Nov 2026 16:36:45 +1100"
             }
         ],
-        "updated": "2026-11-25T22:22:21+00:00"
+        "updated": "2026-11-26T03:37:51+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/all-about",
@@ -655,7 +655,7 @@
                 "pubDate": "Wed, 18 Nov 26 12:00:18 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:23+00:00"
+        "updated": "2026-11-26T03:37:52+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/anime",
@@ -722,7 +722,7 @@
                 "pubDate": "Sun, 15 Nov 26 08:59:47 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:25+00:00"
+        "updated": "2026-11-26T03:37:54+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/articles",
@@ -789,7 +789,7 @@
                 "pubDate": "Tue, 17 Nov 26 14:17:00 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:26+00:00"
+        "updated": "2026-11-26T03:37:55+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/hardware",
@@ -856,7 +856,7 @@
                 "pubDate": "Tue, 24 Nov 26 14:16:15 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:27+00:00"
+        "updated": "2026-11-26T03:37:56+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/industry",
@@ -923,7 +923,7 @@
                 "pubDate": "Tue, 24 Nov 26 15:31:19 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:28+00:00"
+        "updated": "2026-11-26T03:37:58+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/media",
@@ -990,7 +990,7 @@
                 "pubDate": "Wed, 11 Nov 26 12:59:43 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:29+00:00"
+        "updated": "2026-11-26T03:37:59+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mmorpg",
@@ -1057,7 +1057,7 @@
                 "pubDate": "Wed, 25 Nov 26 09:15:06 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:31+00:00"
+        "updated": "2026-11-26T03:38:00+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/mobile-games",
@@ -1124,7 +1124,7 @@
                 "pubDate": "Tue, 17 Nov 26 13:55:00 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:32+00:00"
+        "updated": "2026-11-26T03:38:02+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/movies-tvshows",
@@ -1191,7 +1191,7 @@
                 "pubDate": "Sun, 22 Nov 26 11:23:42 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:33+00:00"
+        "updated": "2026-11-26T03:38:03+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/news",
@@ -1258,7 +1258,7 @@
                 "pubDate": "Wed, 25 Nov 26 16:00:00 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:34+00:00"
+        "updated": "2026-11-26T03:38:04+00:00"
     },
     {
         "source": "https://www.goha.ru/rss/videogames",
@@ -1325,610 +1325,141 @@
                 "pubDate": "Wed, 25 Nov 26 13:55:57 +0000"
             }
         ],
-        "updated": "2026-11-25T22:22:36+00:00"
+        "updated": "2026-11-26T03:38:06+00:00"
     },
     {
-        "source": "https://www.igromania.ru/rss/news-hard.rss",
-        "title": "Новости - Железные новости",
+        "source": "https://www.igromania.ru/rss/news.rss",
+        "title": "Kanobu.ru: пульс",
         "items": [
             {
-                "title": "Valve вернулась с новой информацией о заказах Steam Machine в условиях глобального кризиса",
-                "link": "https://www.igromania.ru/news/170089/valve-vernulas-s-novoj-informatsiej-o-zakazah-steam-machine-v-usloviyah-globalnogo-krizisa/",
-                "description": "Valve поделилась новой информацией о заказах Steam Machine. Компания продолжает сталкиваться с ограничениями поставок компонентов для оборудования, что влияет на закупку отдельных комплектующих.",
-                "pubDate": "Fri, 20 Nov 2026 07:00:08 +0300"
+                "title": "NVIDIA может ещё сильнее сократить поставки видеокарт серии RTX 50 и отложить выход RTX 60",
+                "link": "https://www.igromania.ru/news/170230/nvidia-mozhet-eschyo-silnee-sokratit-postavki-videokart-serii-rtx-50-i-otlozhit-vyihod-rtx-60/",
+                "description": "По данным прессы, сообщается, компания NVIDIA реализует очередное сокращение поставок графических процессоров (GPU) для игрового сегмента.",
+                "pubDate": "Thu, 26 Nov 2026 06:35:32 +0300"
             },
             {
-                "title": "Sony придумала ошейник для глубокого погружения в VR-игры",
-                "link": "https://www.igromania.ru/news/170002/sony-pridumala-oshejnik-dlya-glubokogo-pogruzheniya-v-vr-igryi/",
-                "description": "Sony подала заявку на патент нового устройства — изогнутого ошейника, который должен подавать воздух на игрока. Судя по схемам, представленным в документе, это дополнительный аксессуар для PSVR 2.",
-                "pubDate": "Tue, 17 Nov 2026 12:49:02 +0300"
+                "title": "Съёмки «Властелина колец: Охота за Голлумом» официально завершены — фильм выйдет в декабре 2027 года",
+                "link": "https://www.igromania.ru/news/170229/syomki-vlastelina-kolets-ohota-za-gollumom-ofitsialno-zavershenyi-film-vyijdet-v-dekabre-2027-goda/",
+                "description": "Warner Bros. объявила о завершении съёмок фильма «Властелин колец: Охота за Голлумом». Премьера ожидается 17 декабря 2027 года.",
+                "pubDate": "Thu, 26 Nov 2026 05:55:26 +0300"
             },
             {
-                "title": "Project Helix станет «идеальной игровой машиной», заявили в Xbox",
-                "link": "https://www.igromania.ru/news/169959/project-helix-stanet-idealnoj-igrovoj-mashinoj-zayavili-v-xbox/",
-                "description": "В цифровом журнале к 25-летию Xbox рассказали о следующем поколении консолей Microsoft. Дизайн гаджета пока не показали, но некоторыми деталями создатели Project Helix всё-таки поделились.",
-                "pubDate": "Mon, 16 Nov 2026 08:36:08 +0300"
+                "title": "Из GTA 6 «вырезали» теннис, посещение кинотеатров и театров, декорирование дома и не только",
+                "link": "https://www.igromania.ru/news/170228/vyirezannyij-kontent-gta-6-vklyuchaet-tennis-poseschenie-kinoteatrov-dekorirovanie-doma-i-ne-tolko/",
+                "description": "Rockstar Games в интервью PC Games рассказала об игровых функциях, которые могли появиться в Grand Theft Auto VI, но в итоге не добрались до релиза.",
+                "pubDate": "Thu, 26 Nov 2026 05:30:00 +0300"
             },
             {
-                "title": "Valve теперь показывает данные о средней частоте кадров для игр на Steam Deck — это только начало",
-                "link": "https://www.igromania.ru/news/169826/valve-teper-pokazyivaet-dannyie-o-srednej-chastote-kadrov-dlya-igr-na-steam-deck-eto-tolko-nachalo/",
-                "description": "Valve подогнала обладателям Steam Deck полезное нововведение. Теперь они могут просматривать данные о средней частоте кадров при игре на устройстве.",
-                "pubDate": "Tue, 10 Nov 2026 10:55:25 +0300"
+                "title": "Платформер Rayman Legends Retold получил атмосферный сюжетный трейлер",
+                "link": "https://www.igromania.ru/news/170226/platformer-rayman-legends-retold-poluchil-atmosfernyij-syuzhetnyij-trejler/",
+                "description": "Платформер Rayman Legends Retold следом за большим обзорным роликом получил атмосферный сюжетный трейлер с фрагментами геймплеям.",
+                "pubDate": "Wed, 25 Nov 2026 20:46:54 +0300"
             },
             {
-                "title": "Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
-                "link": "https://www.igromania.ru/news/169432/novyie-naushniki-playstation-pulse-vyijdut-odnovremenno-s-gta-6/",
-                "description": "Sony объявила, что новые беспроводные наушники PlayStation Pulse (белые и Midnight Black) станут доступны 19 ноября — в день выхода GTA 6 и консоли PlayStation 5 Digital Edition в расцветке Midnight Black в Японии.",
-                "pubDate": "Wed, 21 Oct 2026 18:17:13 +0300"
+                "title": "Amnesia: The Bunker и Tony Hawkʼs Pro Skater 3+4 войдут в декабрьскую подборку PS Plus",
+                "link": "https://www.igromania.ru/news/170225/amnesia-the-bunker-i-tony-hawks-pro-skater-34-vojdut-v-dekabrskuyu-podborku-ps-plus/",
+                "description": "Sony раскрыла подборку игр, которые получат все подписчики PlayStation Plus с 1 декабря.",
+                "pubDate": "Wed, 25 Nov 2026 19:37:00 +0300"
             },
             {
-                "title": "PlayStation 5 Digital Edition в расцветке Midnight Black будут продавать на одном избранном рынке",
-                "link": "https://www.igromania.ru/news/169299/playstation-5-digital-edition-v-rastsvetke-midnight-black-budut-prodavat-na-odnom-izbrannom-ryinke/",
-                "description": "Sony Interactive Entertainment представила консоль PlayStation 5 Digital Edition в новой расцветке — Midnight Black. Продажи стартуют 19 ноября только в Японии.",
-                "pubDate": "Tue, 13 Oct 2026 10:15:00 +0300"
+                "title": "Создатели Hollow Knight: Silksong расскажут о бесплатном дополнении Sea of Sorrow в эту пятницу",
+                "link": "https://www.igromania.ru/news/170224/sozdateli-hollow-knight-silksong-rasskazhut-o-besplatnom-dopolnenii-sea-of-sorrow-v-etu-pyatnitsu/",
+                "description": "Студия Team Cherry, создатели Hollow Knight и Hollow Knight: Silksong, запланировала презентацию.",
+                "pubDate": "Wed, 25 Nov 2026 18:33:35 +0300"
             },
             {
-                "title": "Неанонсированная портативная PlayStation обросла дополнительными возможными характеристиками",
-                "link": "https://www.igromania.ru/news/168776/neanonsirovannaya-portativnaya-playstation-obrosla-dopolnitelnyimi-vozmozhnyimi-harakteristikami/",
-                "description": "GameGPU со ссылкой на технологического инсайдера KeplerL2 опубликовал дополненные возможные характеристики неанонсированной портативной PlayStation. Её называют Project Canis или PSP 3.",
-                "pubDate": "Thu, 17 Sep 2026 08:54:49 +0300"
+                "title": "Astrum Entertainment объявляет о сотрудничестве с разработчиками фантастической RPG «Сатурн. Наследие»",
+                "link": "https://www.igromania.ru/news/170227/astrum-entertainment-obyavlyaet-o-sotrudnichestve-s-razrabotchikami-fantasticheskoj-rpg-saturn-nasledie/",
+                "description": "Издатель и разработчик Astrum Entertainment начал сотрудничать с разработчиками «Сатурн. Наследие» из студии Ninsar Games.",
+                "pubDate": "Wed, 25 Nov 2026 17:45:00 +0300"
             },
             {
-                "title": "Кризис комплектующих не влияет на планы Valve по выпуску Steam Deck 2",
-                "link": "https://www.igromania.ru/news/168730/krizis-komplektuyuschih-ne-vliyaet-na-planyi-valve-po-vyipusku-steam-deck-2/",
-                "description": "Инженер Valve Пьер-Лу Гриффе заявил, что кризис комплектующих не влияет на планы компании по выпуску Steam Deck 2.",
-                "pubDate": "Tue, 15 Sep 2026 09:57:25 +0300"
+                "title": "Expeditions: Samurai о феодальной Японии получила обновление раннего доступа с новой главой",
+                "link": "https://www.igromania.ru/news/170223/expeditions-samurai-o-feodalnoj-yaponii-poluchila-obnovlenie-rannego-dostupa-s-novoj-glavoj/",
+                "description": "Ролевая игра Expeditions: Samurai о феодальной Японии получила второе крупное обновление раннего доступа, куда она вышла со смешанными отзывами в этом августе.",
+                "pubDate": "Wed, 25 Nov 2026 17:23:00 +0300"
             },
             {
-                "title": "Valve будет продавать Steam Frame от 1059 долларов — в обзорах рассказали о багах и быстром разряде",
-                "link": "https://www.igromania.ru/news/168725/valve-budet-prodavat-steam-frame-ot-1059-dollarov-v-obzorah-rasskazali-o-bagah-i-byistrom-razryade/",
-                "description": "Компания Valve объявила стоимость новой гарнитуры виртуальной реальности Steam Frame: модель с 256 Гбайт памяти — 1059 долларов; модель с 1 Тбайт памяти — 1299 долларов.",
-                "pubDate": "Tue, 15 Sep 2026 08:53:00 +0300"
+                "title": "Эксперты сравнили GTA 6 на разных платформах и рассказали, где лучше играть",
+                "link": "https://www.igromania.ru/news/170222/ekspertyi-sravnili-gta-6-na-raznyih-platformah-i-rasskazali-gde-luchshe-igrat/",
+                "description": "Специалисты Digital Foundry сравнили GTA 6 на PS5 Pro, PS5 и Xbox Series. PS5 Pro оказалась лучшей платформой для игры, а старшая консоль Microsoft обошла обычную версию PS5.",
+                "pubDate": "Wed, 25 Nov 2026 15:51:05 +0300"
             },
             {
-                "title": "Глава Xbox Аша Шарма: для Project Helix готовится «великолепное семейство устройств»",
-                "link": "https://www.igromania.ru/news/168380/glava-xbox-asha-sharma-dlya-project-helix-helix-gotovitsya-velikolepnoe-semejstvo-ustrojstv/",
-                "description": "Генеральный директор Xbox Аша Шарма в свежем интервью заявила, что для грядущего Project Helix готовится «великолепное семейство устройств».",
-                "pubDate": "Sat, 29 Aug 2026 12:42:00 +0300"
+                "title": "В Mario Kart World добавили восемь новых трасс",
+                "link": "https://www.igromania.ru/news/170221/v-mario-kart-world-dobavili-vosem-novyih-trass/",
+                "description": "Разработчики Mario Kart World выпустили обновление, которое привнесло в игру восемь новых трасс. Они доступны в VS Race, Time Trials и сетевых гонках: Airship Fortress 2; Desert Hills 2;",
+                "pubDate": "Wed, 25 Nov 2026 15:11:57 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:37+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/culture/index.xml",
-        "title": "Все Культура - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Телеведущая Анфиса Чехова ответила на слухи об избиении мужем",
-                "link": "https://www.mk.ru/social/2026/11/26/televedushhaya-anfisa-chekhova-otvetila-na-slukhi-ob-izbienii-muzhem.html",
-                "description": "Российская телеведущая Анфиса Чехова отреагировала на появившуюся в интернете информацию о домашнем насилии со стороны ее супруга, продюсера Александра Златопольского",
-                "pubDate": "Thu, 26 Nov 2026 00:51:01 +0300"
-            },
-            {
-                "title": "Швыдкой рассказал про важность гуманитарного сотрудничества стран СНГ",
-                "link": "https://www.mk.ru/culture/2026/11/25/shvydkoy-rasskazal-pro-vazhnost-gumanitarnogo-sotrudnichestva-stran-sng.html",
-                "description": "Гуманитарные связи между государствами СНГ остаются необходимым условием взаимодействия стран Содружества",
-                "pubDate": "Wed, 25 Nov 2026 23:35:51 +0300"
-            },
-            {
-                "title": "Изымают на границе, выбрасывают в помойку: незавидная судьба книг на Украине",
-                "link": "https://www.mk.ru/culture/2026/11/25/izymayut-na-granice-vybrasyvayut-v-pomoyku-nezavidnaya-sudba-knig-na-ukraine.html",
-                "description": "Что делают с книгами на русском языке в Незалежной, можно понять, обратив внимание всего на два примера",
-                "pubDate": "Wed, 25 Nov 2026 19:54:52 +0300"
-            },
-            {
-                "title": "Актриса Светлана Дружинина рассказала о своем самочувствии",
-                "link": "https://www.mk.ru/culture/2026/11/25/aktrisa-svetlana-druzhinina-rasskazala-o-svoem-samochuvstvii.html",
-                "description": "Режиссер и актриса Светлана Дружинина в беседе с Teleprogramma",
-                "pubDate": "Wed, 25 Nov 2026 19:27:47 +0300"
-            },
-            {
-                "title": "На спектакле с Ефремовым в Москве случился форс-мажор: актер не рассчитал силы",
-                "link": "https://www.mk.ru/culture/2026/11/24/na-spektakle-s-efremovym-v-moskve-sluchilsya-fors-mazhor-akter-ne-rasschital-sily.html",
-                "description": "Предпремьерный показ спектакля «Васса Железнова» прошел в театре «Мастерская 12 Никиты Михалкова»",
-                "pubDate": "Wed, 25 Nov 2026 19:10:00 +0300"
-            },
-            {
-                "title": "Наша прелесть: в Пушкинском музее атрибутировали картину Сандро Боттичелли",
-                "link": "https://www.mk.ru/culture/2026/11/25/nasha-prelest-v-pushkinskom-muzee-atributirovali-kartinu-sandro-bottichelli.html",
-                "description": "В постоянную экспозицию Пушкинского музея полвека спустя вернулось сокровище",
-                "pubDate": "Wed, 25 Nov 2026 14:43:10 +0300"
-            },
-            {
-                "title": "Выбран самый стильный мужчина планеты",
-                "link": "https://www.mk.ru/social/2026/11/25/vybran-samyy-stilnyy-muzhchina-planety.html",
-                "description": "Американское издание Vogue присудило звание самого стильного мужчины года 26-летнему актеру Коннору Сторри",
-                "pubDate": "Wed, 25 Nov 2026 01:24:06 +0300"
-            },
-            {
-                "title": "Названы дата и место прощания с литературоведом Сергеем Чуприниным",
-                "link": "https://www.mk.ru/culture/2026/11/24/nazvany-data-i-mesto-proshhaniya-s-literaturovedom-sergeem-chuprininym.html",
-                "description": "Протоиерей Владимир (Вигилянский), настоятель домового храма святой мученицы Татианы при Московском государственном университете, только что раскрыл дату и место прощания с Сергеем Чуприниным, жизнь которого оборвалась в Москве 23 ноября",
-                "pubDate": "Tue, 24 Nov 2026 18:22:05 +0300"
-            },
-            {
-                "title": "Погони, дроны, машина мечты: каким получился новый сезон сериала «Мосгаз»",
-                "link": "https://www.mk.ru/culture/2026/11/24/pogoni-drony-mashina-mechty-kakim-poluchilsya-novyy-sezon-seriala-mosgaz.html",
-                "description": "Главные герои сериала «Мосгаз» расследуют новое дело, на этот раз в декорациях 1984 года",
-                "pubDate": "Tue, 24 Nov 2026 17:59:50 +0300"
-            },
-            {
-                "title": "В Новой Третьяковке продолжают исследовать «-измы»",
-                "link": "https://www.mk.ru/culture/2026/11/24/v-novoy-tretyakovke-prodolzhayut-issledovat-izmy.html",
-                "description": "В Третьяковской галерее на Крымском валу открылась вторая часть выставки «Стили и направления»",
-                "pubDate": "Tue, 24 Nov 2026 17:41:45 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:41+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/economics/index.xml",
-        "title": "Экономика - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Дефицит бюджета вдвое превысит запланированный уровень: есть ли риски",
-                "link": "https://www.mk.ru/economics/2026/11/25/deficit-byudzheta-vdvoe-prevysit-zaplanirovannyy-uroven-est-li-riski.html",
-                "description": "К теме дефицита федерального бюджета РФ можно относиться по-разному, но в конечном итоге она касается каждого отдельно взятого россиянина",
-                "pubDate": "Wed, 25 Nov 2026 16:52:16 +0300"
-            },
-            {
-                "title": "Гречка опять дорожает ударными темпами: эксперт назвал причины",
-                "link": "https://www.mk.ru/economics/2026/11/25/grechka-opyat-dorozhaet-udarnymi-tempami-ekspert-nazval-prichiny.html",
-                "description": "Их всех круп самыми любимыми у россиян была и остается гречка",
-                "pubDate": "Wed, 25 Nov 2026 15:41:39 +0300"
-            },
-            {
-                "title": "Переводы на карту попадут под налоговый контроль: кого это коснется",
-                "link": "https://www.mk.ru/economics/2026/11/25/perevody-na-kartu-popadut-pod-nalogovyy-kontrol-kogo-eto-kosnetsya.html",
-                "description": "С 1 января 2027 года Банк России начнет передавать Федеральной налоговой службе сведения о гражданах, чьи операции по счетам могут указывать на систематическое получение доходов от других физлиц",
-                "pubDate": "Wed, 25 Nov 2026 12:22:27 +0300"
-            },
-            {
-                "title": "В Москве стало меньше новостроек на этапе котлована: кроме «премиум»-класса",
-                "link": "https://www.mk.ru/realestate/2026/11/25/v-moskve-stalo-menshe-novostroek-na-etape-kotlovana-krome-premium-klassa.html",
-                "description": "В этом ноябре на столичном первичном рынке жилья окрепла необычная тенденция: больше всего новых строек на этапе котлована оказалось в премиальном сегменте, одном из самых дорогих классов жилья",
-                "pubDate": "Wed, 25 Nov 2026 10:45:41 +0300"
-            },
-            {
-                "title": "«Продал трешку — купил юрту: почему россияне меняют просторные квартиры на вклады",
-                "link": "https://www.mk.ru/economics/2026/11/24/prodal-treshku-kupil-yurtu-pochemu-rossiyane-menyayut-prostornye-kvartiry-na-vklady.html",
-                "description": "Продать трешку в центре, купить однушку на окраине, а разницу положить на вклад - схема, которая из экзотики превращается в практику",
-                "pubDate": "Tue, 24 Nov 2026 21:08:10 +0300"
-            },
-            {
-                "title": "Госдума одобрила особую процедуру банкротства для участников СВО",
-                "link": "https://www.mk.ru/economics/2026/11/24/gosduma-odobrila-osobuyu-proceduru-bankrotstva-dlya-uchastnikov-svo.html",
-                "description": "Особую процедуру банкротства физических лиц одобрила в первом чтении Госдума во вторник, 24 ноября",
-                "pubDate": "Tue, 24 Nov 2026 16:56:35 +0300"
-            },
-            {
-                "title": "Россияне стали покупать хлеб чаще и платить за него больше",
-                "link": "https://www.mk.ru/economics/2026/11/24/rossiyane-stali-pokupat-khleb-chashhe-i-platit-za-nego-bolshe.html",
-                "description": "Хлеб по-прежнему остается основой питания россиян",
-                "pubDate": "Tue, 24 Nov 2026 16:24:32 +0300"
-            },
-            {
-                "title": "Жидкий бюджет: как вода незаметно съедает зарплаты россиян",
-                "link": "https://www.mk.ru/economics/2026/11/24/zhidkiy-byudzhet-kak-voda-nezametno-sedaet-zarplaty-rossiyan.html",
-                "description": "  Полуторалитровая бутылка воды обходится россиянам примерно в 65 рублей - это всего лишь 12-я строчка в рейтинге из 43 стран G20 и Евросоюза",
-                "pubDate": "Tue, 24 Nov 2026 15:48:01 +0300"
-            },
-            {
-                "title": "Каждый третий выбирает «серую» зарплату: лучше «конверт» сегодня, чем пенсия послезавтра",
-                "link": "https://www.mk.ru/economics/2026/11/24/kazhdyy-tretiy-vybiraet-seruyu-zarplatu-luchshe-konvert-segodnya-chem-pensiya-poslezavtra.html",
-                "description": "Поработать за так называемую серую заработную плату согласились бы 37% россиян - то есть свыше трети всех занятых",
-                "pubDate": "Tue, 24 Nov 2026 15:37:56 +0300"
-            },
-            {
-                "title": "41 процент за чертой бедности: украинцы экономят на еде и тепле",
-                "link": "https://www.mk.ru/economics/2026/11/24/41-procent-za-chertoy-bednosti-ukraincy-ekonomyat-na-ede-i-teple.html",
-                "description": "Уровень бедности на Украине в 2026 году достиг 41%",
-                "pubDate": "Tue, 24 Nov 2026 14:59:25 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:43+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/incident/index.xml",
-        "title": "Все Проишествия - Московский Комсомолец",
-        "items": [
-            {
-                "title": "В США посетители ресторана спасли женщину от изнасилования",
-                "link": "https://www.mk.ru/incident/2026/11/26/v-ssha-posetiteli-restorana-spasli-zhenshhinu-ot-iznasilovaniya.html",
-                "description": "В американском городе Ванкувер, штат Вашингтон, посетители заведения быстрого питания In-N-Out Burger помогли женщине отбиться от нападавшего",
-                "pubDate": "Thu, 26 Nov 2026 01:11:47 +0300"
-            },
-            {
-                "title": "Мужчина попытался покончить с собой в центре Варшавы",
-                "link": "https://www.mk.ru/incident/2026/11/26/muzhchina-popytalsya-pokonchit-s-soboy-v-centre-varshavy.html",
-                "description": "Мужчина предпринял попытку самоубийства перед зданием Министерства культуры и национального наследия Польши в Варшаве. Оно расположено напротив президентского дворца. Об этом сообщила Gazeta Wyborcza.",
-                "pubDate": "Thu, 26 Nov 2026 00:35:09 +0300"
-            },
-            {
-                "title": "Бензовоз перевернулся и загорелся в Каире: погибших больше 20",
-                "link": "https://www.mk.ru/incident/2026/11/25/benzovoz-perevernulsya-i-zagorelsya-v-kaire-pogibshikh-bolshe-20.html",
-                "description": "На кольцевой трассе в Каире перевернулся и загорелся бензовоз, сообщает в среду Минздрав Египта",
-                "pubDate": "Wed, 25 Nov 2026 21:58:44 +0300"
-            },
-            {
-                "title": "Девушка без прав сбила пешехода на каршеринге",
-                "link": "https://www.mk.ru/incident/2026/11/25/devushka-bez-prav-sbila-peshekhoda-na-karsheringe.html",
-                "description": "Девушка, не имеющая водительского удостоверения, сбила пешехода на каршеринговом автомобиле в среду вечером на юге столицы",
-                "pubDate": "Wed, 25 Nov 2026 21:58:15 +0300"
-            },
-            {
-                "title": "Семерых человек подозревают в сексуальных преступлениях против школьницы",
-                "link": "https://www.mk.ru/incident/2026/11/25/semerykh-chelovek-podozrevayut-v-seksualnykh-prestupleniyakh-protiv-shkolnicy.html",
-                "description": "Правоохранительные органы Германии подозревают шестерых мужчин — пятерых граждан Сирии и одного гражданина Германии сирийского происхождения в возрасте 16–18 лет — в многократных сексуальных преступлениях в отношении 13-летней школьницы в баварском Швайнфурте, сообщает Bild",
-                "pubDate": "Wed, 25 Nov 2026 21:42:51 +0300"
-            },
-            {
-                "title": "Багровые реки разлились в популярной у россиян туристической стране",
-                "link": "https://www.mk.ru/incident/2026/11/25/bagrovye-reki-razlilis-v-populyarnoy-u-rossiyan-turisticheskoy-strane.html",
-                "description": "В провинции Ризе на северо-востоке Турции местные жители обнаружили, что вода в реке приобрела пугающий багровый оттенок",
-                "pubDate": "Wed, 25 Nov 2026 21:29:43 +0300"
-            },
-            {
-                "title": "Пассажирский автобус и автомобиль столкнулись в регионе РФ, есть погибший",
-                "link": "https://www.mk.ru/incident/2026/11/25/passazhirskiy-avtobus-i-avtomobil-stolknulis-v-regione-rf-est-pogibshiy.html",
-                "description": "В Ярославской области вечером среды на 16 километре автодороги Заячий Холм-Гаврилов-Ям-Иваново столкнулись пассажирский автобус и легковой автомобиль, сообщают в МВД региона",
-                "pubDate": "Wed, 25 Nov 2026 21:22:23 +0300"
-            },
-            {
-                "title": "Украинских подростков избили в польском ТЦ на этической почве",
-                "link": "https://www.mk.ru/incident/2026/11/25/ukrainskikh-podrostkov-izbili-v-polskom-tc-na-eticheskoy-pochve.html",
-                "description": "В польском городе Быдгощ произошло очередное нападение на украинских подростков",
-                "pubDate": "Wed, 25 Nov 2026 21:01:04 +0300"
-            },
-            {
-                "title": "Россиянин поверил аферистам и отдал &#34;менеджеру по инкассации&#34; более пяти миллионов",
-                "link": "https://www.mk.ru/incident/2026/11/25/rossiyanin-poveril-aferistam-i-otdal-menedzheru-po-inkassacii-bolee-pyati-millionov.html",
-                "description": "В Кемерове задержана &#34;менеджер по инкассации&#34;, похитившая у жителя города 5,1 млн рублей по указке кураторов",
-                "pubDate": "Wed, 25 Nov 2026 20:44:43 +0300"
-            },
-            {
-                "title": "Банда россиян заработала миллионы на десятках подставных ДТП",
-                "link": "https://www.mk.ru/incident/2026/11/25/banda-rossiyan-zarabotala-milliony-na-desyatkakh-podstavnykh-dtp.html",
-                "description": "В Петербурге вынесен приговор по делу о 29 инсценированных ДТП",
-                "pubDate": "Wed, 25 Nov 2026 20:16:05 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:44+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/politics/index.xml",
-        "title": "Вся Политика - Московский Комсомолец",
-        "items": [
-            {
-                "title": "В США посетители ресторана спасли женщину от изнасилования",
-                "link": "https://www.mk.ru/incident/2026/11/26/v-ssha-posetiteli-restorana-spasli-zhenshhinu-ot-iznasilovaniya.html",
-                "description": "В американском городе Ванкувер, штат Вашингтон, посетители заведения быстрого питания In-N-Out Burger помогли женщине отбиться от нападавшего",
-                "pubDate": "Thu, 26 Nov 2026 01:11:47 +0300"
-            },
-            {
-                "title": "В Финляндии обвинили ЕС в лицемерии из-за инициативы Эстонии",
-                "link": "https://www.mk.ru/politics/2026/11/26/v-finlyandii-obvinili-es-v-licemerii-iz-za-iniciativy-estonii.html",
-                "description": "Член финской партии «Альянс свобoды» Армандо Мема раскритиковал инициативу премьер-министра Эстонии Кристена Михала по блокированию железнодорожного сообщения с Россией",
-                "pubDate": "Thu, 26 Nov 2026 01:03:07 +0300"
-            },
-            {
-                "title": "Пентагону грозят штрафы на $10 млрд из-за ракет",
-                "link": "https://www.mk.ru/politics/2026/11/26/pentagonu-grozyat-shtrafy-na-10-mlrd-iz-za-raket.html",
-                "description": "Пентагон может выплатить более 10 миллиардов долларов неустоек компаниям RTX и Lockheed Martin, если конгресс США не профинансирует закупки ракет для пополнения запасов, израсходованных в конфликте с Ираном. Об этом сообщает Bloomberg со ссылкой на документы Белого дома.",
-                "pubDate": "Thu, 26 Nov 2026 00:51:06 +0300"
-            },
-            {
-                "title": "Граница под охраной: Литва не стала вводить ограничения для въезда из РФ",
-                "link": "https://www.mk.ru/politics/2026/11/26/granica-pod-okhranoy-litva-ne-stala-vvodit-ogranicheniya-dlya-vezda-iz-rf.html",
-                "description": "Литва пока не рассматривает закрытие границы с Россией, поскольку для такого решения нет достаточных оснований",
-                "pubDate": "Thu, 26 Nov 2026 00:49:10 +0300"
-            },
-            {
-                "title": "ЕС одобрил выделение Украине 45 миллиардов евро",
-                "link": "https://www.mk.ru/politics/2026/11/26/es-odobril-vydelenie-ukraine-45-milliardov-evro.html",
-                "description": "Совет Европейского союза (ЕС) согласовал предоставление Украине очередного пакета финансовой поддержки объемом до 45 миллиардов евро",
-                "pubDate": "Thu, 26 Nov 2026 00:39:58 +0300"
-            },
-            {
-                "title": "«Прокси-война» с Россией: Кушнер обвинил Европу в финансировании конфликта",
-                "link": "https://www.mk.ru/politics/2026/11/26/proksi-voyna-s-rossiey-kushner-obvinil-evropu-v-finansirovanii-konflikta.html",
-                "description": "Украинский конфликт фактически приобрел характер прокси-противостояния Европы с Россией, поскольку европейские государства обеспечивают Киев финансированием и вооружениями",
-                "pubDate": "Thu, 26 Nov 2026 00:32:00 +0300"
-            },
-            {
-                "title": "Медведев дал необычный совет главе Еврокомиссии Урсуле фон дер Ляйен и президенту Украины Зеленскому",
-                "link": "https://www.mk.ru/politics/2026/11/26/medvedev-dal-neobychnyy-sovet-glave-evrokomissii-ursule-fon-der-lyayen-i-prezidentu-ukrainy-zelenskomu.html",
-                "description": "Заместитель председателя Совета безопасности России Дмитрий Медведев выступил с резкой критикой глaвы Еврокомиссии (ЕК) Урсулы фон дер Ляйен после ее заявления о необходимости прекращения огня",
-                "pubDate": "Thu, 26 Nov 2026 00:31:00 +0300"
-            },
-            {
-                "title": "Кушнер обозначил позицию США по членству Украины в НАТО",
-                "link": "https://www.mk.ru/politics/2026/11/26/kushner-oboznachil-poziciyu-ssha-po-chlenstvu-ukrainy-v-nato.html",
-                "description": "Членство Украины в НАТО не рассматривается в качестве части нынешнего плана урегулирования конфликта",
-                "pubDate": "Thu, 26 Nov 2026 00:21:42 +0300"
-            },
-            {
-                "title": "Работу Конституционного суда поставили под угрозу из-за блокады в европейской стране",
-                "link": "https://www.mk.ru/politics/2026/11/26/rabotu-konstitucionnogo-suda-postavili-pod-ugrozu-iz-za-blokady-v-evropeyskoy-strane.html",
-                "description": "Польское правительство заявило о риске нарушения деятельности Конституционного суда на фоне решения Национального банка страны приостановить проведение платежей по счетам учреждения",
-                "pubDate": "Thu, 26 Nov 2026 00:20:11 +0300"
-            },
-            {
-                "title": "В Эр-Рияде прогремели взрывы",
-                "link": "https://www.mk.ru/politics/2026/11/26/v-er-riyade-progremeli-vzryvy.html",
-                "description": "Несколько громких взрывов были слышны в Эр-Рияде, столице Саудовской Аравии. Об этом сообщает агентство Reuters.",
-                "pubDate": "Thu, 26 Nov 2026 00:18:30 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:46+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/science/index.xml",
-        "title": "Все Наука - Московский Комсомолец",
-        "items": [
-            {
-                "title": "США одобрили Маску создание крупнейшей орбитальной вычислительной сети",
-                "link": "https://www.mk.ru/science/2026/11/25/ssha-odobrili-masku-sozdanie-krupneyshey-orbitalnoy-vychislitelnoy-seti.html",
-                "description": "Федеральная комиссия по связи США (ФКС) выдала компании SpaceX разрешение на развертывание группировки из одного миллиона спутников для создания орбитальной сети центров обработки данных Starmind",
-                "pubDate": "Wed, 25 Nov 2026 23:08:10 +0300"
-            },
-            {
-                "title": "Учёные нашли загадочную бактерию в тканях глубоководных морских свиней",
-                "link": "https://www.mk.ru/science/2026/11/25/uchyonye-nashli-zagadochnuyu-bakteriyu-v-tkanyakh-glubokovodnykh-morskikh-sviney.html",
-                "description": "Специалисты из Токийского университета обнаружили ранее неизвестную бактерию в тканях глубоководных морских свиней, которые относятся к голотуриям и передвигаются по дну океана с помощью многочисленных трубчатых ножек",
-                "pubDate": "Wed, 25 Nov 2026 22:25:41 +0300"
-            },
-            {
-                "title": "Врач-невролог развеял миф, связанный с метеозависимостью",
-                "link": "https://www.mk.ru/science/2026/11/25/vrach-nevrolog-razveyal-mif-svyazannyy-s-meteozavisimostyu.html",
-                "description": "Головная боль из-за смены погоды является реальной реакцией организма, которая описана в медицинских исследованиях",
-                "pubDate": "Wed, 25 Nov 2026 19:48:19 +0300"
-            },
-            {
-                "title": "Российские ученые выяснили, где зародилась чума",
-                "link": "https://www.mk.ru/science/2026/11/25/rossiyskie-uchenye-vyyasnili-gde-zarodilas-chuma.html",
-                "description": "Родину возбудителей страшнейших эпидемий в человеческой истории удалось обнаружить российским ученым",
-                "pubDate": "Wed, 25 Nov 2026 17:24:19 +0300"
-            },
-            {
-                "title": "Гипотеза Римана: доктор наук рассказал простым языком о самой сложной проблеме современной математики",
-                "link": "https://www.mk.ru/science/2026/11/25/gipoteza-rimana-doktor-nauk-rasskazal-prostym-yazykom-o-samoy-slozhnoy-probleme-sovremennoy-matematiki.html",
-                "description": "Громкий шум, связанный с решением одной из задач тысячелетия – гипотезы Римана, получил на днях неожиданный поворот",
-                "pubDate": "Wed, 25 Nov 2026 16:58:07 +0300"
-            },
-            {
-                "title": "Учёные изучили останки ребёнка возрастом в три миллиона лет",
-                "link": "https://www.mk.ru/science/2026/11/25/uchyonye-izuchili-ostanki-rebyonka-vozrastom-v-tri-milliona-let.html",
-                "description": "Специалисты университета, работая под руководством Габриэле Махо, провели повторную оценку классификации останков ребенка из Таунга, обнаруженных в 1924 году",
-                "pubDate": "Wed, 25 Nov 2026 14:01:34 +0300"
-            },
-            {
-                "title": "Врач предупредила об опасности самостоятельного лечения кашля у детей сиропами",
-                "link": "https://www.mk.ru/science/2026/11/25/vrach-predupredila-ob-opasnosti-samostoyatelnogo-lecheniya-kashlya-u-detey-siropami.html",
-                "description": "Самостоятельный прием сиропов от кашля может навредить ребенку и привести к скоплению мокроты в дыхательных путях",
-                "pubDate": "Wed, 25 Nov 2026 12:51:23 +0300"
-            },
-            {
-                "title": "Астрономы назвали точное время прихода зимы в Россию",
-                "link": "https://www.mk.ru/science/2026/11/25/astronomy-nazvali-tochnoe-vremya-prikhoda-zimy-v-rossiyu.html",
-                "description": "Согласно данным, приведенным специалистами Московского планетария, астрономическая зима вступит в свои права на территории России 21 декабря 2026 года.",
-                "pubDate": "Wed, 25 Nov 2026 12:00:30 +0300"
-            },
-            {
-                "title": "Терапевт Минздрава назвала семь способов защиты от ОРВИ и гриппа",
-                "link": "https://www.mk.ru/science/2026/11/25/terapevt-minzdrava-nazvala-sem-sposobov-zashhity-ot-orvi-i-grippa.html",
-                "description": "В период сезонного подъема заболеваемости снизить риск заражения ОРВИ и гриппом помогут регулярное проветривание помещений, соблюдение гигиены рук и использование масок в общественных местах",
-                "pubDate": "Wed, 25 Nov 2026 11:29:06 +0300"
-            },
-            {
-                "title": "Раскрыта долгосрочная опасность диабета у женщин во врeмя беременности",
-                "link": "https://www.mk.ru/social/2026/11/25/raskryta-dolgosrochnaya-opasnost-diabeta-u-zhenshhin-vo-vremya-beremennosti.html",
-                "description": "Повышение уровня сахара в крови во врeмя беременности может иметь серьезные последствия для здоровья матери и ребенка даже спустя годы после родов",
-                "pubDate": "Wed, 25 Nov 2026 04:50:27 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:48+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/social/index.xml",
-        "title": "Все Общество - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Кардиолог назвал способы снижения риска сердечного приступа",
-                "link": "https://www.mk.ru/social/2026/11/26/kardiolog-nazval-sposoby-snizheniya-riska-serdechnogo-pristupa.html",
-                "description": "Врач-кардиолог Пэдди Барретт перечислил меры, позволяющие уменьшить вероятность сердечного приступа и развития заболеваний сердечно-сосудистой системы",
-                "pubDate": "Thu, 26 Nov 2026 01:20:34 +0300"
-            },
-            {
-                "title": "В США посетители ресторана спасли женщину от изнасилования",
-                "link": "https://www.mk.ru/incident/2026/11/26/v-ssha-posetiteli-restorana-spasli-zhenshhinu-ot-iznasilovaniya.html",
-                "description": "В американском городе Ванкувер, штат Вашингтон, посетители заведения быстрого питания In-N-Out Burger помогли женщине отбиться от нападавшего",
-                "pubDate": "Thu, 26 Nov 2026 01:11:47 +0300"
-            },
-            {
-                "title": "В Финляндии обвинили ЕС в лицемерии из-за инициативы Эстонии",
-                "link": "https://www.mk.ru/politics/2026/11/26/v-finlyandii-obvinili-es-v-licemerii-iz-za-iniciativy-estonii.html",
-                "description": "Член финской партии «Альянс свобoды» Армандо Мема раскритиковал инициативу премьер-министра Эстонии Кристена Михала по блокированию железнодорожного сообщения с Россией",
-                "pubDate": "Thu, 26 Nov 2026 01:03:07 +0300"
-            },
-            {
-                "title": "Телеведущая Анфиса Чехова ответила на слухи об избиении мужем",
-                "link": "https://www.mk.ru/social/2026/11/26/televedushhaya-anfisa-chekhova-otvetila-na-slukhi-ob-izbienii-muzhem.html",
-                "description": "Российская телеведущая Анфиса Чехова отреагировала на появившуюся в интернете информацию о домашнем насилии со стороны ее супруга, продюсера Александра Златопольского",
-                "pubDate": "Thu, 26 Nov 2026 00:51:01 +0300"
-            },
-            {
-                "title": "Медведев дал необычный совет главе Еврокомиссии Урсуле фон дер Ляйен и президенту Украины Зеленскому",
-                "link": "https://www.mk.ru/politics/2026/11/26/medvedev-dal-neobychnyy-sovet-glave-evrokomissii-ursule-fon-der-lyayen-i-prezidentu-ukrainy-zelenskomu.html",
-                "description": "Заместитель председателя Совета безопасности России Дмитрий Медведев выступил с резкой критикой глaвы Еврокомиссии (ЕК) Урсулы фон дер Ляйен после ее заявления о необходимости прекращения огня",
-                "pubDate": "Thu, 26 Nov 2026 00:31:00 +0300"
-            },
-            {
-                "title": "Работу Конституционного суда поставили под угрозу из-за блокады в европейской стране",
-                "link": "https://www.mk.ru/politics/2026/11/26/rabotu-konstitucionnogo-suda-postavili-pod-ugrozu-iz-za-blokady-v-evropeyskoy-strane.html",
-                "description": "Польское правительство заявило о риске нарушения деятельности Конституционного суда на фоне решения Национального банка страны приостановить проведение платежей по счетам учреждения",
-                "pubDate": "Thu, 26 Nov 2026 00:20:11 +0300"
-            },
-            {
-                "title": "Военкомы ТЦК задержали и избили мужчину, не подлежавшего мобилизации на Украине",
-                "link": "https://www.mk.ru/politics/2026/11/26/voenkomy-tck-zaderzhali-i-izbili-muzhchinu-ne-podlezhavshego-mobilizacii-na-ukraine.html",
-                "description": "В украинской Виннице представители территориального цeнтра комплектования (ТЦК) напали на велосипедиста и насильно затолкали его в микроавтобус",
-                "pubDate": "Thu, 26 Nov 2026 00:12:59 +0300"
-            },
-            {
-                "title": "Какой сегодня праздник: 26 ноября 2026 года",
-                "link": "https://www.mk.ru/social/2026/11/26/kakoy-segodnya-prazdnik-26-noyabrya-2026-goda.html",
-                "description": "Последний ноябрьский вторник 2026 года — 26 ноября — это дата, которая словно соткана из контрастов: в ней соседствуют строгие церковные поминовения и шумные профессиональные праздники, трагические страницы войн и триумфы космических запусков.",
-                "pubDate": "Thu, 26 Nov 2026 00:00:01 +0300"
-            },
-            {
-                "title": "Скандальный шеф-повар станет новым ведущим легендарного Top Gear",
-                "link": "https://www.mk.ru/social/2026/11/25/skandalnyy-shef-povar-stanet-novym-vedushhim-legendarnogo-top-gear.html",
-                "description": "Британский шеф-повар и телеведущий Гордон Рамзи возглавит обновленную версию автомобильного шоу Top Gear",
-                "pubDate": "Wed, 25 Nov 2026 23:22:00 +0300"
-            },
-            {
-                "title": "В ЕС пожаловались на ограничения Израиля при поставках помощи в сектор Газа",
-                "link": "https://www.mk.ru/social/2026/11/25/v-es-pozhalovalis-na-ogranicheniya-izrailya-pri-postavkakh-pomoshhi-v-sektor-gaza.html",
-                "description": "Европейский союз не может в полном объеме доставлять гуманитарную помощь в сектор Газа из-за ограничений, введенных израильскими властями",
-                "pubDate": "Wed, 25 Nov 2026 22:56:57 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:49+00:00"
-    },
-    {
-        "source": "https://www.mk.ru/rss/sport/index.xml",
-        "title": "Все Спорт - Московский Комсомолец",
-        "items": [
-            {
-                "title": "Орловчанка завоевала серебро первенства мира по грэпплингу",
-                "link": "https://www.mk-orel.ru/sport/2026/11/25/orlovchanka-zavoevala-serebro-pervenstva-mira-po-grepplingu.html",
-                "description": "Спортсменка из Орловской области София Агошкова стала серебряным призером первенства мира по грэпплингу",
-                "pubDate": "Wed, 25 Nov 2026 23:00:18 +0300"
-            },
-            {
-                "title": "Дагестанец стал чемпионом мира по ММА",
-                "link": "https://mkala.mk.ru/sport/2026/11/25/dagestanec-stal-chempionom-mira-po-mma.html",
-                "description": "Дагестанский спортсмен Омар Гусайниев завоевал золотую медаль чемпионата мира по смешанным единоборствам (ММА)",
-                "pubDate": "Wed, 25 Nov 2026 22:34:58 +0300"
-            },
-            {
-                "title": "Удаление соперника помогло тульской АКМ вырвать победу у «Крыльев Советов»",
-                "link": "https://tula.mk.ru/sport/2026/11/25/udalenie-sopernika-pomoglo-tulskoy-akm-vyrvat-pobedu-u-krylev-sovetov.html",
-                "description": "Тульская «Академия Михайлова» обыграла московские «Крылья Советов» в домашнем матче 25 ноября",
-                "pubDate": "Wed, 25 Nov 2026 22:26:46 +0300"
-            },
-            {
-                "title": "«Динамо» Махачкала разгромило «Балтику»",
-                "link": "https://mkala.mk.ru/sport/2026/11/25/dinamo-makhachkala-razgromilo-baltiku.html",
-                "description": "Махачкалинское «Динамо» в заключительном (шестом) туре группового этапа Кубка России по футболу на своем поле разгромило «Балтику» из Калининграда",
-                "pubDate": "Wed, 25 Nov 2026 22:18:34 +0300"
-            },
-            {
-                "title": "Щукин поддержал идею присвоить спортшколе имя паралимпийца Мусы Таймазова",
-                "link": "https://mkala.mk.ru/sport/2026/11/25/shhukin-podderzhal-ideyu-prisvoit-sportshkole-imya-paralimpiyca-musy-taymazova.html",
-                "description": "На прямой линии главы Дагестана спортсмены-паралимпийцы предложили присвоить одной из спортивных школ республики имя Мусы Таймазова — чемпиона Паралимпийских игр и рекордсмена мира в метании булавы",
-                "pubDate": "Wed, 25 Nov 2026 22:10:22 +0300"
-            },
-            {
-                "title": "Двукратная чемпионка России по боксу Рукет Куштова провела тренировку для спортсменок республики",
-                "link": "https://karel.mk.ru/sport/2026/11/25/dvukratnaya-chempionka-rossii-po-boksu-ruket-kushtova-provela-trenirovku-dlya-sportsmenok-respubliki.html",
-                "description": "Рукет Куштова — двукратная чемпионка России по боксу, представившая Карелию на чемпионате России 2026 года, — провела тренировку для спортсменов республики",
-                "pubDate": "Wed, 25 Nov 2026 22:07:25 +0300"
-            },
-            {
-                "title": "В Элисте определят сильнейших юных теннисистов Калмыкии",
-                "link": "https://www.mk-kalm.ru/sport/2026/11/25/v-eliste-opredelyat-silneyshikh-yunykh-tennisistov-kalmykii.html",
-                "description": "С 26 по 27 ноября Элиста примет первенство Республики Калмыкия по настольному теннису.",
-                "pubDate": "Wed, 25 Nov 2026 21:40:06 +0300"
-            },
-            {
-                "title": "В Орле прошли чемпионат и первенство области по вольной борьбе",
-                "link": "https://www.mk-orel.ru/sport/2026/11/25/v-orle-proshli-chempionat-i-pervenstvo-oblasti-po-volnoy-borbe.html",
-                "description": "В спортивном центре «ГРИНН» состоялись чемпионат и первенство Орловской области по вольной борьбе",
-                "pubDate": "Wed, 25 Nov 2026 21:30:47 +0300"
-            },
-            {
-                "title": "Максим Зверев: &#34;Русскому бильярду не хватает тактической глубины&#34;",
-                "link": "https://www.mk.ru/sport/2026/11/25/maksim-zverev-russkomu-bilyardu-ne-khvataet-takticheskoy-glubiny.html",
-                "description": "Ноябрьский финал 4 этапа Лиги чемпионов по русскому бильярду завершился громкой сенсацией. Максим Зверев вырвал победу у Никиты Володина со счетом 10:9. Поединок получился максимально напряженным и равным. Исход встречи определило техническое нарушение: на финальном ударе Володин допустил ошибку, коснувшись шаров до их остановки, что по правилам засчитывается как фол. После победы Зверев в интервью «МК» рассказал о своих эмоциях от такого финала, рок-музыке и о том, каково играть против женщин.",
-                "pubDate": "Wed, 25 Nov 2026 21:26:55 +0300"
-            },
-            {
-                "title": "«Торпедо» побеждает дома «Сибирь»",
-                "link": "https://nn.mk.ru/sport/2026/11/25/torpedo-pobezhdaet-doma-sibir.html",
-                "description": "Хоккеисты «Торпедо» переиграли «Сибирь» на домашнем льду — 5:3",
-                "pubDate": "Wed, 25 Nov 2026 21:22:14 +0300"
-            }
-        ],
-        "updated": "2026-11-25T22:22:49+00:00"
+        "updated": "2026-11-26T03:38:08+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/football/se/",
         "title": "Спорт-Экспресс. Футбол",
         "items": [
             {
-                "title": "Главный тренер «Сабаха» Дамбраускас высоко оценил экс-игрока «Зенита» Ду Кейроса и назвал его главный козырь",
-                "link": "https://www.sport-express.ru/football/champions-league/news/glavnyy-trener-sabaha-dambrauskas-vysoko-ocenil-eks-igroka-zenita-du-keyrosa-i-nazval-ego-glavnyy-kozyr-2479035/",
-                "description": "Главный тренер «Сабаха» Валдас Дамбраускас после матча с «Барселоной» (1:4) в Лиге чемпионов высоко оценил выступающего у него экс-полузащитника «Зенита» и «Оренбурга» Ду Кейроса.",
-                "pubDate": "Thu, 26 Nov 2026 01:10:01 +0300"
+                "title": "Почеттино: «МЮ» показал, в какой футбол хочет играть»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/maurisio-pochettino-kommentariy-po-nichey-manchester-yunayted-s-sportingom-v-lige-chempionov-2479072/",
+                "description": "Главный тренер «Манчестер Юнайтед» Маурисио Почеттино прокомментировал ничью со «Спортингом» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 05:11:00 +0300"
             },
             {
-                "title": "«Реал» лидирует в турнирной таблице Лиги чемпионов после 5-го тура общего этапа",
-                "link": "https://www.sport-express.ru/football/champions-league/news/liga-chempionov-2026-27-turnirnaya-tablica-obschego-etapa-posle-5-tura-polozhenie-na-25-noyabrya-2026-goda-2479034/",
-                "description": "В среду, 25 ноября, были сыграны заключительные матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Thu, 26 Nov 2026 01:05:00 +0300"
+                "title": "Анчелотти — о матче с «Баварией»: «Это наша самая значимая победа»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/davide-anchelotti-kommentariy-po-pobede-lillya-nad-bavariey-v-lige-chempionov-2479063/",
+                "description": "Главный тренер «Лилля» Давиде Анчелотти прокомментировал победу над «Баварией» (2:1) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 04:31:00 +0300"
             },
             {
-                "title": "Лига чемпионов, результаты 24-25 ноября: «ПСЖ» и «Рома» сыграли вничью, «Барселона» разгромила «Сабах». Все матчи",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mliga-chempionov-raspisanie-i-rezultaty-5-go-tura-video-golov-galatasaray-aston-villa-arsenal-borussiya-d-real-psv-pszh-roma-vse-matchi-24-25-noyabrya-2478237/",
-                "description": "Матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:03 +0300"
+                "title": "Компани назвал причины поражения «Баварии» от «Лилля»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/kompani-nazval-prichiny-porazheniya-bavarii-ot-lillya-2479062/",
+                "description": "Главный тренер «Баварии» Венсан Компани прокомментировал поражение от «Лилля» (1:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 04:18:00 +0300"
             },
             {
-                "title": "Евсеев — о Батракове: «В «Интер», может, он не подойдет. А в «Барселону» подойдет»",
-                "link": "https://www.sport-express.ru/football/turkey/news/evseev-o-batrakove-v-inter-mozhet-on-ne-podoydet-a-v-barselonu-podoydet-2478853/",
-                "description": "Главный тренер махачкалинского «Динамо» Вадим Евсеев в интервью шоу «100% футбола» оценил игровые качества полузащитника «Галатасарая» Алексея Батракова на примере двух европейских топ-клубов.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:01 +0300"
+                "title": "Гасперини: «Сейчас «Роме» есть чем гордиться»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/dzhan-pero-gasperini-kommentariy-po-nichey-romy-s-pszh-v-lige-chempionov-2479059/",
+                "description": "Главный тренер «Ромы» Джан-Пьеро Гасперини прокомментировал ничью с «ПСЖ» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 04:05:00 +0300"
             },
             {
-                "title": "«Атлетико» победил «Викинг» в матче Лиги чемпионов",
-                "link": "https://www.sport-express.ru/football/champions-league/news/atletiko-viking-schet-i-rezultat-matcha-ligi-chempionov-25-noyabrya-2026-2479033/",
-                "description": "«Атлетико» обыграл «Викинг» в домашнем матче 5-го тура общего этапа Лиги чемпионов — 2:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:55:01 +0300"
+                "title": "Энрике: «Рома» — сильнейший соперник, с которым «ПСЖ» встречался в этом сезоне»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/luis-enrike-kommentariy-po-nichey-pszh-s-romoy-v-lige-chempionov-2479056/",
+                "description": "Главный тренер «ПСЖ» Луис Энрике после ничьей с «Ромой» (2:2) в 5-м туре общего этапа Лиги чемпионов похвалил римскую команду.",
+                "pubDate": "Thu, 26 Nov 2026 03:33:00 +0300"
             },
             {
-                "title": "Матч «Манчестер Юнайтед» и «Спортинга» завершился ничьей",
-                "link": "https://www.sport-express.ru/football/champions-league/news/sporting-manchester-yunayted-schet-i-rezultat-matcha-ligi-chempionov-25-noyabrya-2026-2479031/",
-                "description": "«Спортинг» и «Манчестер Юнайтед» сыграли вничью в матче 5-го тура общего этапа Лиги чемпионов — 2:2.",
-                "pubDate": "Thu, 26 Nov 2026 00:55:00 +0300"
+                "title": "Евсеев о знаменитой фразе после матча с Уэльсом: «Сказал, сказал — все»",
+                "link": "https://www.sport-express.ru/football/news/evseev-o-znamenitoy-fraze-posle-matcha-s-uelsom-skazal-skazal-vse-2478864/",
+                "description": "Главный тренер махачкалинского «Динамо» Вадим Евсеев в интервью шоу «100% футбола» отреагировал на просьбу вспомнить знаменитую фразу после стыкового матча сборных России и Уэльса в 2003 году.",
+                "pubDate": "Thu, 26 Nov 2026 03:30:00 +0300"
             },
             {
-                "title": "«Фенербахче» победил «Шахтер»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/shahter-fenerbahche-schet-0-1-rezultat-matcha-obschego-etapa-ligi-chempionov-25-noyabrya-2026-goda-2479032/",
-                "description": "«Фенербахче» выиграл у «Шахтера» в матче 5-го тура общего этапа Лиги чемпионов — 1:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:54:01 +0300"
+                "title": "Эрмосо — о ничьей с «ПСЖ»: «Это огромное достижение для «Ромы»",
+                "link": "https://www.sport-express.ru/football/champions-league/news/mario-ermoso-kommentariy-po-nichey-pszh-i-romy-v-lige-chempionov-2479055/",
+                "description": "Защитник «Ромы» Марио Эрмосо прокомментировал ничью с «ПСЖ» (2:2) в матче 5-го тура общего этапа Лиги чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 03:26:00 +0300"
             },
             {
-                "title": "«ПСЖ» и «Рома» сыграли вничью в Лиге чемпионов",
-                "link": "https://www.sport-express.ru/football/champions-league/news/pszh-roman-schet-i-rezultat-matcha-ligi-chempionov-25-noyabrya-2026-2479030/",
-                "description": "«ПСЖ» на своем поле сыграл вничью с «Ромой» в матче 5-го тура общего этапа Лиги чемпионов — 2:2.",
-                "pubDate": "Thu, 26 Nov 2026 00:54:00 +0300"
+                "title": "Мбаппе, Нуса, Гордон и Кучо претендуют на звание игрока недели в Лиге чемпионов",
+                "link": "https://www.sport-express.ru/football/champions-league/news/uefa-nazval-pretendentov-na-zvanie-luchshego-igroka-nedeli-v-lige-chempionov-2479053/",
+                "description": "Пресс-служба УЕФА опубликовала список претендентов на звание лучшего игрока недели в Лиге чемпионов.",
+                "pubDate": "Thu, 26 Nov 2026 03:02:00 +0300"
             },
             {
-                "title": "«Ливерпуль» на выезде разгромил «Брюгге»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/bryugge-liverpul-schet-0-3-rezultat-matcha-obschego-etapa-ligi-chempionov-25-noyabrya-2026-goda-2479022/",
-                "description": "«Ливерпуль» переиграл «Брюгге» в матче 5-го тура общего этапа Лиги чемпионов — 3:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:53:01 +0300"
+                "title": "Евсеев — о медиафутболе: «Уберите деньги, и что будет? Ничего»",
+                "link": "https://www.sport-express.ru/football/media-football-league/news/evseev-o-mediafutbole-uberite-dengi-i-chto-budet-nichego-2478863/",
+                "description": "Главный тренер махачкалинского «Динамо» Вадим Евсеев в интервью шоу «100% футбола» поделился мнением о медиафутболе и допустил, что мог бы выступать в нем после окончания профессиональной игровой карьеры.",
+                "pubDate": "Thu, 26 Nov 2026 03:00:00 +0300"
             },
             {
-                "title": "«Интер» победил «Штутгарт»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/inter-shtutgart-schet-2-0-rezultat-matcha-obschego-etapa-ligi-chempionov-25-noyabrya-2026-goda-2479026/",
-                "description": "«Интер» выиграл у «Штутгарта» в матче 5-го тура общего этапа Лиги чемпионов — 2:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:53:00 +0300"
+                "title": "«Шахтер» — «Фенербахче»: видеообзор матча Лиги чемпионов",
+                "link": "https://www.sport-express.ru/football/champions-league/news/shahter-fenerbahche-videoobzor-matcha-ligi-chempionov-i-luchshie-momenty-igry-25-noyabrya-2026-goda-2479052/",
+                "description": "«Фенербахче» переиграл «Шахтер» в матче 5-го тура общего этапа Лиги чемпионов — 1:0.",
+                "pubDate": "Thu, 26 Nov 2026 02:59:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:51+00:00"
+        "updated": "2026-11-26T03:39:57+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/formula1/se/",
@@ -1977,146 +1508,152 @@
                 "pubDate": "Tue, 24 Nov 2026 14:00:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:52+00:00"
+        "updated": "2026-11-26T03:39:58+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/hockey/se/",
         "title": "Спорт-Экспресс. Хоккей",
         "items": [
             {
-                "title": "«Вашингтон» — «Филадельфия»: во сколько начало матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/vashington-filadelfiya-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478714/",
-                "description": "«Вашингтон Кэпиталз» встретится с «Филадельфией Флайерз» в ночь на 26 ноября в матче регулярного чемпионата НХЛ.",
-                "pubDate": "Thu, 26 Nov 2026 01:15:00 +0300"
+                "title": "«Баффало» — «Рейнджерс»: видеообзор матча НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/baffalo-reyndzhers-videoobzor-matcha-nhl-i-luchshie-momenty-igry-26-noyabrya-2026-2479091/",
+                "description": "«Рейнджерс» проиграли «Баффало» в гостевом матче регулярного чемпионата НХЛ — 1:5.",
+                "pubDate": "Thu, 26 Nov 2026 06:31:00 +0300"
             },
             {
-                "title": "«Тампа-Бэй» — «Каролина»: время начала и трансляция матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/tampa-bey-karolina-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478713/",
-                "description": "«Тампа-Бэй» и «Каролина» сыграют в регулярном чемпионате НХЛ в ночь на 26 ноября по московскому времени.",
-                "pubDate": "Thu, 26 Nov 2026 01:10:00 +0300"
+                "title": "«Даллас» проиграл «Нэшвиллу»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/dallas-neshvill-schet-1-3-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479090/",
+                "description": "«Даллас» на своем льду проиграл «Нэшвиллу» в матче регулярного чемпионата НХЛ — 1:3.",
+                "pubDate": "Thu, 26 Nov 2026 06:30:00 +0300"
             },
             {
-                "title": "«Питтсбург» — «Калгари»: во сколько начало матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/pittsburg-kalgari-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478712/",
-                "description": "«Питтсбург» примет «Калгари» в регулярном чемпионате НХЛ в ночь на 26 ноября по московскому времени.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:00 +0300"
+                "title": "Овечкин установил новый антирекорд безголевой серии",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-vashingtona-aleksandr-ovechkin-ustanovil-novyy-antirekord-bezgolevoy-serii-v-matchah-nhl-2479088/",
+                "description": "Нападающий «Вашингтона» Александр Овечкин не забил в матче регулярного чемпионата НХЛ с «Филадельфией» (7:3). 41-летний россиянин не забил в 17-й игре подряд.",
+                "pubDate": "Thu, 26 Nov 2026 06:25:00 +0300"
             },
             {
-                "title": "Березкин: «Радулов — ключевой игрок, но «Локомотив» должен уметь побеждать и без него»",
-                "link": "https://www.sport-express.ru/hockey/khl/news/maksim-berezkin-kommentariy-po-pobede-lokomotiva-nad-ska-v-matche-khl-2479021/",
-                "description": "Нападающий «Локомотива» Максим Березкин в эксклюзивном интервью «СЭ» подвел итоги матча FONBET чемпионата КХЛ против СКА (3:2).",
-                "pubDate": "Thu, 26 Nov 2026 00:31:00 +0300"
+                "title": "«Бостон» — «Виннипег»: видеообзор матча НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/boston-vinnipeg-videoobzor-matcha-nhl-i-luchshie-momenty-igry-26-noyabrya-2026-2479087/",
+                "description": "«Бостон» проиграл «Виннипегу» в домашнем матче регулярного чемпионата НХЛ — 2:4.",
+                "pubDate": "Thu, 26 Nov 2026 06:20:00 +0300"
             },
             {
-                "title": "НХЛ, расписание 26 ноября: «Вашингтон» — «Филадельфия», «Тампа» — «Каролина». Все матчи",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-26-noyabrya-2026-vashington-filadelfiya-tampa-karolina-florida-ottava-2478800/",
-                "description": "Матчи регулярного чемпионата НХЛ.",
-                "pubDate": "Thu, 26 Nov 2026 00:00:03 +0300"
+                "title": "Симашев забил с передачи Бута в ворота «Миннесоты»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/minnesota-yuta-dmitriy-simashev-zabil-6-y-gol-v-sezone-nhl-video-shayby-26-noyabrya-2026-2479086/",
+                "description": "Российский защитник «Юты» Дмитрий Симашев забросил шайбу в ворота «Миннесоты» в гостевом матче регулярного чемпионата НХЛ.",
+                "pubDate": "Thu, 26 Nov 2026 06:15:00 +0300"
             },
             {
-                "title": "Макар вернется в состав «Колорадо» в матче с «Монреалем»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/zaschitnik-keyl-makar-vernetsya-v-sostav-kolorado-v-matche-nhl-s-monrealem-25-noyabrya-2026-2479006/",
-                "description": "Защитник «Колорадо» Кейл Макар сыграет против «Монреаля» в ночь на 26 ноября по московскому времени, сообщает официальный сайт НХЛ. Канадец пропустил три игры.",
-                "pubDate": "Wed, 25 Nov 2026 23:01:00 +0300"
+                "title": "«Детройт» переиграл «Ванкувер»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/detroyt-vankuver-schet-5-1-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479085/",
+                "description": "«Детройт» выиграл у «Ванкувера» в матче регулярного чемпионата НХЛ — 5:1.",
+                "pubDate": "Thu, 26 Nov 2026 06:12:00 +0300"
             },
             {
-                "title": "«Лос-Анджелес» вызвал российского защитника Кирсанова из АХЛ",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/los-andzheles-vyzval-rossiyskogo-zaschitnika-kirsanova-iz-ahl-2478993/",
-                "description": "«Лос-Анджелес» объявил о вызове защитника Кирилла Кирсанова из фарм-клуба «Онтарио Рейн», выступающего в АХЛ.",
-                "pubDate": "Wed, 25 Nov 2026 22:56:00 +0300"
+                "title": "Безголевая серия Овечкина достигла 17 матчей",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/bezgolevaya-seriya-napadayuschego-vashingtona-aleksandra-ovechkina-dostigla-17-matchey-2479084/",
+                "description": "Нападающий «Вашингтона» Александр Овечкин не отличился в матче регулярного чемпионата НХЛ с «Филадельфией» (7:3).",
+                "pubDate": "Thu, 26 Nov 2026 06:10:01 +0300"
             },
             {
-                "title": "Малкин возвращается в состав «Питтсбурга» после травмы. Чинахов пропустит матч с «Калгари»",
-                "link": "https://www.sport-express.ru/hockey/nhl/news/evgeniy-malkin-vozvraschaetsya-v-sostav-pittsburga-posle-travmy-egor-chinahov-propustit-match-nhl-s-kalgari-2478997/",
-                "description": "Евгений готов сыграть после двух пропущенных встреч. У Егора обнаружили повреждение после пропуска тренировки.",
-                "pubDate": "Wed, 25 Nov 2026 22:55:00 +0300"
+                "title": "«Айлендерс» по буллитам победили «Сент-Луис»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/aylenders-sent-luis-schet-3-2-b-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479082/",
+                "description": "«Айлендерс» переиграли «Сент-Луис» в матче регулярного чемпионата НХЛ — 3:2 Б.",
+                "pubDate": "Thu, 26 Nov 2026 05:58:00 +0300"
             },
             {
-                "title": "КХЛ, результаты и видео голов 25 ноября: СКА уступил «Локомотиву», «Торпедо» победило «Сибирь». Все матчи",
-                "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-25-noyabrya-2026-ska-lokomotiv-torpedo-sibir-barys-severstal-2478720/",
-                "description": "Матчи ФОНБЕТ чемпионата КХЛ.",
-                "pubDate": "Wed, 25 Nov 2026 21:45:01 +0300"
+                "title": "«Флорида» обыграла «Оттаву»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/florida-ottava-schet-5-3-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479081/",
+                "description": "«Флорида» выиграла у «Оттавы» в матче регулярного чемпионата НХЛ — 5:3.",
+                "pubDate": "Thu, 26 Nov 2026 05:56:00 +0300"
             },
             {
-                "title": "«Локомотив» на выезде обыграл СКА",
-                "link": "https://www.sport-express.ru/hockey/khl/news/ska-lokomotiv-schet-i-rezultat-matcha-khl-25-noyabrya-2026-2478979/",
-                "description": "«Локомотив» победил СКА в гостевом матче FONBET Чемпионата КХЛ — 3:2.",
-                "pubDate": "Wed, 25 Nov 2026 21:42:00 +0300"
+                "title": "«Нью-Джерси» обыграл «Коламбус», победный буллит на счету Грицюка",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/kolambus-nyu-dzhersi-schet-2-3-b-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479080/",
+                "description": "«Нью-Джерси» выиграл у «Коламбуса» в матче регулярного чемпионата НХЛ — 3:2 Б.",
+                "pubDate": "Thu, 26 Nov 2026 05:53:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:54+00:00"
+        "updated": "2026-11-26T03:40:00+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/news/se/",
         "title": "Спорт-Экспресс. Все новости",
         "items": [
             {
-                "title": "«Вашингтон» — «Филадельфия»: во сколько начало матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/vashington-filadelfiya-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478714/",
-                "description": "«Вашингтон Кэпиталз» встретится с «Филадельфией Флайерз» в ночь на 26 ноября в матче регулярного чемпионата НХЛ.",
-                "pubDate": "Thu, 26 Nov 2026 01:15:00 +0300"
+                "title": "«Бруклин» обыграл «Милуоки», Дёмин набрал 15 очков",
+                "link": "https://www.sport-express.ru/basketball/nba/news/miluoki-bruklin-schet-97-104-rezultat-matcha-kubka-nba-26-noyabrya-2026-goda-2479092/",
+                "description": "«Бруклин» выиграл у «Милуоки» в матче Кубка НБА — 104:97.",
+                "pubDate": "Thu, 26 Nov 2026 06:32:00 +0300"
             },
             {
-                "title": "Главный тренер «Сабаха» Дамбраускас высоко оценил экс-игрока «Зенита» Ду Кейроса и назвал его главный козырь",
-                "link": "https://www.sport-express.ru/football/champions-league/news/glavnyy-trener-sabaha-dambrauskas-vysoko-ocenil-eks-igroka-zenita-du-keyrosa-i-nazval-ego-glavnyy-kozyr-2479035/",
-                "description": "Главный тренер «Сабаха» Валдас Дамбраускас после матча с «Барселоной» (1:4) в Лиге чемпионов высоко оценил выступающего у него экс-полузащитника «Зенита» и «Оренбурга» Ду Кейроса.",
-                "pubDate": "Thu, 26 Nov 2026 01:10:01 +0300"
+                "title": "«Баффало» — «Рейнджерс»: видеообзор матча НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/baffalo-reyndzhers-videoobzor-matcha-nhl-i-luchshie-momenty-igry-26-noyabrya-2026-2479091/",
+                "description": "«Рейнджерс» проиграли «Баффало» в гостевом матче регулярного чемпионата НХЛ — 1:5.",
+                "pubDate": "Thu, 26 Nov 2026 06:31:00 +0300"
             },
             {
-                "title": "«Тампа-Бэй» — «Каролина»: время начала и трансляция матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/tampa-bey-karolina-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478713/",
-                "description": "«Тампа-Бэй» и «Каролина» сыграют в регулярном чемпионате НХЛ в ночь на 26 ноября по московскому времени.",
-                "pubDate": "Thu, 26 Nov 2026 01:10:00 +0300"
+                "title": "«Даллас» проиграл «Нэшвиллу»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/dallas-neshvill-schet-1-3-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479090/",
+                "description": "«Даллас» на своем льду проиграл «Нэшвиллу» в матче регулярного чемпионата НХЛ — 1:3.",
+                "pubDate": "Thu, 26 Nov 2026 06:30:00 +0300"
             },
             {
-                "title": "«Реал» лидирует в турнирной таблице Лиги чемпионов после 5-го тура общего этапа",
-                "link": "https://www.sport-express.ru/football/champions-league/news/liga-chempionov-2026-27-turnirnaya-tablica-obschego-etapa-posle-5-tura-polozhenie-na-25-noyabrya-2026-goda-2479034/",
-                "description": "В среду, 25 ноября, были сыграны заключительные матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Thu, 26 Nov 2026 01:05:00 +0300"
+                "title": "Овечкин установил новый антирекорд безголевой серии",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-vashingtona-aleksandr-ovechkin-ustanovil-novyy-antirekord-bezgolevoy-serii-v-matchah-nhl-2479088/",
+                "description": "Нападающий «Вашингтона» Александр Овечкин не забил в матче регулярного чемпионата НХЛ с «Филадельфией» (7:3). 41-летний россиянин не забил в 17-й игре подряд.",
+                "pubDate": "Thu, 26 Nov 2026 06:25:00 +0300"
             },
             {
-                "title": "Лига чемпионов, результаты 24-25 ноября: «ПСЖ» и «Рома» сыграли вничью, «Барселона» разгромила «Сабах». Все матчи",
-                "link": "https://www.sport-express.ru/football/champions-league/news/mliga-chempionov-raspisanie-i-rezultaty-5-go-tura-video-golov-galatasaray-aston-villa-arsenal-borussiya-d-real-psv-pszh-roma-vse-matchi-24-25-noyabrya-2478237/",
-                "description": "Матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:03 +0300"
+                "title": "«Нью-Йорк» обыграл «Кливленд» в Кубке НБА",
+                "link": "https://www.sport-express.ru/basketball/nba/news/nyu-york-klivlend-schet-121-102-rezultat-matcha-kubka-nba-26-noyabrya-2026-goda-2479089/",
+                "description": "«Нью-Йорк» выиграл у «Кливленда» в матче Кубка НБА — 121:102.",
+                "pubDate": "Thu, 26 Nov 2026 06:23:00 +0300"
             },
             {
-                "title": "Евсеев — о Батракове: «В «Интер», может, он не подойдет. А в «Барселону» подойдет»",
-                "link": "https://www.sport-express.ru/football/turkey/news/evseev-o-batrakove-v-inter-mozhet-on-ne-podoydet-a-v-barselonu-podoydet-2478853/",
-                "description": "Главный тренер махачкалинского «Динамо» Вадим Евсеев в интервью шоу «100% футбола» оценил игровые качества полузащитника «Галатасарая» Алексея Батракова на примере двух европейских топ-клубов.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:01 +0300"
+                "title": "«Бостон» — «Виннипег»: видеообзор матча НХЛ",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/boston-vinnipeg-videoobzor-matcha-nhl-i-luchshie-momenty-igry-26-noyabrya-2026-2479087/",
+                "description": "«Бостон» проиграл «Виннипегу» в домашнем матче регулярного чемпионата НХЛ — 2:4.",
+                "pubDate": "Thu, 26 Nov 2026 06:20:00 +0300"
             },
             {
-                "title": "«Питтсбург» — «Калгари»: во сколько начало матча НХЛ",
-                "link": "https://www.sport-express.ru/hockey/news/pittsburg-kalgari-vo-skolko-nachalo-matcha-nhl-gde-smotret-translyaciyu-26-noyabrya-2026-2478712/",
-                "description": "«Питтсбург» примет «Калгари» в регулярном чемпионате НХЛ в ночь на 26 ноября по московскому времени.",
-                "pubDate": "Thu, 26 Nov 2026 01:00:00 +0300"
+                "title": "Симашев забил с передачи Бута в ворота «Миннесоты»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/minnesota-yuta-dmitriy-simashev-zabil-6-y-gol-v-sezone-nhl-video-shayby-26-noyabrya-2026-2479086/",
+                "description": "Российский защитник «Юты» Дмитрий Симашев забросил шайбу в ворота «Миннесоты» в гостевом матче регулярного чемпионата НХЛ.",
+                "pubDate": "Thu, 26 Nov 2026 06:15:00 +0300"
             },
             {
-                "title": "«Атлетико» победил «Викинг» в матче Лиги чемпионов",
-                "link": "https://www.sport-express.ru/football/champions-league/news/atletiko-viking-schet-i-rezultat-matcha-ligi-chempionov-25-noyabrya-2026-2479033/",
-                "description": "«Атлетико» обыграл «Викинг» в домашнем матче 5-го тура общего этапа Лиги чемпионов — 2:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:55:01 +0300"
+                "title": "«Детройт» переиграл «Ванкувер»",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/detroyt-vankuver-schet-5-1-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479085/",
+                "description": "«Детройт» выиграл у «Ванкувера» в матче регулярного чемпионата НХЛ — 5:1.",
+                "pubDate": "Thu, 26 Nov 2026 06:12:00 +0300"
             },
             {
-                "title": "Матч «Манчестер Юнайтед» и «Спортинга» завершился ничьей",
-                "link": "https://www.sport-express.ru/football/champions-league/news/sporting-manchester-yunayted-schet-i-rezultat-matcha-ligi-chempionov-25-noyabrya-2026-2479031/",
-                "description": "«Спортинг» и «Манчестер Юнайтед» сыграли вничью в матче 5-го тура общего этапа Лиги чемпионов — 2:2.",
-                "pubDate": "Thu, 26 Nov 2026 00:55:00 +0300"
+                "title": "Безголевая серия Овечкина достигла 17 матчей",
+                "link": "https://www.sport-express.ru/hockey/nhl/news/bezgolevaya-seriya-napadayuschego-vashingtona-aleksandra-ovechkina-dostigla-17-matchey-2479084/",
+                "description": "Нападающий «Вашингтона» Александр Овечкин не отличился в матче регулярного чемпионата НХЛ с «Филадельфией» (7:3).",
+                "pubDate": "Thu, 26 Nov 2026 06:10:01 +0300"
             },
             {
-                "title": "«Фенербахче» победил «Шахтер»",
-                "link": "https://www.sport-express.ru/football/champions-league/news/shahter-fenerbahche-schet-0-1-rezultat-matcha-obschego-etapa-ligi-chempionov-25-noyabrya-2026-goda-2479032/",
-                "description": "«Фенербахче» выиграл у «Шахтера» в матче 5-го тура общего этапа Лиги чемпионов — 1:0.",
-                "pubDate": "Thu, 26 Nov 2026 00:54:01 +0300"
+                "title": "Кубок России по лыжным гонкам: где смотреть женскую гонку на 10 км классическим стилем 26 ноября",
+                "link": "https://www.sport-express.ru/skiing/news/kubok-rossii-po-lyzhnym-gonkam-sezona-2026-27-gde-smotret-translyaciyu-zhenskoy-gonki-na-10-km-klassicheskim-stilem-26-noyabrya-2026-2479024/",
+                "description": "Соревнования пройдут в поселке Вершина Теи (Республика Хакасия).",
+                "pubDate": "Thu, 26 Nov 2026 06:00:02 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:55+00:00"
+        "updated": "2026-11-26T03:40:06+00:00"
     },
     {
         "source": "https://www.sport-express.ru/services/materials/press/yandex-zen_zozh/",
         "title": "Спорт-Экспресс - ПУБЛИКАЦИИ",
         "items": [
+            {
+                "title": "Бег, карта и компас: как устроено спортивное ориентирование и с чего начать",
+                "link": "https://www.sport-express.ru/trops/disciplines/reviews/sportivnoe-orientirovanie-pravila-karta-i-kompas-kak-nachat-trenirovatsya-i-uchastvovat-v-sorevnovaniyah-2478356/",
+                "description": "Здесь мало быть быстрым: нужно читать рельеф, искать контрольные пункты и выбирать маршрут.",
+                "pubDate": "Thu, 26 Nov 2026 06:00:00 +0300"
+            },
             {
                 "title": "Маски слетают: каким получился старт 2-го сезона сериала «Как приручить лису»",
                 "link": "https://www.sport-express.ru/zozh/movies/serials/reviews/kak-priruchit-lisu-2-sezon-obzor-starta-i-stoit-li-smotret-recenziya-na-pervye-serii-2478965/",
@@ -2170,14 +1707,8 @@
                 "link": "https://www.sport-express.ru/trops/equip/reviews/kak-vybrat-palki-dlya-treylranninga-dlina-material-karbon-ili-alyuminiy-2478087/",
                 "description": "Складные или фиксированные, легкие или прочные? Разбираемся, как подобрать палки под свой рост.",
                 "pubDate": "Tue, 24 Nov 2026 19:00:00 +0300"
-            },
-            {
-                "title": "Инструктор пилатеса назвала упражнение для мышц корпуса без скручиваний",
-                "link": "https://www.sport-express.ru/trops/training/news/instruktor-pilatesa-nazvala-uprazhnenie-dlya-myshc-korpusa-bez-skruchivaniy-2478149/",
-                "description": "Движение выполняют лежа на спине, поочередно опуская стопы к полу.",
-                "pubDate": "Tue, 24 Nov 2026 17:00:00 +0300"
             }
         ],
-        "updated": "2026-11-25T22:22:57+00:00"
+        "updated": "2026-11-26T03:40:07+00:00"
     }
 ]
