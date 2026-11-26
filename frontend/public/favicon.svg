@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ReadeRSS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#001810"/>
+      <stop offset="1" stop-color="#005335"/>
+    </linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCEDE5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- фон-скруглённый квадрат -->
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+
+  <!-- обложка: выступает из-под страниц тёмно-зелёной рамкой -->
+  <path d="M32 16C25 12.5 15 12.5 7 15v35c8-2.5 18-2.5 25 4 7-6.5 17-6.5 25-4V15c-8-2.5-18-2.5-25 1Z" fill="#0A8A5B"/>
+
+  <!-- развороты -->
+  <path d="M31 19.5C24.5 16.5 16 16.5 9.5 18.5V47c6.5-2 15-1.7 21.5 1.3Z" fill="url(#page)"/>
+  <path d="M33 19.5c6.5-3 15-3 21.5-1V47c-6.5-2-15-1.7-21.5 1.3Z" fill="url(#page)"/>
+
+  <!-- корешок -->
+  <rect x="30.8" y="15.5" width="2.4" height="36" rx="1.2" fill="#08F19C"/>
+
+  <!-- RRSS: по две буквы на каждый разворот -->
+  <g font-family="system-ui, 'Segoe UI', Roboto, sans-serif" font-weight="700"
+     font-size="12.5" letter-spacing="-0.6" fill="#005335" text-anchor="middle">
+    <text x="20" y="37">RR</text>
+    <text x="44" y="37">SS</text>
+  </g>
+</svg>
